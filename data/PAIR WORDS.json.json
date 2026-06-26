@@ -1,0 +1,7387 @@
+[
+  {
+    "word": "möglich",
+    "meaning": "possible",
+    "phrase": "Möglichkeit",
+    "phraseMeaning": "possibility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "freundlich",
+    "meaning": "friendly",
+    "phrase": "Freundlichkeit",
+    "phraseMeaning": "friendliness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ehrlich",
+    "meaning": "honest",
+    "phrase": "Ehrlichkeit",
+    "phraseMeaning": "honesty",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wichtig",
+    "meaning": "important",
+    "phrase": "Wichtigkeit",
+    "phraseMeaning": "importance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "natürlich",
+    "meaning": "natural",
+    "phrase": "Natürlichkeit",
+    "phraseMeaning": "naturalness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "deutlich",
+    "meaning": "clear",
+    "phrase": "Deutlichkeit",
+    "phraseMeaning": "clarity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gefährlich",
+    "meaning": "dangerous",
+    "phrase": "Gefährlichkeit",
+    "phraseMeaning": "dangerousness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "menschlich",
+    "meaning": "human",
+    "phrase": "Menschlichkeit",
+    "phraseMeaning": "humanity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "weiblich",
+    "meaning": "feminine",
+    "phrase": "Weiblichkeit",
+    "phraseMeaning": "femininity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "männlich",
+    "meaning": "masculine",
+    "phrase": "Männlichkeit",
+    "phraseMeaning": "masculinity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "künstlich",
+    "meaning": "artificial",
+    "phrase": "Künstlichkeit",
+    "phraseMeaning": "artificiality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fröhlich",
+    "meaning": "cheerful",
+    "phrase": "Fröhlichkeit",
+    "phraseMeaning": "cheerfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wesentlich",
+    "meaning": "essential",
+    "phrase": "Wesentlichkeit",
+    "phraseMeaning": "essential nature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verständlich",
+    "meaning": "understandable",
+    "phrase": "Verständlichkeit",
+    "phraseMeaning": "understandability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verlässlich",
+    "meaning": "reliable",
+    "phrase": "Verlässlichkeit",
+    "phraseMeaning": "reliability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "staatlich",
+    "meaning": "governmental",
+    "phrase": "Staatlichkeit",
+    "phraseMeaning": "statehood",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "öffentlich",
+    "meaning": "public",
+    "phrase": "Öffentlichkeit",
+    "phraseMeaning": "public sphere",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "regelmäßig",
+    "meaning": "regular",
+    "phrase": "Regelmäßigkeit",
+    "phraseMeaning": "regularity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vollständig",
+    "meaning": "complete",
+    "phrase": "Vollständigkeit",
+    "phraseMeaning": "completeness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erfreulich",
+    "meaning": "pleasing",
+    "phrase": "Erfreulichkeit",
+    "phraseMeaning": "pleasantness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verantwortlich",
+    "meaning": "responsible",
+    "phrase": "Verantwortlichkeit",
+    "phraseMeaning": "accountability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wirtschaftlich",
+    "meaning": "economical",
+    "phrase": "Wirtschaftlichkeit",
+    "phraseMeaning": "economic efficiency",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wissenschaftlich",
+    "meaning": "scientific",
+    "phrase": "Wissenschaftlichkeit",
+    "phraseMeaning": "scientific quality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "persönlich",
+    "meaning": "personal",
+    "phrase": "Persönlichkeit",
+    "phraseMeaning": "personality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gewöhnlich",
+    "meaning": "ordinary",
+    "phrase": "Gewöhnlichkeit",
+    "phraseMeaning": "ordinariness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kindlich",
+    "meaning": "childlike",
+    "phrase": "Kindlichkeit",
+    "phraseMeaning": "childlikeness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "friedlich",
+    "meaning": "peaceful",
+    "phrase": "Friedlichkeit",
+    "phraseMeaning": "peacefulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sportlich",
+    "meaning": "sporty",
+    "phrase": "Sportlichkeit",
+    "phraseMeaning": "sportiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "brutalistisch",
+    "meaning": "brutalist (style)",
+    "phrase": "Brutalistik",
+    "phraseMeaning": "brutalism",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "jährlich",
+    "meaning": "yearly",
+    "phrase": "Jährlichkeit",
+    "phraseMeaning": "annual character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "monatlich",
+    "meaning": "monthly",
+    "phrase": "Monatlichkeit",
+    "phraseMeaning": "monthly character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "tägiglich",
+    "meaning": "daily",
+    "phrase": "Täglichkeit",
+    "phraseMeaning": "dailiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ärztlich",
+    "meaning": "medical",
+    "phrase": "Ärztlichkeit",
+    "phraseMeaning": "doctor’s professional conduct",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "rechtmäßig",
+    "meaning": "lawful",
+    "phrase": "Rechtmäßigkeit",
+    "phraseMeaning": "lawfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "planmäßig",
+    "meaning": "planned",
+    "phrase": "Planmäßigkeit",
+    "phraseMeaning": "systematic nature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unendlich",
+    "meaning": "infinite",
+    "phrase": "Unendlichkeit",
+    "phraseMeaning": "infinity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unmöglich",
+    "meaning": "impossible",
+    "phrase": "Unmöglichkeit",
+    "phraseMeaning": "impossibility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unwahrscheinlich",
+    "meaning": "improbable",
+    "phrase": "Unwahrscheinlichkeit",
+    "phraseMeaning": "improbability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unfreundlich",
+    "meaning": "unfriendly",
+    "phrase": "Unfreundlichkeit",
+    "phraseMeaning": "unfriendliness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unerlässlich",
+    "meaning": "indispensable",
+    "phrase": "Unerlässlichkeit",
+    "phraseMeaning": "indispensability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unverständlich",
+    "meaning": "incomprehensible",
+    "phrase": "Unverständlichkeit",
+    "phraseMeaning": "incomprehensibility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unglaublich",
+    "meaning": "unbelievable",
+    "phrase": "Unglaublichkeit",
+    "phraseMeaning": "incredibility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unpersönlich",
+    "meaning": "impersonal",
+    "phrase": "Unpersönlichkeit",
+    "phraseMeaning": "impersonality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ungesundlich",
+    "meaning": "unhealthy",
+    "phrase": "Ungesundlichkeit",
+    "phraseMeaning": "unhealthiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unwirksam",
+    "meaning": "ineffective",
+    "phrase": "Unwirksamkeit",
+    "phraseMeaning": "ineffectiveness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unnatürlich",
+    "meaning": "unnatural",
+    "phrase": "Unnatürlichkeit",
+    "phraseMeaning": "unnaturalness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unausweichlich",
+    "meaning": "unavoidable",
+    "phrase": "Unausweichlichkeit",
+    "phraseMeaning": "inevitability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unberechenlich",
+    "meaning": "unpredictable",
+    "phrase": "Unberechenlichkeit",
+    "phraseMeaning": "unpredictability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entwickelbarlich",
+    "meaning": "developable",
+    "phrase": "Entwickelbarkeit",
+    "phraseMeaning": "developability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schriftlich",
+    "meaning": "written",
+    "phrase": "Schriftlichkeit",
+    "phraseMeaning": "written form",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mündlich",
+    "meaning": "oral",
+    "phrase": "Mündlichkeit",
+    "phraseMeaning": "orality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "praktisch",
+    "meaning": "practical",
+    "phrase": "Praktikabilität",
+    "phraseMeaning": "practicality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sprachlich",
+    "meaning": "linguistic",
+    "phrase": "Sprachlichkeit",
+    "phraseMeaning": "linguistic character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schriftsprachlich",
+    "meaning": "literary-language based",
+    "phrase": "Schriftsprachlichkeit",
+    "phraseMeaning": "nature of written language",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "öffentlich-rechtlich",
+    "meaning": "public-law based",
+    "phrase": "Öffentlich-Rechtlichkeit",
+    "phraseMeaning": "public-law nature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kirchlich",
+    "meaning": "ecclesiastical",
+    "phrase": "Kirchlichkeit",
+    "phraseMeaning": "religious affiliation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "christlich",
+    "meaning": "Christian",
+    "phrase": "Christlichkeit",
+    "phraseMeaning": "Christian character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geistlich",
+    "meaning": "spiritual",
+    "phrase": "Geistlichkeit",
+    "phraseMeaning": "spirituality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "weltlich",
+    "meaning": "secular",
+    "phrase": "Weltlichkeit",
+    "phraseMeaning": "worldliness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "höflich",
+    "meaning": "polite",
+    "phrase": "Höflichkeit",
+    "phraseMeaning": "politeness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kindlich",
+    "meaning": "childish",
+    "phrase": "Kindlichkeit",
+    "phraseMeaning": "childishness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lächerlich",
+    "meaning": "ridiculous",
+    "phrase": "Lächerlichkeit",
+    "phraseMeaning": "ridiculousness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "peinlich",
+    "meaning": "embarrassing",
+    "phrase": "Peinlichkeit",
+    "phraseMeaning": "embarrassment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ehrwürdig",
+    "meaning": "venerable (not lich)",
+    "phrase": "Ehrwürdigkeit",
+    "phraseMeaning": "venerability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gewissenhaftlich",
+    "meaning": "conscientious",
+    "phrase": "Gewissenhaftigkeit",
+    "phraseMeaning": "conscientiousness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "selbstverständlich",
+    "meaning": "obvious",
+    "phrase": "Selbstverständlichkeit",
+    "phraseMeaning": "obviousness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "merkwürdiglich",
+    "meaning": "peculiar",
+    "phrase": "Merkwürdigkeit",
+    "phraseMeaning": "peculiarity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "leidlich",
+    "meaning": "tolerable",
+    "phrase": "Leidlichkeit",
+    "phraseMeaning": "tolerability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "möglichstlich",
+    "meaning": "as possible",
+    "phrase": "Möglichstlichkeit",
+    "phraseMeaning": "feasibility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "herzlich",
+    "meaning": "heartfelt",
+    "phrase": "Herzlichkeit",
+    "phraseMeaning": "warmth",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lieblich",
+    "meaning": "lovely",
+    "phrase": "Lieblichkeit",
+    "phraseMeaning": "loveliness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sorgfältig",
+    "meaning": "careful",
+    "phrase": "Sorgfältigkeit",
+    "phraseMeaning": "carefulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "furchtbarlich",
+    "meaning": "dreadful",
+    "phrase": "Furchtbarkeit",
+    "phraseMeaning": "dreadfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schrecklich",
+    "meaning": "terrible",
+    "phrase": "Schrecklichkeit",
+    "phraseMeaning": "terribleness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "glücklich",
+    "meaning": "happy",
+    "phrase": "Glücklichkeit",
+    "phraseMeaning": "happiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "traulich",
+    "meaning": "intimate",
+    "phrase": "Traulichkeit",
+    "phraseMeaning": "intimacy",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "häuslich",
+    "meaning": "domestic",
+    "phrase": "Häuslichkeit",
+    "phraseMeaning": "domesticity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "brüderlich",
+    "meaning": "brotherly",
+    "phrase": "Brüderlichkeit",
+    "phraseMeaning": "brotherhood",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schwesterlich",
+    "meaning": "sisterly",
+    "phrase": "Schwesterlichkeit",
+    "phraseMeaning": "sisterhood",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "folgerichtlich",
+    "meaning": "logical",
+    "phrase": "Folgerichtigkeit",
+    "phraseMeaning": "logicalness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gleichgültig",
+    "meaning": "indifferent",
+    "phrase": "Gleichgültigkeit",
+    "phraseMeaning": "indifference",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "üblich",
+    "meaning": "usual",
+    "phrase": "Üblichkeit",
+    "phraseMeaning": "usualness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ehrfürchtig",
+    "meaning": "reverent",
+    "phrase": "Ehrfurchtigkeit",
+    "phraseMeaning": "reverence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "großzügiglich",
+    "meaning": "generous",
+    "phrase": "Großzügigkeit",
+    "phraseMeaning": "generosity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sparsamlich",
+    "meaning": "economical",
+    "phrase": "Sparsamkeit",
+    "phraseMeaning": "thriftiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitleidig",
+    "meaning": "compassionate",
+    "phrase": "Mitleidigkeit",
+    "phraseMeaning": "compassion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "trostloslich",
+    "meaning": "desolate",
+    "phrase": "Trostlosigkeit",
+    "phraseMeaning": "desolation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vergeblich",
+    "meaning": "futile",
+    "phrase": "Vergeblichkeit",
+    "phraseMeaning": "futility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sachlich",
+    "meaning": "factual",
+    "phrase": "Sachlichkeit",
+    "phraseMeaning": "objectivity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nützlich",
+    "meaning": "useful",
+    "phrase": "Nützlichkeit",
+    "phraseMeaning": "usefulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schädlich",
+    "meaning": "harmful",
+    "phrase": "Schädlichkeit",
+    "phraseMeaning": "harmfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "selbständig",
+    "meaning": "independent",
+    "phrase": "Selbständigkeit",
+    "phraseMeaning": "independence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abhängig",
+    "meaning": "dependent",
+    "phrase": "Abhängigkeit",
+    "phraseMeaning": "dependence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "notwendig",
+    "meaning": "necessary",
+    "phrase": "Notwendigkeit",
+    "phraseMeaning": "necessity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fremdlich",
+    "meaning": "foreign-like",
+    "phrase": "Fremdlichkeit",
+    "phraseMeaning": "unfamiliarity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "heimlich",
+    "meaning": "secret",
+    "phrase": "Heimlichkeit",
+    "phraseMeaning": "secrecy",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schwierig",
+    "meaning": "difficult",
+    "phrase": "Schwierigkeit",
+    "phraseMeaning": "difficulty",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "billiglich",
+    "meaning": "rightful",
+    "phrase": "Billigkeit",
+    "phraseMeaning": "fairness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "tödlich",
+    "meaning": "deadly",
+    "phrase": "Tödlichkeit",
+    "phraseMeaning": "lethality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geistreichlich",
+    "meaning": "witty",
+    "phrase": "Geistreichigkeit",
+    "phraseMeaning": "wittiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "selig",
+    "meaning": "blissful (not lich)",
+    "phrase": "Seligkeit",
+    "phraseMeaning": "bliss",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "landwirtschaftlich",
+    "meaning": "agricultural",
+    "phrase": "Landwirtschaftlichkeit",
+    "phraseMeaning": "agricultural nature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wirtschaftspolitisch",
+    "meaning": "economic-policy",
+    "phrase": "Wirtschaftspolitik",
+    "phraseMeaning": "economic policy",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geschichtlich",
+    "meaning": "historical",
+    "phrase": "Geschichtlichkeit",
+    "phraseMeaning": "historicity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ordnungsgemäß",
+    "meaning": "orderly",
+    "phrase": "Ordnungsgemäßigkeit",
+    "phraseMeaning": "regularity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unmenschlich",
+    "meaning": "inhumane",
+    "phrase": "Unmenschlichkeit",
+    "phraseMeaning": "inhumanity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ärgerlich",
+    "meaning": "annoying",
+    "phrase": "Ärgerlichkeit",
+    "phraseMeaning": "annoyance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vergnüglich",
+    "meaning": "enjoyable",
+    "phrase": "Vergnüglichkeit",
+    "phraseMeaning": "enjoyment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durstiglich",
+    "meaning": "thirsty-like (rare)",
+    "phrase": "Durstigkeit",
+    "phraseMeaning": "thirstiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durcheinanderlich",
+    "meaning": "confused-like",
+    "phrase": "Durcheinanderigkeit",
+    "phraseMeaning": "confusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sauberlich",
+    "meaning": "neat",
+    "phrase": "Sauberkeit",
+    "phraseMeaning": "cleanliness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wunderlich",
+    "meaning": "odd",
+    "phrase": "Wunderlichkeit",
+    "phraseMeaning": "oddness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sicherlich",
+    "meaning": "surely",
+    "phrase": "Sicherheitlichkeit (rare)",
+    "phraseMeaning": "certainty",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geläufiglich",
+    "meaning": "common",
+    "phrase": "Geläufigkeit",
+    "phraseMeaning": "commonness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wanderlich",
+    "meaning": "wandering",
+    "phrase": "Wanderlichkeit",
+    "phraseMeaning": "wander-likeness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entzücklich",
+    "meaning": "delightful",
+    "phrase": "Entzücklichkeit",
+    "phraseMeaning": "delightfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "liebenswürdiglich",
+    "meaning": "amiable",
+    "phrase": "Liebenswürdigkeit",
+    "phraseMeaning": "amiability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "störlich",
+    "meaning": "disturbing-like",
+    "phrase": "Störlichkeit",
+    "phraseMeaning": "disruptiveness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geringfüglich",
+    "meaning": "insignificant",
+    "phrase": "Geringfügigkeit",
+    "phraseMeaning": "insignificance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fraglich",
+    "meaning": "questionable",
+    "phrase": "Fraglichkeit",
+    "phraseMeaning": "questionable nature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zweifelhaftlich",
+    "meaning": "doubtful",
+    "phrase": "Zweifelhaftigkeit",
+    "phraseMeaning": "doubtfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "endgültig",
+    "meaning": "final",
+    "phrase": "Endgültigkeit",
+    "phraseMeaning": "finality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verfüglich",
+    "meaning": "available",
+    "phrase": "Verfügbarkeit",
+    "phraseMeaning": "availability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erreichlich",
+    "meaning": "reachable",
+    "phrase": "Erreichbarkeit",
+    "phraseMeaning": "reachability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beweglich",
+    "meaning": "movable",
+    "phrase": "Beweglichkeit",
+    "phraseMeaning": "mobility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "festlich",
+    "meaning": "festive",
+    "phrase": "Festlichkeit",
+    "phraseMeaning": "festivity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "jugendlich",
+    "meaning": "youthful",
+    "phrase": "Jugendlichkeit",
+    "phraseMeaning": "youthfulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "seelisch",
+    "meaning": "emotional",
+    "phrase": "Seelischkeit (rare)",
+    "phraseMeaning": "emotionality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "katholisch",
+    "meaning": "catholic",
+    "phrase": "Katholizität",
+    "phraseMeaning": "catholicity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "evangelisch",
+    "meaning": "protestant",
+    "phrase": "Evangelizität",
+    "phraseMeaning": "protestant character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "handlich",
+    "meaning": "handy",
+    "phrase": "Handlichkeit",
+    "phraseMeaning": "handiness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geduldiglich",
+    "meaning": "patient-like",
+    "phrase": "Geduldigkeit",
+    "phraseMeaning": "patience",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "herrlich",
+    "meaning": "magnificent",
+    "phrase": "Herrlichkeit",
+    "phraseMeaning": "magnificence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lästiglich",
+    "meaning": "bothersome",
+    "phrase": "Lästigkeit",
+    "phraseMeaning": "bothersomeness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ehrwürdig",
+    "meaning": "venerable",
+    "phrase": "Ehrwürdigkeit",
+    "phraseMeaning": "venerability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "tüchtiglich",
+    "meaning": "capable-like",
+    "phrase": "Tüchtigkeit",
+    "phraseMeaning": "capability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mäßiglich",
+    "meaning": "moderate",
+    "phrase": "Mäßigkeit",
+    "phraseMeaning": "moderation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "pünktlich",
+    "meaning": "punctual",
+    "phrase": "Pünktlichkeit",
+    "phraseMeaning": "punctuality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geschäftlich",
+    "meaning": "business-related",
+    "phrase": "Geschäftlichkeit",
+    "phraseMeaning": "business character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "amtlich",
+    "meaning": "official",
+    "phrase": "Amtlichkeit",
+    "phraseMeaning": "official character",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "dienstlich",
+    "meaning": "duty-related",
+    "phrase": "Dienstlichkeit",
+    "phraseMeaning": "official nature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "hoffentlich",
+    "meaning": "hopefully",
+    "phrase": "Hoffnunglichkeit (rare)",
+    "phraseMeaning": "hopefulness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "löslich",
+    "meaning": "soluble",
+    "phrase": "Löslichkeit",
+    "phraseMeaning": "solubility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "haltbarlich",
+    "meaning": "durable",
+    "phrase": "Haltbarkeit",
+    "phraseMeaning": "durability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ersichtlich",
+    "meaning": "evident",
+    "phrase": "Ersichtlichkeit",
+    "phraseMeaning": "obviousness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verständlich",
+    "meaning": "understandable",
+    "phrase": "Verständlichkeit",
+    "phraseMeaning": "comprehensibility",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unersetzlich",
+    "meaning": "irreplaceable",
+    "phrase": "Unersetzlichkeit",
+    "phraseMeaning": "irreplaceability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "machen",
+    "meaning": "to do/make",
+    "phrase": "Machung",
+    "phraseMeaning": "making (rare)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sagen",
+    "meaning": "to say",
+    "phrase": "Äußerung",
+    "phraseMeaning": "utterance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fragen",
+    "meaning": "to ask",
+    "phrase": "Anfrage",
+    "phraseMeaning": "inquiry",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beenden",
+    "meaning": "to end",
+    "phrase": "Beendigung",
+    "phraseMeaning": "termination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kündigen",
+    "meaning": "to cancel/terminate",
+    "phrase": "Kündigung",
+    "phraseMeaning": "termination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entwickeln",
+    "meaning": "to develop",
+    "phrase": "Entwicklung",
+    "phraseMeaning": "development",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "rechnen",
+    "meaning": "to calculate",
+    "phrase": "Rechnung",
+    "phraseMeaning": "bill/calculation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bedeuten",
+    "meaning": "to mean",
+    "phrase": "Bedeutung",
+    "phraseMeaning": "meaning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbessern",
+    "meaning": "to improve",
+    "phrase": "Verbesserung",
+    "phraseMeaning": "improvement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verändern",
+    "meaning": "to change",
+    "phrase": "Veränderung",
+    "phraseMeaning": "change",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewegen",
+    "meaning": "to move",
+    "phrase": "Bewegung",
+    "phraseMeaning": "movement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zahlungspflichtig machen → zahlen",
+    "meaning": "to pay",
+    "phrase": "Zahlung",
+    "phraseMeaning": "payment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besprechen",
+    "meaning": "to discuss",
+    "phrase": "Besprechung",
+    "phraseMeaning": "meeting/discussion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorbereiten",
+    "meaning": "to prepare",
+    "phrase": "Vorbereitung",
+    "phraseMeaning": "preparation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entscheiden",
+    "meaning": "to decide",
+    "phrase": "Entscheidung",
+    "phraseMeaning": "decision",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschreiben",
+    "meaning": "to describe",
+    "phrase": "Beschreibung",
+    "phraseMeaning": "description",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erklären",
+    "meaning": "to explain",
+    "phrase": "Erklärung",
+    "phraseMeaning": "explanation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "teilen",
+    "meaning": "to share/divide",
+    "phrase": "Teilung",
+    "phraseMeaning": "division",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "veröffentlichen",
+    "meaning": "to publish",
+    "phrase": "Veröffentlichung",
+    "phraseMeaning": "publication",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "genehmigen",
+    "meaning": "to approve",
+    "phrase": "Genehmigung",
+    "phraseMeaning": "approval",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anzeigen",
+    "meaning": "to report/notify",
+    "phrase": "Anzeige",
+    "phraseMeaning": "notification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitteilen",
+    "meaning": "to inform",
+    "phrase": "Mitteilung",
+    "phraseMeaning": "message/information",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bestätigen",
+    "meaning": "to confirm",
+    "phrase": "Bestätigung",
+    "phraseMeaning": "confirmation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einladen",
+    "meaning": "to invite",
+    "phrase": "Einladung",
+    "phraseMeaning": "invitation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlauben",
+    "meaning": "to allow",
+    "phrase": "Erlaubnisung (incorrect → correct: Erlaubnis)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewerten",
+    "meaning": "to evaluate",
+    "phrase": "Bewertung",
+    "phraseMeaning": "evaluation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reparieren",
+    "meaning": "to repair",
+    "phrase": "Reparatur (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausbilden",
+    "meaning": "to train",
+    "phrase": "Ausbildung",
+    "phraseMeaning": "education/training",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "liefern",
+    "meaning": "to deliver",
+    "phrase": "Lieferung",
+    "phraseMeaning": "delivery",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "speichern",
+    "meaning": "to save/store",
+    "phrase": "Speicherung",
+    "phraseMeaning": "storage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwenden",
+    "meaning": "to use",
+    "phrase": "Verwendung",
+    "phraseMeaning": "usage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbinden",
+    "meaning": "to connect",
+    "phrase": "Verbindung",
+    "phraseMeaning": "connection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befragen",
+    "meaning": "to interview",
+    "phrase": "Befragung",
+    "phraseMeaning": "survey/interview",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nennen",
+    "meaning": "to name/call",
+    "phrase": "Nennung",
+    "phraseMeaning": "naming",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vermieten",
+    "meaning": "to rent out",
+    "phrase": "Vermietung",
+    "phraseMeaning": "renting out",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mieten",
+    "meaning": "to rent",
+    "phrase": "Miete (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abgeben",
+    "meaning": "to submit",
+    "phrase": "Abgabe (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beobachten",
+    "meaning": "to observe",
+    "phrase": "Beobachtung",
+    "phraseMeaning": "observation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verhaften",
+    "meaning": "to arrest",
+    "phrase": "Verhaftung",
+    "phraseMeaning": "arrest",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entlassen",
+    "meaning": "to fire/dismiss",
+    "phrase": "Entlassung",
+    "phraseMeaning": "dismissal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbieten",
+    "meaning": "to forbid",
+    "phrase": "Verbot (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entschuldigen",
+    "meaning": "to apologize",
+    "phrase": "Entschuldigung",
+    "phraseMeaning": "apology",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "binden",
+    "meaning": "to bind",
+    "phrase": "Bindung",
+    "phraseMeaning": "bond/commitment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gründen",
+    "meaning": "to found",
+    "phrase": "Gründung",
+    "phraseMeaning": "foundation/establishment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erziehen",
+    "meaning": "to raise/educate",
+    "phrase": "Erziehung",
+    "phraseMeaning": "upbringing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mess en",
+    "meaning": "to measure",
+    "phrase": "Messung",
+    "phraseMeaning": "measurement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "empfehlen",
+    "meaning": "to recommend",
+    "phrase": "Empfehlung",
+    "phraseMeaning": "recommendation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "prüfen",
+    "meaning": "to check/examine",
+    "phrase": "Prüfung",
+    "phraseMeaning": "exam/inspection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erzeugen",
+    "meaning": "to produce",
+    "phrase": "Erzeugung",
+    "phraseMeaning": "production",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "retten",
+    "meaning": "to rescue",
+    "phrase": "Rettung",
+    "phraseMeaning": "rescue",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "schützen",
+    "meaning": "to protect",
+    "phrase": "Schutz (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewahren",
+    "meaning": "to preserve",
+    "phrase": "Bewahrung",
+    "phraseMeaning": "preservation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschädigen",
+    "meaning": "to damage",
+    "phrase": "Beschädigung",
+    "phraseMeaning": "damage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "untersuchen",
+    "meaning": "to examine/investigate",
+    "phrase": "Untersuchung",
+    "phraseMeaning": "investigation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anwenden",
+    "meaning": "to apply/use",
+    "phrase": "Anwendung",
+    "phraseMeaning": "application",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überweisen",
+    "meaning": "to transfer (money)",
+    "phrase": "Überweisung",
+    "phraseMeaning": "transfer",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überlegen",
+    "meaning": "to consider",
+    "phrase": "Überlegung",
+    "phraseMeaning": "consideration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vergleichen",
+    "meaning": "to compare",
+    "phrase": "Vergleich (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einrichten",
+    "meaning": "to set up",
+    "phrase": "Einrichtung",
+    "phraseMeaning": "setup/furnishing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verpacken",
+    "meaning": "to pack",
+    "phrase": "Verpackung",
+    "phraseMeaning": "packaging",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entstehen",
+    "meaning": "to arise",
+    "phrase": "Entstehung",
+    "phraseMeaning": "origin/formation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anziehen",
+    "meaning": "to attract",
+    "phrase": "Anziehung",
+    "phraseMeaning": "attraction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erkennung",
+    "meaning": "to recognize (erkennen)",
+    "phrase": "Erkennung",
+    "phraseMeaning": "recognition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "warnen",
+    "meaning": "to warn",
+    "phrase": "Warnung",
+    "phraseMeaning": "warning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entspannen",
+    "meaning": "to relax",
+    "phrase": "Entspannung",
+    "phraseMeaning": "relaxation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ersparen",
+    "meaning": "to save (money)",
+    "phrase": "Ersparung",
+    "phraseMeaning": "saving",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verursachen",
+    "meaning": "to cause",
+    "phrase": "Verursachung",
+    "phraseMeaning": "causation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verlangen",
+    "meaning": "to demand",
+    "phrase": "Verlangen (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fordern",
+    "meaning": "to demand",
+    "phrase": "Forderung",
+    "phraseMeaning": "demand/claim",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "belasten",
+    "meaning": "to burden",
+    "phrase": "Belastung",
+    "phraseMeaning": "burden/load",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "berechnen",
+    "meaning": "to calculate",
+    "phrase": "Berechnung",
+    "phraseMeaning": "calculation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erinnern",
+    "meaning": "to remind",
+    "phrase": "Erinnerung",
+    "phraseMeaning": "memory/reminder",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vermut en",
+    "meaning": "to suspect",
+    "phrase": "Vermutung",
+    "phraseMeaning": "suspicion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bedrohen",
+    "meaning": "to threaten",
+    "phrase": "Bedrohung",
+    "phraseMeaning": "threat",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verführen",
+    "meaning": "to seduce/lead astray",
+    "phrase": "Verführung",
+    "phraseMeaning": "seduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bedecken",
+    "meaning": "to cover",
+    "phrase": "Bedeckung",
+    "phraseMeaning": "covering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswertung",
+    "meaning": "to evaluate (auswerten)",
+    "phrase": "Auswertung",
+    "phraseMeaning": "analysis",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beleben",
+    "meaning": "to revive",
+    "phrase": "Belebung",
+    "phraseMeaning": "revival",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besitzen",
+    "meaning": "to own",
+    "phrase": "Besitz (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswahl",
+    "meaning": "to choose (auswählen)",
+    "phrase": "Auswahl",
+    "phraseMeaning": "selection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wiederholung",
+    "meaning": "to repeat (wiederholen)",
+    "phrase": "Wiederholung",
+    "phraseMeaning": "repetition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "belohnen",
+    "meaning": "to reward",
+    "phrase": "Belohnung",
+    "phraseMeaning": "reward",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erfassung",
+    "meaning": "to record/capture (erfassen)",
+    "phrase": "Erfassung",
+    "phraseMeaning": "recording",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beachtung",
+    "meaning": "to pay attention (beachten)",
+    "phrase": "Beachtung",
+    "phraseMeaning": "attention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begründung",
+    "meaning": "to justify (begründen)",
+    "phrase": "Begründung",
+    "phraseMeaning": "justification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anwendung",
+    "meaning": "to apply (anwenden)",
+    "phrase": "Anwendung",
+    "phraseMeaning": "application",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verteilung",
+    "meaning": "to distribute (verteilen)",
+    "phrase": "Verteilung",
+    "phraseMeaning": "distribution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausstattung",
+    "meaning": "to equip (ausstatten)",
+    "phrase": "Ausstattung",
+    "phraseMeaning": "equipment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "voraussetzung",
+    "meaning": "to require (voraussetzen)",
+    "phrase": "Voraussetzung",
+    "phraseMeaning": "requirement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewältigen",
+    "meaning": "to cope/manage",
+    "phrase": "Bewältigung",
+    "phraseMeaning": "coping/handling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einschätzung",
+    "meaning": "to assess (einschätzen)",
+    "phrase": "Einschätzung",
+    "phraseMeaning": "assessment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erforschung",
+    "meaning": "to research (erforschen)",
+    "phrase": "Erforschung",
+    "phraseMeaning": "research",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reinigung",
+    "meaning": "to clean (reinigen)",
+    "phrase": "Reinigung",
+    "phraseMeaning": "cleaning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "speisung",
+    "meaning": "to feed (speisen)",
+    "phrase": "Speisung",
+    "phraseMeaning": "feeding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lockerung",
+    "meaning": "to loosen (lockern)",
+    "phrase": "Lockerung",
+    "phraseMeaning": "loosening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitwirkung",
+    "meaning": "to participate (mitwirken)",
+    "phrase": "Mitwirkung",
+    "phraseMeaning": "participation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entwicklung",
+    "meaning": "to develop (entwickeln)",
+    "phrase": "Entwicklung",
+    "phraseMeaning": "development",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verschärfen",
+    "meaning": "to intensify",
+    "phrase": "Verschärfung",
+    "phraseMeaning": "intensification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vergrößern",
+    "meaning": "to enlarge",
+    "phrase": "Vergrößerung",
+    "phraseMeaning": "enlargement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verminderung",
+    "meaning": "to reduce (vermindern)",
+    "phrase": "Verminderung",
+    "phraseMeaning": "reduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ändern",
+    "meaning": "to change",
+    "phrase": "Änderung",
+    "phraseMeaning": "change",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anmelden",
+    "meaning": "to register",
+    "phrase": "Anmeldung",
+    "phraseMeaning": "registration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "arbeiten",
+    "meaning": "to work",
+    "phrase": "Arbeit",
+    "phraseMeaning": "work (not -ung)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausbilden",
+    "meaning": "to train/educate",
+    "phrase": "Ausbildung",
+    "phraseMeaning": "training",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausdrücken",
+    "meaning": "to express",
+    "phrase": "Ausdruck",
+    "phraseMeaning": "expression (accepted in exams)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausführen",
+    "meaning": "to carry out",
+    "phrase": "Ausführung",
+    "phraseMeaning": "execution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausgeben",
+    "meaning": "to spend",
+    "phrase": "Ausgabe",
+    "phraseMeaning": "expenditure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausgehen",
+    "meaning": "to go out",
+    "phrase": "Ausgang",
+    "phraseMeaning": "exit (accepted)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausrichten",
+    "meaning": "to align/organize",
+    "phrase": "Ausrichtung",
+    "phraseMeaning": "alignment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausstellen",
+    "meaning": "to exhibit/issue",
+    "phrase": "Ausstellung",
+    "phraseMeaning": "exhibition/issue",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "austeilen",
+    "meaning": "to distribute",
+    "phrase": "Austeilung",
+    "phraseMeaning": "distribution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswerten",
+    "meaning": "to evaluate",
+    "phrase": "Auswertung",
+    "phraseMeaning": "analysis",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswählen",
+    "meaning": "to choose/select",
+    "phrase": "Auswahl",
+    "phraseMeaning": "selection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beantragen",
+    "meaning": "to apply for",
+    "phrase": "Beantragung",
+    "phraseMeaning": "application",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beantworten",
+    "meaning": "to answer",
+    "phrase": "Beantwortung",
+    "phraseMeaning": "answering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beachten",
+    "meaning": "to pay attention",
+    "phrase": "Beachtung",
+    "phraseMeaning": "attention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beauftragen",
+    "meaning": "to assign",
+    "phrase": "Beauftragung",
+    "phraseMeaning": "assignment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bedienen",
+    "meaning": "to serve/operate",
+    "phrase": "Bedienung",
+    "phraseMeaning": "operation/service",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bedürfen",
+    "meaning": "to require",
+    "phrase": "Bedürfnis (accepted as noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beeilen",
+    "meaning": "to hurry",
+    "phrase": "Beeilung",
+    "phraseMeaning": "hurrying",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befragen",
+    "meaning": "to interview",
+    "phrase": "Befragung",
+    "phraseMeaning": "survey",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befreien",
+    "meaning": "to free",
+    "phrase": "Befreiung",
+    "phraseMeaning": "liberation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befürchten",
+    "meaning": "to fear",
+    "phrase": "Befürchtung",
+    "phraseMeaning": "fear",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begegnen",
+    "meaning": "to meet",
+    "phrase": "Begegnung",
+    "phraseMeaning": "encounter",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begehen",
+    "meaning": "to commit",
+    "phrase": "Begehung",
+    "phraseMeaning": "commission (crime)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begleiten",
+    "meaning": "to accompany",
+    "phrase": "Begleitung",
+    "phraseMeaning": "accompaniment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begrenzen",
+    "meaning": "to limit",
+    "phrase": "Begrenzung",
+    "phraseMeaning": "limitation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begründen",
+    "meaning": "to justify",
+    "phrase": "Begründung",
+    "phraseMeaning": "justification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begrüßen",
+    "meaning": "to greet",
+    "phrase": "Begrüßung",
+    "phraseMeaning": "welcome",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "behalten",
+    "meaning": "to keep",
+    "phrase": "Behaltung",
+    "phraseMeaning": "retention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "behandeln",
+    "meaning": "to treat",
+    "phrase": "Behandlung",
+    "phraseMeaning": "treatment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "behaupten",
+    "meaning": "to claim",
+    "phrase": "Behauptung",
+    "phraseMeaning": "claim",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "behindern",
+    "meaning": "to obstruct",
+    "phrase": "Behinderung",
+    "phraseMeaning": "obstacle/disability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beibringen",
+    "meaning": "to teach",
+    "phrase": "Beibringung",
+    "phraseMeaning": "imparting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beitragen",
+    "meaning": "to contribute",
+    "phrase": "Beitrag",
+    "phraseMeaning": "contribution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bekämpfen",
+    "meaning": "to fight/combat",
+    "phrase": "Bekämpfung",
+    "phraseMeaning": "combating",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bekommen",
+    "meaning": "to get",
+    "phrase": "Bekommung (rare",
+    "phraseMeaning": "skip)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "belasten",
+    "meaning": "to burden",
+    "phrase": "Belastung",
+    "phraseMeaning": "burden",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beleuchten",
+    "meaning": "to illuminate",
+    "phrase": "Beleuchtung",
+    "phraseMeaning": "lighting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bemerken",
+    "meaning": "to notice",
+    "phrase": "Bemerkung",
+    "phraseMeaning": "remark",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "benachrichtigen",
+    "meaning": "to inform",
+    "phrase": "Benachrichtigung",
+    "phraseMeaning": "notification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "benutzen",
+    "meaning": "to use",
+    "phrase": "Benutzung",
+    "phraseMeaning": "usage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beraten",
+    "meaning": "to advise",
+    "phrase": "Beratung",
+    "phraseMeaning": "consultation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bereitstellen",
+    "meaning": "to provide",
+    "phrase": "Bereitstellung",
+    "phraseMeaning": "provision",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "berichten",
+    "meaning": "to report",
+    "phrase": "Bericht",
+    "phraseMeaning": "report (accepted)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "berücksichtigen",
+    "meaning": "to consider",
+    "phrase": "Berücksichtigung",
+    "phraseMeaning": "consideration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "berühren",
+    "meaning": "to touch",
+    "phrase": "Berührung",
+    "phraseMeaning": "touch",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschäftigen",
+    "meaning": "to employ/occupy",
+    "phrase": "Beschäftigung",
+    "phraseMeaning": "employment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschließen",
+    "meaning": "to decide",
+    "phrase": "Beschluss",
+    "phraseMeaning": "decision",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besprechen",
+    "meaning": "to discuss",
+    "phrase": "Besprechung",
+    "phraseMeaning": "meeting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bestehen",
+    "meaning": "to pass/exist",
+    "phrase": "Bestehen",
+    "phraseMeaning": "passing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bestellen",
+    "meaning": "to order",
+    "phrase": "Bestellung",
+    "phraseMeaning": "order",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bestimmen",
+    "meaning": "to determine",
+    "phrase": "Bestimmung",
+    "phraseMeaning": "determination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bestrafen",
+    "meaning": "to punish",
+    "phrase": "Bestrafung",
+    "phraseMeaning": "punishment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besuchen",
+    "meaning": "to visit",
+    "phrase": "Besuch",
+    "phraseMeaning": "visit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beteiligen",
+    "meaning": "to participate",
+    "phrase": "Beteiligung",
+    "phraseMeaning": "participation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betonen",
+    "meaning": "to stress",
+    "phrase": "Betonung",
+    "phraseMeaning": "emphasis",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betragen",
+    "meaning": "to amount to",
+    "phrase": "Betrag",
+    "phraseMeaning": "amount",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betreffen",
+    "meaning": "to affect",
+    "phrase": "Betroffenheit",
+    "phraseMeaning": "concern",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betreiben",
+    "meaning": "to operate",
+    "phrase": "Betrieb",
+    "phraseMeaning": "operation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betrügen",
+    "meaning": "to cheat",
+    "phrase": "Betrug",
+    "phraseMeaning": "fraud",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewerben",
+    "meaning": "to apply",
+    "phrase": "Bewerbung",
+    "phraseMeaning": "application",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beweisen",
+    "meaning": "to prove",
+    "phrase": "Beweisführung",
+    "phraseMeaning": "demonstration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewältigen",
+    "meaning": "to cope",
+    "phrase": "Bewältigung",
+    "phraseMeaning": "coping",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bezahlen",
+    "meaning": "to pay",
+    "phrase": "Bezahlung",
+    "phraseMeaning": "payment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bezeichnen",
+    "meaning": "to label",
+    "phrase": "Bezeichnung",
+    "phraseMeaning": "designation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "binden",
+    "meaning": "to bind",
+    "phrase": "Bindung",
+    "phraseMeaning": "bond",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bilden",
+    "meaning": "to form/educate",
+    "phrase": "Bildung",
+    "phraseMeaning": "education",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "brauchen",
+    "meaning": "to need",
+    "phrase": "Bedarf",
+    "phraseMeaning": "requirement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "danken",
+    "meaning": "to thank",
+    "phrase": "Danksagung",
+    "phraseMeaning": "thanksgiving",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "darstellen",
+    "meaning": "to depict",
+    "phrase": "Darstellung",
+    "phraseMeaning": "representation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "dauern",
+    "meaning": "to last",
+    "phrase": "Dauer",
+    "phraseMeaning": "duration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "denken",
+    "meaning": "to think",
+    "phrase": "Denkung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "drücken",
+    "meaning": "to press",
+    "phrase": "Druck",
+    "phraseMeaning": "pressure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchführen",
+    "meaning": "to carry out",
+    "phrase": "Durchführung",
+    "phraseMeaning": "implementation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchsetzen",
+    "meaning": "to enforce",
+    "phrase": "Durchsetzung",
+    "phraseMeaning": "enforcement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einatmen",
+    "meaning": "to inhale",
+    "phrase": "Einatmung",
+    "phraseMeaning": "inhalation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einbauen",
+    "meaning": "to install",
+    "phrase": "Einbau",
+    "phraseMeaning": "installation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einbrechen",
+    "meaning": "to break in",
+    "phrase": "Einbruch",
+    "phraseMeaning": "burglary",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einführen",
+    "meaning": "to introduce",
+    "phrase": "Einführung",
+    "phraseMeaning": "introduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einfügen",
+    "meaning": "to insert",
+    "phrase": "Einfügung",
+    "phraseMeaning": "insertion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eingeben",
+    "meaning": "to enter (data)",
+    "phrase": "Eingabe",
+    "phraseMeaning": "input",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eingehen",
+    "meaning": "to enter into",
+    "phrase": "Eingehung",
+    "phraseMeaning": "engagement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einholen",
+    "meaning": "to obtain",
+    "phrase": "Einholung",
+    "phraseMeaning": "obtaining",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einnehmen",
+    "meaning": "to take (money/medicine)",
+    "phrase": "Einnahme",
+    "phraseMeaning": "intake",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einrichten",
+    "meaning": "to set up",
+    "phrase": "Einrichtung",
+    "phraseMeaning": "setup",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einschätzen",
+    "meaning": "to assess",
+    "phrase": "Einschätzung",
+    "phraseMeaning": "assessment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einschließen",
+    "meaning": "to include/enclose",
+    "phrase": "Einschließung",
+    "phraseMeaning": "inclusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einsetzen",
+    "meaning": "to use/deploy",
+    "phrase": "Einsatz",
+    "phraseMeaning": "deployment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einstellen",
+    "meaning": "to adjust/employ",
+    "phrase": "Einstellung",
+    "phraseMeaning": "hiring/adjustment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eintreten",
+    "meaning": "to enter/join",
+    "phrase": "Eintritt",
+    "phraseMeaning": "entry",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einwandern",
+    "meaning": "to immigrate",
+    "phrase": "Einwanderung",
+    "phraseMeaning": "immigration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einwirken",
+    "meaning": "to affect",
+    "phrase": "Einwirkung",
+    "phraseMeaning": "effect",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einzahlen",
+    "meaning": "to deposit",
+    "phrase": "Einzahlung",
+    "phraseMeaning": "deposit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einziehen",
+    "meaning": "to move in",
+    "phrase": "Einzug",
+    "phraseMeaning": "moving in",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "empfinden",
+    "meaning": "to feel",
+    "phrase": "Empfindung",
+    "phraseMeaning": "feeling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entdecken",
+    "meaning": "to discover",
+    "phrase": "Entdeckung",
+    "phraseMeaning": "discovery",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entfernen",
+    "meaning": "to remove",
+    "phrase": "Entfernung",
+    "phraseMeaning": "removal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entgegenwirken",
+    "meaning": "to counteract",
+    "phrase": "Entgegenwirkung",
+    "phraseMeaning": "counteraction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "enthalten",
+    "meaning": "to contain",
+    "phrase": "Enthaltung",
+    "phraseMeaning": "abstention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entkommen",
+    "meaning": "to escape",
+    "phrase": "Entkommen",
+    "phraseMeaning": "escape",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entladen",
+    "meaning": "to unload",
+    "phrase": "Entladung",
+    "phraseMeaning": "discharge",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entlassen",
+    "meaning": "to dismiss",
+    "phrase": "Entlassung",
+    "phraseMeaning": "dismissal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entnehmen",
+    "meaning": "to take from",
+    "phrase": "Entnahme",
+    "phraseMeaning": "withdrawal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entsorgen",
+    "meaning": "to dispose",
+    "phrase": "Entsorgung",
+    "phraseMeaning": "disposal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entstehen",
+    "meaning": "to arise",
+    "phrase": "Entstehung",
+    "phraseMeaning": "origin",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entwerten",
+    "meaning": "to devalue",
+    "phrase": "Entwertung",
+    "phraseMeaning": "devaluation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entwerfen",
+    "meaning": "to design",
+    "phrase": "Entwurf",
+    "phraseMeaning": "draft",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erarbeiten",
+    "meaning": "to work out",
+    "phrase": "Erarbeitung",
+    "phraseMeaning": "elaboration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erfahren",
+    "meaning": "to experience",
+    "phrase": "Erfahrung",
+    "phraseMeaning": "experience",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erfinden",
+    "meaning": "to invent",
+    "phrase": "Erfindung",
+    "phraseMeaning": "invention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erfolgen",
+    "meaning": "to occur",
+    "phrase": "Erfolgung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erforschen",
+    "meaning": "to research",
+    "phrase": "Erforschung",
+    "phraseMeaning": "research",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erfüllen",
+    "meaning": "to fulfill",
+    "phrase": "Erfüllung",
+    "phraseMeaning": "fulfillment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ergeben",
+    "meaning": "to result in",
+    "phrase": "Ergebnis",
+    "phraseMeaning": "result",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erhalten",
+    "meaning": "to receive",
+    "phrase": "Erhaltung",
+    "phraseMeaning": "preservation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erhöhen",
+    "meaning": "to increase",
+    "phrase": "Erhöhung",
+    "phraseMeaning": "increase",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erinnern",
+    "meaning": "to remember",
+    "phrase": "Erinnerung",
+    "phraseMeaning": "memory",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erkennen",
+    "meaning": "to recognize",
+    "phrase": "Erkennung",
+    "phraseMeaning": "recognition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlauben",
+    "meaning": "to allow",
+    "phrase": "Erlaubnis (accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erleben",
+    "meaning": "to experience",
+    "phrase": "Erlebnis",
+    "phraseMeaning": "experience",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erledigen",
+    "meaning": "to deal with",
+    "phrase": "Erledigung",
+    "phraseMeaning": "completion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erleichtern",
+    "meaning": "to ease/lighten",
+    "phrase": "Erleichterung",
+    "phraseMeaning": "relief",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlernen",
+    "meaning": "to learn",
+    "phrase": "Erlernung",
+    "phraseMeaning": "learning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ermöglichen",
+    "meaning": "to enable",
+    "phrase": "Ermöglichung",
+    "phraseMeaning": "enabling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erneuern",
+    "meaning": "to renew",
+    "phrase": "Erneuerung",
+    "phraseMeaning": "renewal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eröffnen",
+    "meaning": "to open",
+    "phrase": "Eröffnung",
+    "phraseMeaning": "opening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "errichten",
+    "meaning": "to build/erect",
+    "phrase": "Errichtung",
+    "phraseMeaning": "construction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erschaffen",
+    "meaning": "to create",
+    "phrase": "Erschaffung",
+    "phraseMeaning": "creation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erschrecken",
+    "meaning": "to scare",
+    "phrase": "Erschreckung",
+    "phraseMeaning": "fright",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erschweren",
+    "meaning": "to make difficult",
+    "phrase": "Erschwerung",
+    "phraseMeaning": "complication",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ersparen",
+    "meaning": "to save",
+    "phrase": "Ersparung",
+    "phraseMeaning": "saving",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ersticken",
+    "meaning": "to suffocate",
+    "phrase": "Erstikkung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erstellen",
+    "meaning": "to create",
+    "phrase": "Erstellung",
+    "phraseMeaning": "creation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ertragen",
+    "meaning": "to endure",
+    "phrase": "Ertragung",
+    "phraseMeaning": "endurance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erweitern",
+    "meaning": "to expand",
+    "phrase": "Erweiterung",
+    "phraseMeaning": "expansion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erwarten",
+    "meaning": "to expect",
+    "phrase": "Erwartung",
+    "phraseMeaning": "expectation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erwecken",
+    "meaning": "to awaken",
+    "phrase": "Erweckung",
+    "phraseMeaning": "awakening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erwerben",
+    "meaning": "to acquire",
+    "phrase": "Erwerbung",
+    "phraseMeaning": "acquisition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erzählen",
+    "meaning": "to tell",
+    "phrase": "Erzählung",
+    "phraseMeaning": "story",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "essenzen",
+    "meaning": "to extract",
+    "phrase": "Essenz",
+    "phraseMeaning": "essence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "exportieren",
+    "meaning": "to export",
+    "phrase": "Exportierung (Export accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fallen",
+    "meaning": "to fall",
+    "phrase": "Fall (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "festlegen",
+    "meaning": "to determine",
+    "phrase": "Festlegung",
+    "phraseMeaning": "determination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "festnehmen",
+    "meaning": "to arrest",
+    "phrase": "Festnahme",
+    "phraseMeaning": "arrest",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "feststellen",
+    "meaning": "to determine",
+    "phrase": "Feststellung",
+    "phraseMeaning": "determination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "filtern",
+    "meaning": "to filter",
+    "phrase": "Filterung",
+    "phraseMeaning": "filtering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "finanzieren",
+    "meaning": "to finance",
+    "phrase": "Finanzierung",
+    "phraseMeaning": "financing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "folgen",
+    "meaning": "to follow",
+    "phrase": "Folgen (plural",
+    "phraseMeaning": "accepted)",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fordern",
+    "meaning": "to demand",
+    "phrase": "Forderung",
+    "phraseMeaning": "demand",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fördern",
+    "meaning": "to promote/support",
+    "phrase": "Förderung",
+    "phraseMeaning": "support",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fotografieren",
+    "meaning": "to photograph",
+    "phrase": "Fotografie (accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "freigeben",
+    "meaning": "to release",
+    "phrase": "Freigabe",
+    "phraseMeaning": "release",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fühlen",
+    "meaning": "to feel",
+    "phrase": "Fühlung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "führen",
+    "meaning": "to lead",
+    "phrase": "Führung",
+    "phraseMeaning": "leadership",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "funktionieren",
+    "meaning": "to function",
+    "phrase": "Funktionierung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "generieren",
+    "meaning": "to generate",
+    "phrase": "Generierung",
+    "phraseMeaning": "generation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "genießen",
+    "meaning": "to enjoy",
+    "phrase": "Genuss (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geraten",
+    "meaning": "to get into",
+    "phrase": "Geraten (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gerinnen",
+    "meaning": "to clot",
+    "phrase": "Gerinnung",
+    "phraseMeaning": "clotting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geringern",
+    "meaning": "to reduce",
+    "phrase": "Geringung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gewinnen",
+    "meaning": "to win",
+    "phrase": "Gewinnung",
+    "phraseMeaning": "extraction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gießen",
+    "meaning": "to pour",
+    "phrase": "Gießung",
+    "phraseMeaning": "pouring",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "glauben",
+    "meaning": "to believe",
+    "phrase": "Glaubung (rare → Glaube accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gründen",
+    "meaning": "to found",
+    "phrase": "Gründung",
+    "phraseMeaning": "founding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "grüßen",
+    "meaning": "to greet",
+    "phrase": "Begrüßung",
+    "phraseMeaning": "greeting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "handeln",
+    "meaning": "to act",
+    "phrase": "Handlung",
+    "phraseMeaning": "action",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "herstellen",
+    "meaning": "to produce",
+    "phrase": "Herstellung",
+    "phraseMeaning": "production",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "hinweisen",
+    "meaning": "to point out",
+    "phrase": "Hinweis",
+    "phraseMeaning": "hint",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "importieren",
+    "meaning": "to import",
+    "phrase": "Importierung (Import accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "informieren",
+    "meaning": "to inform",
+    "phrase": "Information",
+    "phraseMeaning": "information",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "installieren",
+    "meaning": "to install",
+    "phrase": "Installation",
+    "phraseMeaning": "installation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "investieren",
+    "meaning": "to invest",
+    "phrase": "Investierung",
+    "phraseMeaning": "investing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kaufen",
+    "meaning": "to buy",
+    "phrase": "Kauf (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "klären",
+    "meaning": "to clarify",
+    "phrase": "Klärung",
+    "phraseMeaning": "clarification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kontrollieren",
+    "meaning": "to control",
+    "phrase": "Kontrolle",
+    "phraseMeaning": "control",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "konzentrieren",
+    "meaning": "to concentrate",
+    "phrase": "Konzentration",
+    "phraseMeaning": "concentration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "korrigieren",
+    "meaning": "to correct",
+    "phrase": "Korrektur (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kritisieren",
+    "meaning": "to criticize",
+    "phrase": "Kritik (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kündigen",
+    "meaning": "to cancel",
+    "phrase": "Kündigung",
+    "phraseMeaning": "cancellation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lachen",
+    "meaning": "to laugh",
+    "phrase": "Lachen (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lagern",
+    "meaning": "to store",
+    "phrase": "Lagerung",
+    "phraseMeaning": "storage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lassen",
+    "meaning": "to let",
+    "phrase": "Lassung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "laufen",
+    "meaning": "to run",
+    "phrase": "Lauf",
+    "phraseMeaning": "run",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lernen",
+    "meaning": "to learn",
+    "phrase": "Lernung (rare → Lernen accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lösen",
+    "meaning": "to solve",
+    "phrase": "Lösung",
+    "phraseMeaning": "solution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lüften",
+    "meaning": "to air out",
+    "phrase": "Lüftung",
+    "phraseMeaning": "ventilation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "machen",
+    "meaning": "to do",
+    "phrase": "Machung (rare → use Tätigkeit)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "meiden",
+    "meaning": "to avoid",
+    "phrase": "Meidung",
+    "phraseMeaning": "avoidance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "melden",
+    "meaning": "to report",
+    "phrase": "Meldung",
+    "phraseMeaning": "message/report",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "messen",
+    "meaning": "to measure",
+    "phrase": "Messung",
+    "phraseMeaning": "measurement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitteilen",
+    "meaning": "to inform",
+    "phrase": "Mitteilung",
+    "phraseMeaning": "communication",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitwirken",
+    "meaning": "to participate",
+    "phrase": "Mitwirkung",
+    "phraseMeaning": "participation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "möblieren",
+    "meaning": "to furnish",
+    "phrase": "Möblierung",
+    "phraseMeaning": "furnishing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mühen",
+    "meaning": "to make effort",
+    "phrase": "Bemühung",
+    "phraseMeaning": "effort",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nennen",
+    "meaning": "to name",
+    "phrase": "Nennung",
+    "phraseMeaning": "naming",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nutzen",
+    "meaning": "to use",
+    "phrase": "Nutzung",
+    "phraseMeaning": "usage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "öffnen",
+    "meaning": "to open",
+    "phrase": "Öffnung",
+    "phraseMeaning": "opening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ordnen",
+    "meaning": "to organize",
+    "phrase": "Ordnung",
+    "phraseMeaning": "order",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "organisieren",
+    "meaning": "to organize",
+    "phrase": "Organisation",
+    "phraseMeaning": "organization",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "packen",
+    "meaning": "to pack",
+    "phrase": "Packung",
+    "phraseMeaning": "package",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "passieren",
+    "meaning": "to happen",
+    "phrase": "Passierung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "planen",
+    "meaning": "to plan",
+    "phrase": "Planung",
+    "phraseMeaning": "planning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "prüfen",
+    "meaning": "to examine",
+    "phrase": "Prüfung",
+    "phraseMeaning": "examination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "räumen",
+    "meaning": "to clear",
+    "phrase": "Räumung",
+    "phraseMeaning": "clearance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reagieren",
+    "meaning": "to react",
+    "phrase": "Reaktion",
+    "phraseMeaning": "reaction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reden",
+    "meaning": "to speak",
+    "phrase": "Rede",
+    "phraseMeaning": "speech",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reduzieren",
+    "meaning": "to reduce",
+    "phrase": "Reduzierung",
+    "phraseMeaning": "reduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "regeln",
+    "meaning": "to regulate",
+    "phrase": "Regelung",
+    "phraseMeaning": "regulation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reinigen",
+    "meaning": "to clean",
+    "phrase": "Reinigung",
+    "phraseMeaning": "cleaning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "richten",
+    "meaning": "to direct",
+    "phrase": "Richtung",
+    "phraseMeaning": "direction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "rühren",
+    "meaning": "to stir",
+    "phrase": "Rührung",
+    "phraseMeaning": "emotion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sammeln",
+    "meaning": "to collect",
+    "phrase": "Sammlung",
+    "phraseMeaning": "collection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sichern",
+    "meaning": "to secure",
+    "phrase": "Sicherung",
+    "phraseMeaning": "securing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "siegen",
+    "meaning": "to win",
+    "phrase": "Sieg",
+    "phraseMeaning": "victory",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sinken",
+    "meaning": "to sink",
+    "phrase": "Senkung",
+    "phraseMeaning": "lowering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sorgen",
+    "meaning": "to care",
+    "phrase": "Sorge (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "spenden",
+    "meaning": "to donate",
+    "phrase": "Spende",
+    "phraseMeaning": "donation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sperren",
+    "meaning": "to block",
+    "phrase": "Sperrung",
+    "phraseMeaning": "blocking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "speichern",
+    "meaning": "to store",
+    "phrase": "Speicherung",
+    "phraseMeaning": "storage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "spüren",
+    "meaning": "to feel",
+    "phrase": "Spürung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stärken",
+    "meaning": "to strengthen",
+    "phrase": "Stärkung",
+    "phraseMeaning": "strengthening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "steigen",
+    "meaning": "to rise",
+    "phrase": "Steigerung",
+    "phraseMeaning": "increase",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "steigern",
+    "meaning": "to increase",
+    "phrase": "Steigerung",
+    "phraseMeaning": "increase",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stellen",
+    "meaning": "to place",
+    "phrase": "Stellung",
+    "phraseMeaning": "position",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stören",
+    "meaning": "to disturb",
+    "phrase": "Störung",
+    "phraseMeaning": "disturbance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "streichen",
+    "meaning": "to cancel",
+    "phrase": "Streichung",
+    "phraseMeaning": "cancellation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "studieren",
+    "meaning": "to study",
+    "phrase": "Studium (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "suchen",
+    "meaning": "to search",
+    "phrase": "Suche",
+    "phraseMeaning": "search",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "teilnehmen",
+    "meaning": "to participate",
+    "phrase": "Teilnahme",
+    "phraseMeaning": "participation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "tragen",
+    "meaning": "to carry",
+    "phrase": "Tragung",
+    "phraseMeaning": "bearing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "trennen",
+    "meaning": "to separate",
+    "phrase": "Trennung",
+    "phraseMeaning": "separation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "trocknen",
+    "meaning": "to dry",
+    "phrase": "Trocknung",
+    "phraseMeaning": "drying",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überarbeiten",
+    "meaning": "to revise",
+    "phrase": "Überarbeitung",
+    "phraseMeaning": "revision",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überblicken",
+    "meaning": "to overlook",
+    "phrase": "Überblick",
+    "phraseMeaning": "overview",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "übernachten",
+    "meaning": "to stay overnight",
+    "phrase": "Übernachtung",
+    "phraseMeaning": "overnight stay",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "übernehmen",
+    "meaning": "to take over",
+    "phrase": "Übernahme",
+    "phraseMeaning": "takeover",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überprüfen",
+    "meaning": "to check",
+    "phrase": "Überprüfung",
+    "phraseMeaning": "check",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überraschen",
+    "meaning": "to surprise",
+    "phrase": "Überraschung",
+    "phraseMeaning": "surprise",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "übertragen",
+    "meaning": "to transfer",
+    "phrase": "Übertragung",
+    "phraseMeaning": "transmission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überwachen",
+    "meaning": "to monitor",
+    "phrase": "Überwachung",
+    "phraseMeaning": "monitoring",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überweisen",
+    "meaning": "to transfer",
+    "phrase": "Überweisung",
+    "phraseMeaning": "transfer",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umgehen",
+    "meaning": "to deal with",
+    "phrase": "Umgang",
+    "phraseMeaning": "handling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umsetzen",
+    "meaning": "to implement",
+    "phrase": "Umsetzung",
+    "phraseMeaning": "implementation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umsteigen",
+    "meaning": "to change (transport)",
+    "phrase": "Umstieg",
+    "phraseMeaning": "change",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umtauschen",
+    "meaning": "to exchange",
+    "phrase": "Umtausch",
+    "phraseMeaning": "exchange",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umziehen",
+    "meaning": "to move",
+    "phrase": "Umzug",
+    "phraseMeaning": "relocation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umfragen",
+    "meaning": "to survey",
+    "phrase": "Umfrage",
+    "phraseMeaning": "survey",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterbrechen",
+    "meaning": "to interrupt",
+    "phrase": "Unterbrechung",
+    "phraseMeaning": "interruption",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterhalten",
+    "meaning": "to entertain",
+    "phrase": "Unterhaltung",
+    "phraseMeaning": "entertainment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterrichten",
+    "meaning": "to teach",
+    "phrase": "Unterricht",
+    "phraseMeaning": "instruction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterscheiden",
+    "meaning": "to differentiate",
+    "phrase": "Unterscheidung",
+    "phraseMeaning": "distinction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "untersuchen",
+    "meaning": "to examine",
+    "phrase": "Untersuchung",
+    "phraseMeaning": "investigation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterstützen",
+    "meaning": "to support",
+    "phrase": "Unterstützung",
+    "phraseMeaning": "support",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterzeichnen",
+    "meaning": "to sign",
+    "phrase": "Unterzeichnung",
+    "phraseMeaning": "signing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verabreden",
+    "meaning": "to arrange",
+    "phrase": "Verabredung",
+    "phraseMeaning": "appointment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verarbeiten",
+    "meaning": "to process",
+    "phrase": "Verarbeitung",
+    "phraseMeaning": "processing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "veranlassen",
+    "meaning": "to cause/initiate",
+    "phrase": "Veranlassung",
+    "phraseMeaning": "initiation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "veranstalten",
+    "meaning": "to organize",
+    "phrase": "Veranstaltung",
+    "phraseMeaning": "event",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbrauchen",
+    "meaning": "to consume",
+    "phrase": "Verbrauch",
+    "phraseMeaning": "consumption",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbrechen",
+    "meaning": "to commit crime",
+    "phrase": "Verbrechung",
+    "phraseMeaning": "commission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbreiten",
+    "meaning": "to spread",
+    "phrase": "Verbreitung",
+    "phraseMeaning": "spreading",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbringen",
+    "meaning": "to spend (time)",
+    "phrase": "Verbringung",
+    "phraseMeaning": "spending",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verdienen",
+    "meaning": "to earn",
+    "phrase": "Verdienst",
+    "phraseMeaning": "earnings",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verdoppeln",
+    "meaning": "to double",
+    "phrase": "Verdoppelung",
+    "phraseMeaning": "doubling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verdächtigen",
+    "meaning": "to suspect",
+    "phrase": "Verdächtigung",
+    "phraseMeaning": "suspicion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vereinbaren",
+    "meaning": "to agree",
+    "phrase": "Vereinbarung",
+    "phraseMeaning": "agreement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verfallen",
+    "meaning": "to expire",
+    "phrase": "Verfall",
+    "phraseMeaning": "decay",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verfolgen",
+    "meaning": "to follow/pursue",
+    "phrase": "Verfolgung",
+    "phraseMeaning": "pursuit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verfügen",
+    "meaning": "to have at disposal",
+    "phrase": "Verfügung",
+    "phraseMeaning": "disposal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vergleichen",
+    "meaning": "to compare",
+    "phrase": "Vergleich",
+    "phraseMeaning": "comparison",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verhalten",
+    "meaning": "to behave",
+    "phrase": "Verhalten",
+    "phraseMeaning": "behavior",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verhindern",
+    "meaning": "to prevent",
+    "phrase": "Verhinderung",
+    "phraseMeaning": "prevention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verkaufen",
+    "meaning": "to sell",
+    "phrase": "Verkauf",
+    "phraseMeaning": "sale",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verlegen",
+    "meaning": "to relocate",
+    "phrase": "Verlegung",
+    "phraseMeaning": "relocation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verleihen",
+    "meaning": "to award/lend",
+    "phrase": "Verleihung",
+    "phraseMeaning": "awarding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verletzen",
+    "meaning": "to injure",
+    "phrase": "Verletzung",
+    "phraseMeaning": "injury",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verlängern",
+    "meaning": "to extend",
+    "phrase": "Verlängerung",
+    "phraseMeaning": "extension",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vermeiden",
+    "meaning": "to avoid",
+    "phrase": "Vermeidung",
+    "phraseMeaning": "avoidance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vermindern",
+    "meaning": "to reduce",
+    "phrase": "Verminderung",
+    "phraseMeaning": "reduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vermissen",
+    "meaning": "to miss",
+    "phrase": "Vermissung",
+    "phraseMeaning": "missing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verpassen",
+    "meaning": "to miss",
+    "phrase": "Verpassung",
+    "phraseMeaning": "missing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verpflichten",
+    "meaning": "to obligate",
+    "phrase": "Verpflichtung",
+    "phraseMeaning": "obligation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verordnen",
+    "meaning": "to prescribe",
+    "phrase": "Verordnung",
+    "phraseMeaning": "ordinance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verringern",
+    "meaning": "to decrease",
+    "phrase": "Verringerung",
+    "phraseMeaning": "decrease",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "versagen",
+    "meaning": "to fail",
+    "phrase": "Versagung",
+    "phraseMeaning": "failure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verschieben",
+    "meaning": "to postpone",
+    "phrase": "Verschiebung",
+    "phraseMeaning": "postponement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verschließen",
+    "meaning": "to lock",
+    "phrase": "Verschließung",
+    "phraseMeaning": "locking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verschmutzen",
+    "meaning": "to pollute",
+    "phrase": "Verschmutzung",
+    "phraseMeaning": "pollution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "versichern",
+    "meaning": "to insure",
+    "phrase": "Versicherung",
+    "phraseMeaning": "insurance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "versorgen",
+    "meaning": "to supply",
+    "phrase": "Versorgung",
+    "phraseMeaning": "supply",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verspät en",
+    "meaning": "to delay",
+    "phrase": "Verspätung",
+    "phraseMeaning": "delay",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verstehen",
+    "meaning": "to understand",
+    "phrase": "Verständnis",
+    "phraseMeaning": "understanding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verstoßen",
+    "meaning": "to violate",
+    "phrase": "Verstoß",
+    "phraseMeaning": "violation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verteilen",
+    "meaning": "to distribute",
+    "phrase": "Verteilung",
+    "phraseMeaning": "distribution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vertragen",
+    "meaning": "to tolerate",
+    "phrase": "Verträgung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vertrauen",
+    "meaning": "to trust",
+    "phrase": "Vertrauen",
+    "phraseMeaning": "trust",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vertreten",
+    "meaning": "to represent",
+    "phrase": "Vertretung",
+    "phraseMeaning": "representation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verursachen",
+    "meaning": "to cause",
+    "phrase": "Verursachung",
+    "phraseMeaning": "cause",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwalten",
+    "meaning": "to manage",
+    "phrase": "Verwaltung",
+    "phraseMeaning": "administration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwechseln",
+    "meaning": "to confuse",
+    "phrase": "Verwechslung",
+    "phraseMeaning": "confusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verweigern",
+    "meaning": "to refuse",
+    "phrase": "Verweigerung",
+    "phraseMeaning": "refusal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwerfen",
+    "meaning": "to discard",
+    "phrase": "Verwerfung",
+    "phraseMeaning": "rejection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwickeln",
+    "meaning": "to entangle",
+    "phrase": "Verwicklung",
+    "phraseMeaning": "entanglement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwirren",
+    "meaning": "to confuse",
+    "phrase": "Verwirrung",
+    "phraseMeaning": "confusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwunden",
+    "meaning": "to wound",
+    "phrase": "Verwundung",
+    "phraseMeaning": "wounding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verzeihen",
+    "meaning": "to forgive",
+    "phrase": "Verzeihung",
+    "phraseMeaning": "forgiveness",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vollenden",
+    "meaning": "to complete",
+    "phrase": "Vollendung",
+    "phraseMeaning": "completion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorgehen",
+    "meaning": "to proceed",
+    "phrase": "Vorgehen",
+    "phraseMeaning": "procedure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorhaben",
+    "meaning": "to plan",
+    "phrase": "Vorhaben",
+    "phraseMeaning": "intention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorlegen",
+    "meaning": "to present",
+    "phrase": "Vorlage",
+    "phraseMeaning": "submission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vornehmen",
+    "meaning": "to undertake",
+    "phrase": "Vornahme",
+    "phraseMeaning": "execution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorstellen",
+    "meaning": "to introduce",
+    "phrase": "Vorstellung",
+    "phraseMeaning": "introduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vortragen",
+    "meaning": "to present",
+    "phrase": "Vortrag",
+    "phraseMeaning": "presentation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wachse n",
+    "meaning": "to grow",
+    "phrase": "Wachstum",
+    "phraseMeaning": "growth",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wählen",
+    "meaning": "to choose/vote",
+    "phrase": "Wahl",
+    "phraseMeaning": "choice/election",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "waschen",
+    "meaning": "to wash",
+    "phrase": "Wäsche",
+    "phraseMeaning": "washing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wechseln",
+    "meaning": "to change",
+    "phrase": "Wechsel",
+    "phraseMeaning": "change",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "weitergeben",
+    "meaning": "to pass on",
+    "phrase": "Weitergabe",
+    "phraseMeaning": "passing on",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "weiterleiten",
+    "meaning": "to forward",
+    "phrase": "Weiterleitung",
+    "phraseMeaning": "forwarding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "werten",
+    "meaning": "to evaluate",
+    "phrase": "Wertung",
+    "phraseMeaning": "rating/judgment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wiederholen",
+    "meaning": "to repeat",
+    "phrase": "Wiederholung",
+    "phraseMeaning": "repetition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wiederholen",
+    "meaning": "to revise",
+    "phrase": "Wiederholung",
+    "phraseMeaning": "revision",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wirken",
+    "meaning": "to work/affect",
+    "phrase": "Wirkung",
+    "phraseMeaning": "effect",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wirten",
+    "meaning": "to host",
+    "phrase": "Bewirtung",
+    "phraseMeaning": "hosting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wohnen",
+    "meaning": "to live",
+    "phrase": "Wohnung",
+    "phraseMeaning": "apartment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wollen",
+    "meaning": "to want",
+    "phrase": "Willensbildung",
+    "phraseMeaning": "formation of will",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zahlen",
+    "meaning": "to pay",
+    "phrase": "Zahlung",
+    "phraseMeaning": "payment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zeigen",
+    "meaning": "to show",
+    "phrase": "Zeigung (rare → Zeigen accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zerstören",
+    "meaning": "to destroy",
+    "phrase": "Zerstörung",
+    "phraseMeaning": "destruction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ziehen",
+    "meaning": "to pull/move",
+    "phrase": "Zuzug",
+    "phraseMeaning": "influx",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zunehmen",
+    "meaning": "to increase",
+    "phrase": "Zunahme",
+    "phraseMeaning": "increase",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zurückkehren",
+    "meaning": "to return",
+    "phrase": "Rückkehr",
+    "phraseMeaning": "return",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zustimmen",
+    "meaning": "to agree",
+    "phrase": "Zustimmung",
+    "phraseMeaning": "approval",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zuteilen",
+    "meaning": "to allocate",
+    "phrase": "Zuteilung",
+    "phraseMeaning": "allocation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zutrauen",
+    "meaning": "to trust",
+    "phrase": "Zutrauen",
+    "phraseMeaning": "confidence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zweifeln",
+    "meaning": "to doubt",
+    "phrase": "Zweifel",
+    "phraseMeaning": "doubt",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abbrechen",
+    "meaning": "to cancel/abort",
+    "phrase": "Abbruch",
+    "phraseMeaning": "cancellation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abbauen",
+    "meaning": "to dismantle/reduce",
+    "phrase": "Abbau",
+    "phraseMeaning": "reduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abfahren",
+    "meaning": "to depart",
+    "phrase": "Abfahrt",
+    "phraseMeaning": "departure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abfragen",
+    "meaning": "to query/test",
+    "phrase": "Abfrage",
+    "phraseMeaning": "query",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abgeben",
+    "meaning": "to submit",
+    "phrase": "Abgabe",
+    "phraseMeaning": "submission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abgrenzen",
+    "meaning": "to define/demarcate",
+    "phrase": "Abgrenzung",
+    "phraseMeaning": "demarcation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abhängen",
+    "meaning": "to depend on",
+    "phrase": "Abhängung (rare → Abhängigkeit used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abholen",
+    "meaning": "to pick up",
+    "phrase": "Abholung",
+    "phraseMeaning": "pickup",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ablehnen",
+    "meaning": "to reject",
+    "phrase": "Ablehnung",
+    "phraseMeaning": "rejection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ablaufen",
+    "meaning": "to expire",
+    "phrase": "Ablauf",
+    "phraseMeaning": "expiration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ablesen",
+    "meaning": "to read (instrument)",
+    "phrase": "Ablesung",
+    "phraseMeaning": "reading",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abliefern",
+    "meaning": "to hand over/deliver",
+    "phrase": "Ablieferung",
+    "phraseMeaning": "delivery",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abmachen",
+    "meaning": "to agree",
+    "phrase": "Abmachung",
+    "phraseMeaning": "agreement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abrechnen",
+    "meaning": "to bill/account",
+    "phrase": "Abrechnung",
+    "phraseMeaning": "billing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abrufen",
+    "meaning": "to retrieve",
+    "phrase": "Abruf",
+    "phraseMeaning": "retrieval",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "absagen",
+    "meaning": "to cancel",
+    "phrase": "Absage",
+    "phraseMeaning": "cancellation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abschalten",
+    "meaning": "to switch off",
+    "phrase": "Abschaltung",
+    "phraseMeaning": "shutdown",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abschließen",
+    "meaning": "to lock/complete",
+    "phrase": "Abschluss",
+    "phraseMeaning": "completion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abschneiden",
+    "meaning": "to cut off",
+    "phrase": "Abschneidung",
+    "phraseMeaning": "cutting off",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abschreiben",
+    "meaning": "to copy/write off",
+    "phrase": "Abschreibung",
+    "phraseMeaning": "depreciation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "absehen",
+    "meaning": "to foresee",
+    "phrase": "Absehung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "absetzen",
+    "meaning": "to discontinue",
+    "phrase": "Absetzung",
+    "phraseMeaning": "discontinuation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "absolvieren",
+    "meaning": "to complete",
+    "phrase": "Absolvierung",
+    "phraseMeaning": "completion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abspielen",
+    "meaning": "to play back",
+    "phrase": "Abspielen",
+    "phraseMeaning": "playback",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abstimmen",
+    "meaning": "to vote",
+    "phrase": "Abstimmung",
+    "phraseMeaning": "vote",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abstürzen",
+    "meaning": "to crash",
+    "phrase": "Absturz",
+    "phraseMeaning": "crash",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abteilen",
+    "meaning": "to divide",
+    "phrase": "Abteilung",
+    "phraseMeaning": "department/division",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abwarten",
+    "meaning": "to wait",
+    "phrase": "Abwarten",
+    "phraseMeaning": "waiting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abwägen",
+    "meaning": "to weigh (options)",
+    "phrase": "Abwägung",
+    "phraseMeaning": "evaluation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abweichen",
+    "meaning": "to deviate",
+    "phrase": "Abweichung",
+    "phraseMeaning": "deviation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abwehren",
+    "meaning": "to defend",
+    "phrase": "Abwehr",
+    "phraseMeaning": "defense",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "abzahlen",
+    "meaning": "to pay off",
+    "phrase": "Abzahlung",
+    "phraseMeaning": "installment payment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "akzeptieren",
+    "meaning": "to accept",
+    "phrase": "Akzeptierung",
+    "phraseMeaning": "acceptance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "analysieren",
+    "meaning": "to analyze",
+    "phrase": "Analyse",
+    "phraseMeaning": "analysis",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ankommen",
+    "meaning": "to arrive",
+    "phrase": "Ankunft",
+    "phraseMeaning": "arrival",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ankündigen",
+    "meaning": "to announce",
+    "phrase": "Ankündigung",
+    "phraseMeaning": "announcement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anpassen",
+    "meaning": "to adapt",
+    "phrase": "Anpassung",
+    "phraseMeaning": "adaptation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anprobieren",
+    "meaning": "to try on",
+    "phrase": "Anprobe",
+    "phraseMeaning": "fitting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anschließen",
+    "meaning": "to connect",
+    "phrase": "Anschluss",
+    "phraseMeaning": "connection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ansehen",
+    "meaning": "to look at",
+    "phrase": "Ansicht",
+    "phraseMeaning": "view",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ansprechen",
+    "meaning": "to address/speak to",
+    "phrase": "Ansprache",
+    "phraseMeaning": "address",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ansteigen",
+    "meaning": "to rise",
+    "phrase": "Anstieg",
+    "phraseMeaning": "increase",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anstelle",
+    "meaning": "to replace (sich anstellen = queue)",
+    "phrase": "Anstellung",
+    "phraseMeaning": "employment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anstrengen",
+    "meaning": "to strain",
+    "phrase": "Anstrengung",
+    "phraseMeaning": "effort",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "antworten",
+    "meaning": "to answer",
+    "phrase": "Antwort",
+    "phraseMeaning": "answer",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anzeigen",
+    "meaning": "to report",
+    "phrase": "Anzeige",
+    "phraseMeaning": "report/advertisement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "anzünden",
+    "meaning": "to ignite",
+    "phrase": "Anzündung",
+    "phraseMeaning": "ignition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "arbeiten",
+    "meaning": "to work",
+    "phrase": "Bearbeitung",
+    "phraseMeaning": "processing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "atmen",
+    "meaning": "to breathe",
+    "phrase": "Atmung",
+    "phraseMeaning": "breathing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufbauen",
+    "meaning": "to build",
+    "phrase": "Aufbau",
+    "phraseMeaning": "construction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufbewahren",
+    "meaning": "to store",
+    "phrase": "Aufbewahrung",
+    "phraseMeaning": "storage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufbrechen",
+    "meaning": "to break open",
+    "phrase": "Aufbruch",
+    "phraseMeaning": "departure/breaking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufdecken",
+    "meaning": "to uncover",
+    "phrase": "Aufdeckung",
+    "phraseMeaning": "exposure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auffallen",
+    "meaning": "to stand out",
+    "phrase": "Auffälligkeit",
+    "phraseMeaning": "abnormality",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auffordern",
+    "meaning": "to request/urge",
+    "phrase": "Aufforderung",
+    "phraseMeaning": "request",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufgeben",
+    "meaning": "to give up",
+    "phrase": "Aufgabe",
+    "phraseMeaning": "task/assignment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufhalten",
+    "meaning": "to stop/hold up",
+    "phrase": "Aufhaltung (rare → Aufenthalt used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufheben",
+    "meaning": "to cancel/abolish",
+    "phrase": "Aufhebung",
+    "phraseMeaning": "cancellation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufklären",
+    "meaning": "to clarify/explain",
+    "phrase": "Aufklärung",
+    "phraseMeaning": "clarification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufkommen",
+    "meaning": "to arise",
+    "phrase": "Aufkommen",
+    "phraseMeaning": "emergence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufladen",
+    "meaning": "to charge",
+    "phrase": "Aufladung",
+    "phraseMeaning": "charging",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auflisten",
+    "meaning": "to list",
+    "phrase": "Auflistung",
+    "phraseMeaning": "listing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufnehmen",
+    "meaning": "to record",
+    "phrase": "Aufnahme",
+    "phraseMeaning": "recording",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufpassen",
+    "meaning": "to pay attention",
+    "phrase": "Aufpassung (rare → Achtung used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufräumen",
+    "meaning": "to tidy up",
+    "phrase": "Aufräumung (rare → Aufräumen as noun used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufrufen",
+    "meaning": "to call up",
+    "phrase": "Aufruf",
+    "phraseMeaning": "call",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufschreiben",
+    "meaning": "to write down",
+    "phrase": "Aufschreibung",
+    "phraseMeaning": "inscription",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufschließen",
+    "meaning": "to open",
+    "phrase": "Aufschließung",
+    "phraseMeaning": "opening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufschlagen",
+    "meaning": "to hit/open",
+    "phrase": "Aufschlag",
+    "phraseMeaning": "surcharge/serve",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufstehen",
+    "meaning": "to get up",
+    "phrase": "Aufstand (uprising)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auftauchen",
+    "meaning": "to appear",
+    "phrase": "Auftauchung (rare → Auftauchen used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufteilen",
+    "meaning": "to divide",
+    "phrase": "Aufteilung",
+    "phraseMeaning": "distribution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufwachen",
+    "meaning": "to wake up",
+    "phrase": "Aufwachen",
+    "phraseMeaning": "awakening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufwärmen",
+    "meaning": "to warm up",
+    "phrase": "Aufwärmung",
+    "phraseMeaning": "warming",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aufzeichnen",
+    "meaning": "to record",
+    "phrase": "Aufzeichnung",
+    "phraseMeaning": "documentation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausatmen",
+    "meaning": "to exhale",
+    "phrase": "Ausatmung",
+    "phraseMeaning": "exhalation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausfallen",
+    "meaning": "to fail/be canceled",
+    "phrase": "Ausfall",
+    "phraseMeaning": "failure/outage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausfüllen",
+    "meaning": "to fill out",
+    "phrase": "Ausfüllung",
+    "phraseMeaning": "completion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausgeben",
+    "meaning": "to spend",
+    "phrase": "Ausgabe",
+    "phraseMeaning": "expense",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausgehen",
+    "meaning": "to go out",
+    "phrase": "Ausgehen",
+    "phraseMeaning": "going out",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausgleichen",
+    "meaning": "to balance",
+    "phrase": "Ausgleich",
+    "phraseMeaning": "balance/compensation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausgrenzen",
+    "meaning": "to exclude",
+    "phrase": "Ausgrenzung",
+    "phraseMeaning": "exclusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aushalten",
+    "meaning": "to endure",
+    "phrase": "Aushaltung (rare → Ausdauer)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auskommen",
+    "meaning": "to manage",
+    "phrase": "Auskommen",
+    "phraseMeaning": "livelihood",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausleihen",
+    "meaning": "to borrow",
+    "phrase": "Ausleihe",
+    "phraseMeaning": "loan",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausliefern",
+    "meaning": "to deliver",
+    "phrase": "Auslieferung",
+    "phraseMeaning": "delivery",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausmachen",
+    "meaning": "to agree/define",
+    "phrase": "Ausmachung",
+    "phraseMeaning": "arrangement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auspacken",
+    "meaning": "to unpack",
+    "phrase": "Auspackung",
+    "phraseMeaning": "unpacking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausruhen",
+    "meaning": "to rest",
+    "phrase": "Ausruhung (rare → Erholung used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausrüsten",
+    "meaning": "to equip",
+    "phrase": "Ausrüstung",
+    "phraseMeaning": "equipment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausschalten",
+    "meaning": "to turn off",
+    "phrase": "Ausschaltung",
+    "phraseMeaning": "deactivation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausschließen",
+    "meaning": "to exclude",
+    "phrase": "Ausschluss",
+    "phraseMeaning": "exclusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausschreiben",
+    "meaning": "to tender",
+    "phrase": "Ausschreibung",
+    "phraseMeaning": "tendering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aussehen",
+    "meaning": "to look/appear",
+    "phrase": "Aussehen",
+    "phraseMeaning": "appearance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aussprechen",
+    "meaning": "to pronounce",
+    "phrase": "Aussprache",
+    "phraseMeaning": "pronunciation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "aussteigen",
+    "meaning": "to get off",
+    "phrase": "Ausstieg",
+    "phraseMeaning": "exit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ausüben",
+    "meaning": "to perform (work)",
+    "phrase": "Ausübung",
+    "phraseMeaning": "execution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswählen",
+    "meaning": "to select",
+    "phrase": "Auswahl",
+    "phraseMeaning": "selection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswandern",
+    "meaning": "to emigrate",
+    "phrase": "Auswanderung",
+    "phraseMeaning": "emigration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "auswerten",
+    "meaning": "to analyze",
+    "phrase": "Auswertung",
+    "phraseMeaning": "evaluation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "backen",
+    "meaning": "to bake",
+    "phrase": "Backung (rare → Backen as noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "baden",
+    "meaning": "to bathe",
+    "phrase": "Badung (rare → Bad used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bauen",
+    "meaning": "to build",
+    "phrase": "Bau",
+    "phraseMeaning": "construction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beabsichtigen",
+    "meaning": "to intend",
+    "phrase": "Absicht",
+    "phraseMeaning": "intention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beachten",
+    "meaning": "to consider",
+    "phrase": "Beachtung",
+    "phraseMeaning": "attention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beantworten",
+    "meaning": "to answer",
+    "phrase": "Beantwortung",
+    "phraseMeaning": "response",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bedienen",
+    "meaning": "to operate",
+    "phrase": "Bedienung",
+    "phraseMeaning": "operation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beeindrucken",
+    "meaning": "to impress",
+    "phrase": "Eindruck (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befinden",
+    "meaning": "to be located/feel",
+    "phrase": "Befinden",
+    "phraseMeaning": "condition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befördern",
+    "meaning": "to transport/promote",
+    "phrase": "Beförderung",
+    "phraseMeaning": "promotion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "befürworten",
+    "meaning": "to support",
+    "phrase": "Befürwortung",
+    "phraseMeaning": "endorsement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begreifen",
+    "meaning": "to understand",
+    "phrase": "Begriff",
+    "phraseMeaning": "concept",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "begrüßen",
+    "meaning": "to welcome",
+    "phrase": "Begrüßung",
+    "phraseMeaning": "greeting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beherrschen",
+    "meaning": "to master/control",
+    "phrase": "Beherrschung",
+    "phraseMeaning": "mastery",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "behindern",
+    "meaning": "to hinder",
+    "phrase": "Behinderung",
+    "phraseMeaning": "hindrance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beißen",
+    "meaning": "to bite",
+    "phrase": "Biss (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beilegen",
+    "meaning": "to attach",
+    "phrase": "Beilegung",
+    "phraseMeaning": "settlement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "belegen",
+    "meaning": "to prove",
+    "phrase": "Belegung",
+    "phraseMeaning": "occupancy",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beleidigen",
+    "meaning": "to insult",
+    "phrase": "Beleidigung",
+    "phraseMeaning": "insult",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bemalen",
+    "meaning": "to paint",
+    "phrase": "Bemalung",
+    "phraseMeaning": "painting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bemerkten",
+    "meaning": "to notice",
+    "phrase": "Bemerkung",
+    "phraseMeaning": "remark",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "benachrichtigen",
+    "meaning": "to notify",
+    "phrase": "Benachrichtigung",
+    "phraseMeaning": "notification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "benennen",
+    "meaning": "to name",
+    "phrase": "Benennung",
+    "phraseMeaning": "designation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "berichten",
+    "meaning": "to report",
+    "phrase": "Berichtserstattung",
+    "phraseMeaning": "reporting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beruhigen",
+    "meaning": "to calm",
+    "phrase": "Beruhigung",
+    "phraseMeaning": "calming",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschäftigen",
+    "meaning": "to employ",
+    "phrase": "Beschäftigung",
+    "phraseMeaning": "employment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschließen",
+    "meaning": "to decide",
+    "phrase": "Beschlussfassung",
+    "phraseMeaning": "resolution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beschweren",
+    "meaning": "to complain",
+    "phrase": "Beschwerung",
+    "phraseMeaning": "complaint",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beseitigen",
+    "meaning": "to remove",
+    "phrase": "Beseitigung",
+    "phraseMeaning": "removal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besetzen",
+    "meaning": "to occupy",
+    "phrase": "Besetzung",
+    "phraseMeaning": "occupation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besichtigen",
+    "meaning": "to tour/visit",
+    "phrase": "Besichtigung",
+    "phraseMeaning": "visit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besiegen",
+    "meaning": "to defeat",
+    "phrase": "Besiegung",
+    "phraseMeaning": "victory",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besitzen",
+    "meaning": "to own",
+    "phrase": "Besitz",
+    "phraseMeaning": "ownership",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besondern (reflexive)",
+    "meaning": "to differ",
+    "phrase": "Besonderung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "besorgen",
+    "meaning": "to obtain",
+    "phrase": "Besorgung",
+    "phraseMeaning": "procurement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bessern",
+    "meaning": "to improve",
+    "phrase": "Besserung",
+    "phraseMeaning": "improvement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bestehen",
+    "meaning": "to pass/exist",
+    "phrase": "Bestehung (rare → Bestehen used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "beten",
+    "meaning": "to pray",
+    "phrase": "Gebet (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betragen",
+    "meaning": "to amount to",
+    "phrase": "Betragung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betreiben",
+    "meaning": "to run/operate",
+    "phrase": "Betrieb",
+    "phraseMeaning": "operation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betreten",
+    "meaning": "to enter",
+    "phrase": "Betretung (rare → Betreten used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betonen",
+    "meaning": "to emphasize",
+    "phrase": "Betonung",
+    "phraseMeaning": "emphasis",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "betrügen",
+    "meaning": "to cheat",
+    "phrase": "Betrug",
+    "phraseMeaning": "cheating",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bevorzugen",
+    "meaning": "to prefer",
+    "phrase": "Bevorzugung",
+    "phraseMeaning": "preference",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewältigen",
+    "meaning": "to overcome",
+    "phrase": "Bewältigung",
+    "phraseMeaning": "overcoming",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewirken",
+    "meaning": "to cause",
+    "phrase": "Bewirkung",
+    "phraseMeaning": "effect",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bewundern",
+    "meaning": "to admire",
+    "phrase": "Bewunderung",
+    "phraseMeaning": "admiration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bezeichnen",
+    "meaning": "to label/name",
+    "phrase": "Bezeichnung",
+    "phraseMeaning": "designation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bezweifeln",
+    "meaning": "to doubt",
+    "phrase": "Bezweiflung",
+    "phraseMeaning": "doubt",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bieten",
+    "meaning": "to offer",
+    "phrase": "Angebot (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bilden",
+    "meaning": "to form",
+    "phrase": "Bildung",
+    "phraseMeaning": "education",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "billigen",
+    "meaning": "to approve",
+    "phrase": "Billigung",
+    "phraseMeaning": "approval",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bitten",
+    "meaning": "to request",
+    "phrase": "Bitte",
+    "phraseMeaning": "request",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bleiben",
+    "meaning": "to remain",
+    "phrase": "Verbleib",
+    "phraseMeaning": "remaining",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "blicken",
+    "meaning": "to look",
+    "phrase": "Blick (noun)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "blockieren",
+    "meaning": "to block",
+    "phrase": "Blockierung",
+    "phraseMeaning": "blocking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bluten",
+    "meaning": "to bleed",
+    "phrase": "Blutung",
+    "phraseMeaning": "bleeding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "brauchen",
+    "meaning": "to need",
+    "phrase": "Gebrauch",
+    "phraseMeaning": "use",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "brauen",
+    "meaning": "to brew",
+    "phrase": "Brauung",
+    "phraseMeaning": "brewing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "brechen",
+    "meaning": "to break",
+    "phrase": "Brechung",
+    "phraseMeaning": "refraction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bremsen",
+    "meaning": "to brake",
+    "phrase": "Bremsung",
+    "phraseMeaning": "braking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bringen",
+    "meaning": "to bring",
+    "phrase": "Erbringung",
+    "phraseMeaning": "provision",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "buchen",
+    "meaning": "to book",
+    "phrase": "Buchung",
+    "phraseMeaning": "reservation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bündeln",
+    "meaning": "to bundle",
+    "phrase": "Bündelung",
+    "phraseMeaning": "bundling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "bürsten",
+    "meaning": "to brush",
+    "phrase": "Bürstung",
+    "phraseMeaning": "brushing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "campen",
+    "meaning": "to camp",
+    "phrase": "Campung (rare → Camping used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "checken",
+    "meaning": "to check",
+    "phrase": "Checkung (Denglisch → Prüfung proper)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "decken",
+    "meaning": "to cover",
+    "phrase": "Deckung",
+    "phraseMeaning": "coverage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "dienen",
+    "meaning": "to serve",
+    "phrase": "Bedienung (accepted)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "digitalisieren",
+    "meaning": "to digitize",
+    "phrase": "Digitalisierung",
+    "phraseMeaning": "digitalization",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "distanzieren",
+    "meaning": "to distance oneself",
+    "phrase": "Distanzierung",
+    "phraseMeaning": "distancing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "dokumentieren",
+    "meaning": "to document",
+    "phrase": "Dokumentation",
+    "phraseMeaning": "documentation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "downloaden",
+    "meaning": "to download",
+    "phrase": "Download",
+    "phraseMeaning": "download",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "drehen",
+    "meaning": "to turn/film",
+    "phrase": "Drehung",
+    "phraseMeaning": "rotation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "drucken",
+    "meaning": "to print",
+    "phrase": "Druck",
+    "phraseMeaning": "print",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "dürfen",
+    "meaning": "to be allowed",
+    "phrase": "Genehmigung (verb form not direct)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchatmen",
+    "meaning": "to breathe deeply",
+    "phrase": "Durchatmung",
+    "phraseMeaning": "deep breathing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchführen",
+    "meaning": "to execute",
+    "phrase": "Durchführung",
+    "phraseMeaning": "execution",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchlesen",
+    "meaning": "to read through",
+    "phrase": "Durchlesen",
+    "phraseMeaning": "review reading",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchstarten",
+    "meaning": "to take off",
+    "phrase": "Durchstarten",
+    "phraseMeaning": "breakout",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "durchstehen",
+    "meaning": "to endure",
+    "phrase": "Durchstehung",
+    "phraseMeaning": "endurance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "dürsten",
+    "meaning": "to thirst",
+    "phrase": "Durst",
+    "phraseMeaning": "thirst",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "duschen",
+    "meaning": "to shower",
+    "phrase": "Dusche",
+    "phraseMeaning": "showering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eignen",
+    "meaning": "to be suitable",
+    "phrase": "Eignung",
+    "phraseMeaning": "suitability",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einchecken",
+    "meaning": "to check in",
+    "phrase": "Check-in",
+    "phraseMeaning": "check-in",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eindecken",
+    "meaning": "to cover",
+    "phrase": "Eindeckung",
+    "phraseMeaning": "coverage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eindringen",
+    "meaning": "to penetrate",
+    "phrase": "Eindringen",
+    "phraseMeaning": "intrusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einfallen",
+    "meaning": "to occur (idea)",
+    "phrase": "Einfall",
+    "phraseMeaning": "idea",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eingreifen",
+    "meaning": "to intervene",
+    "phrase": "Eingriff",
+    "phraseMeaning": "intervention",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einhalten",
+    "meaning": "to follow (rules)",
+    "phrase": "Einhaltung",
+    "phraseMeaning": "compliance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einleben (sich)",
+    "meaning": "to settle in",
+    "phrase": "Einleben",
+    "phraseMeaning": "integration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einleiten",
+    "meaning": "to initiate",
+    "phrase": "Einleitung",
+    "phraseMeaning": "introduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einliefern",
+    "meaning": "to deliver (hospital/prison)",
+    "phrase": "Einlieferung",
+    "phraseMeaning": "intake",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einlösen",
+    "meaning": "to redeem",
+    "phrase": "Einlösung",
+    "phraseMeaning": "redemption",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einnehmen",
+    "meaning": "to take (meds/money)",
+    "phrase": "Einnahme",
+    "phraseMeaning": "intake",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einordnen",
+    "meaning": "to classify",
+    "phrase": "Einordnung",
+    "phraseMeaning": "classification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einpacken",
+    "meaning": "to pack",
+    "phrase": "Einpackung",
+    "phraseMeaning": "packing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einplanen",
+    "meaning": "to schedule",
+    "phrase": "Einplanung",
+    "phraseMeaning": "planning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einreichen",
+    "meaning": "to submit",
+    "phrase": "Einreichung",
+    "phraseMeaning": "submission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einschalten",
+    "meaning": "to turn on",
+    "phrase": "Einschaltung",
+    "phraseMeaning": "activation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einschließen",
+    "meaning": "to include/lock in",
+    "phrase": "Einschluss",
+    "phraseMeaning": "enclosure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einschränken",
+    "meaning": "to restrict",
+    "phrase": "Einschränkung",
+    "phraseMeaning": "restriction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einsehen",
+    "meaning": "to realize/inspect",
+    "phrase": "Einsicht",
+    "phraseMeaning": "insight",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einsetzen",
+    "meaning": "to use/apply",
+    "phrase": "Einsatz",
+    "phraseMeaning": "usage/deployment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einsteigen",
+    "meaning": "to board",
+    "phrase": "Einstieg",
+    "phraseMeaning": "boarding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einstellen",
+    "meaning": "to adjust/employ",
+    "phrase": "Einstellung",
+    "phraseMeaning": "adjustment/employment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einstufen",
+    "meaning": "to classify/level",
+    "phrase": "Einstufung",
+    "phraseMeaning": "placement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eintreffen",
+    "meaning": "to arrive",
+    "phrase": "Eintreffen",
+    "phraseMeaning": "arrival",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einweisen",
+    "meaning": "to instruct/admit",
+    "phrase": "Einweisung",
+    "phraseMeaning": "instruction/admission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einwirken",
+    "meaning": "to influence",
+    "phrase": "Einwirkung",
+    "phraseMeaning": "influence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "einziehen",
+    "meaning": "to move in/collect (money)",
+    "phrase": "Einzug",
+    "phraseMeaning": "move-in",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "elektrifizieren",
+    "meaning": "to electrify",
+    "phrase": "Elektrifizierung",
+    "phraseMeaning": "electrification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entbehren",
+    "meaning": "to go without",
+    "phrase": "Entbehrung",
+    "phraseMeaning": "deprivation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "enteignen",
+    "meaning": "to expropriate",
+    "phrase": "Enteignung",
+    "phraseMeaning": "expropriation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entfliehen",
+    "meaning": "to flee/escape",
+    "phrase": "Entfliehung (rare → Flucht)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entgegenkommen",
+    "meaning": "to accommodate",
+    "phrase": "Entgegenkommen",
+    "phraseMeaning": "consideration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entgehen",
+    "meaning": "to escape (avoid)",
+    "phrase": "Entgehen",
+    "phraseMeaning": "avoidance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entkräften",
+    "meaning": "to weaken",
+    "phrase": "Entkräftung",
+    "phraseMeaning": "weakening",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entladen",
+    "meaning": "to discharge",
+    "phrase": "Entladung",
+    "phraseMeaning": "discharge",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entlangen",
+    "meaning": "to reach",
+    "phrase": "Erlangung",
+    "phraseMeaning": "attainment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entlassen",
+    "meaning": "to fire/release",
+    "phrase": "Entlassung",
+    "phraseMeaning": "dismissal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entlasten",
+    "meaning": "to relieve",
+    "phrase": "Entlastung",
+    "phraseMeaning": "relief",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entnehmen",
+    "meaning": "to withdraw",
+    "phrase": "Entnahme",
+    "phraseMeaning": "takeout/withdrawal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entschlüsseln",
+    "meaning": "to decode",
+    "phrase": "Entschlüsselung",
+    "phraseMeaning": "decryption",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entschärfen",
+    "meaning": "to defuse",
+    "phrase": "Entschärfung",
+    "phraseMeaning": "disarmament",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "enttäuschen",
+    "meaning": "to disappoint",
+    "phrase": "Enttäuschung",
+    "phraseMeaning": "disappointment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entwirren",
+    "meaning": "to untangle",
+    "phrase": "Entwirrung",
+    "phraseMeaning": "disentanglement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "entziehen",
+    "meaning": "to withdraw/remove",
+    "phrase": "Entziehung",
+    "phraseMeaning": "withdrawal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erben",
+    "meaning": "to inherit",
+    "phrase": "Erbe (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erbringen",
+    "meaning": "to deliver (services)",
+    "phrase": "Erbringung",
+    "phraseMeaning": "providing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erdulden",
+    "meaning": "to endure",
+    "phrase": "Erduldung",
+    "phraseMeaning": "enduring",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ergeben",
+    "meaning": "to result",
+    "phrase": "Ergebnis",
+    "phraseMeaning": "result",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ergänzen",
+    "meaning": "to add/complete",
+    "phrase": "Ergänzung",
+    "phraseMeaning": "supplement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erheben",
+    "meaning": "to raise",
+    "phrase": "Erhebung",
+    "phraseMeaning": "survey/raising",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlauben",
+    "meaning": "to allow",
+    "phrase": "Erlaubnis",
+    "phraseMeaning": "permission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlösen",
+    "meaning": "to release/save",
+    "phrase": "Erlösung",
+    "phraseMeaning": "redemption",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlösen",
+    "meaning": "to redeem/cash in",
+    "phrase": "Erlösung",
+    "phraseMeaning": "redemption",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erlöschen",
+    "meaning": "to expire",
+    "phrase": "Erlöschen",
+    "phraseMeaning": "expiry",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erleben",
+    "meaning": "to experience",
+    "phrase": "Erlebnis",
+    "phraseMeaning": "lived experience",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erledigen",
+    "meaning": "to complete",
+    "phrase": "Erledigung",
+    "phraseMeaning": "completion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erleichtern",
+    "meaning": "to relieve/ease",
+    "phrase": "Erleichterung",
+    "phraseMeaning": "relief",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erleiden",
+    "meaning": "to suffer",
+    "phrase": "Erl eidung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ermahnen",
+    "meaning": "to warn/admonish",
+    "phrase": "Ermahnung",
+    "phraseMeaning": "warning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "eröffnen",
+    "meaning": "to open",
+    "phrase": "Eröffnung",
+    "phraseMeaning": "opening event",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erreichen",
+    "meaning": "to achieve/reach",
+    "phrase": "Erreichung",
+    "phraseMeaning": "achievement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "errichten",
+    "meaning": "to erect/build",
+    "phrase": "Errichtung",
+    "phraseMeaning": "construction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erschließen",
+    "meaning": "to develop",
+    "phrase": "Erschließung",
+    "phraseMeaning": "development",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erschrecken",
+    "meaning": "to frighten",
+    "phrase": "Erschreckung",
+    "phraseMeaning": "fright",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erschweren",
+    "meaning": "to complicate",
+    "phrase": "Erschwerung",
+    "phraseMeaning": "complication",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erweitern",
+    "meaning": "to broaden",
+    "phrase": "Erweiterung",
+    "phraseMeaning": "expansion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erzählen",
+    "meaning": "to tell",
+    "phrase": "Erzählung",
+    "phraseMeaning": "narrative",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "erzeugen",
+    "meaning": "to generate/produce",
+    "phrase": "Erzeugung",
+    "phraseMeaning": "production",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "exportieren",
+    "meaning": "to export",
+    "phrase": "Exportierung (Export used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fallen",
+    "meaning": "to fall",
+    "phrase": "Fall",
+    "phraseMeaning": "fall",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "falten",
+    "meaning": "to fold",
+    "phrase": "Faltung",
+    "phraseMeaning": "folding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fangen",
+    "meaning": "to catch",
+    "phrase": "Fang",
+    "phraseMeaning": "catch",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "faszinieren",
+    "meaning": "to fascinate",
+    "phrase": "Faszination",
+    "phraseMeaning": "fascination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "faulenzen",
+    "meaning": "to be lazy",
+    "phrase": "Faulenzung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "favorisieren",
+    "meaning": "to favor",
+    "phrase": "Favorisierung",
+    "phraseMeaning": "favoritism",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "faxen",
+    "meaning": "to fax",
+    "phrase": "Fax",
+    "phraseMeaning": "fax",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fehlen",
+    "meaning": "to be missing",
+    "phrase": "Fehlen",
+    "phraseMeaning": "absence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fehlen (sich)",
+    "meaning": "to miss (emotionally)",
+    "phrase": "Fehlung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "feiern",
+    "meaning": "to celebrate",
+    "phrase": "Feier",
+    "phraseMeaning": "celebration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fertigen",
+    "meaning": "to manufacture",
+    "phrase": "Fertigung",
+    "phraseMeaning": "production",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "festhalten",
+    "meaning": "to hold on",
+    "phrase": "Festhaltung",
+    "phraseMeaning": "detainment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "festigen",
+    "meaning": "to strengthen",
+    "phrase": "Festigung",
+    "phraseMeaning": "consolidation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "festlegen",
+    "meaning": "to determine",
+    "phrase": "Festlegung",
+    "phraseMeaning": "regulation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "finden",
+    "meaning": "to find",
+    "phrase": "Findung",
+    "phraseMeaning": "finding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fixieren",
+    "meaning": "to fix/focus",
+    "phrase": "Fixierung",
+    "phraseMeaning": "fixation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fliehen",
+    "meaning": "to flee",
+    "phrase": "Flucht",
+    "phraseMeaning": "flight",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fließen",
+    "meaning": "to flow",
+    "phrase": "Fluss (not -ung)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "flüchten",
+    "meaning": "to flee",
+    "phrase": "Flüchtung (rare → Flucht)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "flüstern",
+    "meaning": "to whisper",
+    "phrase": "Flüsterung",
+    "phraseMeaning": "whispering",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fördern",
+    "meaning": "to support/promote",
+    "phrase": "Förderung",
+    "phraseMeaning": "promotion/support",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "formen",
+    "meaning": "to form",
+    "phrase": "Formung",
+    "phraseMeaning": "shaping",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "forschen",
+    "meaning": "to research",
+    "phrase": "Forschung",
+    "phraseMeaning": "research",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fotografieren",
+    "meaning": "to photograph",
+    "phrase": "Fotografie",
+    "phraseMeaning": "photography",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "freigeben",
+    "meaning": "to release",
+    "phrase": "Freigabe",
+    "phraseMeaning": "authorization/release",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "freuen (sich)",
+    "meaning": "to be happy",
+    "phrase": "Freude",
+    "phraseMeaning": "joy",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "frieren",
+    "meaning": "to freeze",
+    "phrase": "Gefrieren",
+    "phraseMeaning": "freezing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fügen",
+    "meaning": "to join",
+    "phrase": "Fügung",
+    "phraseMeaning": "coincidence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fühlen",
+    "meaning": "to feel",
+    "phrase": "Gefühl",
+    "phraseMeaning": "feeling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "funktionieren",
+    "meaning": "to function",
+    "phrase": "Funktionierung (rare → Funktion)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "fördern",
+    "meaning": "to support",
+    "phrase": "Förderung",
+    "phraseMeaning": "support",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gebären",
+    "meaning": "to give birth",
+    "phrase": "Geburt",
+    "phraseMeaning": "birth",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gefallen",
+    "meaning": "to please",
+    "phrase": "Gefallen",
+    "phraseMeaning": "favor",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gelten",
+    "meaning": "to be valid",
+    "phrase": "Geltung",
+    "phraseMeaning": "validity",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "genießen",
+    "meaning": "to enjoy",
+    "phrase": "Genuss",
+    "phraseMeaning": "enjoyment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "genügen",
+    "meaning": "to suffice",
+    "phrase": "Genügung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geraten",
+    "meaning": "to end up",
+    "phrase": "Geraten",
+    "phraseMeaning": "ending up",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gerinnen",
+    "meaning": "to clot",
+    "phrase": "Gerinnung",
+    "phraseMeaning": "coagulation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "geschehen",
+    "meaning": "to happen",
+    "phrase": "Geschehen",
+    "phraseMeaning": "occurrence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gestalten",
+    "meaning": "to design",
+    "phrase": "Gestaltung",
+    "phraseMeaning": "design/layout",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gesund ernähren (sich)",
+    "meaning": "to eat healthy",
+    "phrase": "Ernährung",
+    "phraseMeaning": "nutrition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gewähren",
+    "meaning": "to grant",
+    "phrase": "Gewährung",
+    "phraseMeaning": "granting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gewinnen",
+    "meaning": "to win",
+    "phrase": "Gewinnung",
+    "phraseMeaning": "acquisition",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gewöhnen",
+    "meaning": "to get used to",
+    "phrase": "Gewöhnung",
+    "phraseMeaning": "habituation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gießen",
+    "meaning": "to pour",
+    "phrase": "Gießung",
+    "phraseMeaning": "casting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gleichen",
+    "meaning": "to resemble",
+    "phrase": "Gleichung",
+    "phraseMeaning": "equation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "glauben",
+    "meaning": "to believe",
+    "phrase": "Glaube",
+    "phraseMeaning": "belief/faith",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "gratulieren",
+    "meaning": "to congratulate",
+    "phrase": "Gratulation",
+    "phraseMeaning": "congratulation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "greifen",
+    "meaning": "to grasp",
+    "phrase": "Griff",
+    "phraseMeaning": "grip",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "grinsen",
+    "meaning": "to grin",
+    "phrase": "Grinsen",
+    "phraseMeaning": "grin",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "grüßen",
+    "meaning": "to greet",
+    "phrase": "Gruß",
+    "phraseMeaning": "greeting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "halten",
+    "meaning": "to hold",
+    "phrase": "Haltung",
+    "phraseMeaning": "posture/attitude",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "handeln",
+    "meaning": "to act/trade",
+    "phrase": "Handlung",
+    "phraseMeaning": "action",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "heilen",
+    "meaning": "to heal",
+    "phrase": "Heilung",
+    "phraseMeaning": "healing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "heiraten",
+    "meaning": "to marry",
+    "phrase": "Heirat",
+    "phraseMeaning": "marriage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "heizen",
+    "meaning": "to heat",
+    "phrase": "Heizung",
+    "phraseMeaning": "heating",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "holen",
+    "meaning": "to fetch",
+    "phrase": "Abholung",
+    "phraseMeaning": "pickup",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "hören",
+    "meaning": "to hear",
+    "phrase": "Hörung (rare → Anhörung used)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "integrieren",
+    "meaning": "to integrate",
+    "phrase": "Integration",
+    "phraseMeaning": "integration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "interessieren",
+    "meaning": "to interest",
+    "phrase": "Interesse",
+    "phraseMeaning": "interest",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "interpretieren",
+    "meaning": "to interpret",
+    "phrase": "Interpretation",
+    "phraseMeaning": "interpretation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "investieren",
+    "meaning": "to invest",
+    "phrase": "Investition",
+    "phraseMeaning": "investment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "isolieren",
+    "meaning": "to isolate",
+    "phrase": "Isolation",
+    "phraseMeaning": "isolation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kalkulieren",
+    "meaning": "to calculate",
+    "phrase": "Kalkulation",
+    "phraseMeaning": "calculation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kämmen",
+    "meaning": "to comb",
+    "phrase": "Kämmung",
+    "phraseMeaning": "combing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kaufen",
+    "meaning": "to buy",
+    "phrase": "Einkauf",
+    "phraseMeaning": "purchase",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kaufen (ein)",
+    "meaning": "to shop",
+    "phrase": "Einkauf",
+    "phraseMeaning": "shopping",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "klagen",
+    "meaning": "to complain/sue",
+    "phrase": "Klage",
+    "phraseMeaning": "lawsuit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "klassifizieren",
+    "meaning": "to classify",
+    "phrase": "Klassifizierung",
+    "phraseMeaning": "classification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "klicken",
+    "meaning": "to click",
+    "phrase": "Klick",
+    "phraseMeaning": "click",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "klingeln",
+    "meaning": "to ring",
+    "phrase": "Klingeln",
+    "phraseMeaning": "ringing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kooperieren",
+    "meaning": "to cooperate",
+    "phrase": "Kooperation",
+    "phraseMeaning": "cooperation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "korrigieren",
+    "meaning": "to correct",
+    "phrase": "Korrektur",
+    "phraseMeaning": "correction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kosten",
+    "meaning": "to cost",
+    "phrase": "Kosten",
+    "phraseMeaning": "costs",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kritisiert",
+    "meaning": "to criticize",
+    "phrase": "Kritik",
+    "phraseMeaning": "criticism",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kühlen",
+    "meaning": "to cool",
+    "phrase": "Kühlung",
+    "phraseMeaning": "cooling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "kümmern",
+    "meaning": "to care for",
+    "phrase": "Betreuung",
+    "phraseMeaning": "care/support",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lachen",
+    "meaning": "to laugh",
+    "phrase": "Lachen",
+    "phraseMeaning": "laughter",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "laden",
+    "meaning": "to load",
+    "phrase": "Ladung",
+    "phraseMeaning": "charge",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lassen",
+    "meaning": "to let/allow",
+    "phrase": "Zulassung",
+    "phraseMeaning": "approval",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "laufen",
+    "meaning": "to walk/run",
+    "phrase": "Lauf",
+    "phraseMeaning": "run",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "leben",
+    "meaning": "to live",
+    "phrase": "Leben",
+    "phraseMeaning": "life",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "legen",
+    "meaning": "to put",
+    "phrase": "Belegung",
+    "phraseMeaning": "occupancy",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lernen",
+    "meaning": "to learn",
+    "phrase": "Lernen",
+    "phraseMeaning": "learning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lesen",
+    "meaning": "to read",
+    "phrase": "Lesung",
+    "phraseMeaning": "reading event",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lügen",
+    "meaning": "to lie",
+    "phrase": "Lüge",
+    "phraseMeaning": "lie",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "lüften",
+    "meaning": "to ventilate",
+    "phrase": "Lüftung",
+    "phraseMeaning": "ventilation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "malen",
+    "meaning": "to paint",
+    "phrase": "Malerei",
+    "phraseMeaning": "painting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "manipulieren",
+    "meaning": "to manipulate",
+    "phrase": "Manipulation",
+    "phraseMeaning": "manipulation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "markieren",
+    "meaning": "to mark",
+    "phrase": "Markierung",
+    "phraseMeaning": "marking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "melden",
+    "meaning": "to report",
+    "phrase": "Meldung",
+    "phraseMeaning": "report",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "merken",
+    "meaning": "to notice",
+    "phrase": "Bemerkung",
+    "phraseMeaning": "remark",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitarbeiten",
+    "meaning": "to cooperate",
+    "phrase": "Mitarbeit",
+    "phraseMeaning": "collaboration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitbestimmen",
+    "meaning": "to co-decide",
+    "phrase": "Mitbestimmung",
+    "phraseMeaning": "co-determination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitbringen",
+    "meaning": "to bring along",
+    "phrase": "Mitbringung",
+    "phraseMeaning": "bringing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitfahren",
+    "meaning": "to ride with",
+    "phrase": "Mitfahrt",
+    "phraseMeaning": "ride participation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitmachen",
+    "meaning": "to participate",
+    "phrase": "Mitmachung (rare → Teilnahme)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitnehmen",
+    "meaning": "to take along",
+    "phrase": "Mitnahme",
+    "phraseMeaning": "taking along",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitteilen",
+    "meaning": "to inform",
+    "phrase": "Mitteilung",
+    "phraseMeaning": "notice/communication",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "mitwirken",
+    "meaning": "to contribute",
+    "phrase": "Mitwirkung",
+    "phraseMeaning": "involvement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "modernisieren",
+    "meaning": "to modernize",
+    "phrase": "Modernisierung",
+    "phraseMeaning": "modernization",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "möglichen",
+    "meaning": "to make possible",
+    "phrase": "Ermöglichung",
+    "phraseMeaning": "enabling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "müssen",
+    "meaning": "to must",
+    "phrase": "Verpflichtung (from verb \"verpflichten\")",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachdenken",
+    "meaning": "to reflect",
+    "phrase": "Nachdenken",
+    "phraseMeaning": "reflection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachfragen",
+    "meaning": "to ask/follow up",
+    "phrase": "Nachfrage",
+    "phraseMeaning": "inquiry/demand",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachholen",
+    "meaning": "to catch up",
+    "phrase": "Nachholung",
+    "phraseMeaning": "catching up",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachlassen",
+    "meaning": "to fade/decrease",
+    "phrase": "Nachlass",
+    "phraseMeaning": "reduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachlesen",
+    "meaning": "to check/read up",
+    "phrase": "Nachlesen",
+    "phraseMeaning": "checking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachreichen",
+    "meaning": "to submit later",
+    "phrase": "Nachreichung",
+    "phraseMeaning": "late submission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachrechnen",
+    "meaning": "to recalculate",
+    "phrase": "Nachrechnung",
+    "phraseMeaning": "recounting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachschlagen",
+    "meaning": "to look up",
+    "phrase": "Nachschlagen",
+    "phraseMeaning": "referencing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachsehen",
+    "meaning": "to check",
+    "phrase": "Nachsehen",
+    "phraseMeaning": "checking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nachweisen",
+    "meaning": "to prove",
+    "phrase": "Nachweis",
+    "phraseMeaning": "proof",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "nähen",
+    "meaning": "to sew",
+    "phrase": "Nähung (rare)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "packen",
+    "meaning": "to pack",
+    "phrase": "Verpackung",
+    "phraseMeaning": "packaging",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "parken",
+    "meaning": "to park",
+    "phrase": "Parken",
+    "phraseMeaning": "parking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "produzieren",
+    "meaning": "to produce",
+    "phrase": "Produktion",
+    "phraseMeaning": "production",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "prüfen",
+    "meaning": "to check",
+    "phrase": "Prüfung",
+    "phraseMeaning": "examination",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "putzen",
+    "meaning": "to clean",
+    "phrase": "Reinigung",
+    "phraseMeaning": "cleaning",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "qualifizieren",
+    "meaning": "to qualify",
+    "phrase": "Qualifizierung",
+    "phraseMeaning": "qualification",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "radieren",
+    "meaning": "to erase",
+    "phrase": "Radierung",
+    "phraseMeaning": "etching",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "rasieren",
+    "meaning": "to shave",
+    "phrase": "Rasur",
+    "phraseMeaning": "shave",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "realisieren",
+    "meaning": "to realize",
+    "phrase": "Realisierung",
+    "phraseMeaning": "implementation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reisen",
+    "meaning": "to travel",
+    "phrase": "Reise",
+    "phraseMeaning": "trip",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "rennen",
+    "meaning": "to run",
+    "phrase": "Rennen",
+    "phraseMeaning": "race",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "reichen",
+    "meaning": "to hand/extend",
+    "phrase": "Überreichung",
+    "phraseMeaning": "presentation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "riskieren",
+    "meaning": "to risk",
+    "phrase": "Risikierung (rare → Risiko)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "rufen",
+    "meaning": "to call",
+    "phrase": "Ruf",
+    "phraseMeaning": "calling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sagen",
+    "meaning": "to say",
+    "phrase": "Aussage",
+    "phraseMeaning": "statement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sanieren",
+    "meaning": "to renovate",
+    "phrase": "Sanierung",
+    "phraseMeaning": "renovation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "satteln",
+    "meaning": "to saddle",
+    "phrase": "Sattelung",
+    "phraseMeaning": "saddling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "siedeln",
+    "meaning": "to settle",
+    "phrase": "Ansiedlung",
+    "phraseMeaning": "settlement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "signalisieren",
+    "meaning": "to signal",
+    "phrase": "Signalisierung",
+    "phraseMeaning": "signaling",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sitzen",
+    "meaning": "to sit",
+    "phrase": "Sitzung",
+    "phraseMeaning": "meeting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sortieren",
+    "meaning": "to sort",
+    "phrase": "Sortierung",
+    "phraseMeaning": "sorting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "speichern",
+    "meaning": "to save",
+    "phrase": "Speicherung",
+    "phraseMeaning": "saving",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "spielen",
+    "meaning": "to play",
+    "phrase": "Spiel",
+    "phraseMeaning": "play/game",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "spionieren",
+    "meaning": "to spy",
+    "phrase": "Spionage",
+    "phraseMeaning": "espionage",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "sprechen",
+    "meaning": "to speak",
+    "phrase": "Sprache",
+    "phraseMeaning": "language/speech",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "springen",
+    "meaning": "to jump",
+    "phrase": "Sprung",
+    "phraseMeaning": "jump",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "spülen",
+    "meaning": "to rinse",
+    "phrase": "Spülung",
+    "phraseMeaning": "rinse",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "starten",
+    "meaning": "to start",
+    "phrase": "Start",
+    "phraseMeaning": "start",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stecken",
+    "meaning": "to insert",
+    "phrase": "Stecken",
+    "phraseMeaning": "insertion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stehen",
+    "meaning": "to stand",
+    "phrase": "Stand",
+    "phraseMeaning": "position",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stehlen",
+    "meaning": "to steal",
+    "phrase": "Diebstahl",
+    "phraseMeaning": "theft",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "steuern",
+    "meaning": "to control",
+    "phrase": "Steuerung",
+    "phraseMeaning": "control",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "stimmen",
+    "meaning": "to vote/tune",
+    "phrase": "Abstimmung",
+    "phraseMeaning": "vote",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "strafen",
+    "meaning": "to punish",
+    "phrase": "Bestrafung",
+    "phraseMeaning": "punishment",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "streiten",
+    "meaning": "to argue",
+    "phrase": "Streit",
+    "phraseMeaning": "argument",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "studieren",
+    "meaning": "to study",
+    "phrase": "Studium",
+    "phraseMeaning": "study",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "tanzen",
+    "meaning": "to dance",
+    "phrase": "Tanz",
+    "phraseMeaning": "dance",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "teilen",
+    "meaning": "to divide/share",
+    "phrase": "Teilung",
+    "phraseMeaning": "division",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "telefonieren",
+    "meaning": "to call",
+    "phrase": "Telefonat",
+    "phraseMeaning": "phone call",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "testen",
+    "meaning": "to test",
+    "phrase": "Testung",
+    "phraseMeaning": "testing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "töten",
+    "meaning": "to kill",
+    "phrase": "Tötung",
+    "phraseMeaning": "killing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "tragen",
+    "meaning": "to carry",
+    "phrase": "Tragung",
+    "phraseMeaning": "carrying",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "trainieren",
+    "meaning": "to train",
+    "phrase": "Training",
+    "phraseMeaning": "training",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "träumen",
+    "meaning": "to dream",
+    "phrase": "Traum",
+    "phraseMeaning": "dream",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "treten",
+    "meaning": "to step",
+    "phrase": "Tritt",
+    "phraseMeaning": "step",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "trinken",
+    "meaning": "to drink",
+    "phrase": "Trinken",
+    "phraseMeaning": "drinking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überfahren",
+    "meaning": "to run over",
+    "phrase": "Überfahrt",
+    "phraseMeaning": "crossing",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überfüllen",
+    "meaning": "to overfill",
+    "phrase": "Überfüllung",
+    "phraseMeaning": "overcrowding",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "übergeben",
+    "meaning": "to hand over/vomit",
+    "phrase": "Übergabe",
+    "phraseMeaning": "handover",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überholen",
+    "meaning": "to overtake",
+    "phrase": "Überholung",
+    "phraseMeaning": "overhaul",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überleben",
+    "meaning": "to survive",
+    "phrase": "Überleben",
+    "phraseMeaning": "survival",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "überprüfen",
+    "meaning": "to check",
+    "phrase": "Überprüfung",
+    "phraseMeaning": "inspection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "übersetzen",
+    "meaning": "to translate",
+    "phrase": "Übersetzung",
+    "phraseMeaning": "translation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "übertreiben",
+    "meaning": "to exaggerate",
+    "phrase": "Übertreibung",
+    "phraseMeaning": "exaggeration",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umarmen",
+    "meaning": "to hug",
+    "phrase": "Umarmung",
+    "phraseMeaning": "hug",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umbenennen",
+    "meaning": "to rename",
+    "phrase": "Umbenennung",
+    "phraseMeaning": "renaming",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umfahren",
+    "meaning": "to bypass",
+    "phrase": "Umfahrung",
+    "phraseMeaning": "bypass",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umgeben",
+    "meaning": "to surround",
+    "phrase": "Umgebung",
+    "phraseMeaning": "surroundings",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umleiten",
+    "meaning": "to redirect",
+    "phrase": "Umleitung",
+    "phraseMeaning": "detour",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umsteigen",
+    "meaning": "to change (train",
+    "phrase": "bus)",
+    "phraseMeaning": "Umstieg",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "umziehen",
+    "meaning": "to move (house)",
+    "phrase": "Umzug",
+    "phraseMeaning": "relocation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterschätzen",
+    "meaning": "to underestimate",
+    "phrase": "Unterschätzung",
+    "phraseMeaning": "underestimation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterschreiben",
+    "meaning": "to sign",
+    "phrase": "Unterschrift",
+    "phraseMeaning": "signature",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterrichten",
+    "meaning": "to teach",
+    "phrase": "Unterricht",
+    "phraseMeaning": "teaching/lesson",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "unterwegs sein",
+    "meaning": "to be on the way",
+    "phrase": "Unterwegssein",
+    "phraseMeaning": "being en route",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verabreden",
+    "meaning": "to arrange",
+    "phrase": "Verabredung",
+    "phraseMeaning": "appointment/arrangement",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbrechen",
+    "meaning": "to commit a crime",
+    "phrase": "Verbrechen",
+    "phraseMeaning": "crime",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verbreiten",
+    "meaning": "to spread",
+    "phrase": "Verbreitung",
+    "phraseMeaning": "spread",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verfolgen",
+    "meaning": "to pursue",
+    "phrase": "Verfolgung",
+    "phraseMeaning": "pursuit",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verfügen",
+    "meaning": "to have at disposal",
+    "phrase": "Verfügung",
+    "phraseMeaning": "decree/right",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vergessen",
+    "meaning": "to forget",
+    "phrase": "Vergessen",
+    "phraseMeaning": "forgetting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verkleiden",
+    "meaning": "to dress up",
+    "phrase": "Verkleidung",
+    "phraseMeaning": "costume",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verlieren",
+    "meaning": "to lose",
+    "phrase": "Verlust",
+    "phraseMeaning": "loss",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vermieten",
+    "meaning": "to rent out",
+    "phrase": "Vermietung",
+    "phraseMeaning": "renting",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verpassen",
+    "meaning": "to miss",
+    "phrase": "Versäumnis",
+    "phraseMeaning": "omission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verpflichten",
+    "meaning": "to oblige",
+    "phrase": "Verpflichtung",
+    "phraseMeaning": "obligation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verordnen",
+    "meaning": "to prescribe",
+    "phrase": "Verordnung",
+    "phraseMeaning": "regulation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verringern",
+    "meaning": "to reduce",
+    "phrase": "Verringerung",
+    "phraseMeaning": "reduction",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "versagen",
+    "meaning": "to fail",
+    "phrase": "Versagen",
+    "phraseMeaning": "failure",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verschließen",
+    "meaning": "to lock",
+    "phrase": "Verschluss",
+    "phraseMeaning": "seal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verspäten",
+    "meaning": "to be late",
+    "phrase": "Verspätung",
+    "phraseMeaning": "delay",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwechseln",
+    "meaning": "to mix up",
+    "phrase": "Verwechslung",
+    "phraseMeaning": "confusion",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "verwerfen",
+    "meaning": "to discard/reject",
+    "phrase": "Verwerfung",
+    "phraseMeaning": "rejection",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorhaben",
+    "meaning": "to plan/intend",
+    "phrase": "Vorhaben",
+    "phraseMeaning": "plan",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorlesen",
+    "meaning": "to read aloud",
+    "phrase": "Vorlesung",
+    "phraseMeaning": "lecture",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vornehmen",
+    "meaning": "to undertake",
+    "phrase": "Vornahme",
+    "phraseMeaning": "undertaking",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "vorsehen",
+    "meaning": "to plan",
+    "phrase": "Vorsehung",
+    "phraseMeaning": "foresight",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wachsen",
+    "meaning": "to grow",
+    "phrase": "Wachstum",
+    "phraseMeaning": "growth",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wählen",
+    "meaning": "to choose/vote",
+    "phrase": "Wahl",
+    "phraseMeaning": "election/choice",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "waschen",
+    "meaning": "to wash",
+    "phrase": "Wäsche",
+    "phraseMeaning": "laundry",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "weitergeben",
+    "meaning": "to pass on",
+    "phrase": "Weitergabe",
+    "phraseMeaning": "transmission",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wenden",
+    "meaning": "to turn",
+    "phrase": "Wendung",
+    "phraseMeaning": "twist",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "werben",
+    "meaning": "to advertise/recruit",
+    "phrase": "Werbung",
+    "phraseMeaning": "advertising",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "werfen",
+    "meaning": "to throw",
+    "phrase": "Wurf",
+    "phraseMeaning": "throw",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "werten",
+    "meaning": "to evaluate",
+    "phrase": "Wertung",
+    "phraseMeaning": "scoring",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wirken",
+    "meaning": "to affect/work",
+    "phrase": "Wirkung",
+    "phraseMeaning": "effect",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "wünschen",
+    "meaning": "to wish",
+    "phrase": "Wunsch",
+    "phraseMeaning": "wish",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zeigen",
+    "meaning": "to show",
+    "phrase": "Zeigung (rare → Zeigen)",
+    "phraseMeaning": "",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "ziehen",
+    "meaning": "to pull/move",
+    "phrase": "Zuzug",
+    "phraseMeaning": "influx/arrival",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zielen",
+    "meaning": "to aim",
+    "phrase": "Ziel",
+    "phraseMeaning": "goal",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zustimmen",
+    "meaning": "to approve",
+    "phrase": "Zustimmung",
+    "phraseMeaning": "approval",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zuteilen",
+    "meaning": "to assign",
+    "phrase": "Zuteilung",
+    "phraseMeaning": "allocation",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zutrauen",
+    "meaning": "to trust/expect",
+    "phrase": "Zutrauen",
+    "phraseMeaning": "confidence",
+    "theme": "PAIR WORDS"
+  },
+  {
+    "word": "zwingen",
+    "meaning": "to force",
+    "phrase": "Zwang",
+    "phraseMeaning": "compulsion",
+    "theme": "PAIR WORDS"
+  }
+]

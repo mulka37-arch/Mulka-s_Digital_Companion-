@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <title>Agnostic Dynamic Vocabulary Matrix Learner Pro</title>
+  
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+
+  <header class="app-header">
+    <h1>🌍 Multilingual Vocabulary Matrix Pro</h1>
+  </header>
+
+  <section class="main-buttons" id="main-buttons">
+    <button id="wordbank-btn">📚 WORDBANK</button>
+    <button id="testbank-btn">🧠 TESTBANK</button>
+  </section>
+
+  <section id="active-test-area"></section>
+
+  <div id="wordbank-modal" class="modal">
+    <div class="modal-content large-modal">
+
+      <div class="top-bar">
+        <h2>📚 Wordbank Engine</h2>
+        <div class="top-actions">
+          <button id="close-wordbank" class="close-btn">✖</button>
+        </div>
+      </div>
+
+      <div id="theme-selection-area">
+        <h3>Select Categories / Themes</h3>
+        
+        <div class="file-load-panel" style="margin: 15px 0; padding: 15px; background: #edf2f7; border-radius: 10px; text-align: center;">
+          <label style="font-weight: bold; display: block; margin-bottom: 8px; color: #1d3557;">📂 Load External Vocabulary Matrix:</label>
+          <input type="file" id="vocab-file-picker" accept=".json" style="display: block; margin: 10px auto;" />
+        </div>
+
+        <div id="theme-buttons" class="theme-grid"></div>
+        <button id="show-words-btn" class="primary-btn">Show Selected Themes</button>
+      </div>
+
+      <div id="word-table-container" style="display:none;">
+        <div class="table-header">
+          <h3 id="theme-title">Selected Themes</h3>
+          <div id="stats-box" class="stats-box"></div>
+        </div>
+
+        <div class="filter-bar">
+          <button onclick="setFilter('all')">⚪ All</button>
+          <button onclick="setFilter('hard')">🔴 Hard</button>
+          <button onclick="setFilter('easy')">🟢 Easy</button>
+          <button onclick="setFilter('neutral')">⚪ Neutral</button>
+        </div>
+
+        <div class="batch-bar">
+          <span>Display Batch Size:</span>
+          <button onclick="setBatchSize(20)">20</button>
+          <button onclick="setBatchSize(50)">50</button>
+          <button onclick="setBatchSize(100)">100</button>
+          <button onclick="setBatchSize(0)">All</button>
+        </div>
+
+        <div class="controls-bar">
+          <button class="play-all-btn" onclick="playAllAudio()">▶️ Play All</button>
+          <button class="stop-btn" onclick="stopAudio()">⏹ Stop</button>
+          <button onclick="openSettingsModal()">⚙ Settings</button>
+          <button onclick="downloadWordList()">📥 Export PDF</button>
+          <button class="primary-btn" onclick="backToThemes()">⬅ Back To Themes</button>
+        </div>
+
+        <div class="table-wrapper">
+          <table id="word-table"></table>
+        </div>
+
+        <div class="bottom-actions" style="margin-top: 15px;">
+          <button class="primary-btn" onclick="backToThemes()">⬅ Back To Themes</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div id="testbank-modal" class="modal">
+    <div class="modal-content large-modal">
+      
+      <div class="top-bar">
+        <h2>🧠 Dynamic Test Matrix</h2>
+        <div class="top-actions">
+          <button id="close-testbank" class="close-btn">✖</button>
+        </div>
+      </div>
+
+      <div id="test-selection-area">
+        <h3>Select Theme to Practice</h3>
+        <div id="test-theme-buttons" class="theme-grid"></div>
+      </div>
+
+      <div id="test-options-container" style="display:none;">
+        <h3 id="test-theme-title">Theme</h3>
+        
+        <div id="test-stats-box" class="stats-box" style="margin: 10px 0;"></div>
+
+        <div class="config-panel" style="background: #f8fafc; border: 2px dashed #cbd5e1; padding: 15px; border-radius: 10px; margin: 15px 0;">
+          <h4 style="color:#1d3557; margin-bottom: 10px;">🎛️ Configure Test Variables</h4>
+          <div style="display:flex; flex-wrap:wrap; gap:15px;">
+            <div style="display:flex; flex-direction:column; gap:4px;">
+              <label style="font-size:12px; font-weight:bold; color:#475569;">Question Variable (Source Column)</label>
+              <select id="test-question-col" style="padding:6px; border-radius:6px; border:1px solid #cbd5e1;"></select>
+            </div>
+            <div style="display:flex; flex-direction:column; gap:4px;">
+              <label style="font-size:12px; font-weight:bold; color:#475569;">Answer Variable (Target Comparison)</label>
+              <select id="test-answer-col" style="padding:6px; border-radius:6px; border:1px solid #cbd5e1;"></select>
+            </div>
+          </div>
+        </div>
+
+        <div id="test-type-buttons" class="test-buttons" style="display:flex; gap:10px; flex-wrap:wrap;">
+          <button onclick="startMeaningsTest()">🎵 Meanings Test</button>
+          <button onclick="startDictationTest()">🎤 Dictation Test</button>
+          <button id="article-test-btn" onclick="startArticleTest()">📝 Article Test</button>
+          <button onclick="startMatchingTest()">🔗 Matching Test</button>
+        </div>
+
+        <div id="test-content"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="settings-modal" class="modal">
+    <div class="modal-content settings-modal">
+      <div class="top-bar">
+        <h2>⚙ Audio Settings</h2>
+        <button id="close-settings" class="close-btn">✖</button>
+      </div>
+      <div class="settings-body">
+        <label for="speech-rate">Speech Speed</label>
+        <select id="speech-rate">
+          <option value="0.5">0.5x</option>
+          <option value="0.8" selected>0.8x</option>
+          <option value="1">1x</option>
+          <option value="1.2">1.2x</option>
+          <option value="1.5">1.5x</option>
+        </select>
+        <button onclick="saveSettings()" class="primary-btn">Save Settings</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="pdf-content">
+    <h2>Dynamic Matrix Vocabulary Export</h2>
+    <h3 id="pdf-theme-title"></h3>
+    <table id="pdf-word-table"></table>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
