@@ -226,3 +226,335 @@ input[type="text"] {
   .matching-container { grid-template-columns: 1fr; }
   .match-column { min-height: unset; }
 }
+/* =========================================================
+   UNIVERSAL INTERFACE RESPONSIVE LAYOUT MATRIX
+========================================================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #f4f6f9;
+  color: #222;
+  padding: 15px;
+  overscroll-behavior-y: contain;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.app-header h1 {
+  font-size: 24px;
+  color: #1d3557;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  padding: 12px 16px;
+  cursor: pointer;
+  transition: transform 0.1s, opacity 0.2s;
+  font-size: 14px;
+  font-weight: bold;
+  touch-action: manipulation;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+button:hover {
+  opacity: 0.95;
+}
+
+.primary-btn { background: #2a9d8f; color: white; }
+.close-btn { background: #e63946; color: white; }
+.play-all-btn { background: #2a9d8f; color: white; }
+.stop-btn { background: #e76f51; color: white; }
+
+.main-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+#wordbank-btn { background: #2a9d8f; color: white; flex: 1; max-width: 200px; }
+#testbank-btn { background: #457b9d; color: white; flex: 1; max-width: 200px; }
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0; top: 0; width: 100%; height: 100%;
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  background: white;
+  margin: 10px auto;
+  padding: 16px;
+  border-radius: 16px;
+  width: 94%;
+  max-height: calc(100vh - 20px);
+  overflow-y: auto;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+  animation: modalSlideUp 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.large-modal { max-width: 1000px; }
+.settings-modal { max-width: 400px; }
+
+@keyframes modalSlideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 12px;
+}
+
+.top-bar h2 {
+  font-size: 18px;
+  color: #1d3557;
+}
+
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.theme-grid label, .theme-grid button {
+  background: #f8fafc;
+  border: 1px solid #cbd5e1;
+  padding: 12px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  text-align: center;
+  min-height: 50px;
+}
+
+.theme-checkbox input {
+  margin-right: 8px;
+}
+
+.filter-bar, .batch-bar, .controls-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+  margin: 12px 0;
+}
+
+.filter-bar button { background: #64748b; color: white; padding: 8px 12px; font-size: 13px; }
+.batch-bar button { background: #334155; color: white; padding: 6px 10px; font-size: 12px; }
+.controls-bar button { background: #475569; color: white; padding: 8px 12px; font-size: 13px; }
+
+.stats-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  background: #f1f5f9;
+  padding: 10px;
+  border-radius: 8px;
+  width: 100%;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-top: 15px;
+  max-height: 55vh;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  background: white;
+  -webkit-overflow-scrolling: touch;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background: #1d3557;
+  color: white;
+  padding: 10px 12px;
+  font-size: 13px;
+  text-align: left;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #e2e8f0;
+  white-space: nowrap;
+  font-size: 13px;
+}
+
+tr:hover { background: #f8fafc; }
+.clickable-row { cursor: pointer; }
+
+.playing {
+  background: #eff6ff !important;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
+.star-btn { font-size: 16px; cursor: pointer; user-select: none; padding: 2px; }
+
+#test-content { margin-top: 15px; }
+.question-box { 
+  background: white; 
+  padding: 20px; 
+  border-radius: 14px; 
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); 
+  text-align: center;
+}
+.word-display { 
+  font-size: 24px; 
+  font-weight: bold; 
+  margin: 15px 0; 
+  color: #1d3557; 
+  word-break: break-word;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  margin-top: 15px;
+}
+
+.option-btn {
+  background: #f8fafc; 
+  border: 1px solid #e2e8f0;
+  padding: 14px; 
+  border-radius: 10px; 
+  font-size: 15px; 
+  cursor: pointer;
+  width: 100%;
+}
+.option-btn:hover { background: #f1f5f9; }
+.correct { background: #2a9d8f !important; color: white !important; border-color: #2a9d8f !important; }
+.incorrect { background: #e63946 !important; color: white !important; border-color: #e63946 !important; }
+
+.score-box { margin-top: 15px; font-size: 15px; font-weight: bold; color: #475569; }
+
+input[type="text"] {
+  width: 100%; 
+  max-width: 100%; 
+  padding: 12px;
+  border: 2px solid #cbd5e1; 
+  border-radius: 10px; 
+  font-size: 16px;
+  margin: 12px auto; 
+  display: block; 
+  text-align: center;
+  -webkit-appearance: none;
+}
+
+.umlaut-buttons { display: flex; justify-content: center; gap: 6px; margin-top: 12px; }
+.umlaut-buttons button { background: #6d597a; color: white; min-width: 44px; height: 44px; padding: 0; }
+
+.matching-container { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 15px; }
+.match-column { background: #f8fafc; padding: 10px; border-radius: 12px; min-height: 250px; }
+.match-column h3 { font-size: 14px; margin-bottom: 10px; color: #475569; text-align: center;}
+.match-item { 
+  background: white; 
+  border: 1px solid #e2e8f0; 
+  border-radius: 8px; 
+  padding: 12px 8px; 
+  margin-bottom: 8px; 
+  cursor: pointer; 
+  font-size: 13px; 
+  text-align: center;
+  word-break: break-word;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+}
+.match-selected { background: #fef08a !important; border-color: #eab308 !important; }
+.match-correct { background: #2a9d8f !important; color: white !important; pointer-events: none; border-color: #2a9d8f !important; }
+.match-wrong { background: #e63946 !important; color: white !important; border-color: #e63946 !important; }
+
+.settings-body { display: flex; flex-direction: column; gap: 12px; padding: 10px 0; }
+.settings-body select { padding: 12px; border-radius: 8px; border: 1px solid #cbd5e1; background: white; font-size: 15px; }
+
+#pdf-content { display: none; }
+
+/* =========================================================
+   HARDENED SMART RESPONSIVE MEDIA QUERIES (MOBILE FIXES)
+========================================================= */
+@media (max-width: 768px) {
+  body { padding: 8px; }
+  
+  .app-header h1 { font-size: 20px; }
+  
+  .modal-content {
+    width: 96%;
+    padding: 12px;
+    margin: 8px auto;
+    max-height: calc(100vh - 16px);
+  }
+  
+  .main-buttons {
+    flex-direction: row;
+    gap: 8px;
+    width: 100%;
+  }
+  .main-buttons button { flex: 1; font-size: 14px; padding: 12px 8px; }
+
+  .theme-grid {
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: 8px;
+  }
+  .theme-grid label, .theme-grid button {
+    font-size: 12px;
+    padding: 8px;
+    min-height: 44px;
+  }
+
+  .options-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+  .option-btn { font-size: 14px; padding: 12px; }
+
+  /* Stack matching matrices to card columns on small screen spaces */
+  .matching-container {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .match-column { min-height: unset; padding: 8px; }
+
+  /* Refine batch engine spacing layouts */
+  .filter-bar, .batch-bar, .controls-bar {
+    justify-content: flex-start;
+  }
+  
+  /* Make sure inputs do not zoom layout views unexpectedly */
+  input[type="text"] { font-size: 16px; }
+}
