@@ -31,24 +31,25 @@ const wordbankData = [];
 
 // Discover dynamic columns ignoring system themes
 function getDynamicColumns() {
-  if (!wordbankData || wordbankData.length === 0) return ["German", "English"];
+  if (!wordbankData || wordbankData.length === 0) return ["word", "meaning"];
+  // Dynamically scan whatever object properties are present in the current collection slice
   return Object.keys(wordbankData[0]).filter(key => !["theme", "Theme", "star", "originalIndex"].includes(key));
 }
 
 function autoDetectLanguage(keyName) {
-  const k = keyName.toLowerCase();
-  if (k.includes("en") || k.includes("english") || k.includes("trans")) return "en-US";
-  if (k.includes("te") || k.includes("telugu")) return "te-IN";
-  if (k.includes("hi") || k.includes("hindi")) return "hi-IN";
-  return "de-DE"; // Dynamic fallback default accent locale
+  if (!keyName) return "de-DE";
+  const k = keyName.toLowerCase().trim();
+  if (/\b(en|english|translation|eng|meaning|phrasemeaning)\b/.test(k)) return "en-US";
+  if (/\b(te|telugu)\b/.test(k)) return "te-IN";
+  if (/\b(hi|hindi)\b/.test(k)) return "hi-IN";
+  return "de-DE"; 
 }
 
 function getPrimaryKey(item) {
   const fields = getDynamicColumns();
-  return item.German || item[fields[0]];
+  return item.word || item.German || item.infinitiv || item[fields[0]];
 }
 
-// Helper for theme key normalization (Theme vs theme)
 function getItemTheme(item) {
   if (!item) return "Uncategorized";
   return (item.Theme || item.theme || "").trim();
@@ -63,8 +64,9 @@ window.onload = () => {
     speechSynthesis.onvoiceschanged = initVoices;
   }
   
-  // Attempts background fetch (will error gracefully if running locally on laptop via file:// protocol)
-  loadExternalVocabulary("data/pharmacy.json"); 
+  // UNIFIED AUTO-LOAD CORE
+  // Automatically reads your combined database asset on runtime startup
+  loadExternalVocabulary("data/vocabulary.json"); 
   
   setupButtons();
   updateStats();
@@ -107,6 +109,29 @@ function fullResetUI(){
   document.getElementById("test-options-container").style.display = "none";
   document.getElementById("theme-selection-area").style.display = "block";
   document.getElementById("word-table-container").style.display = "none";
+}
+
+// =========================================================
+// COLD EXTRACTION PIPELINE
+// =========================================================
+async function loadExternalVocabulary(url) {
+  try {
+    stopAudio();
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`HTTP Error Status: ${response.status}`);
+    
+    const freshData = await response.json();
+    if (Array.isArray(freshData) && freshData.length > 0) {
+      wordbankData.length = 0; 
+      freshData.forEach(item => wordbankData.push(item));
+      buildThemes();
+      fullResetUI();
+      updateStats();
+      console.log(`🚀 Success! Loaded ${wordbankData.length} records dynamically into application runtime context.`);
+    }
+  } catch (error) {
+    console.warn("Target destination data asset file not found or contains syntax errors.", error);
+  }
 }
 
 // =========================================================
@@ -230,7 +255,6 @@ function renderTable(){
 
   table.appendChild(tbody);
 
-  // Advanced dynamic rendering hooks
   if (!document.getElementById("advanced-loop-controls")) {
     const controlsBar = document.querySelector(".controls-bar");
     if (controlsBar) {
@@ -302,7 +326,7 @@ function stopAudio(){
 }
 
 // ============================================================================
-// FULLY VARIABLE DYNAMIC VARIABLE PRACTICE ENGINE
+// PRACTICE MATRIX CORE
 // ============================================================================
 function selectTestTheme(theme){
   currentThemes = [theme];
@@ -399,11 +423,11 @@ function startArticleTest(){
   enterTestMode(); renderArticle();
 }
 
-function renderArticle(){
+function renderArticle() {
   if(currentQuestion >= currentTestWords.length) { finishTest(); return; }
   const q = currentTestWords[currentQuestion];
   const fields = getDynamicColumns();
-  const displayField = fields.find(f => f.toLowerCase().includes("german") || f.toLowerCase().includes("infinitiv")) || fields[0];
+  const displayField = fields.find(f => f.toLowerCase().includes("german") || f.toLowerCase().includes("word") || f.toLowerCase().includes("infinitiv")) || fields[0];
   const options = shuffle(["der","die","das"]);
 
   document.getElementById("test-content").innerHTML = `
@@ -421,7 +445,6 @@ function renderArticle(){
   `;
 }
 
-// Separate listener to handle click-to-audio on matching components safely
 document.addEventListener("click", (e) => {
   const item = e.target.closest(".match-item");
   if (!item) return;
@@ -504,38 +527,6 @@ function buildTestWords(){
 }
 
 function shuffle(arr){ return [...arr].sort(() => Math.random() - 0.5); }
-
-// ============================================================================
-// WORDBANK LEARNER PRO - UPGRADED PATCH ARCHITECTURE
-// ============================================================================
-
-autoDetectLanguage = function(keyName) {
-  if (!keyName) return "de-DE";
-  const k = keyName.toLowerCase().trim();
-  if (/\b(en|english|translation|eng|meaning)\b/.test(k)) return "en-US";
-  if (/\b(te|telugu)\b/.test(k)) return "te-IN";
-  if (/\b(hi|hindi)\b/.test(k)) return "hi-IN";
-  return "de-DE";
-};
-
-async function loadExternalVocabulary(url) {
-  try {
-    stopAudio();
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-    
-    const freshData = await response.json();
-    if (Array.isArray(freshData) && freshData.length > 0) {
-      wordbankData.length = 0; 
-      freshData.forEach(item => wordbankData.push(item));
-      buildThemes();
-      fullResetUI();
-      updateStats();
-    }
-  } catch (error) {
-    console.warn("External default file load skipped or unhosted. Use the 📂 file loader button.");
-  }
-}
 
 let activeRepeatMode = "sequence";
 let rowRepeatCountTarget = 1;       
@@ -762,9 +753,28 @@ downloadWordList = function() {
   html2pdf().from(document.getElementById("pdf-content")).save("Vocabulary_Matrix.pdf");
 };
 
-// ============================================================================
-// UNIVERSAL DYNAMIC LOCAL FILE PICKER CONTROLLER
-// ============================================================================
+function toggleStar(wordKey, event) {
+  if (event) event.stopPropagation();
+  let current = starData[wordKey] || "neutral";
+  let next = "neutral";
+  if (current === "neutral") next = "hard";
+  else if (current === "hard") next = "easy";
+  
+  starData[wordKey] = next;
+  localStorage.setItem("germanStarData", JSON.stringify(starData));
+  applyFilters();
+}
+
+function autoUpdateStar(wordKey, isCorrect) {
+  if (isCorrect) {
+    if (starData[wordKey] === "hard") starData[wordKey] = "neutral";
+    else starData[wordKey] = "easy";
+  } else {
+    starData[wordKey] = "hard";
+  }
+  localStorage.setItem("germanStarData", JSON.stringify(starData));
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const filePicker = document.getElementById("vocab-file-picker");
   if (filePicker) {
@@ -776,26 +786,19 @@ document.addEventListener("DOMContentLoaded", () => {
       reader.onload = function(e) {
         try {
           const parsedData = JSON.parse(e.target.result);
-          
           if (Array.isArray(parsedData) && parsedData.length > 0) {
             wordbankData.length = 0;
             parsedData.forEach(item => wordbankData.push(item));
-
             currentFilter = "all";
             currentBatchSize = 20;
             stopAudio();
-
             buildThemes();
             fullResetUI();
             updateStats();
-            
-            alert(`🎉 Success! Loaded ${wordbankData.length} records with ${getDynamicColumns().length} dynamic columns.`);
-          } else {
-            alert("❌ Invalid File: Ensure your JSON root is an array of objects [ {}, {} ].");
+            alert(`🎉 Success! Loaded ${wordbankData.length} manual entries.`);
           }
         } catch (err) {
-          console.error("JSON Parsing Failure:", err);
-          alert("❌ Failed to parse file! Ensure there are no trailing commas.");
+          alert("❌ Error parsing manual file entry structural design.");
         }
       };
       reader.readAsText(file);
