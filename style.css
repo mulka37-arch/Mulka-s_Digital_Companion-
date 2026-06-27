@@ -558,3 +558,21 @@ input[type="text"] {
   /* Make sure inputs do not zoom layout views unexpectedly */
   input[type="text"] { font-size: 16px; }
 }
+/* =========================================================
+   COLUMN HEADER SORTING VISUAL INDICATORS
+========================================================= */
+#word-table th {
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s ease;
+}
+
+#word-table th:hover {
+  background: #152542 !important; /* Slightly darker shade on hover */
+}
+
+.sort-icon {
+  font-size: 12px;
+  margin-left: 5px;
+  color: #a0aec0;
+}

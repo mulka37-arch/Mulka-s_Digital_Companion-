@@ -805,3 +805,154 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+// ============================================================================
+// WORDBANK LEARNER PRO - N-COLUMN HEADER SORTING PATCH EXTENSION
+// ============================================================================
+
+let currentSortColumn = null;
+let isSortAscending = true;
+
+// 1. Intercept and override the Table Renderer to inject interactive headers
+const baseRenderTable = renderTable;
+renderTable = function() {
+  const table = document.getElementById("word-table");
+  if (!table) return;
+  table.innerHTML = "";
+
+  const fields = getDynamicColumns();
+
+  // Rebuild the Table Head with dedicated sorting trigger commands
+  const thead = document.createElement("thead");
+  let headerHtml = `<tr><th>⭐</th>`;
+  fields.forEach(f => {
+    let arrow = "↕"; // Default neutral indicator
+    if (currentSortColumn === f) {
+      arrow = isSortAscending ? "🔼" : "🔽";
+    }
+    headerHtml += `<th onclick="sortMatrixByColumn('${f.replace(/'/g, "\\'")}')">${f}<span class="sort-icon">${arrow}</span></th>`;
+  });
+  headerHtml += `</tr>`;
+  thead.innerHTML = headerHtml;
+  table.appendChild(thead);
+
+  // Re-build standard body structure cleanly
+  const tbody = document.createElement("tbody");
+  tbody.id = "word-table-body";
+
+  filteredWords.forEach((word, index) => {
+    const wordKey = getPrimaryKey(word);
+    let starClass = "star-neutral";
+    let starIcon = "⚪";
+
+    if(getStar(wordKey) === "easy") { starClass = "star-easy"; starIcon = "🟢"; }
+    if(getStar(wordKey) === "hard") { starClass = "star-hard"; starIcon = "🔴"; }
+
+    const row = document.createElement("tr");
+    row.className = "clickable-row";
+    row.setAttribute("data-index", index);
+
+    // Maintain lookups matching active tracking highlights if audio engine is working
+    if (isPlayingAll && typeof playbackOrderQueue !== "undefined") {
+      const currentActiveRowIndex = playbackOrderQueue[currentQuestion];
+      if (index === currentActiveRowIndex) {
+        row.classList.add("playing");
+      }
+    }
+
+    let rowHtml = `
+      <td>
+        <span class="star-btn ${starClass}" onclick="toggleStar('${wordKey.replace(/'/g, "\\'")}', event)">
+          ${starIcon}
+        </span>
+      </td>
+    `;
+
+    fields.forEach(f => {
+      let val = word[f];
+      if (f === "Article" && !val) val = "-";
+      rowHtml += `<td>${val !== null && val !== undefined ? val : ""}</td>`;
+    });
+
+    row.innerHTML = rowHtml;
+    row.onclick = () => playAllAudio(index);
+    tbody.appendChild(row);
+  });
+
+  table.appendChild(tbody);
+
+  // Maintain fallback visibility of the upgraded advanced loop panel controls row
+  if (typeof updateAudioLoopSettings === "function" && !document.getElementById("advanced-loop-controls")) {
+    const controlsBar = document.querySelector(".controls-bar");
+    if (controlsBar) {
+      const advancedLoopDiv = document.createElement("div");
+      advancedLoopDiv.id = "advanced-loop-controls";
+      advancedLoopDiv.style.cssText = "display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-top:10px; padding:10px; background:#f1f5f9; border-radius:8px; width:100%;";
+      advancedLoopDiv.innerHTML = `
+        <span style="font-weight:bold; font-size:13px; color:#1d3557;">🎛️ Audio Loop Mode:</span>
+        <select id="loop-mode-select" onchange="updateAudioLoopSettings()" style="padding:6px; border-radius:6px; border:1px solid #cbd5e1; background:white;">
+          <option value="sequence">In Sequence (1 to N)</option>
+          <option value="alphabetical">Alphabetical Order</option>
+          <option value="shuffle">Shuffle Playlist</option>
+          <option value="repeat-row">Repeat Each Row X Times</option>
+        </select>
+        <div id="row-count-wrapper" style="display:none; align-items:center; gap:5px;">
+          <label style="font-size:12px; font-weight:bold;">Count:</label>
+          <input type="number" id="row-repeat-input" value="3" min="1" max="10" style="width:50px; padding:4px; border-radius:4px; border:1px solid #cbd5e1; text-align:center;">
+        </div>
+      `;
+      controlsBar.parentNode.insertBefore(advancedLoopDiv, controlsBar.nextSibling);
+    }
+  }
+};
+
+// 2. Core Sorting Function with Natural Locale Compare 
+function sortMatrixByColumn(columnName) {
+  if (filteredWords.length === 0) return;
+
+  // Toggle directions if clicking the same header repeatedly
+  if (currentSortColumn === columnName) {
+    isSortAscending = !isSortAscending;
+  } else {
+    currentSortColumn = columnName;
+    isSortAscending = true;
+  }
+
+  // Remember what specific word row item was actively playing before shifting indices
+  let activePlayingWordKey = null;
+  if (isPlayingAll && typeof playbackOrderQueue !== "undefined") {
+    const activeIndexInQueue = playbackOrderQueue[currentQuestion];
+    if (filteredWords[activeIndexInQueue]) {
+      activePlayingWordKey = getPrimaryKey(filteredWords[activeIndexInQueue]);
+    }
+  }
+
+  // Sort array using precise multi-language string detection
+  filteredWords.sort((a, b) => {
+    let valA = String(a[columnName] || "").trim();
+    let valB = String(b[columnName] || "").trim();
+
+    // Treat placeholders as empty strings for sorting purity
+    if (valA === "-") valA = "";
+    if (valB === "-") valB = "";
+
+    const comparison = valA.localeCompare(valB, undefined, { numeric: true, sensitivity: 'base' });
+    return isSortAscending ? comparison : -comparison;
+  });
+
+  // 3. Audio Synchronization Realignment
+  if (isPlayingAll && activePlayingWordKey && typeof generatePlaybackQueue === "function") {
+    // Find the new row position index of the word that was playing
+    const newRowIndex = filteredWords.findIndex(w => getPrimaryKey(w) === activePlayingWordKey);
+    if (newRowIndex !== -1) {
+      // Re-generate the background queue order map and anchor the active index position
+      const newQueuePos = generatePlaybackQueue(newRowIndex);
+      // Synchronize the playlist counter index point safely
+      currentQuestion = newQueuePos;
+    }
+  }
+
+  // Refresh visual elements
+  baseRenderTable(); 
+}
+
+console.log("🔼 Dynamic N-Column Matrix Header Sorting Engine connected successfully.");
