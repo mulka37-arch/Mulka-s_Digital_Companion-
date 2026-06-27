@@ -1,5 +1,3845 @@
 [
 {
+    "preposition": "für",
+    "German": "Das Ticket für den Zug ist sehr billig.",
+    "English": "The ticket for the train is very cheap.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Wir suchen einen Raum für das Treffen.",
+    "English": "We are looking for a room for the meeting.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Hier ist ein Geschenk für den Chef.",
+    "English": "Here is a gift for the boss.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Das ist ein tolles Angebot für Familien.",
+    "English": "That is a great offer for families.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Ist dieser Platz für mich frei?",
+    "English": "Is this seat free for me?",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Er kauft Blumen für seine Mutter.",
+    "English": "He buys flowers for his mother.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Wir brauchen Brot für das Frühstück.",
+    "English": "We need bread for breakfast.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Eintrittskarte für das Museum kostet 5 Euro.",
+    "English": "The entrance ticket for the museum costs 5 euros.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Arzt hat ein Rezept für das Medikament geschrieben.",
+    "English": "The doctor wrote a prescription for the medicine.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Das ist ein schönes Kleid für den Sommer.",
+    "English": "That is a beautiful dress for the summer.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Ich lerne Deutsch für meinen Beruf.",
+    "English": "I learn German for my job.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Es gibt Kaffee für alle Gäste.",
+    "English": "There is coffee for all guests.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Bus kommt um einen Moment zu spät.",
+    "English": "The bus arrives a moment too late.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Das Konzert beginnt genau um acht Uhr.",
+    "English": "The concert begins exactly at eight o'clock.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Schüler sitzen um den großen Tisch.",
+    "English": "The students sit around the big table.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Preis für Benzin steigt um zehn Cent.",
+    "English": "The price for petrol rises by ten cents.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Wir treffen uns um 15 Uhr am Bahnhof.",
+    "English": "We meet at 3 PM at the station.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Das Geschäft schließt um 18 Uhr.",
+    "English": "The shop closes at 6 PM.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Kinder laufen um das Haus.",
+    "English": "The children run around the house.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Kurs beginnt um neun Uhr morgens.",
+    "English": "The course starts at nine o'clock in the morning.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Termin wurde um eine Woche verschoben.",
+    "English": "The appointment was postponed by a week.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Wir machen eine Reise um die Welt.",
+    "English": "We are making a trip around the world.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Das Thermometer fällt um fünf Grad.",
+    "English": "The thermometer drops by five degrees.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ich kann ohne meinen Kaffee nicht arbeiten.",
+    "English": "I cannot work without my coffee.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Er kommt ohne seine Freundin zur Party.",
+    "English": "He comes to the party without his girlfriend.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Man darf ohne ein Ticket nicht einsteigen.",
+    "English": "One is not allowed to board without a ticket.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Kaffee ohne Milch schmeckt mir nicht.",
+    "English": "Coffee without milk does not taste good to me.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Sie geht ohne einen Regenschirm aus dem Haus.",
+    "English": "She leaves the house without an umbrella.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ein Kind ohne ein Spielzeug ist traurig.",
+    "English": "A child without a toy is sad.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Er spricht Deutsch ohne einen Fehler.",
+    "English": "He speaks German without a mistake.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Wir reisen ohne viel Gepäck.",
+    "English": "We travel without much luggage.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Heute gehen wir ohne die Kinder ins Kino.",
+    "English": "Today we are going to the cinema without the children.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ein Tag ohne Sonne ist kühl.",
+    "English": "A day without sun is cool.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Bitte antworten Sie ohne lange Wartezeit.",
+    "English": "Please reply without a long waiting time.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Wir gehen durch den schönen Park.",
+    "English": "We walk through the beautiful park.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Katze läuft durch die offene Tür.",
+    "English": "The cat runs through the open door.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Straße führt durch einen kleinen Wald.",
+    "English": "The street leads through a small forest.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Auto fährt durch die enge Straße.",
+    "English": "The car drives through the narrow street.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Wir sehen den Fluss durch das Fenster.",
+    "English": "We see the river through the window.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Er geht jeden Tag durch diesen Tunnel zur Arbeit.",
+    "English": "He walks through this tunnel to work every day.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Licht kommt durch die Gardine.",
+    "English": "The light comes through the curtain.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Kinder laufen durch den Garten.",
+    "English": "The children run through the garden.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Wir fahren mit dem Zug durch Deutschland.",
+    "English": "We travel by train through Germany.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Wasser fließt durch das lange Rohr.",
+    "English": "The water flows through the long pipe.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Der Weg führt durch die ganze Stadt.",
+    "English": "The path leads through the entire city.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Das Spiel gegen den FC Köln findet heute statt.",
+    "English": "The match against FC Köln takes place today.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Ich habe nichts gegen diesen Vorschlag.",
+    "English": "I have nothing against this proposal.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Das Auto fuhr gegen eine Mauer.",
+    "English": "The car drove against a wall.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Wir spielen morgen gegen das beste Team.",
+    "English": "We play tomorrow against the best team.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Ich bin gegen diese Idee.",
+    "English": "I am against this idea.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Medizin hilft gegen den Schmerz.",
+    "English": "The medicine helps against the pain.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Er kommt gegen Abend nach Hause.",
+    "English": "He comes home towards evening.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Das ist ein gutes Mittel gegen die Erkältung.",
+    "English": "That is a good remedy against the cold.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Wir treffen uns gegen 14 Uhr.",
+    "English": "We will meet around 2 PM.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Es gibt Proteste gegen den neuen Plan.",
+    "English": "There are protests against the new plan.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Laden ist von Montag bis Freitag geöffnet.",
+    "English": "The shop is open from Monday to Friday.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Wir müssen bis morgen warten.",
+    "English": "We have to wait until tomorrow.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Fahrt dauert bis nächste Woche.",
+    "English": "The journey lasts until next week.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Fahren Sie bitte bis zum nächsten Bahnhof.",
+    "English": "Please drive up to the next station.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Ich bleibe bis Sonntag in Berlin.",
+    "English": "I am staying in Berlin until Sunday.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Tschüss, bis nächsten Dienstag!",
+    "English": "Bye, see you until next Tuesday!",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Das Kind kann schon von eins bis zehn zählen.",
+    "English": "The child can already count from one to ten.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Wir arbeiten heute nur bis Mittag.",
+    "English": "We are working only until noon today.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Eintritt ist für Kinder bis sechs Jahre frei.",
+    "English": "Admission is free for children up to six years old.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Bitte schicken Sie den Brief bis Freitag.",
+    "English": "Please send the letter by Friday.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Weg geht geradeaus bis zum Fluss.",
+    "English": "The path goes straight until the river.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Stadtrat stimmt für den Bau einer neuen Schule.",
+    "English": "The city council votes for the construction of a new school.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Bundesregierung gibt mehr Geld für die Bildung aus.",
+    "English": "The federal government spends more money on education.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Diese Entscheidung hat schwere Folgen für die Umwelt.",
+    "English": "This decision has serious consequences for the environment.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Bürger sammeln Spenden für die Obdachlosen.",
+    "English": "The citizens collect donations for the homeless.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Trainer sucht neue Spieler für seine Mannschaft.",
+    "English": "The coach is looking for new players for his team.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Wir interessieren uns für die Kultur dieses Landes.",
+    "English": "We are interested in the culture of this country.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Er übernimmt die Verantwortung für den Unfall.",
+    "English": "He takes responsibility for the accident.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Diese Regeln gelten auch für ausländische Touristen.",
+    "English": "These rules also apply to foreign tourists.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Versicherung zahlt für den Schaden am Auto.",
+    "English": "The insurance pays for the damage to the car.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Es gibt eine Sperre für den schweren Lkw-Verkehr.",
+    "English": "There is a ban for heavy truck traffic.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Sie dankt ihm für die tatkräftige Unterstützung.",
+    "English": "She thanks him for the active support.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die neue Software ist perfekt für kleine Betriebe.",
+    "English": "The new software is perfect for small businesses.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Autofahrer müssen um die Baustelle herumfahren.",
+    "English": "Drivers have to drive around the construction site.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Preise für Energie steigen um fast zwanzig Prozent.",
+    "English": "Energy prices are rising by almost twenty percent.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Er kümmert sich rücksichtsvoll um seine alten Eltern.",
+    "English": "He takes considerate care of his elderly parents.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Diskussion geht hauptsächlich um das neue Gesetz.",
+    "English": "The discussion is mainly about the new law.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Polizei bittet um Hinweise aus der Bevölkerung.",
+    "English": "The police ask for clues from the population.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Wir bewerben uns um die offenen Arbeitsplätze.",
+    "English": "We are applying for the vacant jobs.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Umsatz der Firma sank um eine Million Euro.",
+    "English": "The company's turnover fell by one million euros.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Es handelt sich bei dem Fund um eine antike Münze.",
+    "English": "The find is an ancient coin.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Läufer bewegen sich um den Sportplatz.",
+    "English": "The runners move around the sports field.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Bürger sorgen sich um die Sicherheit im Viertel.",
+    "English": "Citizens worry about safety in the neighborhood.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Arbeitslosigkeit ging um zwei Prozent zurück.",
+    "English": "Unemployment decreased by two percent.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne eine Erlaubnis darf man hier nicht parken.",
+    "English": "Without a permit, you are not allowed to park here.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Viele Jugendliche leben nicht ohne ihr Smartphone.",
+    "English": "Many young people do not live without their smartphone.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Das Projekt wurde ohne große Probleme beendet.",
+    "English": "The project was completed without major problems.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne fremde Hilfe konnte er das Ziel nicht erreichen.",
+    "English": "Without outside help, he could not reach the goal.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Die Minister stimmten ohne Zögern dem Plan zu.",
+    "English": "The ministers agreed to the plan without hesitation.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Kein Mieter möchte ohne eine Heizung im Winter leben.",
+    "English": "No tenant wants to live without heating in winter.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Das Unternehmen exportiert Waren ohne Zollgebühren.",
+    "English": "The company exports goods without customs duties.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne eine gute Ausbildung findet man schwer Arbeit.",
+    "English": "Without a good education, it is hard to find work.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Er verließ das Büro ohne ein Wort der Erklärung.",
+    "English": "He left the office without a word of explanation.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Die Arbeiter streiken nicht ohne einen triftigen Grund.",
+    "English": "The workers do not strike without a valid reason.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Das Gesetz wurde ohne Änderungen verabschiedet.",
+    "English": "The law was passed without amendments.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Der Fluss fließt direkt durch das Stadtzentrum.",
+    "English": "The river flows directly through the city center.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch einen dummen Fehler verloren sie das Match.",
+    "English": "Through a stupid mistake, they lost the match.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Nachricht verbreitete sich schnell durch das Internet.",
+    "English": "The news spread quickly through the internet.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Ein schwerer Sturm zog durch das ganze Bundesland.",
+    "English": "A severe storm moved through the entire state.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch regelmäßiges Training verbesserte er seine Leistung.",
+    "English": "Through regular training, he improved his performance.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Polizei sperrte den Weg durch den Wald.",
+    "English": "The police blocked the path through the forest.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Wir lernten die Bräuche durch die Einheimischen kennen.",
+    "English": "We got to know the customs through the locals.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Der Schall dringt leicht durch die dünne Wand.",
+    "English": "The sound easily penetrates through the thin wall.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch eine Spende konnte das Heim gerettet werden.",
+    "English": "Through a donation, the home could be saved.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Gruppe wanderte tagelang durch das Gebirge.",
+    "English": "The group hiked for days through the mountains.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Projekt wird durch staatliche Gelder finanziert.",
+    "English": "The project is funded through state resources.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Belegschaft protestiert gegen den Stellenabbau.",
+    "English": "The workforce protests against job cuts.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Es gibt ein Gesetz gegen die Diskriminierung.",
+    "English": "There is a law against discrimination.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Impfung schützt wirksam gegen die Grippe.",
+    "English": "The vaccination effectively protects against the flu.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Wer verstößt gegen die neuen Verkehrsregeln?",
+    "English": "Who violates the new traffic rules?",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Gegen den Angeklagten liegen keine Beweise vor.",
+    "English": "There is no evidence against the accused.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Meinungen gegen das Projekt sind sehr laut.",
+    "English": "The opinions against the project are very loud.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Wir müssen etwas gegen den Klimawandel tun.",
+    "English": "We must do something against climate change.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Er prallte mit dem Fahrrad gegen ein Schild.",
+    "English": "He crashed into a sign with his bicycle.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Mehrheit stimmte gegen den neuen Entwurf.",
+    "English": "The majority voted against the new draft.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Gegen Mitternacht zog ein Gewitter über die Stadt.",
+    "English": "Around midnight, a thunderstorm moved over the city.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Anmeldung ist bis zum Jahresende möglich.",
+    "English": "Registration is possible until the end of the year.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Temperaturen steigen bis auf dreißig Grad.",
+    "English": "Temperatures rise up to thirty degrees.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Wir müssen die Arbeit bis nächsten Monat beenden.",
+    "English": "We must finish the work by next month.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Vertrag läuft vorerst bis zum Herbst.",
+    "English": "The contract runs for now until autumn.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Bis heute hat sich niemand bei uns gemeldet.",
+    "English": "Until today, nobody has contacted us.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Streik soll bis Mittwochmorgen andauern.",
+    "English": "The strike is supposed to last until Wednesday morning.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Von Kopf bis Fuß war der Arbeiter schmutzig.",
+    "English": "From head to toe, the worker was dirty.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Autobahn ist bis zur nächsten Ausfahrt gesperrt.",
+    "English": "The highway is closed until the next exit.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Er las das spannende Buch bis zur letzten Seite.",
+    "English": "He read the exciting book until the last page.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Krise verschärfte sich bis zum Wochenende.",
+    "English": "The crisis worsened until the weekend.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Kanzlerin plädiert für eine engere Zusammenarbeit.",
+    "English": "The Chancellor advocates for closer cooperation.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Subventionen sind essenziell für die heimische Wirtschaft.",
+    "English": "Subsidies are essential for the domestic economy.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Minister übernimmt die Verantwortung für das Defizit.",
+    "English": "The minister assumes responsibility for the deficit.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Das neue Gesetz sorgt für kontroverser Diskussionsstoff.",
+    "English": "The new law provides controversial material for discussion.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Stiftung engagiert sich für den Denkmalschutz.",
+    "English": "The foundation is committed to monument preservation.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Diese Maßnahmen sind notwendig für den Artenschutz.",
+    "English": "These measures are necessary for species protection.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Konzern wirbt intensiv für das neue Produkt.",
+    "English": "The corporation advertises intensively for the new product.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Es fehlen finanzielle Mittel für die Sanierung.",
+    "English": "Financial means for renovation are lacking.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Kriterien für die Zulassung wurden verschärft.",
+    "English": "The criteria for admission have been tightened.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Er ergreift Partei für die schwächeren Bürger.",
+    "English": "He takes sides for the weaker citizens.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Forscher erhielten einen Preis für ihre Entdeckung.",
+    "English": "The researchers received a prize for their discovery.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Das Parlament stimmte einstimmig für die Reform.",
+    "English": "The parliament voted unanimously for the reform.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Wir müssen Vorsorge für magere Zeiten treffen.",
+    "English": "We must make provision for lean times.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Parteien streiten erbittert um die Steuerreform.",
+    "English": "The parties argue bitterly over the tax reform.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Es geht in diesem Konflikt um geopolitische Interessen.",
+    "English": "This conflict is about geopolitical interests.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der DAX sank nach den News um mehrere Prozentpunkte.",
+    "English": "The DAX fell by several percentage points after the news.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Beide Konzerne fusionieren um das Überleben zu sichern.",
+    "English": "Both corporations merge to secure survival.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Skandal dreht sich um veruntreute Steuergelder.",
+    "English": "The scandal revolves around misappropriated tax money.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Verhandlungen um den Tarifvertrag wurden vertagt.",
+    "English": "The negotiations for the collective agreement were adjourned.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Firmen konkurrieren heftig um qualifizierte Fachkräfte.",
+    "English": "Companies compete fiercely for qualified specialists.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Er bemüht sich unermüdlich um ein Visum.",
+    "English": "He strives tirelessly for a visa.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Debatte kreist vor allem um die soziale Gerechtigkeit.",
+    "English": "The debate revolves primarily around social justice.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Das Budget wurde kurzfristig um eine Million gekürzt.",
+    "English": "The budget was cut by one million at short notice.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Bürger bitten den Bürgermeister um rasche Aufklärung.",
+    "English": "Citizens ask the mayor for quick clarification.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Erde dreht sich unaufhörlich um die Sonne.",
+    "English": "The earth rotates incessantly around the sun.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne strukturelle Reformen verliert das Land den Anschluss.",
+    "English": "Without structural reforms, the country will lose connection.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Die Transaktion wurde ohne gesetzliche Grundlage durchgeführt.",
+    "English": "The transaction was carried out without a legal basis.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ein Abkommen ohne konkrete Ziele ist völlig wirkungslos.",
+    "English": "An agreement without concrete goals is completely ineffective.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Der Vorstand traf die Entscheidung ohne die Aktionäre.",
+    "English": "The board made the decision without the shareholders.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne stabile Finanzen droht der Gemeinde die Insolvenz.",
+    "English": "Without stable finances, the municipality faces insolvency.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Die Krise verlief nicht ohne spürbare Einbußen.",
+    "English": "The crisis did not pass without noticeable losses.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Er kritisierte die Regierung ohne jegliche Zurückhaltung.",
+    "English": "He criticized the government without any restraint.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne umfassende Investitionen veraltet die Infrastruktur.",
+    "English": "Without comprehensive investments, infrastructure becomes obsolete.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Die Reform passierte den Bundesrat ohne Gegenstimmen.",
+    "English": "The reform passed the Bundesrat without opposing votes.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ein Rücktritt ohne Nachfolger hinterlässt ein Vakuum.",
+    "English": "A resignation without a successor leaves a vacuum.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Sie bewältigte die Krise ohne psychologische Betreuung.",
+    "English": "She coped with the crisis without psychological support.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch konsequente Sparmaßnahmen sank die Staatsverschuldung.",
+    "English": "Through consistent austerity measures, the national debt fell.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Wahrheit kam erst durch investigative Recherchen ans Licht.",
+    "English": "The truth came to light only through investigative research.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Der Vertrag wurde durch die Unterschrift rechtskräftig.",
+    "English": "The contract became legally binding through the signature.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch den digitalen Wandel verändern sich viele Berufe.",
+    "English": "Through digital transformation, many professions are changing.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Gesetz wurde durch ein Dekret des Präsidenten ersetzt.",
+    "English": "The law was replaced by a decree of the president.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch die Fusion entsteht der größte Medienkonzern Europas.",
+    "English": "Through the merger, Europe's largest media group is created.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Infektion wird meist durch Tröpfchen übertragen.",
+    "English": "The infection is mostly transmitted through droplets.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Erfolge werden nur durch harte Arbeit erzielt.",
+    "English": "Successes are achieved only through hard work.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch die Blockade kam der gesamte Handel zum Erliegen.",
+    "English": "Through the blockade, all trade came to a standstill.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Virus breitet sich durch direkten Kontakt aus.",
+    "English": "The virus spreads through direct contact.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Krise wurde durch schnelle Kredite entschärft.",
+    "English": "The crisis was defused through quick loans.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Opposition wettert gegen die Erhöhung der Mehrwertsteuer.",
+    "English": "The opposition rants against the increase in value-added tax.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Klage gegen den Pharmakonzern wurde abgewiesen.",
+    "English": "The lawsuit against the pharmaceutical company was dismissed.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Bürger wehren sich gegen den Bau der Stromtrasse.",
+    "English": "Citizens defend themselves against the power line construction.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Es ist ein klarer Verstoß gegen das Völkerrecht.",
+    "English": "It is a clear violation of international law.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Demonstration richtet sich gegen soziale Ungleichheit.",
+    "English": "The demonstration is directed against social inequality.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Gegen diese Verordnung wurde bereits Widerspruch eingelegt.",
+    "English": "An objection has already been filed against this regulation.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Das Unternehmen kämpft gegen den drohenden Bankrott.",
+    "English": "The company is fighting against imminent bankruptcy.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Maßnahmen gegen die Inflation zeigen erste Wirkungen.",
+    "English": "Measures against inflation are showing first effects.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Der Sportler protestiert gegen die unfaire Sperre.",
+    "English": "The athlete protests against the unfair ban.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Gegen den Willen der Basis wurde der Vertrag unterzeichnet.",
+    "English": "Against the will of the base, the contract was signed.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Es gibt Vorwürfe gegen den ehemaligen Vorstandsvorsitzenden.",
+    "English": "There are allegations against the former CEO.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Verhandlungen dauerten bis in die frühen Morgenstunden.",
+    "English": "The negotiations lasted until the early morning hours.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Etat reicht voraussichtlich bis zum Ende des Quartals.",
+    "English": "The budget is expected to last until the end of the quarter.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Bis zum jetzigen Zeitpunkt liegt kein Geständnis vor.",
+    "English": "Up to the present time, no confession has been made.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Das Gesetz soll bis zum Spätherbst verabschiedet sein.",
+    "English": "The law is supposed to be passed by late autumn.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Aktienkurse fielen bis auf ein historisches Tief.",
+    "English": "Stock prices fell down to a historic low.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Konflikt eskalierte bis an den Rand eines Krieges.",
+    "English": "The conflict escalated to the brink of a war.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Bis auf wenige Ausnahmen stimmten alle Delegierten zu.",
+    "English": "With a few exceptions, all delegates agreed.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Bauarbeiten verzögern sich bis ins nächste Jahr.",
+    "English": "Construction work is delayed into next year.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Frist wurde bis zum kommenden Freitag verlängert.",
+    "English": "The deadline was extended until next Friday.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Er verteidigte seine Position bis zum bitteren Ende.",
+    "English": "He defended his position until the bitter end.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Das Museum bleibt bis auf Weiteres wegen Umbau geschlossen.",
+    "English": "The museum remains closed until further notice due to renovation.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Bundeswehr kauft neue Ausrüstung für ihre Soldaten.",
+    "English": "The German army buys new equipment for its soldiers.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Subventionen für Solarstrom werden drastisch gekürzt.",
+    "English": "Subsidies for solar power are being drastically cut.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Neubau bietet Platz für über tausend Angestellte.",
+    "English": "The new building offers space for over a thousand employees.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Wir brauchen innovative Lösungen für urbane Probleme.",
+    "English": "We need innovative solutions for urban problems.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Das ist ein Meilenstein für den Klimaschutz in Europa.",
+    "English": "That is a milestone for climate protection in Europe.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Die Kosten für die Sanierung tragen die Eigentümer.",
+    "English": "The costs for the renovation are borne by the owners.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Der Minister bedankt sich für das entgegengebrachte Vertrauen.",
+    "English": "The minister expresses thanks for the trust placed in him.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Es gibt keine Garantie für den dauerhaften Erfolg.",
+    "English": "There is no guarantee for permanent success.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Das Gesetz sorgt für mehr Transparenz auf dem Markt.",
+    "English": "The law ensures more transparency in the market.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "für",
+    "German": "Er investiert sein gesamtes Vermögen für diesen Zweck.",
+    "English": "He invests his entire fortune for this purpose.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Verhandlungen kreisen um finanzielle Zugeständnisse.",
+    "English": "The negotiations revolve around financial concessions.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Inflation liegt aktuell um die Fünf-Prozent-Marke.",
+    "English": "Inflation is currently around the five percent mark.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Kanzlerin bat um Geduld bei den Reformen.",
+    "English": "The Chancellor asked for patience with the reforms.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Streit um das Erbe zog sich über Jahre hin.",
+    "English": "The dispute over the inheritance dragged on for years.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Aktienkurse schwanken täglich um erhebliche Beträge.",
+    "English": "Stock prices fluctuate daily by substantial amounts.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Es geht hierbei um Kopf und Kragen für die Firma.",
+    "English": "This is a matter of life and death for the company.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Das Abkommen sichert die Kooperation um jeden Preis.",
+    "English": "The agreement secures cooperation at any cost.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Er bemühte sich vergeblich um einen neuen Kredit.",
+    "English": "He strove in vain for a new loan.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Die Bürger kämpfen um den Erhalt des Stadtparks.",
+    "English": "Citizens fight for the preservation of the city park.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "um",
+    "German": "Der Skandal weitet sich um weitere Details aus.",
+    "English": "The scandal expands with further details.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne ein Visum ist die Einreise absolut unmöglich.",
+    "English": "Without a visa, entry is absolutely impossible.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Das Abkommen wurde ohne die Zustimmung der Opposition ratifiziert.",
+    "English": "The agreement was ratified without the opposition's approval.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Eine Demokratie ohne freie Presse kann nicht existieren.",
+    "English": "A democracy without a free press cannot exist.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Der Täter handelte ohne Skrupel und Mitgefühl.",
+    "English": "The perpetrator acted without scruples and compassion.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Das Gesetz ging ohne Debatte durch den Ausschuss.",
+    "English": "The law went through the committee without debate.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne eine Einigung droht am Montag ein Generalstreik.",
+    "English": "Without an agreement, a general strike threatens on Monday.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Er unterschrieb das Dokument ohne vorherige Prüfung.",
+    "English": "He signed the document without prior review.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Das Unternehmen wächst ohne staatliche Hilfe rasant.",
+    "English": "The company is growing rapidly without state aid.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Ohne Gegenstimmen wurde der neue Vorstand gewählt.",
+    "English": "The new board was elected without dissenting votes.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "ohne",
+    "German": "Eine Heilung ohne Medikamente ist in diesem Fall selten.",
+    "English": "A cure without medication is rare in this case.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch intensive Ermittlungen fand die Polizei die Wahrheit.",
+    "English": "Through intensive investigations, the police found the truth.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Krise wurde durch kluge Investitionen überwunden.",
+    "English": "The crisis was overcome through clever investments.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Der Antrag wurde durch die Mehrheit blockiert.",
+    "English": "The motion was blocked by the majority.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch ein Missverständnis kam es zu großen Verzögerungen.",
+    "English": "Through a misunderstanding, great delays occurred.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Firma expandiert durch die Übernahme eines Konkurrenten.",
+    "English": "The company expands through the takeover of a competitor.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Das Gesetz wurde durch das Parlament zügig verabschiedet.",
+    "English": "The law was swiftly passed by the parliament.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch den Streik fiel der gesamte Bahnverkehr aus.",
+    "English": "Through the strike, the entire rail traffic failed.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Der Fehler wurde durch eine neue Prüfung entdeckt.",
+    "English": "The error was discovered through a new check.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Die Stadt ist durch eine moderne Bahnlinie verbunden.",
+    "English": "The city is connected by a modern railway line.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "durch",
+    "German": "Durch den Neubau verändert sich das Gesicht des Viertels.",
+    "English": "Through the new building, the face of the neighborhood changes.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Klage gegen das neue Gesetz wurde eingereicht.",
+    "English": "The lawsuit against the new law was filed.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Demonstration gegen Rechts verlief friedlich.",
+    "English": "The demonstration against the right-wing went peacefully.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Es gibt erhebliche Widerstände gegen die Reformpläne.",
+    "English": "There is considerable resistance against the reform plans.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Der Minister verteidigt sich gegen die schweren Vorwürfe.",
+    "English": "The minister defends himself against the serious allegations.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Das Gesetz verstößt eindeutig gegen die Verfassung.",
+    "English": "The law clearly violates the constitution.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Gegen den Trend verzeichnet die Firma Gewinne.",
+    "English": "Against the trend, the company registers profits.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Polizei geht hart gegen Kriminelle vor.",
+    "English": "The police take a hard line against criminals.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Ein Mittel gegen diese Krankheit fehlt bis heute.",
+    "English": "A remedy against this disease is missing to this day.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Die Mehrheit stimmte vehement gegen den Kompromiss.",
+    "English": "The majority voted vehemently against the compromise.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "gegen",
+    "German": "Es läuft ein Verfahren gegen den Geschäftsführer.",
+    "English": "Proceedings are underway against the managing director.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Verhandlungen gehen bis in die nächste Woche.",
+    "English": "The negotiations go into next week.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Vertrag gilt unverändert bis zum Jahr 2030.",
+    "English": "The contract applies unchanged until the year 2030.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Bis zum Ende des Monats muss alles fertig sein.",
+    "English": "Everything must be ready by the end of the month.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Temperaturen sinken im Norden bis unter den Gefrierpunkt.",
+    "English": "Temperatures drop in the north to below freezing.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Der Bericht bleibt bis zur Veröffentlichung geheim.",
+    "English": "The report remains secret until publication.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Wir kämpfen weiter bis zur letzten Minute.",
+    "English": "We keep fighting until the last minute.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Aktion läuft noch bis zum kommenden Sonntag.",
+    "English": "The campaign runs until next Sunday.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Bis jetzt gibt es keine offizielle Stellungnahme dazu.",
+    "English": "Until now, there is no official statement on this.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Sperrung dauert voraussichtlich bis Ende Juli an.",
+    "English": "The closure is expected to last until the end of July.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "bis",
+    "German": "Die Erholung setzte sich bis zum Handelsschluss fort.",
+    "English": "The recovery continued until the close of trading.",
+    "Theme": "Akkusative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Er kommt aus einer kleinen Stadt in Deutschland.",
+    "English": "He comes from a small town in Germany.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Das Brot kommt frisch aus dem Ofen.",
+    "English": "The bread comes fresh out of the oven.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Ich trinke Wasser aus einem Glas.",
+    "English": "I drink water out of a glass.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Die Kinder kommen um 13 Uhr aus der Schule.",
+    "English": "The children come out of school at 1 PM.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Diese Möbel sind aus reinem Holz.",
+    "English": "This furniture is made of pure wood.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Er nimmt das Geld aus der Tasche.",
+    "English": "He takes the money out of the pocket.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Wir kommen gerade aus dem Supermarkt.",
+    "English": "We are just coming out of the supermarket.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Ich wohne noch bei meinen Eltern.",
+    "English": "I still live with my parents.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Er arbeitet bei einer bekannten Firma.",
+    "English": "He works at a well-known company.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Bei dem schönen Wetter gehen wir spazieren.",
+    "English": "In the beautiful weather we go for a walk.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Wir treffen uns bei der Post.",
+    "English": "We meet at the post office.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Beim Frühstück lesen viele Menschen die Zeitung.",
+    "English": "During breakfast many people read the newspaper.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Er hilft mir bei den Hausaufgaben.",
+    "English": "He helps me with the homework.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Das Hotel liegt direkt bei dem Bahnhof.",
+    "English": "The hotel is located right by the station.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Ich fahre jeden Tag mit dem Bus zur Arbeit.",
+    "English": "I ride the bus to work every day.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Er trinke den Kaffee am liebsten mit Milch.",
+    "English": "He prefers to drink his coffee with milk.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Wir gehen mit den Kindern auf den Spielplatz.",
+    "English": "We go to the playground with the children.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Kommst du heute Abend mit mir ins Kino?",
+    "English": "Are you coming to the cinema with me tonight?",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Sie schreibt den Brief mit einem Kugelschreiber.",
+    "English": "She writes the letter with a ballpoint pen.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Das Haus mit dem großen Garten ist sehr teuer.",
+    "English": "The house with the big garden is very expensive.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Er spricht sehr gerne mit seinem Nachbarn.",
+    "English": "He likes talking to his neighbor very much.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach dem Unterricht gehen wir nach Hause.",
+    "English": "After class we go home.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Der Zug fährt um neun Uhr nach Berlin.",
+    "English": "The train leaves for Berlin at nine o'clock.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Es ist schon zehn Minuten nach vier.",
+    "English": "It is already ten minutes past four.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach dem Essen trinken wir einen Tee.",
+    "English": "After the meal we drink a tea.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Wir fliegen im Sommer nach Spanien.",
+    "English": "We are flying to Spain in the summer.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach einer Stunde war das Treffen vorbei.",
+    "English": "After one hour the meeting was over.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Ich wohne seit einem Jahr in dieser Stadt.",
+    "English": "I have been living in this city for a year.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit einer Woche bin ich leider krank.",
+    "English": "I have unfortunately been sick for a week.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Er arbeitet seit einem Monat in der Fabrik.",
+    "English": "He has been working in the factory for a month.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit gestern regnet es ohne Pause.",
+    "English": "Since yesterday it has been raining without a break.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Wir kennen uns schon seit unserer Kindheit.",
+    "English": "We have known each other since our childhood.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Das ist ein Geschenk von meinem Bruder.",
+    "English": "That is a gift from my brother.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Der Zug von Hamburg kommt pünktlich an.",
+    "English": "The train from Hamburg arrives on time.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Wir sprechen gerade von dem neuen Film.",
+    "English": "We are just speaking about the new movie.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Das Buch von dem Lehrer ist sehr interessant.",
+    "English": "The book by the teacher is very interesting.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Von Montag bis Freitag habe ich keine Zeit.",
+    "English": "From Monday to Friday I have no time.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Er wohne nicht weit von der Schule entfernt.",
+    "English": "He lives not far away from the school.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Ich gehe am liebsten zu Fuß zur Schule.",
+    "English": "I prefer to go to school on foot.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Wir fahren am Wochenende zu meiner Oma.",
+    "English": "We are driving to my grandma's on the weekend.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Komm bitte morgen zu meinem Büro.",
+    "English": "Please come to my office tomorrow.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Das Essen ist zu scharf für mich.",
+    "English": "The food is too spicy for me.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Zum Frühstück trinke ich immer Orangensaft.",
+    "English": "For breakfast I always drink orange juice.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Wir gratulieren dir herzlich zum Geburtstag.",
+    "English": "We congratulate you heartily on your birthday.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Die Passagiere steigen eilig aus dem Zug aus.",
+    "English": "The passengers quickly get off the train.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Der Bericht stammt aus einer sicheren Quelle.",
+    "English": "The report comes from a reliable source.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Aus diesem Grund können wir nicht kommen.",
+    "English": "For this reason we cannot come.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Die Tasche wurde aus feinem Leder hergestellt.",
+    "English": "The bag was made of fine leather.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Er trinkt Tee aus einer alten Tasse.",
+    "English": "He drinks tea from an old cup.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Viele Nachrichten kommen heute aus aller Welt.",
+    "English": "Many news updates today come from all over the world.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Die Firma hat ihren Hauptsitz bei Frankfurt.",
+    "English": "The company has its headquarters near Frankfurt.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Bei diesem Unfall wurde niemand schwer verletzt.",
+    "English": "In this accident, nobody was seriously injured.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Er bleibt auch bei schlechtem Wetter draußen.",
+    "English": "He stays outside even in bad weather.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Beim Kauf eines Autos muss man vorsichtig sein.",
+    "English": "When buying a car, one has to be careful.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Die Infotheke befindet sich direkt beim Eingang.",
+    "English": "The information desk is located right by the entrance.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Wir bedanken uns bei allen treuen Kunden.",
+    "English": "We thank all loyal customers.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Das Projekt wurde mit großem Erfolg beendet.",
+    "English": "The project was finished with great success.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Er fährt mit dem schnellen Motorrad zur Arbeit.",
+    "English": "He rides to work on the fast motorcycle.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Wir sprechen morgen mit dem neuen Vermieter.",
+    "English": "We will speak with the new landlord tomorrow.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Mit etwas Geduld kann man die Prüfung schaffen.",
+    "English": "With some patience, one can pass the exam.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Sie teilt das Zimmer mit ihrer jüngeren Schwester.",
+    "English": "She shares the room with her younger sister.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Der Chef ist mit der aktuellen Arbeit zufrieden.",
+    "English": "The boss is satisfied with the current work.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach der langen Krise steigen die Preise wieder.",
+    "English": "After the long crisis, prices are rising again.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Meiner Meinung nach ist das ein großer Fehler.",
+    "English": "In my opinion, that is a big mistake.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Wir suchen nach einer günstigen Wohnung.",
+    "English": "We are looking for an affordable apartment.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Der Weg führt nach links zum Marktplatz.",
+    "English": "The path leads to the left to the marketplace.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach dem heftigen Sturm war die Straße gesperrt.",
+    "English": "After the severe storm, the road was blocked.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Er fragte höflich nach dem richtigen Weg.",
+    "English": "He asked politely for the right way.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit vielen Jahren engagiert sich der Verein hier.",
+    "English": "For many years, the association has been active here.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit dem letzten Monat gelten die neuen Gesetze.",
+    "English": "Since last month, the new laws apply.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Die Fabrik produziert seit kurzem umweltfreundlich.",
+    "English": "The factory has recently been producing in an eco-friendly way.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit dem Unfall kann er nicht mehr gut laufen.",
+    "English": "Since the accident, he cannot walk well anymore.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit einigen Tagen funktioniert das Internet nicht.",
+    "English": "For a few days, the internet has not been working.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Der Bürgermeister fordert Hilfe von der Regierung.",
+    "English": "The mayor demands help from the government.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Wir haben einen Brief von der Versicherung erhalten.",
+    "English": "We received a letter from the insurance company.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Das hängt ganz von dem genauen Termin ab.",
+    "English": "That depends entirely on the exact date.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Er erzählt oft von seiner interessanten Reise.",
+    "English": "He often talks about his interesting journey.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Die Brücke wurde von erfahrenen Arbeitern gebaut.",
+    "English": "The bridge was built by experienced workers.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Ein Großteil von den Kosten wird übernommen.",
+    "English": "A large part of the costs will be covered.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Die Politiker rufen zu mehr Frieden auf.",
+    "English": "The politicians call for more peace.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Der Pfad führt direkt zu dem alten Schloss.",
+    "English": "The path leads directly to the old castle.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Wir gehören zu einer großen Organisation.",
+    "English": "We belong to a large organization.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Das führt leider zu vielen Missverständnissen.",
+    "English": "That unfortunately leads to many misunderstandings.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Er schickt eine Einladung zu der großen Feier.",
+    "English": "He sends an invitation to the big celebration.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Die Zahl der Studenten nimmt von Jahr zu Jahr zu.",
+    "English": "The number of students increases from year to year.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Das Rathaus liegt direkt gegenüber der Kirche.",
+    "English": "The town hall is located directly opposite the church.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Er verhält sich gegenüber dem Lehrer sehr höflich.",
+    "English": "He behaves very politely towards the teacher.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Gegenüber dem Vorjahr sind die Kosten gestiegen.",
+    "English": "Compared to the previous year, costs have risen.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Die Wahrheit resultiert aus den Beweisen der Polizei.",
+    "English": "The truth results from the evidence of the police.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Das Gesetz besteht aus verschiedenen Paragraphen.",
+    "English": "The law consists of different paragraphs.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Der Konflikt entstand aus einem kleinen Streit.",
+    "English": "The conflict arose from a small argument.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Die Minister ziehen Konsequenzen aus dem Skandal.",
+    "English": "The ministers draw consequences from the scandal.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Aus reiner Vorsicht wurde die Fabrik evakuiert.",
+    "English": "Out of pure caution, the factory was evacuated.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Das Unternehmen zieht sich aus dem Markt zurück.",
+    "English": "The company is withdrawing from the market.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Der Abgeordnete scheidet aus dem Parlament aus.",
+    "English": "The member of parliament is leaving parliament.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Der Konzern meldete Insolvenz beim Amtsgericht an.",
+    "English": "The corporation filed for bankruptcy at the district court.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Die Bundesregierung bleibt bei ihrer harten Linie.",
+    "English": "The federal government sticks to its hard line.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Bei genauerer Betrachtung zeigt sich das Problem.",
+    "English": "On closer inspection, the problem reveals itself.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Er unterstützt den Kandidaten bei der Wahlkampagne.",
+    "English": "He supports the candidate in the election campaign.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Bei anhaltenden Protesten droht ein Regierungssturz.",
+    "English": "With ongoing protests, a government overthrow threatens.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Die Kosten liegen bei rund zwei Millionen Euro.",
+    "English": "The costs stand at around two million euros.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Er beschwerte sich beim Chef über die Zustände.",
+    "English": "He complained to the boss about the conditions.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Der Minister rechnet mit einer raschen Einigung.",
+    "English": "The minister expects a quick agreement.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Das Gesetz wurde mit absoluter Mehrheit verabschiedet.",
+    "English": "The law was passed with an absolute majority.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Der Experte warnt vor dem Umgang mit Kernkraft.",
+    "English": "The expert warns about the handling of nuclear power.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Die Firma konkurriert mit globalen Großkonzernen.",
+    "English": "The company competes with large global corporations.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Mit dieser Strategie will man den Markt erobern.",
+    "English": "With this strategy, they want to conquer the market.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Der Vertrag ist mit sofortiger Wirkung gültig.",
+    "English": "The contract is valid with immediate effect.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Er setzt sich intensiv mit diesem Thema auseinander.",
+    "English": "He deals intensively with this topic.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach intensiven Verhandlungen stand der Kompromiss.",
+    "English": "After intensive negotiations, the compromise was reached.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Der Staatsanwalt sucht nach weiteren Beweisen.",
+    "English": "The prosecutor is searching for further evidence.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach aktuellem Forschungsstand ist das Medikament sicher.",
+    "English": "According to the current state of research, the drug is safe.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Die Nachfrage nach Fachkräften steigt unaufhörlich.",
+    "English": "The demand for specialists is rising incessantly.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach dem Gesetz ist diese Handlung streng verboten.",
+    "English": "According to the law, this action is strictly forbidden.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Das Land strebt nach wirtschaftlicher Unabhängigkeit.",
+    "English": "The country strives for economic independence.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach eingehender Prüfung wurde der Antrag bewilligt.",
+    "English": "After thorough examination, the application was granted.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit dem Amtsantritt fordert er tiefgreifende Reformen.",
+    "English": "Since taking office, he has been demanding profound reforms.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit der Finanzkrise hat sich der Markt verändert.",
+    "English": "Since the financial crisis, the market has changed.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Die Arbeitslosenquote sinkt seit Monaten kontinuierlich.",
+    "English": "The unemployment rate has been falling continuously for months.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit der Einführung der Digitalisierung läuft es besser.",
+    "English": "Since the introduction of digitalization, things are running better.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Die Verträge liegen seit Wochen unverändert vor.",
+    "English": "The contracts have been available unchanged for weeks.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Der Erfolg hängt stark von den Exporten ab.",
+    "English": "Success depends heavily on exports.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Die Rede wurde von Millionen Zuschauern verfolgt.",
+    "English": "The speech was followed by millions of viewers.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Man fordert eine Entlastung von den hohen Steuern.",
+    "English": "They demand relief from the high taxes.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Die Vorschläge stammen direkt vom Wirtschaftsminister.",
+    "English": "The proposals come directly from the economics minister.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Er wurde von seinen Pflichten komplett entbunden.",
+    "English": "He was completely relieved of his duties.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Das Unternehmen profitiert von den neuen Regeln.",
+    "English": "The company benefits from the new rules.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Es gibt eine Abkehr von der bisherigen Klimapolitik.",
+    "English": "There is a departure from previous climate policy.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Der Skandal führte zum Rücktritt des Ministers.",
+    "English": "The scandal led to the resignation of the minister.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Die Verhandlungen beitragen zur Stabilisierung der Lage.",
+    "English": "The negotiations contribute to stabilizing the situation.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Er zählt zu den einflussreichsten Ökonomen des Landes.",
+    "English": "He counts among the country's most influential economists.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Die Regierung verpflichtet sich zu strengen Sparmaßnahmen.",
+    "English": "The government commits to strict austerity measures.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Der Übergang zur digitalen Verwaltung braucht Zeit.",
+    "English": "The transition to digital administration takes time.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Das Gericht verurteilte den Täter zu einer Geldstrafe.",
+    "English": "The court sentenced the perpetrator to a fine.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Wir laden Sie herzlich zur Konferenz ein.",
+    "English": "We cordially invite you to the conference.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Der Staat steht gegenüber den Bürgern in der Pflicht.",
+    "English": "The state has an obligation towards the citizens.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Gegenüber dem Vorquartal sank das Wirtschaftswachstum.",
+    "English": "Compared to the previous quarter, economic growth fell.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Die Skepsis gegenüber dem neuen Gesetz wächst täglich.",
+    "English": "Skepticism towards the new law grows daily.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Er verteidigt seine Haltung gegenüber den Kritikern.",
+    "English": "He defends his stance against the critics.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Gegenüber ausländischen Investoren zeigt sich das Land offen.",
+    "English": "The country shows itself open towards foreign investors.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Der Abgeordnete trat aus Protest aus der Partei aus.",
+    "English": "The MP resigned from the party in protest.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Viele Produkte aus dieser Region sind weltweit beliebt.",
+    "English": "Many products from this region are popular worldwide.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Die Krise resultiert aus mangelnden Investitionen.",
+    "English": "The crisis results from a lack of investments.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Wir ziehen positive Schlüsse aus der Studie.",
+    "English": "We draw positive conclusions from the study.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "aus",
+    "German": "Das Unternehmen importiert Rohstoffe aus Südamerika.",
+    "English": "The company imports raw materials from South America.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Die Inflation liegt beim aktuellen Wert von drei Prozent.",
+    "English": "Inflation stands at the current value of three percent.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Bei Verhandlungen muss man kompromissbereit sein.",
+    "English": "During negotiations, one must be ready to compromise.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Das Gesetz stieß bei der Opposition auf Kritik.",
+    "English": "The law met with criticism from the opposition.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Bei dem Treffen wurden wichtige Weichen gestellt.",
+    "English": "At the meeting, important cornerstones were set.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "bei",
+    "German": "Er steht bei seinem Arbeitgeber unter Vertrag.",
+    "English": "He is under contract with his employer.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Die Reform wurde mit sofortiger Wirkung gestoppt.",
+    "English": "The reform was stopped with immediate effect.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Der Konzern fusioniert mit einem großen Partner.",
+    "English": "The corporation merges with a major partner.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Mit dieser Methode spart die Fabrik viel Energie.",
+    "English": "With this method, the factory saves a lot of energy.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Wir rechnen fest mit einer schnellen Besserung.",
+    "English": "We firmly expect a quick improvement.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Er teilt seine Vision mit dem gesamten Team.",
+    "English": "He shares his vision with the entire team.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach Ansicht der Forscher ist der Trend besorgniserregend.",
+    "English": "In the view of the researchers, the trend is worrying.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Die Nachfrage nach Elektroautos sinkt unerwartet.",
+    "English": "The demand for electric cars is falling unexpectedly.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach dem Gesetz haftet der Vorstand persönlich.",
+    "English": "According to the law, the board is personally liable.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Wir suchen dringend nach neuen Alternativen.",
+    "English": "We are urgently looking for new alternatives.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "nach",
+    "German": "Nach einer kurzen Pause ging die Debatte weiter.",
+    "English": "After a short break, the debate continued.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit Jahren leidet die Region unter Wassermangel.",
+    "English": "For years, the region has been suffering from water scarcity.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit dem Regierungswechsel gibt es neue Prioritäten.",
+    "English": "Since the change of government, there are new priorities.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Die Kurse steigen seit dem frühen Vormittag.",
+    "English": "The rates have been rising since early morning.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit Monaten fordern Gewerkschaften höhere Löhne.",
+    "English": "For months, unions have been demanding higher wages.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "seit",
+    "German": "Seit der Krise läuft die Produktion langsamer.",
+    "English": "Since the crisis, production has been running slower.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Die Kosten werden komplett von der Stadt getragen.",
+    "English": "The costs are fully borne by the city.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Er wurde von den Vorwürfen vollständig freigesprochen.",
+    "English": "He was completely acquitted of the charges.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Das hängt stark von den weltweiten Märkten ab.",
+    "English": "That depends heavily on the global markets.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Ein Bericht von dem Treffen wird morgen veröffentlicht.",
+    "English": "A report of the meeting will be published tomorrow.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "von",
+    "German": "Die Abkehr von fossilen Energien ist beschlossen.",
+    "English": "The departure from fossil energies has been decided.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Das führt unweigerlich zu höheren Preisen.",
+    "English": "That inevitably leads to higher prices.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Die Maßnahmen beitragen zur Reduzierung der Abgase.",
+    "English": "The measures contribute to the reduction of exhaust gases.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Wir laden Experten zu der Diskussion ein.",
+    "English": "We invite experts to the discussion.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Der Minister äußert sich zu den aktuellen Plänen.",
+    "English": "The minister comments on the current plans.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "zu",
+    "German": "Die Bereitschaft zur Kooperation ist sehr groß.",
+    "English": "The willingness to cooperate is very high.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Gegenüber den Kritikern verteidigte er das Gesetz.",
+    "English": "He defended the law against the critics.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Die Skepsis gegenüber Impfungen hat abgenommen.",
+    "English": "S skepticism towards vaccinations has decreased.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Das Hotel liegt direkt gegenüber dem neuen Park.",
+    "English": "The hotel is located directly opposite the new park.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Gegenüber dem Vormonat blieb der Umsatz stabil.",
+    "English": "Compared to the previous month, turnover remained stable.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "gegenüber",
+    "German": "Er zeigte sich gegenüber den Forderungen offen.",
+    "English": "He showed himself open towards the demands.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "mit",
+    "German": "Der Manager verhandelt mit dem wichtigen Geschäftspartner Nummer",
+    "English": "The manager negotiates with the important business partner number 1.",
+    "Theme": "Dative prepositions"
+  },
+  {
+    "preposition": "an",
+    "German": "Das Bild hängt an der großen Wand.",
+    "English": "The picture hangs on the large wall.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Wir treffen uns morgen direkt am Bahnhof.",
+    "English": "We will meet tomorrow directly at the station.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Er stellt den Tisch an das helle Fenster.",
+    "English": "He places the table next to (at) the bright window.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Viele Leute warten an der Bushaltestelle.",
+    "English": "Many people are waiting at the bus stop.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Plakate hängen überall an den Wänden.",
+    "English": "The posters hang everywhere on the walls.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Wir denken oft an die schöne Urlaubsreise.",
+    "English": "We often think about (of) the beautiful holiday trip.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Neubau grenzt direkt an den Stadtpark.",
+    "English": "The new building borders directly on the city park.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Er schreibt eine E-Mail an den Kundenservice.",
+    "English": "He writes an email to the customer service.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Fabrik liegt direkt an einem großen Fluss.",
+    "English": "The factory is located right on a large river.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Termin wurde auf Wunsch an den Freitag verlegt.",
+    "English": "The appointment was moved to Friday upon request.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Es fehlt den Kommunen an finanziellen Mitteln.",
+    "English": "The municipalities lack financial means.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Kritik richtet sich an den zuständigen Minister.",
+    "English": "The criticism is directed at the responsible minister.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "An der Börse fallen die Aktienkurse rasant.",
+    "English": "On the stock exchange, share prices are falling rapidly.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Er nimmt aktiv an der politischen Debatte teil.",
+    "English": "He participates actively in the political debate.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Grenze verläuft direkt an dem großen Fluss.",
+    "English": "The border runs directly along the large river.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Wir passen das System an die neuen Standards an.",
+    "English": "We adjust the system to the new standards.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Forscher arbeitet an einer neuen Entdeckung.",
+    "English": "The researcher is working on a new discovery.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Es gibt Zweifel an der Glaubwürdigkeit des Berichts.",
+    "English": "There are doubts about the credibility of the report.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Appelle an die Vernunft blieben völlig wirkungslos.",
+    "English": "Appeals to reason remained completely ineffective.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Kanzler erinnert an die historischen Pflichten.",
+    "English": "The Chancellor reminds of the historical duties.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Forderung nach Reformen wird an die Regierung herangetragen.",
+    "English": "The demand for reforms is brought to the government.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "An erster Stelle steht für uns die Sicherheit der Bürger.",
+    "English": "In the first place for us stands the safety of the citizens.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Anstieg an Neuinfektionen besorgt die Ärzte.",
+    "English": "The increase in new infections worries the doctors.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Er glaubt fest an den Erfolg des neuen Konzepts.",
+    "English": "He believes firmly in the success of the new concept.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Stadt baut eine neue Promenade direkt am Flussufer.",
+    "English": "The city builds a new promenade directly on the river bank.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Bürger appellieren an das Gewissen der Politiker.",
+    "English": "The citizens appeal to the conscience of the politicians.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Erfolg hängt maßgeblich an der Umsetzung der Pläne.",
+    "English": "Success depends significantly on the implementation of plans.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Es besteht kein Zweifel an der Richtigkeit der Zahlen.",
+    "English": "There is no doubt about the correctness of the figures.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Der Neubau wird direkt an die Autobahn angeschlossen.",
+    "English": "The new building will be directly connected to the highway.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "an",
+    "German": "Die Kritik wurde an die Geschäftsführung weitergeleitet.",
+    "English": "The criticism was forwarded to the management.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Das Buch liegt auf dem Tisch.",
+    "English": "The book lies on the table.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Die Kinder laufen fröhlich auf den Spielplatz.",
+    "English": "The children run happily onto the playground.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Auf dem Marktplatz kaufen wir frisches Gemüse.",
+    "English": "On the marketplace we buy fresh vegetables.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Er legt die Zeitung auf das Sofa.",
+    "English": "He puts the newspaper on the sofa.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Der Teller steht auf dem weißen Regal.",
+    "English": "The plate stands on the white shelf.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Die Preise steigen auf einen neuen Höchstwert.",
+    "English": "Prices rise to a new maximum value.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Auf der Autobahn gab es einen langen Stau.",
+    "English": "On the highway there was a long traffic jam.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Wir freuen uns sehr auf das Wochenendfest.",
+    "English": "We are looking forward very much to the weekend festival.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Der Sportler bereitet sich auf den Lauf vor.",
+    "English": "The athlete prepares himself for the race.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Die Touristen warten auf den verspäteten Bus.",
+    "English": "The tourists are waiting for the delayed bus.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Das Kind setzt sich stolz auf das neue Fahrrad.",
+    "English": "The child sits proudly onto the new bicycle.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Der Fokus liegt auf der digitalen Transformation.",
+    "English": "The focus lies on digital transformation.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Die Opposition drängt auf eine schnelle Reform.",
+    "English": "The opposition pushes for a swift reform.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Das Unternehmen reagiert flexibel auf den Markt.",
+    "English": "The company reacts flexibly to the market.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Auf Druck der Bevölkerung wurde das Gesetz geändert.",
+    "English": "Under pressure from the population, the law was changed.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Wir verweisen auf die offiziellen Dokumente der Stadt.",
+    "English": "We refer to the official documents of the city.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Der Verdacht fällt auf den ehemaligen Mitarbeiter.",
+    "English": "The suspicion falls on the former employee.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Die Zinssätze wurden auf ein Minimum reduziert.",
+    "English": "The interest rates were reduced to a minimum.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Auf diese Fragen gibt es bisher keine Antwort.",
+    "English": "To these questions, there is no answer so far.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Der Bericht basiert auf internen Untersuchungen.",
+    "English": "The report is based on internal investigations.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Man hofft auf eine friedliche Lösung des Konflikts.",
+    "English": "One hopes for a peaceful solution to the conflict.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Die Konferenz lenkt die Aufmerksamkeit auf den Klimaschutz.",
+    "English": "The conference draws attention to climate protection.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Auf legalem Weg ist dieses Ziel nicht zu erreichen.",
+    "English": "By legal means, this goal cannot be reached.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Der Minister verzichtet auf eine erneute Kandidatur.",
+    "English": "The minister waives a renewed candidacy.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Wir vertrauen auf die Stärke der demokratischen Institutionen.",
+    "English": "We trust in the strength of democratic institutions.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "auf",
+    "German": "Das Urteil stützt sich auf eindeutige Beweise.",
+    "English": "The judgment is based on unambiguous evidence.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Der Garten liegt direkt hinter dem Haus.",
+    "English": "The garden is located right behind the house.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Das Kind versteckt sich hinter die Tür.",
+    "English": "The child hides behind the door.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Hinter den Kulissen wird fleißig gearbeitet.",
+    "English": "Behind the scenes, hard work is being done.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Das Auto rutschte hinter den breiten Lkw.",
+    "English": "The car slid behind the wide truck.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Hinter dem Kompromiss steckt ein langes Ringen.",
+    "English": "Behind the compromise lies a long struggle.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Die Partei steht geschlossen hinter dem Kanzler.",
+    "English": "The party stands united behind the Chancellor.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Hinter dieser Fassade verbirgt sich ein Skandal.",
+    "English": "Behind this facade, a scandal is hidden.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Der Staat hinkt hinter den Erwartungen hinterher.",
+    "English": "The state lags behind expectations.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Wir lassen die alten Methoden hinter uns.",
+    "English": "We leave the old methods behind us.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Hinter dem Erfolg des Start-ups steht harte Knochenarbeit.",
+    "English": "Behind the success of the start-up lies hard grid work.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Die Ermittler kamen hinter das Geheimnis des Kartells.",
+    "English": "The investigators found out the secret of the cartel.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Das Flugzeug verschwand hinter den dichten Wolken.",
+    "English": "The airplane disappeared behind the dense clouds.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Die Reform blieb weit hinter den Erwartungen zurück.",
+    "English": "The reform lagged far behind expectations.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "hinter",
+    "German": "Legen Sie die Dokumente bitte hinter den blauen Ordner.",
+    "English": "Please place the documents behind the blue folder.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Das Treffen findet in einem großen Raum statt.",
+    "English": "The meeting takes place in a large room.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Der Bus kommt pünktlich in der Stadt an.",
+    "English": "The bus arrives on time in the city.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Morgen gehen wir zusammen in das neue Kino.",
+    "English": "Tomorrow we are going together into the new cinema.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Wir wohnen in einer kleinen Wohnung im Zentrum.",
+    "English": "We live in a small apartment in the center.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Er legt das Handy in die schwarze Tasche.",
+    "English": "He puts the cell phone into the black bag.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Kaffee gibt es heute in der kleinen Küche.",
+    "English": "There is coffee today in the small kitchen.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Familie geht am Sonntag in den Park.",
+    "English": "The family goes into the park on Sunday.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Der Lehrer schreibt das Wort in das Heft.",
+    "English": "The teacher writes the word into the notebook.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Wir arbeiten jeden Tag in einem Büro.",
+    "English": "We work in an office every day.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Firma investiert viel Geld in neue Projekte.",
+    "English": "The company invests a lot of money into new projects.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In diesem Bericht stehen viele wichtige Termine.",
+    "English": "In this report, there are many important dates.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Das Flugzeug landet sicher in der Hauptstadt.",
+    "English": "The airplane lands safely in the capital city.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Der Dieb lief schnell in den dunklen Wald.",
+    "English": "The thief ran quickly into the dark forest.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In der Region sinkt die Zahl der Arbeitslosen.",
+    "English": "In the region, the number of unemployed people is falling.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Arbeiter gehen für die Pause in die Kantine.",
+    "English": "The workers go into the canteen for the break.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Er sammelt alle Quittungen in einem Ordner.",
+    "English": "He collects all receipts in a folder.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Bundesregierung greift aktiv in die Krise ein.",
+    "English": "The federal government intervenes actively in the crisis.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In dieser Branche fehlen qualifizierte Fachkräfte.",
+    "English": "In this branch, qualified specialists are lacking.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Das Abkommen tritt im kommenden Monat in Kraft.",
+    "English": "The agreement comes into force next month.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Gewerkschaft ruft zum Streik in der Industrie auf.",
+    "English": "The union calls for a strike in the industry.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Firma geriet durch die Kosten in finanzielle Not.",
+    "English": "The company got into financial distress due to costs.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Der Wandel transformiert das Leben in der Gesellschaft.",
+    "English": "The change transforms life in society.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Wir teilen das Budget in drei gleiche Teile auf.",
+    "English": "We divide the budget into three equal parts.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Das Gericht schickt den Angeklagten in die Haft.",
+    "English": "The court sends the accused into custody.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In weiten Teilen des Landes herrscht Trockenheit.",
+    "English": "In large parts of the country, drought prevails.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Ein Einblick in die Daten zeigt den Trend deutlich.",
+    "English": "An insight into the data shows the trend clearly.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Inflation hinterlässt tiefe Spuren in der Wirtschaft.",
+    "English": "Inflation leaves deep traces in the economy.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Er investiert mutig in Aktien von Technologieunternehmen.",
+    "English": "He invests courageously into stocks of technology companies.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Verhandlungen führen hoffentlich in eine friedliche Zukunft.",
+    "English": "The negotiations hopefully lead into a peaceful future.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In den vergangenen Monaten stiegen die Energiepreise massiv.",
+    "English": "In the past months, energy prices rose massively.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Der Forscher publiziert seine Entdeckung in einem Fachmagazin.",
+    "English": "The researcher publishes his discovery in a specialized magazine.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Die Wirtschaft befindet sich in einer Phase des Umbruchs.",
+    "English": "The economy is in a phase of upheaval.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Der Minister reist morgen in die Vereinigten Staaten.",
+    "English": "The minister travels tomorrow to the United States.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In den Verhandlungen wurde kein Fortschritt erzielt.",
+    "English": "No progress was achieved in the negotiations.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "Das Unternehmen investiert verstärkt in die Forschung.",
+    "English": "The company invests increasingly into research.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "in",
+    "German": "In der heutigen Sitzung wurde das Gesetz debattiert.",
+    "English": "In today's session, the law was debated.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Der Stuhl steht neben dem großen Schrank.",
+    "English": "The chair stands next to the large wardrobe.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Er setzt sich neben seinen neuen Freund.",
+    "English": "He sits down next to his new friend.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Neben dem Haupteingang finden Sie die Kasse.",
+    "English": "Next to the main entrance, you will find the cash desk.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Sie stellte die Pflanze neben das große Fenster.",
+    "English": "She placed the plant next to the large window.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Neben den Finanzen ist auch die Zeit ein Problem.",
+    "English": "In addition to finances, time is also a problem.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Er etabliert die Firma neben den großen Konkurrenten.",
+    "English": "He establishes the company alongside the big competitors.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Neben der Arbeit engagiert er sich ehrenamtlich.",
+    "English": "In addition to work, he volunteers.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Das Gesetz hat neben Vorteilen auch Nachteile.",
+    "English": "The law has disadvantages alongside advantages.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Er stellte sich demonstrativ neben den Streikenden.",
+    "English": "He stood demonstratively next to the striker.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Neben dem Hauptberuf betreibt er einen Online-Handel.",
+    "English": "In addition to his main job, he runs an online business.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Das neue Gebäude wurde direkt neben das historische Rathaus gebaut.",
+    "English": "The new building was built right next to the historic town hall.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Neben den klassischen Medien nutzen Jugendliche soziale Netzwerke.",
+    "English": "In addition to classic media, young people use social networks.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Er setzte sich diskret neben die Vorsitzende des Ausschusses.",
+    "English": "He sat down discreetly next to the chairwoman of the committee.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "neben",
+    "German": "Neben Klimaschutz ist bezahlbarer Wohnraum das wichtigste Thema.",
+    "English": "In addition to climate protection, affordable housing is the most important topic.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Die Lampe hängt über dem runden Tisch.",
+    "English": "The lamp hangs over the round table.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Wir sprechen im Unterricht über die Umwelt.",
+    "English": "We speak about the environment in class.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Der Hubschrauber fliegt über das Stadtgebiet.",
+    "English": "The helicopter flies over the city area.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Über eine Million Menschen besuchten die Messe.",
+    "English": "Over one million people visited the trade fair.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Das Buch informiert über gesunde Ernährung.",
+    "English": "The book informs about healthy nutrition.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Das Parlament debattiert über den neuen Haushalt.",
+    "English": "The parliament debates about the new budget.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Der Bericht gibt Aufschluss über den Zustand.",
+    "English": "The report provides information about the condition.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Die Beschwerde über den Chef wurde geprüft.",
+    "English": "The complaint about the boss was examined.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Man verfügt über beträchtliche finanzielle Mittel.",
+    "English": "They dispose of considerable financial means.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Die Verhandlungen dauerten über eine Woche lang.",
+    "English": "The negotiations lasted for over a week.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Er herrscht Uneinigkeit über die Verteilung.",
+    "English": "There is disagreement about the distribution.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Wir freuen uns über die positive Entwicklung.",
+    "English": "We are pleased about the positive development.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Der Skandal zieht sich über das ganze Land.",
+    "English": "The scandal drags across the entire country.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Über den Erfolg entscheidet die Qualität.",
+    "English": "Quality decides about the success.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Der Minister verhandelt über den Tarifvertrag.",
+    "English": "The minister negotiates about the collective agreement.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Der Aufsichtsrat entscheidet über die Entlassung des Vorstands.",
+    "English": "The supervisory board decides on the dismissal of the executive board.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Die Nachricht wurde über alle Kanäle rasant verbreitet.",
+    "English": "The news was quickly distributed across all channels.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Wir verfügen über keinerlei Informationen zu diesem Vorfall.",
+    "English": "We do not possess any information regarding this incident.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Das Gesetz bestimmt über die Zukunft der Energieversorgung.",
+    "English": "The law determines the future of the energy supply.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "über",
+    "German": "Über den Sinn dieser Maßnahme lässt sich streiten.",
+    "English": "The sense of this measure is open to debate.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Die Katze schläft unter dem weichen Bett.",
+    "English": "The cat sleeps under the soft bed.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Das Dokument liegt unter den alten Papieren.",
+    "English": "The document lies under the old papers.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter diesen Bedingungen können wir nicht arbeiten.",
+    "English": "Under these conditions, we cannot work.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter dem neuen Management stieg der Umsatz.",
+    "English": "Under the new management, turnover increased.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Die Bevölkerung leidet unter den Sanktionen.",
+    "English": "The population suffers under the sanctions.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Das Thema fällt unter den Datenschutz.",
+    "English": "The topic falls under data privacy.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter Ausschluss der Öffentlichkeit wurde verhandelt.",
+    "English": "Negotiations were held with the exclusion of the public.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Das Land steht unter starkem internationalem Druck.",
+    "English": "The country is under strong international pressure.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter dem Strich bleibt ein großer Verlust.",
+    "English": "Bottom line, a large loss remains.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Die Verordnung leidet unter mangelnder Akzeptanz.",
+    "English": "The regulation suffers from a lack of acceptance.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Er stellte sich unter den Schutz der Behörden.",
+    "English": "He placed himself under the protection of the authorities.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Das Gesetz wurde unter großem Protest verabschiedet.",
+    "English": "The law was passed under great protest.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter normalen Umständen wäre das kein Problem.",
+    "English": "Under normal circumstances, that would be no problem.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Das Volk litt jahrelang unter der brutalen Diktatur.",
+    "English": "The people suffered for years under the brutal dictatorship.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter dem Druck der Krise brachen die Märkte ein.",
+    "English": "Under the pressure of the crisis, the markets collapsed.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Die Akten werden unter Verschluss gehalten.",
+    "English": "The files are being kept under lock and key.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Unter Berücksichtigung aller Fakten wurde die Entscheidung getroffen.",
+    "English": "Taking all facts into consideration, the decision was made.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "unter",
+    "German": "Das Projekt steht unter der Schirmherrschaft des Bundespräsidenten.",
+    "English": "The project is under the patronage of the Federal President.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Das Auto parkt direkt vor der Bäckerei.",
+    "English": "The car parks right in front of the bakery.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Wir treffen uns um acht Uhr vor dem Kino.",
+    "English": "We meet at eight o'clock in front of the cinema.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Der Hund läuft schnell vor das Haus.",
+    "English": "The dog runs quickly in front of the house.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Ein großer Baum steht vor dem Fenster.",
+    "English": "A large tree stands in front of the window.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Die Polizei warnt vor Gefahren im Internet.",
+    "English": "The police warn against dangers on the internet.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Vor dem Rathaus protestieren viele Menschen.",
+    "English": "In front of the town hall, many people are protesting.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Er hat große Angst vor der schweren Prüfung.",
+    "English": "He is very afraid of the difficult exam.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Vor wenigen Tagen passierte ein schweres Unglück.",
+    "English": "A severe misfortune happened a few days ago.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Maßnahmen schützen die Bürger vor der Inflation.",
+    "English": "Measures protect citizens from inflation.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Vor dem Gesetz sind alle Menschen absolut gleich.",
+    "English": "Before the law, all human beings are absolutely equal.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Der Minister warnt vor übereilten Entscheidungen.",
+    "English": "The minister warns against hasty decisions.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Die Firma steht vor einer großen Herausforderung.",
+    "English": "The company stands before a great challenge.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Wir müssen die Augen vor den Fakten nicht verschließen.",
+    "English": "We must not close our eyes to the facts.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Vor laufenden Kameras gab er den Rücktritt bekannt.",
+    "English": "In front of running cameras, he announced his resignation.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Das Projekt schützt die Natur vor Zerstörung.",
+    "English": "The project protects nature from destruction.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Vor dem Hintergrund der Krise wird gespart.",
+    "English": "Against the background of the crisis, savings are made.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Sie hat Respekt vor der schweren Aufgabe.",
+    "English": "She has respect for the difficult task.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Das Gesetz schützt Jugendliche vor Ausbeutung.",
+    "English": "The law protects young people from exploitation.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Die Firma schützt sensible Kundendaten vor unbefugtem Zugriff.",
+    "English": "The company protects sensitive customer data from unauthorized access.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Vor Gericht verteidigte der Anwalt den Mandanten leidenschaftlich.",
+    "English": "In court, the lawyer passionately defended the client.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Die Katastrophe passierte direkt vor den Augen der Retter.",
+    "English": "The catastrophe happened right before the eyes of the rescuers.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Wir stehen kurz vor dem Abschluss des wichtigen Abkommens.",
+    "English": "We are shortly before the conclusion of the important agreement.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "vor",
+    "German": "Der Ausbau bietet Schutz vor zukünftigen Hochwassern.",
+    "English": "The expansion offers protection against future floods.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Das Buch liegt zwischen den beiden Flaschen.",
+    "English": "The book lies between the two bottles.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Der Streit zwischen den Nachbarn eskalierte.",
+    "English": "The argument between the neighbors escalated.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Wir parken das Rad zwischen die zwei Autos.",
+    "English": "We park the bike between the two cars.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Das Abkommen regelt die Beziehung zwischen Staaten.",
+    "English": "The agreement regulates the relationship between states.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Es gibt Differenzen zwischen den Koalitionspartnern.",
+    "English": "There are differences between the coalition partners.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Wir müssen zwischen Ursache und Wirkung unterscheiden.",
+    "English": "We must differentiate between cause and effect.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Die Verhandlungen stehen zwischen Erfolg und Scheitern.",
+    "English": "The negotiations stand between success and failure.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Ein Konflikt zwischen Kapital und Arbeit entstand.",
+    "English": "A conflict between capital and labor arose.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Die Kluft zwischen Arm und Reich vergrößert sich.",
+    "English": "The gap between rich and poor is widening.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Der Zug verkehrt stündlich zwischen Köln und Bonn.",
+    "English": "The train runs hourly between Cologne and Bonn.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Es wurde ein Kompromiss zwischen den Parteien erzielt.",
+    "English": "A compromise was achieved between the parties.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Vermittler stehen zwischen den verfeindeten Lagern.",
+    "English": "Mediators stand between the hostile camps.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Der Vertrag regelt die Zusammenarbeit zwischen Firmen.",
+    "English": "The contract regulates the cooperation between companies.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Der Vertrag vermittelt zwischen den Interessen der Parteien.",
+    "English": "The contract mediates between the interests of the parties.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Es gibt eine enge Abstimmung zwischen den Ministerien.",
+    "English": "There is close coordination between the ministries.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Die Schifffahrt zwischen den Häfen wurde vorübergehend eingestellt.",
+    "English": "Shipping between the ports was temporarily suspended.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Das Abkommen schafft Vertrauen zwischen den ehemaligen Feinden.",
+    "English": "The agreement creates trust between the former enemies.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
+    "preposition": "zwischen",
+    "German": "Wir bewegen uns hier zwischen Gesetz und Moral.",
+    "English": "We are moving here between law and morality.",
+    "Theme": "Wechsel prepositons"
+  },
+  {
     "Article": "die",
     "German Noun": "die 3-Tages-Tour",
     "Plural_form": "die 3-Tages-Touren",
