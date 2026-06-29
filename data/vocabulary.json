@@ -1,4 +1,2789 @@
 [
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Außerhalb des Stadtzentrums werden die Mieten für Neubauten deutlich günstiger.",
+    "English Meaning": "Outside the city center, rents for new buildings are significantly cheaper.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Der Vorfall ereignete sich außerhalb der regulären Arbeitszeit des Personals.",
+    "English Meaning": "The incident occurred outside the regular working hours of the staff.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Wissenschaftler fanden Spuren von Wasser außerhalb unseres Sonnensystems.",
+    "English Meaning": "Scientists found traces of water outside our solar system.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Außerhalb der Stoßzeiten fließt der Verkehr auf der Autobahn problemlos.",
+    "English Meaning": "Outside peak hours, traffic on the highway flows without problems.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Diese Medikamente dürfen nur außerhalb der Reichweite von Kindern gelagert werden.",
+    "English Meaning": "These medicines may only be stored outside the reach of children.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Außerhalb der gesetzlichen Frist eingereichte Anträge sind absolut ungültig.",
+    "English Meaning": "Applications submitted outside the legal deadline are absolutely invalid.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Viele seltene Tierarten leben ausschließlich außerhalb des geschützten Nationalparks.",
+    "English Meaning": "Many rare animal species live exclusively outside the protected national park.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Das Treffen fand auf Wunsch des Ministers außerhalb des Protokolls statt.",
+    "English Meaning": "The meeting took place outside the protocol at the request of the minister.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Außerhalb der Saison schlagen Hotels drastische Preisnachlässe vor.",
+    "English Meaning": "Outside the season, hotels propose drastic price discounts.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "außerhalb",
+    "German Newspaper & Journal Sentence": "Bestimmte Substanzen entfalten ihre Wirkung nur außerhalb lebender Zellen.",
+    "English Meaning": "Certain substances unfold their effect only outside living cells.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Innerhalb einer Woche müssen die Dokumente beim Amt vorliegen.",
+    "English Meaning": "Within a week, the documents must be submitted to the office.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Innerhalb des Gebäudes herrscht ein striktes Rauchverbot für alle Personen.",
+    "English Meaning": "Within the building, there is a strict smoking ban for all individuals.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Die Inflation führte innerhalb des Landes zu massiven sozialen Protesten.",
+    "English Meaning": "Inflation led to massive social protests within the country.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Innerhalb der europäischen Forschungsgemeinschaft genießt das Labor einen exzellenten Ruf.",
+    "English Meaning": "Within the European research community, the laboratory enjoys an excellent reputation.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Das Budget muss zwingend innerhalb des vorgegebenen Rahmens bleiben.",
+    "English Meaning": "The budget must urgently remain within the specified framework.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Innerhalb weniger Minuten war das gesamte Stadtgebiet ohne Stromversorgung.",
+    "English Meaning": "Within a few minutes, the entire city area was without power supply.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Der Wirkstoff wird innerhalb des Körpers sehr rasch abgebaut.",
+    "English Meaning": "The active ingredient is broken down very rapidly within the body.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Innerhalb der Koalition gibt es heftige Differenzen über das Gesetz.",
+    "English Meaning": "Within the coalition, there are fierce differences regarding the law.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Die Temperatur stieg innerhalb kürzester Zeit auf einen Rekordwert.",
+    "English Meaning": "The temperature rose to a record value within a very short time.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "innerhalb",
+    "German Newspaper & Journal Sentence": "Innerhalb dieses Quartals verzeichnete die Aktie enorme Gewinne.",
+    "English Meaning": "Within this quarter, the stock registered enormous gains.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "oberhalb",
+    "German Newspaper & Journal Sentence": "Das Dorf liegt malerisch oberhalb des tiefen Flusstals.",
+    "English Meaning": "The village is picturesquely located above the deep river valley.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "oberhalb",
+    "German Newspaper & Journal Sentence": "Die Werte liegen deutlich oberhalb der kritischen Grenze für Abgase.",
+    "English Meaning": "The values are significantly above the critical limit for exhaust gases.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "oberhalb",
+    "German Newspaper & Journal Sentence": "Oberhalb der Baumgrenze wird die Vegetation merklich spärlicher.",
+    "English Meaning": "Above the tree line, vegetation becomes noticeably sparser.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "oberhalb",
+    "German Newspaper & Journal Sentence": "Die Wohnung befindet sich direkt oberhalb des lauten Restaurants.",
+    "English Meaning": "The apartment is located directly above the loud restaurant.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "oberhalb",
+    "German Newspaper & Journal Sentence": "Forscher entdeckten das Nest oberhalb der steilen Klippen.",
+    "English Meaning": "Researchers discovered the nest above the steep cliffs.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "unterhalb",
+    "German Newspaper & Journal Sentence": "Das Thermometer sank unterhalb des Gefrierpunkts im Norden.",
+    "English Meaning": "The thermometer sank below the freezing point in the north.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "unterhalb",
+    "German Newspaper & Journal Sentence": "Unterhalb der Erdoberfläche befinden sich gewaltige Wasservorkommen.",
+    "English Meaning": "Below the earth's surface lie massive water reservoirs.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "unterhalb",
+    "German Newspaper & Journal Sentence": "Die Kosten blieben erfreulicherweise unterhalb des geplanten Budgets.",
+    "English Meaning": "The costs fortunately remained below the planned budget.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "unterhalb",
+    "German Newspaper & Journal Sentence": "Der Tunnel führt tief unterhalb des Meeresbodens hindurch.",
+    "English Meaning": "The tunnel leads deep below the seabed.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "unterhalb",
+    "German Newspaper & Journal Sentence": "Die Einkommen liegen in dieser Region oft unterhalb der Armutsgrenze.",
+    "English Meaning": "Incomes in this region are often below the poverty line.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "beiderseits",
+    "German Newspaper & Journal Sentence": "Beiderseits der Grenze wurden die Kontrollen massiv verschärft.",
+    "English Meaning": "On both sides of the border, controls were massively tightened.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "beiderseits",
+    "German Newspaper & Journal Sentence": "Die Bäume beiderseits der Allee bieten im Sommer angenehmen Schatten.",
+    "English Meaning": "The trees on both sides of the avenue offer pleasant shade in summer.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "beiderseits",
+    "German Newspaper & Journal Sentence": "Beiderseits des Atlantiks wächst die Skepsis gegenüber dieser Handelspolitik.",
+    "English Meaning": "On both sides of the Atlantic, skepticism toward this trade policy is growing.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "beiderseits",
+    "German Newspaper & Journal Sentence": "Die Entscheidung stieß beiderseits des politischen Spektrums auf Ablehnung.",
+    "English Meaning": "The decision met with rejection on both sides of the political spectrum.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "beiderseits",
+    "German Newspaper & Journal Sentence": "Beiderseits des Flusses wurden Schutzmauern gegen Hochwasser errichtet.",
+    "English Meaning": "On both sides of the river, protective walls against floods were built.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt einer Erhöhung der Steuern plant die Regierung Einsparungen.",
+    "English Meaning": "Instead of an increase in taxes, the government plans savings.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Wir trinken heute frischen Saft statt des süßen Alkohols.",
+    "English Meaning": "Today we drink fresh juice instead of sweet alcohol.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstatt",
+    "German Newspaper & Journal Sentence": "Anstatt des Direktors äußerte sich der Pressesprecher zum Skandal.",
+    "English Meaning": "Instead of the director, the press spokesperson commented on the scandal.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstatt",
+    "German Newspaper & Journal Sentence": "Sie kaufte ein Elektroauto anstatt des alten Dieselfahrzeugs.",
+    "English Meaning": "She bought an electric car instead of the old diesel vehicle.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstelle",
+    "German Newspaper & Journal Sentence": "Anstelle des verletzten Spielers rückt ein junges Talent nach.",
+    "English Meaning": "In place of the injured player, a young talent steps up.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstelle",
+    "German Newspaper & Journal Sentence": "Anstelle eines Berichts legte das Gremium nur Stichpunkte vor.",
+    "English Meaning": "In place of a report, the committee submitted only bullet points.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt des Neubaus wird die Sanierung der Schule bevorzugt.",
+    "English Meaning": "Instead of the new building, the renovation of the school is preferred.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstelle",
+    "German Newspaper & Journal Sentence": "Man wählte Holz anstelle von Beton aus ökologischen Gründen.",
+    "English Meaning": "Wood was chosen instead of concrete for ecological reasons.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund der extremen Hitze kam es zu schweren Waldbränden.",
+    "English Meaning": "Due to the extreme heat, severe wildfires occurred.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Verhandlungen wurden aufgrund unüberbrückbarer Differenzen abgebrochen.",
+    "English Meaning": "The negotiations were broken off due to irreconcilable differences.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund neuer wissenschaftlicher Daten wurde die Leitlinie angepasst.",
+    "English Meaning": "Due to new scientific data, the guideline was adjusted.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Der Flugverkehr stand aufgrund des dichten Nebels komplett still.",
+    "English Meaning": "Air traffic stood completely still due to the dense fog.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund des Drucks der Straße trat der Minister zurück.",
+    "English Meaning": "Due to pressure from the street, the minister resigned.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Produktion stieg aufgrund automatisierter Prozesse deutlich an.",
+    "English Meaning": "Production rose significantly due to automated processes.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels eindeutiger Beweise wurde der Prozess heute eingestellt.",
+    "English Meaning": "For lack of clear evidence, the trial was discontinued today.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Die Firma meldete mangels finanzieller Reserven Insolvenz an.",
+    "English Meaning": "The company filed for bankruptcy for lack of financial reserves.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels Alternativen stimmten die Delegierten dem Kompromiss zu.",
+    "English Meaning": "For lack of alternatives, the delegates agreed to the compromise.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Das Projekt scheiterte mangels Kooperation zwischen den Ministerien.",
+    "English Meaning": "The project failed for lack of cooperation between the ministries.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels qualifizierter Lehrkräfte fallen viele Unterrichtsstunden aus.",
+    "English Meaning": "For lack of qualified teachers, many lessons are canceled.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "ungeachtet",
+    "German Newspaper & Journal Sentence": "Ungeachtet aller Warnungen investierte der Fonds in riskante Aktien.",
+    "English Meaning": "Regardless of all warnings, the fund invested in risky stocks.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "ungeachtet",
+    "German Newspaper & Journal Sentence": "Die Demonstration fand ungeachtet des offiziellen Verbots statt.",
+    "English Meaning": "The demonstration took place despite (regardless of) the official ban.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "ungeachtet",
+    "German Newspaper & Journal Sentence": "Ungeachtet der hohen Kosten wird die Bahnstrecke modernisiert.",
+    "English Meaning": "Regardless of the high costs, the railway line is being modernized.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "ungeachtet",
+    "German Newspaper & Journal Sentence": "Er setzte das Experiment ungeachtet des Risikos entschlossen fort.",
+    "English Meaning": "He continued the experiment resolutely regardless of the risk.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "ungeachtet",
+    "German Newspaper & Journal Sentence": "Ungeachtet rechtlicher Bedenken wurde das Dekret gestern unterzeichnet.",
+    "English Meaning": "Regardless of legal concerns, the decree was signed yesterday.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen des starken Regens wurde das Fußballspiel am Mittag abgesagt.",
+    "English Meaning": "Because of the heavy rain, the football match was canceled at noon.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Die Fabrik musste wegen eines technischen Defekts vorübergehend schließen.",
+    "English Meaning": "The factory had to close temporarily due to a technical defect.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen der steigenden Inflation fordern die Gewerkschaften höhere Löhne.",
+    "English Meaning": "Because of rising inflation, unions are demanding higher wages.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Viele Züge hatten wegen eines heftigen Sturms erhebliche Verspätung.",
+    "English Meaning": "Many trains were significantly delayed because of a severe storm.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen des Verdachts auf Korruption leitet die Staatsanwaltschaft Ermittlungen ein.",
+    "English Meaning": "Due to suspicion of corruption, the prosecutor's office is initiating an investigation.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Die Straße blieb wegen dringender Bauarbeiten die ganze Woche gesperrt.",
+    "English Meaning": "The road remained closed all week because of urgent construction work.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen eines Missverständnisses kam es zu großen Verzögerungen im Projektablauf.",
+    "English Meaning": "Due to a misunderstanding, great delays occurred in the project workflow.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Viele Urlauber stornierten ihre Buchungen wegen der neuen Reisewarnung.",
+    "English Meaning": "Many vacationers canceled their bookings because of the new travel warning.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen der Pandemie wurden weltweite Lieferketten massiv unterbrochen.",
+    "English Meaning": "Because of the pandemic, global supply chains were massively disrupted.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Er musste wegen einer schweren Verletzung die sportliche Karriere beenden.",
+    "English Meaning": "He had to end his sporting career due to a severe injury.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz des schlechten Wetters kamen Tausende Zuschauer zum Festival.",
+    "English Meaning": "Despite the bad weather, thousands of spectators came to the festival.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Die Wirtschaft wächst trotz der internationalen Handelskrise weiter.",
+    "English Meaning": "The economy continues to grow despite the international trade crisis.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz strenger Sparmaßnahmen konnte das Haushaltsdefizit nicht gesenkt werden.",
+    "English Meaning": "Despite strict austerity measures, the budget deficit could not be reduced.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Der Patient zeigt trotz der schweren Erkrankung deutliche Fortschritte.",
+    "English Meaning": "The patient shows clear progress despite the severe illness.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz heftiger Kritik der Opposition hält der Minister an dem Gesetz fest.",
+    "English Meaning": "Despite fierce criticism from the opposition, the minister is sticking to the law.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Das Unternehmen verzeichnet trotz hoher Energiepreise erhebliche Gewinne.",
+    "English Meaning": "The company registers substantial profits despite high energy prices.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz aller Warnungen der Wissenschaftler wurde das Projekt fortgesetzt.",
+    "English Meaning": "Despite all warnings from scientists, the project was continued.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Sie bestand die schwierige Prüfung trotz mangelnder Vorbereitungszeit.",
+    "English Meaning": "She passed the difficult exam despite a lack of preparation time.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz des hohen Alters nimmt der Professor noch aktiv an Konferenzen teil.",
+    "English Meaning": "Despite his advanced age, the professor still actively participates in conferences.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Die Aktie stieg trotz negativer Berichte auf ein neues Jahreshoch.",
+    "English Meaning": "The stock rose to a new annual high despite negative reports.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Sommers bleiben die Temperaturen in der Region stabil.",
+    "English Meaning": "During the summer, temperatures in the region remain stable.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während der Verhandlungen kam es zu heftigen Diskussionen zwischen den Parteien.",
+    "English Meaning": "During the negotiations, fierce discussions occurred between the parties.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Viele Geschäfte mussten während der Wirtschaftskrise Insolvenz anmelden.",
+    "English Meaning": "Many shops had to file for bankruptcy during the economic crisis.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Fluges ist das Telefonieren strengstens verboten.",
+    "English Meaning": "During the flight, making phone calls is strictly forbidden.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während der Konferenz sprachen Experten über den globalen Klimawandel.",
+    "English Meaning": "During the conference, experts spoke about global climate change.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Umbaus bleibt das Museum für Besucher komplett geschlossen.",
+    "English Meaning": "During the renovation, the museum remains completely closed to visitors.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während der Präsidentschaftswahl waren die Sicherheitsmaßnahmen extrem hoch.",
+    "English Meaning": "During the presidential election, security measures were extremely high.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Studiums absolvierte sie mehrere Praktika im Ausland.",
+    "English Meaning": "During her studies, she completed several internships abroad.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Prozesses schweig der Angeklagte zu allen Vorwürfen.",
+    "English Meaning": "During the trial, the accused remained silent on all allegations.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während der Krise zeigte sich die Bevölkerung sehr solidarisch.",
+    "English Meaning": "During the crisis, the population showed great solidarity.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt einer Entschuldigung lieferte der Manager nur Ausflüchte.",
+    "English Meaning": "Instead of an apology, the manager provided only excuses.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Die Regierung plant Steuersenkungen statt einer Erhöhung der Abgaben.",
+    "English Meaning": "The government plans tax cuts instead of an increase in duties.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Wir nutzen heute das Fahrrad statt des Autos für den Arbeitsweg.",
+    "English Meaning": "Today we use the bicycle instead of the car for the commute.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstatt",
+    "German Newspaper & Journal Sentence": "Anstatt des erwarteten Gewinns verzeichnete die Firma einen Verlust.",
+    "English Meaning": "Instead of the expected profit, the company registered a loss.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt einer großen Reform gab es nur minimale Kompromisse im Ausschuss.",
+    "English Meaning": "Instead of a major reform, there were only minimal compromises in the committee.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Viele Menschen kaufen Produkte aus der Region statt aus dem Import.",
+    "English Meaning": "Many people buy products from the region instead of imports.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt des alten Gebäudes wird nun ein moderner Komplex errichtet.",
+    "English Meaning": "Instead of the old building, a modern complex is now being built.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstatt",
+    "German Newspaper & Journal Sentence": "Anstatt der Wahrheit verbreitete das Magazin falsche Informationen.",
+    "English Meaning": "Instead of the truth, the magazine spread false information.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Die Konferenz findet online statt des geplanten Treffens in Berlin statt.",
+    "English Meaning": "The conference takes place online instead of the planned meeting in Berlin.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt einer Haftstrafe erhielt der Täter eine Bewährungsstrafe.",
+    "English Meaning": "Instead of a prison sentence, the perpetrator received a probation sentence.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund des akuten Fachkräftemangels müssen Firmen neue Wege gehen.",
+    "English Meaning": "Due to the acute shortage of skilled workers, companies must find new ways.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Kurse fielen aufgrund der unsicheren Lage an den Weltmärkten.",
+    "English Meaning": "The rates fell due to the uncertain situation on the global markets.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund neuer wissenschaftlicher Erkenntnisse wurde die Therapie angepasst.",
+    "English Meaning": "Due to new scientific findings, the therapy was adjusted.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Stromproduktion sank aufgrund der anhaltenden Trockenheit im Sommer.",
+    "English Meaning": "Electricity production fell due to the prolonged drought in summer.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund eines Formfehlers ist der Vertrag rechtlich völlig ungültig.",
+    "English Meaning": "Due to a formal error, the contract is legally completely invalid.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Veranstaltung wurde aufgrund mangelnden Interesses kurzfristig abgesagt.",
+    "English Meaning": "The event was canceled at short notice due to lack of interest.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund des Urteils muss der Konzern Millionen an Entschädigung zahlen.",
+    "English Meaning": "Based on the judgment, the corporation must pay millions in compensation.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Preise stiegen aufgrund der Verknappung von Rohstoffen drastisch.",
+    "English Meaning": "Prices rose drastically due to the shortage of raw materials.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund anhaltender Proteste trat der gesamte Vorstand zurück.",
+    "English Meaning": "Due to ongoing protests, the entire board resigned.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Infrastruktur wurde aufgrund intensiver Investitionen stark modernisiert.",
+    "English Meaning": "The infrastructure was heavily modernized due to intensive investments.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe einer neuen Software konnte die Analyse schneller beendet werden.",
+    "English Meaning": "With the help of new software, the analysis could be finished faster.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Die Polizei fand den Täter mithilfe von Zeugenaussagen aus der Bevölkerung.",
+    "English Meaning": "The police found the perpetrator with the help of witness statements from the population.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe moderner Satellitentechnik überwachen Forscher die Gletscher.",
+    "English Meaning": "With the help of modern satellite technology, researchers monitor glaciers.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Das Projekt wurde mithilfe staatlicher Subventionen erfolgreich realisiert.",
+    "English Meaning": "The project was successfully realized with the help of state subsidies.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe eines Katalysators wird der Schadstoffausstoß drastisch reduziert.",
+    "English Meaning": "With the help of a catalytic converter, pollutant emissions are drastically reduced.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Die Daten wurden mithilfe statistischer Methoden präzise ausgewertet.",
+    "English Meaning": "The data were precisely evaluated with the help of statistical methods.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe von Spenden konnte das historische Gebäude saniert werden.",
+    "English Meaning": "With the help of donations, the historic building could be renovated.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Der Patient lernte mithilfe intensiver Physiotherapie wieder das Gehen.",
+    "English Meaning": "The patient learned to walk again with the help of intensive physiotherapy.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe künstlicher Intelligenz optimiert der Betrieb seine Logistik.",
+    "English Meaning": "With the help of artificial intelligence, the company optimizes its logistics.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Die Forscher isolierten das Gen mithilfe hochentwickelter Laborgeräte.",
+    "English Meaning": "The researchers isolated the gene with the help of highly sophisticated laboratory equipment.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge des Klimawandels häufen sich extreme Wetterereignisse weltweit.",
+    "English Meaning": "As a result of climate change, extreme weather events are accumulating worldwide.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge der Fusion verlieren hunderte Angestellte ihren Arbeitsplatz.",
+    "English Meaning": "As a result of the merger, hundreds of employees are losing their jobs.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge schwerer Fehler im Management droht dem Konzern die Pleite.",
+    "English Meaning": "As a result of serious mistakes in management, the corporation faces bankruptcy.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Die Produktion stand infolge des flächendeckenden Streiks komplett still.",
+    "English Meaning": "Production stood completely still as a result of the nationwide strike.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge einer Reform verändern sich die Bedingungen für Studierende.",
+    "English Meaning": "As a result of a reform, the conditions for students are changing.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Die Ernte fiel infolge der extremen Dürreperiode sehr schlecht aus.",
+    "English Meaning": "The harvest turned out very poor as a result of the extreme drought period.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge der neuen Verordnung müssen Betriebe strengere Regeln beachten.",
+    "English Meaning": "As a result of the new regulation, companies must observe stricter rules.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Die Inflation stieg infolge der lockeren Geldpolitik der Zentralbank.",
+    "English Meaning": "Inflation rose as a result of the loose monetary policy of the central bank.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge des Unfalls war die Autobahn stundenlang blockiert.",
+    "English Meaning": "As a result of the accident, the highway was blocked for hours.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge intensiver Forschung konnte ein Impfstoff entwickelt werden.",
+    "English Meaning": "As a result of intensive research, a vaccine could be developed.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank des schnellen Eingreifens der Feuerwehr wurde Schlimmeres verhindert.",
+    "English Meaning": "Thanks to the quick intervention of the fire department, worse was prevented.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Die Firma verzeichnet dank innovativer Ideen einen enormen Aufschwung.",
+    "English Meaning": "The company is experiencing a huge upswing thanks to innovative ideas.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank digitaler Technologien können viele Menschen im Homeoffice arbeiten.",
+    "English Meaning": "Thanks to digital technologies, many people can work from a home office.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank der großzügigen Unterstützung der Bürger wurde die Kita gebaut.",
+    "English Meaning": "Thanks to the generous support of the citizens, the daycare was built.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank moderner Medizin ist die Lebenserwartung deutlich gestiegen.",
+    "English Meaning": "Thanks to modern medicine, life expectancy has risen significantly.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank einer Sondergenehmigung durfte der Bau sofort beginnen.",
+    "English Meaning": "Thanks to a special permit, construction was allowed to begin immediately.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Die Mannschaft gewann das Finale dank einer taktischen Meisterleistung.",
+    "English Meaning": "The team won the final thanks to a tactical masterpiece.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank des neuen Konzepts sank der Energieverbrauch um dreißig Prozent.",
+    "English Meaning": "Thanks to the new concept, energy consumption fell by thirty percent.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank fundierter Analysen konnten Risiken frühzeitig minimiert werden.",
+    "English Meaning": "Thanks to sound analyses, risks could be minimized at an early stage.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Das Projekt feierte dank des Engagements aller Beteiligten große Erfolge.",
+    "English Meaning": "The project celebrated great success thanks to the commitment of all involved.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Zwecks Optimierung des Produktionsprozesses wurden neue Maschinen angeschafft.",
+    "English Meaning": "For the purpose of optimizing the production process, new machines were purchased.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Die Forscher kooperieren eng zwecks Durchführung der klinischen Studie.",
+    "English Meaning": "The researchers cooperate closely for the purpose of conducting the clinical study.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Zwecks Senkung der Betriebskosten wird das Personal reduziert.",
+    "English Meaning": "For the purpose of reducing operating costs, the staff is being reduced.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Der Minister reist nach Brüssel zwecks Verhandlung über die Agrarreform.",
+    "English Meaning": "The minister travels to Brussels for the purpose of negotiating the agricultural reform.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Zwecks Aufklärung des Vorfalls bittet die Polizei um Hinweise.",
+    "English Meaning": "For the purpose of clarifying the incident, the police ask for clues.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Die Daten wurden zwecks Gewährleistung des Datenschutzes verschlüsselt.",
+    "English Meaning": "The data were encrypted for the purpose of ensuring data privacy.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Zwecks Vermeidung von Missverständnissen wurde das Dokument überarbeitet.",
+    "English Meaning": "For the purpose of avoiding misunderstandings, the document was revised.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Der Vertrag wurde zwecks rechtlicher Absicherung von Notaren geprüft.",
+    "English Meaning": "The contract was examined by notaries for the purpose of legal protection.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Zwecks Erhöhung der Sicherheit wurden Überwachtungskameras installiert.",
+    "English Meaning": "For the purpose of increasing security, surveillance cameras were installed.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "zwecks",
+    "German Newspaper & Journal Sentence": "Die Probe wurde zwecks chemischer Analyse ins Labor geschickt.",
+    "English Meaning": "The sample was sent to the laboratory for the purpose of chemical analysis.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Hinsichtlich der Wirksamkeit des neuen Medikaments gibt es erste Belege.",
+    "English Meaning": "Regarding the effectiveness of the new drug, there are initial proofs.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Die Studie wirft Fragen hinsichtlich der langfristigen Folgen auf.",
+    "English Meaning": "The study raises questions regarding the long-term consequences.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Hinsichtlich des Budgets müssen wir strikte Grenzen einhalten.",
+    "English Meaning": "Regarding the budget, we must adhere to strict limits.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Es besteht Uneinigkeit hinsichtlich der politischen Strategie.",
+    "English Meaning": "There is disagreement regarding the political strategy.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Hinsichtlich der Qualität der Produkte wurden Mängel festgestellt.",
+    "English Meaning": "Regarding the quality of the products, deficiencies were found.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Die Gesetzgebung ist hinsichtlich des Umweltschutzes sehr streng.",
+    "English Meaning": "The legislation is very strict regarding environmental protection.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Hinsichtlich des Wirtschaftswachstums sind die Prognosen optimistisch.",
+    "English Meaning": "Regarding economic growth, the forecasts are optimistic.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Der Forscher äußerte Skepsis hinsichtlich der theoretischen Basis.",
+    "English Meaning": "The researcher expressed skepticism regarding the theoretical basis.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Hinsichtlich der Verteilung von Ressourcen gibt es Konflikte.",
+    "English Meaning": "Regarding the distribution of resources, there are conflicts.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "German Newspaper & Journal Sentence": "Die Bedingungen hinsichtlich des Arbeitsvertrags wurden neu verhandelt.",
+    "English Meaning": "The conditions regarding the employment contract were renegotiated.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Bezüglich Ihrer Anfrage teilen wir Ihnen die Entscheidung zeitnah mit.",
+    "English Meaning": "Regarding your inquiry, we will inform you of the decision promptly.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Es gibt neue Richtlinien bezüglich der Sicherheit am Arbeitsplatz.",
+    "English Meaning": "There are new guidelines regarding safety in the workplace.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Bezüglich des Preises konnte bisher keine Einigung erzielt werden.",
+    "English Meaning": "Regarding the price, no agreement could be achieved so far.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Der Bericht enthält wichtige Daten bezüglich des Energieverbrauchs.",
+    "English Meaning": "The report contains important data regarding energy consumption.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Bezüglich der Haftung bei Schäden gibt es klare gesetzliche Regeln.",
+    "English Meaning": "Regarding liability for damages, there are clear legal rules.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Wir bitten um eine schnelle Rückmeldung bezüglich des Termins.",
+    "English Meaning": "We ask for quick feedback regarding the appointment.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Bezüglich des Exports von Waren gelten neue Zollbestimmungen.",
+    "English Meaning": "Regarding the export of goods, new customs regulations apply.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Der Minister verweigerte Aussagen bezüglich der Gerüchte.",
+    "English Meaning": "The minister refused statements regarding the rumors.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Bezüglich der Finanzierung des Projekts läuft die Prüfung noch.",
+    "English Meaning": "Regarding the financing of the project, the review is still ongoing.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "bezüglich",
+    "German Newspaper & Journal Sentence": "Es bestehen erhebliche Zweifel bezüglich der legalen Grundlage.",
+    "English Meaning": "There are significant doubts regarding the legal basis.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels Beweisen wurde das Verfahren gegen den Verdächtigen eingestellt.",
+    "English Meaning": "For lack of evidence, the proceedings against the suspect were discontinued.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Die Firma musste mangels liquider Mittel Insolvenz anmelden.",
+    "English Meaning": "The company had to file for bankruptcy for lack of liquid funds.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels Alternativen stimmte der Ausschuss dem Vorschlag zu.",
+    "English Meaning": "For lack of alternatives, the committee agreed to the proposal.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Das Projekt scheiterte mangels finanzieller Unterstützung durch den Staat.",
+    "English Meaning": "The project failed for lack of financial support from the state.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels Interesses der Bevölkerung wurde die Pläne aufgegeben.",
+    "English Meaning": "For lack of interest from the population, the plans were abandoned.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Der Vertrag wurde mangels einer Einigung nicht verlängert.",
+    "English Meaning": "The contract was not extended for lack of an agreement.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels qualifizierter Bewerber bleibt die Stelle unbesetzt.",
+    "English Meaning": "For lack of qualified applicants, the position remains vacant.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Das Urteil wurde mangels einer gesetzlichen Grundlage kritisiert.",
+    "English Meaning": "The judgment was criticized for lack of a legal basis.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Mangels Zeit konnte die Analyse nicht vollständig durchgeführt werden.",
+    "English Meaning": "For lack of time, the analysis could not be fully carried out.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mangels",
+    "German Newspaper & Journal Sentence": "Die Verhandlungen wurden mangels neuer Vorschläge abgebrochen.",
+    "English Meaning": "The negotiations were broken off for lack of new proposals.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen des Umbaus des Bahnhofs fahren heute keine Züge.",
+    "English Meaning": "Because of the renovation of the station, no trains are running today.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen einer Grippewelle blieb die Schule geschlossen.",
+    "English Meaning": "Because of a flu wave, the school remained closed.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Die Preise steigen wegen der Verknappung des Gases.",
+    "English Meaning": "Prices are rising because of the shortage of gas.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Wegen des Streiks kam es zu Ausfällen im Flugverkehr.",
+    "English Meaning": "Because of the strike, cancellations occurred in air traffic.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "wegen",
+    "German Newspaper & Journal Sentence": "Er fehlt heute wegen eines wichtigen Arzttermins.",
+    "English Meaning": "He is missing today because of an important doctor's appointment.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz aller Probleme blickt der Gründer optimistisch in die Zukunft.",
+    "English Meaning": "Despite all problems, the founder looks optimistically into the future.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Die Verhandlungen laufen trotz erheblicher Differenzen weiter.",
+    "English Meaning": "The negotiations continue despite significant differences.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz des Verbots demonstrierten Hunderte auf den Straßen.",
+    "English Meaning": "Despite the ban, hundreds demonstrated on the streets.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Er erreichte das Ziel trotz der extremen Erschöpfung.",
+    "English Meaning": "He reached the goal despite extreme exhaustion.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "trotz",
+    "German Newspaper & Journal Sentence": "Trotz der Krise investiert der Konzern in neue Standorte.",
+    "English Meaning": "Despite the crisis, the corporation invests in new locations.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Vortrags mussten alle Mikrofone stummgeschaltet werden.",
+    "English Meaning": "During the presentation, all microphones had to be muted.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des Krieges flohen Millionen Menschen in Nachbarländer.",
+    "English Meaning": "During the war, millions of people fled to neighboring countries.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während der Arbeitszeit ist private Internetnutzung untersagt.",
+    "English Meaning": "During working hours, private internet use is prohibited.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während des gesamten Jahres blieb der Umsatz konstant.",
+    "English Meaning": "During the entire year, turnover remained constant.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "während",
+    "German Newspaper & Journal Sentence": "Während der Debatte verließen einige Abgeordnete den Saal.",
+    "English Meaning": "During the debate, some members of parliament left the hall.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Wir kaufen Solaranlagen statt konventioneller Heizsysteme.",
+    "English Meaning": "We buy solar installations instead of conventional heating systems.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt des Berichts legte er nur eine kurze Zusammenfassung vor.",
+    "English Meaning": "Instead of the report, he submitted only a short summary.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Nutzen Sie E-Mails statt gedruckter Briefe der Umwelt zuliebe.",
+    "English Meaning": "Use emails instead of printed letters for the sake of the environment.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "anstatt",
+    "German Newspaper & Journal Sentence": "Anstatt des Direktors sprach der Pressesprecher zu den Medien.",
+    "English Meaning": "Instead of the director, the press spokesperson spoke to the media.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "statt",
+    "German Newspaper & Journal Sentence": "Statt einer Gehaltserhöhung fordern Mitarbeiter flexiblere Arbeitszeiten.",
+    "English Meaning": "Instead of a salary increase, employees demand more flexible working hours.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund der neuen Gesetzeslage müssen wir die Abläufe ändern.",
+    "English Meaning": "Due to the new legal situation, we must change the workflows.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Flüge wurden aufgrund des dichten Nebels umgeleitet.",
+    "English Meaning": "The flights were diverted due to the dense fog.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund des Drucks von Investoren wurde der CEO entlassen.",
+    "English Meaning": "Due to pressure from investors, the CEO was dismissed.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Die Stromtarife sinken aufgrund der erhöhten Windkraftproduktion.",
+    "English Meaning": "Electricity tariffs are falling due to the increased wind power production.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "aufgrund",
+    "German Newspaper & Journal Sentence": "Aufgrund einer technischen Panne fiel das Netzwerk stundenlang aus.",
+    "English Meaning": "Due to a technical glitch, the network failed for hours.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe spezieller Filter wird das Wasser gereinigt.",
+    "English Meaning": "With the help of special filters, the water is cleaned.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Die Struktur wurde mithilfe von Röntgenstrahlen analysiert.",
+    "English Meaning": "The structure was analyzed with the help of X-rays.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe digitaler Plattformen vernetzen sich Start-ups weltweit.",
+    "English Meaning": "With the help of digital platforms, start-ups network worldwide.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Das Rätsel wurde mithilfe historischer Dokumente gelöst.",
+    "English Meaning": "The puzzle was solved with the help of historical documents.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "mithilfe",
+    "German Newspaper & Journal Sentence": "Mithilfe dieser App lässt sich der Stromverbrauch messen.",
+    "English Meaning": "With the help of this app, power consumption can be measured.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge der Explosion wurden umliegende Gebäude beschädigt.",
+    "English Meaning": "As a result of the explosion, surrounding buildings were damaged.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge des Booms steigen die Mietpreise in den Städten.",
+    "English Meaning": "As a result of the boom, rental prices are rising in the cities.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge des Urteils schossen die Aktienkurse nach oben.",
+    "English Meaning": "As a result of the judgment, stock prices shot upwards.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge von Sparmaßnahmen wird das Budget halbiert.",
+    "English Meaning": "As a result of austerity measures, the budget is being halved.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "infolge",
+    "German Newspaper & Journal Sentence": "Infolge mangelnder Wartung kam es zum Systemausfall.",
+    "English Meaning": "As a result of a lack of maintenance, a system failure occurred.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank des neuen Medikaments konnte die Heilungsrate erhöht werden.",
+    "English Meaning": "Thanks to the new drug, the cure rate could be increased.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank einer großzügigen Spende wurde das Labor saniert.",
+    "English Meaning": "Thanks to a generous donation, the laboratory was renovated.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank moderner Heiztechnik spart die Gemeinde viel Geld.",
+    "English Meaning": "Thanks to modern heating technology, the municipality saves a lot of money.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Die Rettung gelang dank des schnellen Einsatzes der Helfer.",
+    "English Meaning": "The rescue succeeded thanks to the quick deployment of the helpers.",
+    "theme": "Genetive Prepositions"
+  },
+  {
+    "Preposition": "dank",
+    "German Newspaper & Journal Sentence": "Dank der Digitalisierung läuft die Verwaltung viel effizienter.",
+    "English Meaning": "Thanks to digitalization, administration runs much more efficiently.",
+    "theme": "Genetive Prepositions"
+  },
+{
+    "Prefix": "be-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Converts intransitive verbs to transitive or intensifies action",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "emp-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Used with a small cluster of root verbs related to reception / perception",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "ent-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Indicates removal/ escape/ separation",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "er-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Denotes achieving a goal",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "ge-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Forms stable base verbs; distinct from the past participle marker",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "miss-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Indicates failure",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "ver-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Denotes error/completion/waste",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "zer-",
+    "Prefix_Type": "Inseparable Prefix",
+    "Primary_Meaning_Or_Function": "Indicates destruction/dissolution/tearing apart",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "ab-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Away from / down / off / completion",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "an-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "At / on / to / beginning of an action",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "auf-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Up / open / onto / sudden awakening",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "aus-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Out / out of / completion / thoroughly",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "bei-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "With / along / alongside / contributing",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "ein-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "In / into / down into / internal change",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "mit-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "With / along / together / synchronous action",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "nach-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "After / behind / copying / replicating",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "vor-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Before / forward / in front of / demonstrating",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "weg-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Away / off",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "zu-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Towards / closed / in addition to",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "zurück-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Back / backward / return path",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "zusammen-",
+    "Prefix_Type": "Separable Prefix",
+    "Primary_Meaning_Or_Function": "Together / assembly / collapse",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "durch-",
+    "Prefix_Type": "Variable Prefix",
+    "Primary_Meaning_Or_Function": "Through / clean through a space",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "über-",
+    "Prefix_Type": "Variable Prefix",
+    "Primary_Meaning_Or_Function": "Over / across / excessive / transforming",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "um-",
+    "Prefix_Type": "Variable Prefix",
+    "Primary_Meaning_Or_Function": "Around / down / fundamental change / inversion",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Prefix": "unter-",
+    "Prefix_Type": "Variable Prefix",
+    "Primary_Meaning_Or_Function": "Under / below / beneath / downward",
+    "Theme": "seperable/Inseperable"
+  },
+  {
+    "Structural_Rule": "Male humans and animals are masculine",
+    "Target_German": "der Arzt / der Löwe",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Diminutives in -chen and -lein are always neuter",
+    "Target_German": "das Büblein / das Karlchen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Seasons months and days of the week are masculine",
+    "Target_German": "der Sommer / der Januar / der Montag",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Temporal core vocabulary exceptions to masculine calendar rule",
+    "Target_German": "die Nacht / die Woche / das Jahr",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Compass points winds and weather conditions are masculine",
+    "Target_German": "der Norden / der Föhn / der Regen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Weather variations deviating from masculine assignment",
+    "Target_German": "das Eis / das Gewitter / die Brise",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Alcoholic and plant-based drinks are masculine",
+    "Target_German": "der Gin / der Saft / der Kaffee",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Core beverage exception to the masculine drink rule",
+    "Target_German": "das Bier",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Makes of cars are masculine",
+    "Target_German": "der BMW / der Audi",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Motorbikes are feminine even if sharing a car brand name",
+    "Target_German": "die BMW",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Rivers outside of Germany are masculine",
+    "Target_German": "der Ganges / der Nil",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Rivers outside Germany ending in -a or -e are feminine",
+    "Target_German": "die Seine / die Themse",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Native German river names are traditionally feminine",
+    "Target_German": "die Donau / die Elbe / die Weser",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Major German river exceptions that take masculine gender",
+    "Target_German": "der Rhein / der Inn / der Main",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Monetary units are masculine",
+    "Target_German": "der Euro / der Dollar",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Currency exceptions taking feminine or neuter profiles",
+    "Target_German": "die Mark / das Pfund",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Names of numerals are feminine",
+    "Target_German": "die Eins / die Milliarde",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Quantity structural expressions used as nouns are neuter",
+    "Target_German": "das Dutzend / das Hundert",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Young humans and animals are assigned neuter",
+    "Target_German": "das Baby / das Kalb / das Kind",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Metals and chemical elements are neuter",
+    "Target_German": "das Gold / das Eisen / das Uran",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Metallurgical exceptions to the neuter element rule",
+    "Target_German": "der Stahl / der Schwefel / die Bronze",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Other parts of speech (infinitives/particles/languages) used as nouns are neuter",
+    "Target_German": "das Stehen / das Aber / das moderne Deutsch",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Specific masculine geographic entities requiring articles",
+    "Target_German": "der Irak / der Iran / der Sudan",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Feminine geographical nations requiring definite articles",
+    "Target_German": "die Schweiz / die Türkei / die Ukraine",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nouns with these derivative endings are masculine",
+    "Target_German": "-ant / -ast / -ich / -ig / -ismus / -ling / -or / -us",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Latinate/foreign morphology exceptions to masculine suffixes",
+    "Target_German": "das Labor / das Genus / das Tempus",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nouns formed from strong verb roots without suffixes are masculine",
+    "Target_German": "der Betrieb / der Gang / der Sprung",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Strong verb conversions yielding neuter nouns instead of masculine",
+    "Target_German": "das Band / das Schloss / das Verbot",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nouns terminating in these structural suffixes are feminine",
+    "Target_German": "-a / -anz / -ei / -enz / -heit / -keit / -ik / -in / -schaft / -sion / -tion / -tät / -ung / -ur",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Exceptions to feminine foreign suffix patterns",
+    "Target_German": "das Sofa / das Genie / der Atlantik / das Abitur",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nouns containing these explicit structural endings are neuter",
+    "Target_German": "-chen / -lein / -tel / -ma / -ment / -um / -it",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Exceptions to typically neuter suffixes",
+    "Target_German": "der Profit / der Granit / die Firma / der Zement",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Masculine nouns ending in -e that do not represent weak personal nouns",
+    "Target_German": "der Käse / der Charme",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Neuter nouns maintaining a stable final -e ending",
+    "Target_German": "das Auge / das Ende / das Interesse",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Double gender noun shifts defining completely distinct semantic fields",
+    "Target_German": "der Band vs. das Band vs. die Band",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "60% of masculine nouns with these unstressed endings form empty plurals (-)",
+    "Target_German": "-el / -en / -er",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "A targeted group of ~20 masculine words in -el/-en/-er pluralize strictly via Umlaut",
+    "Target_German": "der Apfel -> die Äpfel / der Bruder -> die Brüder",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "A bounded class of ~12 masculine nouns pluralize utilizing (-er) + Umlaut",
+    "Target_German": "der Mann -> die Männer / der Wald -> die Wälder",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "A quarter of feminine monosyllabic core words take an (-e) + Umlaut plural matrix",
+    "Target_German": "die Hand -> die Hände / die Nacht -> die Nächte",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Roughly 25% of neuter nouns pluralize via (-er) + mandatory Umlaut if possible",
+    "Target_German": "das Kind -> die Kinder / das Tal -> die Täler",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Recent loans hyphenated roots acronyms and family surnames apply the (-s) plural",
+    "Target_German": "die Babys / die PKWs / die Müllers",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Classical loan nouns substitute suffix terminations for an (-en) plural matrix",
+    "Target_German": "das Thema -> die Themen / das Museum -> die Museen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Occupational compounds in -mann convert to collective plural -leute",
+    "Target_German": "der Fachmann -> die Fachleute",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Non-human or strictly individual manifestations of -mann resolve to -männer",
+    "Target_German": "der Schneemann -> die Schneemänner",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Semantic division between lexical word tokens vs. conceptual prose",
+    "Target_German": "die Wörter vs. die Worte",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Regular masculine/neuter singular genitives take plain (-s) after unstressed syllables",
+    "Target_German": "des Bahnhofs / des Fensters",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Sibilant endings (-s -ß -x -z -sch) strictly command an (-es) genitive token",
+    "Target_German": "des Krebses / des Maßes / des Tisches",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "All dative plural noun cases add an (-n) if the plural root does not already end in -n or -s",
+    "Target_German": "den Kindern / den Händen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Weak masculine personal nouns append (-n) or (-en) in all oblique cases",
+    "Target_German": "der Junge -> den/des/dem Jungen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The weak noun \"Herr\" drops its plural -en matrix down to (-n) for singular oblique data",
+    "Target_German": "Herrn Alfred Bletzer",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mixed irregular structural nouns require both a weak (-n) and a genitive (-s)",
+    "Target_German": "der Name -> des Namens / das Herz -> des Herzens",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Genitive inflection constructs are standard text while \"von\" + Dat dominantly parses voice data",
+    "Target_German": "das Dach des Hauses vs. das Dach vom Haus",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "A structural paraphrase with \"von\" is mandatory when a noun stands without a determiner",
+    "Target_German": "der Bau von Kraftwerken",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Impersonal sensations parse the experiencer as a dative object node",
+    "Target_German": "Mir ist kalt!",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Sociolinguistic selection parameters isolating target solidarity vs. distance data",
+    "Target_German": "du / ihr / Sie",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Inanimate prepositional links convert into fixed pronominal compounds ($da(r)$-)",
+    "Target_German": "damit / daran / darüber",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mandatory standard written contractions of preposition + definite article",
+    "Target_German": "ans / am / im / ins / vom / beim / zum / zur",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Prepositional contractions common in speech but restricted to set idioms in formal text",
+    "Target_German": "aufs / fürs / übers / ums / unters",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Definite articles cannot be omitted for a second noun if genders or numbers differ",
+    "Target_German": "das Haus und der Garten",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "German commands the definite article for abstract nouns and nominalized infinitives",
+    "Target_German": "das Alter / die Industrie / das Schwimming",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "No article is used when an abstract noun introduces a new general/indefinite concept",
+    "Target_German": "Zu dieser Aufgabe gehört Mut",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Noun-verb phrasal idioms require specific zero-article configurations",
+    "Target_German": "Abschied nehmen / Angst haben / in Druck geben",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Feminine and plural country names strictly require the definite article",
+    "Target_German": "die Schweiz / die Türkei / die Ukraine / die Niederlande",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Neuter countries and cities use a zero-article framework",
+    "Target_German": "Deutschland / Spanien / Leipzig / London",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Proper and geographical names command a definite article when qualified by an adjective",
+    "Target_German": "das heutige Deutschland / der junge Heinrich",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Parts of the body and clothing items use the definite article instead of a possessive",
+    "Target_German": "Er hat sich das Bein gebrochen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Predicative nouns of profession and nationality drop the indefinite article",
+    "Target_German": "Er ist Arzt / Ich bin Engländer",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The demonstrative pronoun \"der\" mirrors the article but carries distinct primary stress",
+    "Target_German": "mein Wagen und der meines Bruders",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Genitive forms of the demonstrative/relative pronoun used to eliminate possessive ambiguity",
+    "Target_German": "dessen / deren",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Demonstrative paradigm reflecting proximity with invariant strong ending behavior",
+    "Target_German": "dieser / diese / dieses / diese",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Emphatic compound demonstrative used to structurally anticipate a relative clause",
+    "Target_German": "derjenige / diejenige / dasjenige",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Identifies absolute identity (the very same) vs der gleiche (a similar one)",
+    "Target_German": "derselbe / dieselbe / dasselbe",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Singular configurations favor \"ein solcher\" while plural favors plain inflected \"solche",
+    "Target_German": "ein solcher / solche",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Possessive determiners implement the identical ending matrix of the indefinite article \"ein",
+    "Target_German": "mein / dein / sein / ihr / unser / euer / Ihr",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Possessive pronouns (no noun following) must assume the full strong endings of \"dieser",
+    "Target_German": "meiner / deines / unsrer",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Interrogative identifier splitting case marking onto the variable \"ein\" component",
+    "Target_German": "was für ein / was für",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Pronoun syntax isolating human interrogative values across four functional cases",
+    "Target_German": "wer / wen / wessen / wem",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Pronoun syntax isolating inanimate objects; lacks a native dative form",
+    "Target_German": "was / wessen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Inanimate prepositional questions map onto compound \"wo(r)-\" structures",
+    "Target_German": "womit / worüber / wozu",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Relative pronoun matrix drawing gender/number from the antecedent and case from the sub-clause",
+    "Target_German": "der / die / das / die",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "was / das Erste",
+    "Target_German": "alles",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The structural quantifier \"alle\" forces weak adjectival declension endings onto trailing items",
+    "Target_German": "alle guten Kinder",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Pronoun paradigm functioning as a singular numerical placeholder or indefinite human anchor",
+    "Target_German": "einer / eine / eines",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Following adjectives convert into capitalized nominal forms with strong neuter endings",
+    "Target_German": "jemand Fremdes / niemand Bekanntes",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Defective personal tracking pronoun restricted to nominative; borrows from \"einer\" for oblique cases",
+    "Target_German": "man / einen / einem",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Quantifiers reject endings with singular mass nouns but mandate strong plural endings",
+    "Target_German": "viel Geld / viele Probleme / wenig Zeit",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Strong adjectival endings applied when no inflected structural determiner precedes",
+    "Target_German": "-er / -es / -e / -e",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Weak adjectival endings applied when an inflected structural determiner handles case marking",
+    "Target_German": "-e / -en",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mixed declension architecture tracking logic across uninflected structural determiners",
+    "Target_German": "ein guter Wein / mein neues Kleid",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Parallel attributive adjectives in sequence must copy the identical ending profile",
+    "Target_German": "mit dunklem bayrischem Bier",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Regional derivations and numerical coordinates in \"-er\" are strictly indeclinable",
+    "Target_German": "die Leipziger Messe / die neunziger Jahre",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The dictionary root morphs into \"hoh-\" immediately upon interface with any case ending",
+    "Target_German": "hoch -> ein hoher Berg",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nominalized adjectives inherit the exact strong/weak dynamic parsing of regular attributes",
+    "Target_German": "der Angestellte / ein Angestellter",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Adjectives encoding recipient proximity require a governing dative noun argument",
+    "Target_German": "ihrem Bruder ähnlich / mir nützlich",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "A narrow band of physical/state adjectives dictate direct accusative arguments",
+    "Target_German": "den Lärm gewohnt / den Schnupfen los",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Elevated stylistic adjectives require absolute governing control of a genitive argument",
+    "Target_German": "des Hochverrats schuldig / des Deutschen mächtig",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Directional modifications tracking structural pathways toward or away from the speaker",
+    "Target_German": "wohin / woher / dahin / daher",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Morphological coupling of spatial prepositions with primary vector operators",
+    "Target_German": "hinein / herein / hinauf / herauf",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Uninflected bare adjectival stems process directly as functional verb modifiers",
+    "Target_German": "Sie ist schnell gefahren",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Adverbial engine substituting syntactically for English operational verbs like \"to like",
+    "Target_German": "gern / lieber / am liebsten",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Derivative system generating manner or attitude arguments via nominal/adjectival roots",
+    "Target_German": "ausnahmsweise / teilweise / möglicherweise",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Expresses surprise or reinforces an exclamation",
+    "Target_German": "aber",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Signals casual interest or slight reproach in interrogative blocks",
+    "Target_German": "denn",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Emphasizes urgency in commands or challenges a previous negative premise",
+    "Target_German": "doch",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Signals that the speaker assumes the listener already knows the data",
+    "Target_German": "ja",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Softens a command statement into an informal request",
+    "Target_German": "mal",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Indicates a strong logical assumption or structural probability",
+    "Target_German": "wohl",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mandatory use of contracted definite article for standard time points",
+    "Target_German": "am Dienstag / im Winter / am 10. Mai",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Definite points or durations of time require an uninflected adverbial accusative",
+    "Target_German": "den ganzen Tag / letzten Freitag",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Indefinite or recurring time slots require an adverbial genitive configuration",
+    "Target_German": "eines Tages / eines Sonntagabends / montags",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The vector adverb \"her\" calculates a specific point relative to past time",
+    "Target_German": "Das ist schon lange her",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Masculine/neuter metrics under numbers hold their singular form during verb tracking",
+    "Target_German": "zwei Pfund Kirschen / drei Glas Bier",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Primary structural auxiliary engines driving compound tense generation",
+    "Target_German": "sein / haben / werden",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Passive morphology structure generated utilizing \"werden\" auxiliary",
+    "Target_German": "wurde ... genannt",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mood indicators isolating indirect speech vs hypothetical condition parameters",
+    "Target_German": "Konjunktiv I / Konjunktiv II",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Infinitive clause modifiers require the relational positioning particle \"zu",
+    "Target_German": "sich zu entschuldigen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Core modal auxiliaries and verbs of perception run bare infinitives without \"zu",
+    "Target_German": "Er ließ den Gefangenen sich ausziehen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nominalized infinitive procedures convert directly into capital neuter noun paradigms",
+    "Target_German": "das Schwimmen / das Kaffeetrinken",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Extended adjectival/participial structures wrap ahead of the target noun element",
+    "Target_German": "zum Einsatz bereite Truppen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The spoken register defaults to conversational Perfect over Simple Past constructs",
+    "Target_German": "Ich habe einen Salat gegessen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "German simple/perfect tenses serve as structural matches for English progressive lines",
+    "Target_German": "Es hat den ganzen Tag geschneit",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Impersonal passive templates map an introductory \"es\" which drops if syntax shifts",
+    "Target_German": "Es wurde viel gearbeitet",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Reflexive architecture loops back to create an implicit passive semantic output",
+    "Target_German": "Es schreibt sich so leicht mit diesem Filzstift",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Imperative parameter configurations mapping personal pronouns dynamically",
+    "Target_German": "bilde dir das ein!",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "It was him who told me",
+    "Target_German": "Er war es",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Karl promised Peter to apologize",
+    "Target_German": "Er versprach Peter",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Expresses surprise or reinforces an exclamation",
+    "Target_German": "aber",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Signals casual interest or slight reproach in interrogative blocks",
+    "Target_German": "denn",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Emphasizes urgency in commands or challenges a previous negative premise",
+    "Target_German": "doch",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Signals that the speaker assumes the listener already knows the data",
+    "Target_German": "ja",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Softens a command statement into an informal request",
+    "Target_German": "mal",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Indicates a strong logical assumption or structural probability",
+    "Target_German": "wohl",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mandatory use of contracted definite article for standard time points",
+    "Target_German": "am Dienstag / im Winter / am 10. Mai",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Definite points or durations of time require an uninflected adverbial accusative",
+    "Target_German": "den ganzen Tag / letzten Freitag",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Indefinite or recurring time slots require an adverbial genitive configuration",
+    "Target_German": "eines Tages / eines Sonntagabends / montags",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The vector adverb \"her\" calculates a specific point relative to past time",
+    "Target_German": "Das ist schon lange her",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Masculine/neuter metrics under numbers hold their singular form during verb tracking",
+    "Target_German": "zwei Pfund Kirschen / drei Glas Bier",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Primary structural auxiliary engines driving compound tense generation",
+    "Target_German": "sein / haben / werden",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Passive morphology structure generated utilizing \"werden\" auxiliary",
+    "Target_German": "wurde ... genannt",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mood indicators isolating indirect speech vs hypothetical condition parameters",
+    "Target_German": "Konjunktiv I / Konjunktiv II",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Infinitive clause modifiers require the relational positioning particle \"zu",
+    "Target_German": "sich zu entschuldigen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Core modal auxiliaries and verbs of perception run bare infinitives without \"zu",
+    "Target_German": "Er ließ den Gefangenen sich ausziehen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Nominalized infinitive procedures convert directly into capital neuter noun paradigms",
+    "Target_German": "das Schwimmen / das Kaffeetrinken",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Extended adjectival/participial structures wrap ahead of the target noun element",
+    "Target_German": "zum Einsatz bereite Truppen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The spoken register defaults to conversational Perfect over Simple Past constructs",
+    "Target_German": "Ich habe einen Salat gegessen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "German simple/perfect tenses serve as structural matches for English progressive lines",
+    "Target_German": "Es hat den ganzen Tag geschneit",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Impersonal passive templates map an introductory \"es\" which drops if syntax shifts",
+    "Target_German": "Es wurde viel gearbeitet",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Reflexive architecture loops back to create an implicit passive semantic output",
+    "Target_German": "Es schreibt sich so leicht mit diesem Filzstift",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Imperative parameter configurations mapping personal pronouns dynamically",
+    "Target_German": "bilde dir das ein!",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "It was him who told me",
+    "Target_German": "Er war es",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Karl promised Peter to apologize",
+    "Target_German": "Er versprach Peter",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Core auxiliary parameters that drop the \"zu\" marker when execution paths point to a bare infinitive.",
+    "Target_German": "dürfen / können / mögen / müssen / sollen / wollen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Singular root parameters drop any vocalic layout mutation (Umlaut) and zero-out the standard 1st/3rd person terminations.",
+    "Target_German": "ich darf / er darf / wir dürfen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Models core physical capability or contextual permission boundaries.",
+    "Target_German": "können + Infinitiv",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Engages external obligation commands or records unverified hearsay rumors.",
+    "Target_German": "sollen + Infinitiv",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The baseline valency framework mapping mandatory argument dependencies across target entities.",
+    "Target_German": "Satzmuster",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The structural subject must bind in the nominative case but does not have to act as the initial word node.",
+    "Target_German": "Der Zug war nicht pünktlich",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Transitive verbs dictate absolute direct argument assignment using the accusative case.",
+    "Target_German": "einen Salat essen / den Fußboden bohnern",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "A tiny minority subclass of actions demanding double duplicate accusative arguments.",
+    "Target_German": "kosten / lehren",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Intransitive operations requiring their sole primary argument node to load as a dative object.",
+    "Target_German": "danken / folgen / helfen / schmeicheln",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Standard trivalent structures routing the recipient target to dative and the direct object to accusative.",
+    "Target_German": "Ich zeigte dem Polizisten meinen Führerschein",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Prepositional structural routing protocols overriding standard direct case indexing arrays.",
+    "Target_German": "sich an jdn. erinnern / warten auf jdn.",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Highly formal or archaic operations routing their primary argument into a genitive profile.",
+    "Target_German": "bedürfen / gedenken",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Coordinating links joining parallel clauses together while freezing the main verb at position 2.",
+    "Target_German": "und / aber / oder / denn / sondern",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Coordinating identifier defining narrow conditional choices inside formal or legal scripts.",
+    "Target_German": "beziehungsweise (bzw.)",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Subordinating content anchors that force the entire clause verb stack to sit at the absolute terminal index.",
+    "Target_German": "dass / ob",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "I rely on the fact that...",
+    "Target_German": "Ich verlasse mich darauf",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Temporal subordinating links executing chronological sequence parameters.",
+    "Target_German": "als / wenn / während / nachdem",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Temporal trigger restricted to a single resolved data instance located inside past timeline boundaries.",
+    "Target_German": "als",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Concessive logic sub-clauses tracking adversarial or counter-intuitive outcome fields.",
+    "Target_German": "obwohl / obgleich / obschon",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Concessive variables managing boundless human or object identification criteria.",
+    "Target_German": "was für ... auch / wer ... auch",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Structural_Rule",
+    "Target_German": "Target_German",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Prepositions that strictly mandate an accusative argument node.",
+    "Target_German": "bis / durch / für / gegen / ohne / um",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Distributive expressions operating without an article and maintaining an uninflected status.",
+    "Target_German": "pro / je",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Prepositions that strictly mandate a dative argument node.",
+    "Target_German": "aus / bei / mit / nach / seit / von / zu",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Circumpositional framework defining a structural reference point for abstract arguments.",
+    "Target_German": "von ... her",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Two-way (Wechselpräpositionen) tracking: Accusative for directional movement vs Dative for static location.",
+    "Target_German": "an / auf / hinter / in / neben / über / unter / vor / zwischen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Circumpositional spatial routing requiring a matching dative noun argument.",
+    "Target_German": "an ... hin",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Causal circumpositional configuration mapping an event trigger to its direct outcome.",
+    "Target_German": "auf ... hin",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Prepositions that dominantly govern a formal genitive argument.",
+    "Target_German": "innerhalb / statt / trotz / während / wegen",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Genitive pronoun combinations compounding with a localized text insertion point (-t-).",
+    "Target_German": "wegen uns -> meinetwegen / deinetwegen / seinethalben",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The finite verb must rigidly lock into position index 2 within all standard main clauses.",
+    "Target_German": "Verbzweitstellung (V2)",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Subordinating configurations shift the complete verbal group to the final clause index.",
+    "Target_German": "Verbletztstellung (VL)",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Introductory dummy \"es\" fills index 1 to push the actual semantic subject deeper into the clause.",
+    "Target_German": "Es saß eine alte Frau am Fenster",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The standard scheduling queue for resolving competing circumstantial adverbial arguments.",
+    "Target_German": "TE-KA-MO-LO",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "If objects resolve as pronouns",
+    "Target_German": "Pronomen-Reihenfolge",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The negative operator locates directly ahead of the specific element it refutes",
+    "Target_German": "Satznegation mit \"nicht",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Literary or emphatic sorting driving heavy prepositional details past the terminal verb boundary.",
+    "Target_German": "Ausklammerung",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Systematic chaining of word modules where the final element dictates the systemic gender.",
+    "Target_German": "Komposition",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Morphological suffix mapping to generate matching female occupational derivatives.",
+    "Target_German": "-in",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Unstressed prefix integrations that permanently fuse to the root and refuse to drop into sentence endings.",
+    "Target_German": "be- / ent- / er- / ver- / zer-",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Stressed directional modules that mechanically decouple from the verb inside V2 main clauses.",
+    "Target_German": "ab- / an- / auf- / aus- / mit- / vor- / zu-",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Dual-nature routing elements acting as either separable or inseparable configurations based on stress layout.",
+    "Target_German": "durch- / über- / um- / unter-",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Structural_Rule",
+    "Target_German": "Target_German",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Explicit phonetic string rendering utilizing the International Phonetic Association matrix to map precise vowel length and consonant stress parameters.",
+    "Target_German": "Phonetisches Alphabet",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "All nouns and words functioning as structural noun elements require an absolute initial uppercase letter.",
+    "Target_German": "Großschreibung",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Alternative possessive pronoun variables allow an initial small or capital letter when acting without an explicit noun anchor.",
+    "Target_German": "der meinige / der meine",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Familiar tracking pronouns and their matching attributes can optionally take an initial capital letter within personal letter-writing arrays.",
+    "Target_German": "du / dir / dein / ihr / euch / euer",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Strict compound grouping algorithms determining whether combinations process as a single string block or separate units.",
+    "Target_German": "Zusammenschreibung",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Quantifier combinations with \"viel\" and \"wenig\" must be separated into discrete string segments.",
+    "Target_German": "so viel / wie viel / zu viel / zu wenig",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "The character \"ß\" is deployed strictly after long vowels and diphthongs while \"ss\" serves as the validation match after short vowels.",
+    "Target_German": "ss vs. ß",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Vocalic spelling matrices requiring distinct syllable parsing transitions [ze:ən] and [kni:ə].",
+    "Target_German": "die Seen / die Knie",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Vowel normalization adjustments changing structural length during an Umlaut transformation shift.",
+    "Target_German": "der Saal -> die Säle",
+    "Theme": "German Gramar rules"
+  },
+  {
+    "Structural_Rule": "Mandatory structural punctuation boundaries strictly enclosing all relative clauses and independent finite subordinate clause containers.",
+    "Target_German": "Kommasetzung",
+    "Theme": "German Gramar rules"
+  },
+ {
+    "Preposition": "für",
+    "Grammatical_Meaning": "for",
+    "Grammatical_Type": "Accusative Preposition",
+    "Structural_Case_Logic": "Strictly mandates an accusative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "um",
+    "Grammatical_Meaning": "around / at (clock time)",
+    "Grammatical_Type": "Accusative Preposition",
+    "Structural_Case_Logic": "Strictly mandates an accusative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "ohne",
+    "Grammatical_Meaning": "without",
+    "Grammatical_Type": "Accusative Preposition",
+    "Structural_Case_Logic": "Strictly mandates an accusative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "durch",
+    "Grammatical_Meaning": "through / by means of",
+    "Grammatical_Type": "Accusative Preposition",
+    "Structural_Case_Logic": "Strictly mandates an accusative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "gegen",
+    "Grammatical_Meaning": "against / towards (time/direction)",
+    "Grammatical_Type": "Accusative Preposition",
+    "Structural_Case_Logic": "Strictly mandates an accusative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "bis",
+    "Grammatical_Meaning": "until / up to / as far as",
+    "Grammatical_Type": "Accusative Preposition",
+    "Structural_Case_Logic": "Strictly mandates accusative; frequently stacks with secondary prepositions",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "aus",
+    "Grammatical_Meaning": "out of / from (origin)",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates a dative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "bei",
+    "Grammatical_Meaning": "at / with / near / next to",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates a dative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "mit",
+    "Grammatical_Meaning": "with",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates a dative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "nach",
+    "Grammatical_Meaning": "after / to (direction) / according to",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates dative; sits after the noun when meaning \"according to",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "seit",
+    "Grammatical_Meaning": "since / for (duration up to present)",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates a dative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "von",
+    "Grammatical_Meaning": "from / of / by (author/agent)",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates a dative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "zu",
+    "Grammatical_Meaning": "to (direction) / at (location/event)",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates a dative argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "gegenüber",
+    "Grammatical_Meaning": "opposite / facing / to",
+    "Grammatical_Type": "Dative Preposition",
+    "Structural_Case_Logic": "Strictly mandates dative; typically follows its pronoun/noun argument",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "wegen",
+    "Grammatical_Meaning": "because of / on account of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive; often shifts colloquially to dative",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "trotz",
+    "Grammatical_Meaning": "despite / in spite of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive; frequently pairs with dative in plural blocks",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "während",
+    "Grammatical_Meaning": "during",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive; maps a duration of time (not to be confused with the conjunction \"while\")",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "statt",
+    "Grammatical_Meaning": "instead of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "anstatt",
+    "Grammatical_Meaning": "instead of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Emphatic variant of statt",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "aufgrund",
+    "Grammatical_Meaning": "due to / on the basis of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "mithilfe",
+    "Grammatical_Meaning": "with the help of / by means of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "infolge",
+    "Grammatical_Meaning": "as a result of / due to",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "dank",
+    "Grammatical_Meaning": "thanks to",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Can govern either genitive or dative arguments",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "zwecks",
+    "Grammatical_Meaning": "for the purpose of / for the sake of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive; used dominantly in concise business/legal logs",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "hinsichtlich",
+    "Grammatical_Meaning": "with regard to / concerning",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "bezüglich",
+    "Grammatical_Meaning": "with reference to / regarding",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "mangels",
+    "Grammatical_Meaning": "for want of / in the absence of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive; often drops endings if trailing bare nouns",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "außerhalb",
+    "Grammatical_Meaning": "outside of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive spatial boundaries",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "innerhalb",
+    "Grammatical_Meaning": "inside of / within",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive temporal or spatial limits",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "oberhalb",
+    "Grammatical_Meaning": "above / higher than",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive relative positions",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "unterhalb",
+    "Grammatical_Meaning": "below / lower than",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive relative positions",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "beiderseits",
+    "Grammatical_Meaning": "on both sides of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive geographical limits",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "anstelle",
+    "Grammatical_Meaning": "in place of / instead of",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive compound constructs",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "ungeachtet",
+    "Grammatical_Meaning": "notwithstanding / despite",
+    "Grammatical_Type": "Genitive Preposition",
+    "Structural_Case_Logic": "Governs genitive; can be positioned before or after its noun phrase",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "an",
+    "Grammatical_Meaning": "at / on (vertical surfaces/boundaries)",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement onto; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "auf",
+    "Grammatical_Meaning": "on / onto (horizontal surfaces)",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement onto; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "hinter",
+    "Grammatical_Meaning": "behind",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement behind; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "in",
+    "Grammatical_Meaning": "in / into / inside",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement into; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "neben",
+    "Grammatical_Meaning": "next to / beside",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement next to; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "über",
+    "Grammatical_Meaning": "over / above / across / about (topic)",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement over; Dative for location. Always Accusative when meaning \"about",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "unter",
+    "Grammatical_Meaning": "under / below / among",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement under; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "vor",
+    "Grammatical_Meaning": "in front of / before / ago",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement in front of; Dative for location/time",
+    "Theme": "Prepositions meanings"
+  },
+  {
+    "Preposition": "zwischen",
+    "Grammatical_Meaning": "between",
+    "Grammatical_Type": "Wechselpreposition",
+    "Structural_Case_Logic": "Accusative for movement between; Dative for static location",
+    "Theme": "Prepositions meanings"
+  },
 {
     "preposition": "für",
     "German": "Das Ticket für den Zug ist sehr billig.",
