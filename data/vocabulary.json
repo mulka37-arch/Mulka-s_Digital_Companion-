@@ -1,5 +1,2214 @@
 [
   {
+    "German Name": "Gefahrstelle",
+    "English Translation": "Danger zone / Hazard",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Stau",
+    "English Translation": "Traffic jam",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kurve",
+    "English Translation": "Curve (Dangerous bend)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Doppelkurve",
+    "English Translation": "Double curve",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gefälle",
+    "English Translation": "Steep hill downwards",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Steigung",
+    "English Translation": "Steep hill upwards",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Unebene Fahrbahn",
+    "English Translation": "Uneven road",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schleuder- oder Rutschgefahr",
+    "English Translation": "Risk of slipping or skidding",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Seitenwind",
+    "English Translation": "Crosswind",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kreuzung o. Einmündung mit Vorfahrt von rechts",
+    "English Translation": "Intersection or junction with right-of-way from the right",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Verengte Fahrbahn",
+    "English Translation": "Road narrows",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Einseitig verengte Fahrbahn",
+    "English Translation": "Road narrows on one side",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gegenverkehr",
+    "English Translation": "Oncoming traffic",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Lichtzeichenanlage",
+    "English Translation": "Traffic lights",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgänger",
+    "English Translation": "Pedestrians",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kinder",
+    "English Translation": "Children",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Radverkehr",
+    "English Translation": "Cyclists",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Wildwechsel",
+    "English Translation": "Deer crossing / Wildlife crossing",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Arbeitsstelle",
+    "English Translation": "Roadworks / Construction site",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Entfernung zur Gefahrstelle in m (100 m)",
+    "English Translation": "Distance to hazard in meters",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ufer",
+    "English Translation": "Waterside / Quay",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Steinschlag",
+    "English Translation": "Falling rocks",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Splitt, Schotter",
+    "English Translation": "Loose chippings / Gravel",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bewegliche Brücke",
+    "English Translation": "Moveable bridge",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schnee- oder Eisglätte",
+    "English Translation": "Snow or ice slipperiness",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgängerüberweg",
+    "English Translation": "Pedestrian crossing",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Flugbetrieb",
+    "English Translation": "Airfield / Low-flying aircraft",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Unzureichendes Lichtraumprofil",
+    "English Translation": "Insufficient clearance profile",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Viehtrieb",
+    "English Translation": "Cattle crossing",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Amphibienwanderung",
+    "English Translation": "Amphibian migration",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Reiter",
+    "English Translation": "Equestrians / Horse riders",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bahnübergang",
+    "English Translation": "Level crossing",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "240 m (Baken vor Bahnübergängen)",
+    "English Translation": "240m Level crossing beacon",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "160 m (Baken vor Bahnübergängen)",
+    "English Translation": "160m Level crossing beacon",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "80 m (Baken vor Bahnübergängen)",
+    "English Translation": "80m Level crossing beacon",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Blinkpfeil",
+    "English Translation": "Flashing arrow",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Blinklicht",
+    "English Translation": "Flashing light",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bahnübergang mit Lichtzeichen",
+    "English Translation": "Level crossing with traffic lights",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beschränkter Bahnübergang*",
+    "English Translation": "Gated level crossing",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bahnübergang in Pfeilrichtung",
+    "English Translation": "Level crossing in direction of arrow",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Andreaskreuz",
+    "English Translation": "St. Andrew's Cross",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "STOP (Halt. Vorfahrt gewähren)",
+    "English Translation": "STOP sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Halt nach 100 m",
+    "English Translation": "Stop in 100 meters",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorfahrt gewähren",
+    "English Translation": "Yield / Give way",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Radverkehr von links u. rechts",
+    "English Translation": "Cyclists from left and right",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schienenbahn",
+    "English Translation": "Tramway / Rail line",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Verlauf der Vorfahrtstraße",
+    "English Translation": "Course of priority road",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorrang des Gegenverkehrs",
+    "English Translation": "Priority to oncoming traffic",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Haltestelle",
+    "English Translation": "Bus / Tram stop",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schulbus",
+    "English Translation": "School bus stop",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Taxenstand",
+    "English Translation": "Taxi rank",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "German Name",
+    "English Translation": "English Translation",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Rechts",
+    "English Translation": "Turn right",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Hier rechts",
+    "English Translation": "Turn right here",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Geradeaus und rechts",
+    "English Translation": "Straight and right",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kreisverkehr",
+    "English Translation": "Roundabout",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Einbahnstraße*",
+    "English Translation": "One-way street",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Einbahnstraße (gegenläufiger Radverkehr)",
+    "English Translation": "One-way street (with oncoming bicycle traffic)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Rechts vorbei",
+    "English Translation": "Pass on the right",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "... befahren",
+    "English Translation": "Use lane",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende der Freigabe",
+    "English Translation": "End of lane clearance",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "... nicht mehr befahren",
+    "English Translation": "Do not use lane anymore",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "... räumen",
+    "English Translation": "Clear the lane",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Radweg",
+    "English Translation": "Bicycle path",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Reitweg",
+    "English Translation": "Bridle path",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gehweg",
+    "English Translation": "Footpath / Sidewalk",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gemeinsamer Geh- u. Radweg",
+    "English Translation": "Joint pedestrian and bicycle path",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Getrennter Rad- u. Gehweg",
+    "English Translation": "Separated bicycle and pedestrian path",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn einer Fußgängerzone",
+    "English Translation": "Start of pedestrian zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende einer Fußgängerzone",
+    "English Translation": "End of pedestrian zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn einer Fahrrad-Zone",
+    "English Translation": "Start of bicycle zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende einer Fahrrad-Zone",
+    "English Translation": "End of bicycle zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn einer Fahrradstraße",
+    "English Translation": "Start of bicycle street",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende einer Fahrradstraße",
+    "English Translation": "End of bicycle street",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fahrzeuge aller Art",
+    "English Translation": "All vehicles prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kraftwagen",
+    "English Translation": "Motor vehicles prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kfz über 3,5 t",
+    "English Translation": "Motor vehicles over 3.5 tonnes prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Durchgangsverkehr (über 7,5 t)",
+    "English Translation": "Transit traffic over 7.5 tonnes prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kraftfahrzeuge",
+    "English Translation": "All motorized vehicles prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Krafträder",
+    "English Translation": "Motorcycles prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Radverkehr und Verkehr mit Elektrokleinstfahrzeugen",
+    "English Translation": "Bicycles and e-scooters prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgänger",
+    "English Translation": "Pedestrians prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "kennzeichnungspflichtige Kfz mit gefährlichen Gütern",
+    "English Translation": "Vehicles carrying hazardous materials prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fahrzeuge mit wassergefährdender Ladung (über 20 l)",
+    "English Translation": "Vehicles carrying water pollutants prohibited",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bussonderfahrstreifen",
+    "English Translation": "Special bus lane",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "elektrisch betriebene Fahrzeuge frei",
+    "English Translation": "Electric vehicles exempt",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Verbot der Einfahrt",
+    "English Translation": "No entry",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Verbot des Wendens",
+    "English Translation": "No U-turns",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tatsächliche Masse (5,5 t)",
+    "English Translation": "Actual weight limit (5.5 tonnes)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tatsächliche Achslast (8 t)",
+    "English Translation": "Actual axle weight limit (8 tonnes)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tatsächliche Breite (2 m)",
+    "English Translation": "Actual width limit (2 meters)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tatsächliche Höhe (3,8 m)",
+    "English Translation": "Actual height limit (3.8 meters)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tatsächliche Länge (10 m)",
+    "English Translation": "Actual length limit (10 meters)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Mindestabstand (70 m)",
+    "English Translation": "Minimum following distance (70 meters)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Wechselverkehrszeichen / Matrixzeichen (50)",
+    "English Translation": "Dynamic speed limit (50 km/h)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn einer UmweltZONE",
+    "English Translation": "Start of low emission zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "UmweltZONE frei",
+    "English Translation": "Environmental zone exemptions",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende einer UmweltZONE",
+    "English Translation": "End of low emission zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn einer Tempo 30-Zone",
+    "English Translation": "Start of a 30 km/h speed zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende einer Tempo 30-Zone",
+    "English Translation": "End of a 30 km/h speed zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn Zulässige Höchstgeschwindigkeit (60)",
+    "English Translation": "Maximum speed limit (60 km/h)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende Zulässige Höchstgeschwindigkeit (60)",
+    "English Translation": "End of 60 km/h speed limit",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "bei Nässe",
+    "English Translation": "In wet conditions",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn Überholverbot von einspurigen Fahrzeugen...",
+    "English Translation": "No overtaking of single-track vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende Überholverbot...",
+    "English Translation": "End of single-track overtaking ban",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn Überholverbot für Kraftfahrzeuge aller Art",
+    "English Translation": "No overtaking for all motor vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende Überholverbot...",
+    "English Translation": "End of overtaking ban for motor vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn Überholverbot für Kraftfahrzeuge über 3,5 t",
+    "English Translation": "No overtaking for heavy vehicles over 3.5t",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende Überholverbot...",
+    "English Translation": "End of overtaking ban for heavy vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende sämtlicher Streckenverbote",
+    "English Translation": "End of all previous speed and overtaking restrictions",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Länge eines streckenbezogenen Verbots (2 km)",
+    "English Translation": "Length of zone restriction (2 km)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "auch Kraftomnibusse und Pkw mit Anhänger",
+    "English Translation": "Also applicable to buses and cars with trailers",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schneeketten vorgeschrieben",
+    "English Translation": "Snow chains mandatory",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Vorgeschriebene Mindestgeschwindigkeit (30)",
+    "English Translation": "Start / End of mandatory minimum speed limit (30 km/h)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Absolutes Haltverbot",
+    "English Translation": "Absolute stopping ban / No stopping",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Eingeschränktes Haltverbot",
+    "English Translation": "Restricted stopping / No parking",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "auf dem Seitenstreifen / Gilt nur auf dem Seitenstreifen",
+    "English Translation": "On the shoulder / Applies only to the hard shoulder",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schwerbehinderte mit Parkausweis Nr. ... frei",
+    "English Translation": "Disabled parking permit holder exempt",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Haltverbot auch auf dem Seitenstreifen",
+    "English Translation": "Stopping ban also on the shoulder",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bewohner mit Parkausweis Nr. ... frei",
+    "English Translation": "Residents with permit exempt",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Inline-Skater/ Radverkehr und eKfZ frei",
+    "English Translation": "Inline skaters, bicycles, and e-scooters exempt",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Carsharing frei",
+    "English Translation": "Carsharing vehicles exempt",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende eines eingeschränkten Haltverbots für eine Zone",
+    "English Translation": "Start / End of restricted parking zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Pfeilmarkierungen",
+    "English Translation": "Lane direction arrows",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorankündigungspfeil",
+    "English Translation": "Lane ending pre-announcement arrow",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Sperrfläche",
+    "English Translation": "Hatched neutral zone / Restricted area",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Grenzmarkierung für Halt- oder Parkverbote",
+    "English Translation": "Zig-zag boundary line for parking bans",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Haltlinie",
+    "English Translation": "Stop line",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgängerüberweg",
+    "English Translation": "Zebra crossing marking",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fahrstreifen- u. Fahrbahnbegrenzung",
+    "English Translation": "Lane bounding line / Edge line",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Einseitige Fahrstreifenbegrenzung",
+    "English Translation": "Solid line on one side",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Parkflächen",
+    "English Translation": "Parking spaces layout",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorfahrt",
+    "English Translation": "Right-of-way at the next intersection",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Vorfahrtstraße",
+    "English Translation": "Start / End of priority road",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Verlauf der Vorfahrtstraße",
+    "English Translation": "Course of priority road",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorrang vor dem Gegenverkehr",
+    "English Translation": "Priority over oncoming traffic",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Parken",
+    "English Translation": "Parking zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Parken auf Gehwegen",
+    "English Translation": "Parking on sidewalks",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Parkscheibe",
+    "English Translation": "Parking disc usage",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Parkraumbewirtschaftungszone",
+    "English Translation": "Start / End of parking voucher zone",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Verkehrsberuhigter Bereich",
+    "English Translation": "Start / End of traffic-calmed area",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ankündigungsbaken (300 m, 200 m, 100 m)",
+    "English Translation": "Highway exit countdown beacons",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Richtgeschwindigkeit (80)",
+    "English Translation": "Start / End of advisory speed limit (80 km/h)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ausfahrt von Autobahnen und Kraftfahrtstraßen",
+    "English Translation": "Exit from motorways and expressways",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Autobahn",
+    "English Translation": "Start / End of motorway / Autobahn",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende Kraftfahrstraße",
+    "English Translation": "Start / End of expressway",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "mehrspurige Kfz / Fahrzeuge über 3,5 t Ungenügend befestigter Seitenstreifen*",
+    "English Translation": "Heavy vehicles warning: Unpaved/unstable hard shoulder",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn / Ende einer geschlossenen Ortschaft (Ortstafel)",
+    "English Translation": "Start / End of built-up area (Town sign)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tunnel",
+    "English Translation": "Tunnel ahead",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Nothalte- und Pannenbucht",
+    "English Translation": "Emergency stopping bay",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitlinie",
+    "English Translation": "Dashed center lane dividing line",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Wartelinie",
+    "English Translation": "Yield line",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schutzstreifen f. d. Radverkehr",
+    "English Translation": "Bicycle advisory protective lane",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "342 Haifischzähne",
+    "English Translation": "Shark's teeth markings",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgängerüberweg",
+    "English Translation": "Pedestrian crossing sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tankstelle",
+    "English Translation": "Petrol station",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ladestation für Elektrofahrzeuge",
+    "English Translation": "EV charging station",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Sackgasse",
+    "English Translation": "Dead end street",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Erste Hilfe",
+    "English Translation": "First aid station",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Polizei",
+    "English Translation": "Police station",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Notrufsäule",
+    "English Translation": "SOS emergency telephone roadside box",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Pannenhilfe",
+    "English Translation": "Breakdown road service",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Beginn Radschnellweg",
+    "English Translation": "Start of bicycle highway",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ende Radschnellweg",
+    "English Translation": "End of bicycle highway",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zelt- u. Wohnwagenplatz",
+    "English Translation": "Campground / Caravan site",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ortshinweistafel",
+    "English Translation": "Geographic place name sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Info-Tafel an Grenzübergangsstellen",
+    "English Translation": "Information board at border crossings",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Wasser-Schutzgebiet",
+    "English Translation": "Water protection area",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Verkehrshelfer",
+    "English Translation": "School crossing guard assistant",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Durchlässige Sackgasse",
+    "English Translation": "Dead end passable for bikes/pedestrians",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Touristische Route",
+    "English Translation": "Tourist scenic route",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Touristische Unterrichtungsstafel",
+    "English Translation": "Tourist informational billboard",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Laternenring",
+    "English Translation": "Lamp post ring marking",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bundesfernstraßenmautgesetz",
+    "English Translation": "Federal truck toll monitoring sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Mautpflichtige Strecke",
+    "English Translation": "Toll road ahead",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zollstelle",
+    "English Translation": "Customs post / Border toll",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autobahnen (Nummernschild)",
+    "English Translation": "Motorway route number",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Knotenpunkte d. Autobahnen",
+    "English Translation": "Motorway junction / Interchange number",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Europastraßen",
+    "English Translation": "European route number",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bundesstraßen",
+    "English Translation": "Federal highway route number",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorwegweiser",
+    "English Translation": "Advance signpost",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gegliederter Vorwegweiser",
+    "English Translation": "Segmented advance signpost",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorwegweiser zur Autobahn",
+    "English Translation": "Advance direction sign to the motorway",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorwegweiser auf Autobahn",
+    "English Translation": "Advance route tracking on motorway",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "... auf Bundesstraßen",
+    "English Translation": "Arrow signpost on federal roads",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bahnhof",
+    "English Translation": "Railway station sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "... auf sonstigen Straßen",
+    "English Translation": "Arrow signpost on local roads",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tabellenwegweiser",
+    "English Translation": "Tabular advance signpost",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Ausfahrttafel",
+    "English Translation": "Exit destination board",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Straßennamensschild",
+    "English Translation": "Street name sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autobahnausfahrt Vorwegweiser",
+    "English Translation": "Advance motorway exit notification",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autohof",
+    "English Translation": "24-hour highway service area",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autobahn-kreuz",
+    "English Translation": "Motorway interchange",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autobahn-ausfahrt",
+    "English Translation": "Motorway exit",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Entfernungstafel",
+    "English Translation": "Distance confirmation board",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorwegweiser bzw. Pfeilwegweiser für bestimmte Verkehrsarten",
+    "English Translation": "Advance directional sign for specific vehicle types",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Wegweiser für bestimmte Verkehrsarten",
+    "English Translation": "Route sign for specific vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Umleitungswegweiser",
+    "English Translation": "Detour marker sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Umleitung Fortsetzung / Ende",
+    "English Translation": "Detour continuation / End",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Umleitung Ankündigung",
+    "English Translation": "Detour announcement",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Umleitung Ende",
+    "English Translation": "End of detour",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Planskizze",
+    "English Translation": "Route layout sketch",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Bedarfsumleitung (U22)",
+    "English Translation": "Designated demand detour",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Block-umfahrung",
+    "English Translation": "Block bypass / Loop detour",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Weiterführende Bedarfsumleitung",
+    "English Translation": "Continuing demand detour route",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Überleitungstafel",
+    "English Translation": "Lane shift / Cross-over board",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Einengungstafel",
+    "English Translation": "Lane narrowing board",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Reißverschluss erst nach ... m (Reißverschluss erst in 200m)",
+    "English Translation": "Zipper merge starting in ... meters",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Umleitung Anfang / Ende",
+    "English Translation": "Detour start / end arrows",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Absperrschranke",
+    "English Translation": "Barrier gate strip",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitbaken (Warnlicht-, Schaffen-, Pfeilbake)",
+    "English Translation": "Guide beacons (warning light, diagonal, chevron)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fahrbare Absperrtafel",
+    "English Translation": "Mobile closure barrier trailer",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fahrbare Absperrtafel mit Blinkpfeil",
+    "English Translation": "Mobile barrier trailer with flashing chevrons",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "aufgelöste Richtungstafeln (Kurve)",
+    "English Translation": "Dispersed chevron panels",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitmal",
+    "English Translation": "Guide marker strip",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitkegel",
+    "English Translation": "Traffic cone / Pylon",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Richtungstafel in Kurven",
+    "English Translation": "Continuous chevron alignment board",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitplatte",
+    "English Translation": "Visual guide panel",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Park-Warntafel",
+    "English Translation": "Lateral parking warning sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitschwelle / Leitwand mit Bake",
+    "English Translation": "Continuous guide curb with beacon",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Leitpfosten (links) (rechts)",
+    "English Translation": "Delineator posts (left / right side)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Pfeil zur Straße hin = Verbots-Beginn",
+    "English Translation": "Arrow pointing toward the street = Start of ban",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zwei Pfeile gelten in beide Richtungen",
+    "English Translation": "Two arrows apply in both directions",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Pfeil zum Haus = Verbot ist aus",
+    "English Translation": "Arrow pointing toward the house = End of ban",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fahrbahnbegrenzung, durchgezogene Linie",
+    "English Translation": "Solid white lane bounding line",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Schutzstreifen für den Radverkehr",
+    "English Translation": "Bicycle protective advisory strip",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgängerüberwege Halteverbot",
+    "English Translation": "Zebra crossing stopping ban rule",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Wohnmobil",
+    "English Translation": "Motorhome / Camper van",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Pkw",
+    "English Translation": "Passenger car",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Pkw mit Anhänger",
+    "English Translation": "Passenger car with trailer",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kraftwagen und sonstige mehrspurige Kfz",
+    "English Translation": "Motor cars and other multi-track vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kfz mit z.G. über 3,5t einschl. Anhänger...",
+    "English Translation": "Heavy vehicles over 3.5t with trailers / Tractors",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Carsharing",
+    "English Translation": "Carsharing vehicles",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Straßenbahn",
+    "English Translation": "Tram / Streetcar",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Lkw mit Anhänger",
+    "English Translation": "Truck / Freight vehicle with trailer",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "elektrisch betriebene Fahrzeuge",
+    "English Translation": "Electrically operated vehicles (EVs)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kfz u. Züge; die nicht schneller als 25 km/h fahren...",
+    "English Translation": "Low-speed vehicles ($\\le 25\\text{ km/h}$)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Mofas",
+    "English Translation": "Low-speed mopeds",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Kraftomnibusse",
+    "English Translation": "Public transit buses",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gespannfuhrwerke",
+    "English Translation": "Animal-drawn vehicles / Carriages",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Elektrokleinstfahrzeuge (eKFV)",
+    "English Translation": "Micro-electric vehicles / E-scooters",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Krafträder; auch mit Beiwagen...",
+    "English Translation": "Motorcycles and motor scooters",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Radverkehr",
+    "English Translation": "Bicycle traffic",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Reiter",
+    "English Translation": "Equestrians / Horse riders",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autobahn-kreuz",
+    "English Translation": "Motorway interchange",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Lastenfahrrad",
+    "English Translation": "Cargo bicycle",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Mehrfachbesetzte Pkw (mind. 3 Personen)",
+    "English Translation": "High-occupancy vehicles (HOV)",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Fußgänger",
+    "English Translation": "Pedestrians",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Viehtrieb",
+    "English Translation": "Cattle crossing ahead",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Autobahn-ausfahrt",
+    "English Translation": "Motorway exit branch",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "E-Bikes",
+    "English Translation": "E-Bikes / Light electric mopeds",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "GRÜN (Lichtzeichen)",
+    "English Translation": "Green light signal",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "GELB (Lichtzeichen)",
+    "English Translation": "Yellow / Amber light signal",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "ROT (Lichtzeichen)",
+    "English Translation": "Red light signal",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "ROT / GELB (Lichtzeichen)",
+    "English Translation": "Red and Yellow light signal combo",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Polizeibeamter regelt den Verkehr",
+    "English Translation": "Police officer traffic control",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tempo 30 Anhalteweg ($AW$)",
+    "English Translation": "Speed 30 stopping distance",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Tempo 50 Anhalteweg ($AW$)",
+    "English Translation": "Speed 50 stopping distance",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Faustformel: Reaktionsweg ($RW$)",
+    "English Translation": "Reaction distance formula",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Faustformel: Bremsweg ($BW$)",
+    "English Translation": "Standard braking distance formula",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Faustformel: Anhalteweg ($AW$)",
+    "English Translation": "Total stopping distance formula",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Gefahrbremsung Formula",
+    "English Translation": "Emergency hazard braking formula",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Vorfahrtregel: Rechts vor Links",
+    "English Translation": "Default right-before-left rule",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Z 206 \"Halt. Vorfahrt gewähren.",
+    "English Translation": "STOP sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zeichen 102",
+    "English Translation": "Hazard intersection warning",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zeichen 301 \"Vorfahrt",
+    "English Translation": "Priority at next intersection",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zeichen 205 \"Vorfahrt gewähren.",
+    "English Translation": "Yield / Give way sign",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Z 342 \"Haifischzähne",
+    "English Translation": "Shark's teeth road markings",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Zeichen 306 \"Vorfahrtstraße",
+    "English Translation": "Continuous priority road",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Grünpfeil an Ampeln (Z 720)",
+    "English Translation": "Green arrow panel on traffic lights",
+    "Theme": "Traffic signs"
+  },
+  {
+    "German Name": "Grünpfeil nur für den Radverkehr",
+    "English Translation": "Green arrow panel exclusively for cyclists",
+    "Theme": "Traffic signs"
+  },
+{
+    "Infinitiv": "backen",
+    "Präteritum": "backte",
+    "Partizip II": "gebacken",
+    "Präsens": "bäckt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "befehlen",
+    "Präteritum": "befahl",
+    "Partizip II": "befohlen",
+    "Präsens": "befiehlt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "blasen",
+    "Präteritum": "blies",
+    "Partizip II": "geblasen",
+    "Präsens": "bläst",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "braten",
+    "Präteritum": "briet",
+    "Partizip II": "gebraten",
+    "Präsens": "brät",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "brechen",
+    "Präteritum": "brach",
+    "Partizip II": "gebrochen",
+    "Präsens": "bricht",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "empfangen",
+    "Präteritum": "empfing",
+    "Partizip II": "empfangen",
+    "Präsens": "empfängt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "empfehlen",
+    "Präteritum": "empfahl",
+    "Partizip II": "empfohlen",
+    "Präsens": "empfiehlt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "erschrecken",
+    "Präteritum": "erschrak",
+    "Partizip II": "erschrocken",
+    "Präsens": "erschrickt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fahren",
+    "Präteritum": "fuhr",
+    "Partizip II": "gefahren",
+    "Präsens": "fährt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fallen",
+    "Präteritum": "fiel",
+    "Partizip II": "gefallen",
+    "Präsens": "fällt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fangen",
+    "Präteritum": "fing",
+    "Partizip II": "gefangen",
+    "Präsens": "fängt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fressen",
+    "Präteritum": "fraß",
+    "Partizip II": "gefressen",
+    "Präsens": "frisst",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "geschehen",
+    "Präteritum": "geschah",
+    "Partizip II": "geschehen",
+    "Präsens": "geschieht",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "geben",
+    "Präteritum": "gab",
+    "Partizip II": "gegeben",
+    "Präsens": "gibt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "gelten",
+    "Präteritum": "galt",
+    "Partizip II": "gegolten",
+    "Präsens": "gilt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "graben",
+    "Präteritum": "grub",
+    "Partizip II": "gegraben",
+    "Präsens": "gräbt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "halten",
+    "Präteritum": "hielt",
+    "Partizip II": "gehalten",
+    "Präsens": "hält",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "helfen",
+    "Präteritum": "half",
+    "Partizip II": "geholfen",
+    "Präsens": "hilft",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "essen",
+    "Präteritum": "aß",
+    "Partizip II": "gegessen",
+    "Präsens": "isst",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "sein",
+    "Präteritum": "war",
+    "Partizip II": "gewesen",
+    "Präsens": "ist",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "laden",
+    "Präteritum": "lud",
+    "Partizip II": "geladen",
+    "Präsens": "lädt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "lassen",
+    "Präteritum": "ließ",
+    "Partizip II": "gelassen",
+    "Präsens": "lässt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "laufen",
+    "Präteritum": "lief",
+    "Partizip II": "gelaufen",
+    "Präsens": "läuft",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "lesen",
+    "Präteritum": "las",
+    "Partizip II": "gelesen",
+    "Präsens": "liest",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "mögen",
+    "Präteritum": "möchte/gemocht",
+    "Partizip II": "gemocht",
+    "Präsens": "mag",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "messen",
+    "Präteritum": "maß",
+    "Partizip II": "gemessen",
+    "Präsens": "misst",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "nehmen",
+    "Präteritum": "nahm",
+    "Partizip II": "genommen",
+    "Präsens": "nimmt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "raten",
+    "Präteritum": "riet",
+    "Partizip II": "geraten",
+    "Präsens": "rät",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "saufen",
+    "Präteritum": "soff",
+    "Partizip II": "gesoffen",
+    "Präsens": "säuft",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schlafen",
+    "Präteritum": "schlief",
+    "Partizip II": "geschlafen",
+    "Präsens": "schläft",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schlagen",
+    "Präteritum": "schlug",
+    "Partizip II": "geschlagen",
+    "Präsens": "schlägt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schmelzen",
+    "Präteritum": "schmolz",
+    "Partizip II": "geschmolzen",
+    "Präsens": "schmilzt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "sehen",
+    "Präteritum": "sah",
+    "Partizip II": "gesehen",
+    "Präsens": "sieht",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "sprechen",
+    "Präteritum": "sprach",
+    "Partizip II": "gesprochen",
+    "Präsens": "spricht",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "stechen",
+    "Präteritum": "stach",
+    "Partizip II": "gestochen",
+    "Präsens": "sticht",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "stehlen",
+    "Präteritum": "stahl",
+    "Partizip II": "gestohlen",
+    "Präsens": "stiehlt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "sterben",
+    "Präteritum": "starb",
+    "Partizip II": "gestorben",
+    "Präsens": "stirbt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "stoßen",
+    "Präteritum": "stieß",
+    "Partizip II": "gestoßen",
+    "Präsens": "stößt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "tragen",
+    "Präteritum": "trug",
+    "Partizip II": "getragen",
+    "Präsens": "trägt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "treiben",
+    "Präteritum": "trieb",
+    "Partizip II": "getrieben",
+    "Präsens": "treibt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "treffen",
+    "Präteritum": "traf",
+    "Partizip II": "getroffen",
+    "Präsens": "trifft",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "treten",
+    "Präteritum": "trat",
+    "Partizip II": "getreten",
+    "Präsens": "tritt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "tun",
+    "Präteritum": "tat",
+    "Partizip II": "getan",
+    "Präsens": "tut",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "verderben",
+    "Präteritum": "verdarb",
+    "Partizip II": "verdorben",
+    "Präsens": "verdirbt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "vergessen",
+    "Präteritum": "vergaß",
+    "Partizip II": "vergessen",
+    "Präsens": "vergisst",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "wachsen",
+    "Präteritum": "wuchs",
+    "Partizip II": "gewachsen",
+    "Präsens": "wächst",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "waschen",
+    "Präteritum": "wusch",
+    "Partizip II": "gewaschen",
+    "Präsens": "wäscht",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "wissen",
+    "Präteritum": "wusste",
+    "Partizip II": "gewusst",
+    "Präsens": "weiß",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "werben",
+    "Präteritum": "warb",
+    "Partizip II": "geworben",
+    "Präsens": "wirbt",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "werden",
+    "Präteritum": "wurde",
+    "Partizip II": "geworden",
+    "Präsens": "wird",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "werfen",
+    "Präteritum": "warf",
+    "Partizip II": "geworfen",
+    "Präsens": "wirft",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "hängen",
+    "Präteritum": "hing",
+    "Partizip II": "gehangen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "brennen",
+    "Präteritum": "brannte",
+    "Partizip II": "gebrannt",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "denken",
+    "Präteritum": "dachte",
+    "Partizip II": "gedacht",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "kennen",
+    "Präteritum": "kannte",
+    "Partizip II": "gekannt",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "nennen",
+    "Präteritum": "nannte",
+    "Partizip II": "genannt",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "rennen",
+    "Präteritum": "rannte",
+    "Partizip II": "gerannt",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "senden",
+    "Präteritum": "sandte",
+    "Partizip II": "gesandt",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "stehen",
+    "Präteritum": "stand",
+    "Partizip II": "gestanden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "gehen",
+    "Präteritum": "ging",
+    "Partizip II": "gegangen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "heißen",
+    "Präteritum": "hieß",
+    "Partizip II": "geheißen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "bleiben",
+    "Präteritum": "blieb",
+    "Partizip II": "geblieben",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "entscheiden",
+    "Präteritum": "entschied",
+    "Partizip II": "entschieden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "leihen",
+    "Präteritum": "lieh",
+    "Partizip II": "geliehen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "meiden",
+    "Präteritum": "mied",
+    "Partizip II": "gemieden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "reiben",
+    "Präteritum": "rieb",
+    "Partizip II": "gerieben",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "scheinen",
+    "Präteritum": "schien",
+    "Partizip II": "geschienen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schreiben",
+    "Präteritum": "schrieb",
+    "Partizip II": "geschrieben",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schreien",
+    "Präteritum": "schrie",
+    "Partizip II": "geschrien",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schweigen",
+    "Präteritum": "schwieg",
+    "Partizip II": "geschwiegen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "steigen",
+    "Präteritum": "stieg",
+    "Partizip II": "gestiegen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "überweisen",
+    "Präteritum": "überwies",
+    "Partizip II": "überwiesen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "verzeihen",
+    "Präteritum": "verzieh",
+    "Partizip II": "verziehen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "weisen",
+    "Präteritum": "wies",
+    "Partizip II": "gewiesen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "beißen",
+    "Präteritum": "biss",
+    "Partizip II": "gebissen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "gleichen",
+    "Präteritum": "glich",
+    "Partizip II": "geglichen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "greifen",
+    "Präteritum": "griff",
+    "Partizip II": "gegriffen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "leiden",
+    "Präteritum": "litt",
+    "Partizip II": "gelitten",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "pfeifen",
+    "Präteritum": "pfiff",
+    "Partizip II": "gepfiffen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "reißen",
+    "Präteritum": "riss",
+    "Partizip II": "gerissen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "reiten",
+    "Präteritum": "ritt",
+    "Partizip II": "geritten",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schneiden",
+    "Präteritum": "schnitt",
+    "Partizip II": "geschnitten",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "streichen",
+    "Präteritum": "strich",
+    "Partizip II": "gestrichen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "streiten",
+    "Präteritum": "stritt",
+    "Partizip II": "gestritten",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "heben",
+    "Präteritum": "hob",
+    "Partizip II": "gehoben",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "bringen",
+    "Präteritum": "brachte",
+    "Partizip II": "gebracht",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "bitten",
+    "Präteritum": "bat",
+    "Partizip II": "gebeten",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "sitzen",
+    "Präteritum": "saß",
+    "Partizip II": "gesessen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "beginnen",
+    "Präteritum": "begann",
+    "Partizip II": "begonnen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "gewinnen",
+    "Präteritum": "gewann",
+    "Partizip II": "gewonnen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schwimmen",
+    "Präteritum": "schwamm",
+    "Partizip II": "geschwommen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "binden",
+    "Präteritum": "band",
+    "Partizip II": "gebunden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "dringen",
+    "Präteritum": "drang",
+    "Partizip II": "gedrungen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "empfinden",
+    "Präteritum": "empfand",
+    "Partizip II": "empfunden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "finden",
+    "Präteritum": "fand",
+    "Partizip II": "gefunden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "gelingen",
+    "Präteritum": "gelang",
+    "Partizip II": "gelungen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "klingen",
+    "Präteritum": "klang",
+    "Partizip II": "geklungen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "singen",
+    "Präteritum": "sang",
+    "Partizip II": "gesungen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "sinken",
+    "Präteritum": "sank",
+    "Partizip II": "gesunken",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "springen",
+    "Präteritum": "sprang",
+    "Partizip II": "gesprungen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "trinken",
+    "Präteritum": "trank",
+    "Partizip II": "getrunken",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "verschwinden",
+    "Präteritum": "verschwand",
+    "Partizip II": "verschwunden",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "zwingen",
+    "Präteritum": "zwang",
+    "Partizip II": "gezwungen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "liegen",
+    "Präteritum": "lag",
+    "Partizip II": "gelegen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "biegen",
+    "Präteritum": "bog",
+    "Partizip II": "gebogen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "bieten",
+    "Präteritum": "bot",
+    "Partizip II": "geboten",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fliegen",
+    "Präteritum": "flog",
+    "Partizip II": "geflogen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fliehen",
+    "Präteritum": "floh",
+    "Partizip II": "geflohen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "fließen",
+    "Präteritum": "floss",
+    "Partizip II": "geflossen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "frieren",
+    "Präteritum": "fror",
+    "Partizip II": "gefroren",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "gießen",
+    "Präteritum": "goss",
+    "Partizip II": "gegossen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "riechen",
+    "Präteritum": "roch",
+    "Partizip II": "gerochen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schieben",
+    "Präteritum": "schob",
+    "Partizip II": "geschoben",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schießen",
+    "Präteritum": "schoss",
+    "Partizip II": "geschossen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "schließen",
+    "Präteritum": "schloss",
+    "Partizip II": "geschlossen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "verlieren",
+    "Präteritum": "verlor",
+    "Partizip II": "verloren",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "wiegen",
+    "Präteritum": "wog",
+    "Partizip II": "gewogen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "ziehen",
+    "Präteritum": "zog",
+    "Partizip II": "gezogen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "kommen",
+    "Präteritum": "kam",
+    "Partizip II": "gekommen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "rufen",
+    "Präteritum": "rief",
+    "Partizip II": "gerufen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "lügen",
+    "Präteritum": "log",
+    "Partizip II": "gelogen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
+    "Infinitiv": "trügen",
+    "Präteritum": "trog",
+    "Partizip II": "getrogen",
+    "Präsens": "-",
+    "Themes": "VHS -Irregular verbs"
+  },
+  {
     "Preposition": "außerhalb",
     "German Newspaper & Journal Sentence": "Außerhalb des Stadtzentrums werden die Mieten für Neubauten deutlich günstiger.",
     "English Meaning": "Outside the city center, rents for new buildings are significantly cheaper.",
