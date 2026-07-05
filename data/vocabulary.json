@@ -1,5 +1,215 @@
 [
   {
+    "Preposition": "für",
+    "type": "Akkusativ",
+    "Meaning / Usage": "for",
+    "Example": "Ich kaufe ein Geschenk für dich.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "durch",
+    "type": "Akkusativ",
+    "Meaning / Usage": "through",
+    "Example": "Wir gehen durch den Park.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "um",
+    "type": "Akkusativ",
+    "Meaning / Usage": "around / at (time)",
+    "Example": "Wir sitzen um den Tisch. / Um 8 Uhr.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "gegen",
+    "type": "Akkusativ",
+    "Meaning / Usage": "against / around (time)",
+    "Example": "Das Auto fährt gegen den Baum.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "ohne",
+    "type": "Akkusativ",
+    "Meaning / Usage": "without",
+    "Example": "Ich trinke Kaffee ohne Zucker.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "bis",
+    "type": "Akkusativ",
+    "Meaning / Usage": "until / up to",
+    "Example": "Ich bleibe bis morgen.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "mit",
+    "type": "Dativ",
+    "Meaning / Usage": "with",
+    "Example": "Ich gehe mit meiner Freundin.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "nach",
+    "type": "Dativ",
+    "Meaning / Usage": "after / to (cities, countries)",
+    "Example": "Wir fahren nach Berlin.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "bei",
+    "type": "Dativ",
+    "Meaning / Usage": "at / near / with",
+    "Example": "Ich arbeite bei Siemens.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "von",
+    "type": "Dativ",
+    "Meaning / Usage": "from / of",
+    "Example": "Das Geschenk ist von meinem Bruder.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "zu",
+    "type": "Dativ",
+    "Meaning / Usage": "to / at",
+    "Example": "Ich gehe zu meiner Oma.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "aus",
+    "type": "Dativ",
+    "Meaning / Usage": "out of / from",
+    "Example": "Ich komme aus Deutschland.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "seit",
+    "type": "Dativ",
+    "Meaning / Usage": "since / for (time)",
+    "Example": "Ich lebe seit einem Jahr hier.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "ab",
+    "type": "Dativ",
+    "Meaning / Usage": "from (time)",
+    "Example": "Ab morgen arbeite ich.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "entgegen",
+    "type": "Dativ",
+    "Meaning / Usage": "contrary to / towards",
+    "Example": "Er handelt entgegen dem Rat.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "an",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "on / at",
+    "Example": "Ich hänge das Bild an die Wand (Akk). / Das Bild hängt an der Wand (Dat).",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "auf",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "on / onto",
+    "Example": "Ich lege das Buch auf den Tisch. / Das Buch liegt auf dem Tisch.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "in",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "in / into",
+    "Example": "Ich gehe in die Schule. / Ich bin in der Schule.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "über",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "over / about",
+    "Example": "Ich gehe über die Brücke. / Das Bild hängt über dem Bett.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "unter",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "under / among",
+    "Example": "Die Katze läuft unter den Tisch. / Sie sitzt unter dem Tisch.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "vor",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "before / in front of",
+    "Example": "Ich stelle das Auto vor das Haus. / Das Auto steht vor dem Haus.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "hinter",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "behind",
+    "Example": "Ich gehe hinter das Haus. / Ich bin hinter dem Haus.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "neben",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "beside / next to",
+    "Example": "Ich setze mich neben dich. / Ich sitze neben dir.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "zwischen",
+    "type": "Wechselpräpositionen",
+    "Meaning / Usage": "between",
+    "Example": "Ich stelle den Tisch zwischen die Stühle. / Der Tisch steht zwischen den Stühlen.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "trotz",
+    "type": "Genitiv",
+    "Meaning / Usage": "despite",
+    "Example": "Trotz des Regens gehen wir spazieren.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "während",
+    "type": "Genitiv",
+    "Meaning / Usage": "during",
+    "Example": "Während des Urlaubs war es warm.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "wegen",
+    "type": "Genitiv",
+    "Meaning / Usage": "because of",
+    "Example": "Wegen des Wetters bleiben wir zu Hause.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "innerhalb",
+    "type": "Genitiv",
+    "Meaning / Usage": "within",
+    "Example": "Innerhalb einer Woche.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "außerhalb",
+    "type": "Genitiv",
+    "Meaning / Usage": "outside of",
+    "Example": "Außerhalb der Stadt.",
+    "Theme": "prepositions-memorize"
+  },
+  {
+    "Preposition": "anstatt / statt",
+    "type": "Genitiv",
+    "Meaning / Usage": "instead of",
+    "Example": "Anstatt des Kaffees trinke ich Tee.",
+    "Theme": "prepositions-memorize"
+  },
+ {
     "German Name": "Gefahrstelle",
     "English Translation": "Danger zone / Hazard",
     "Theme": "Traffic signs"
