@@ -1,5 +1,5 @@
 // =========================================================
-// AGNOSTIC DYNAMIC VOCABULARY MATRIX ENGINE (MULTI-SCHEMA FIX)
+// AGNOSTIC DYNAMIC VOCABULARY MATRIX ENGINE (PRODUCTION PRO)
 // =========================================================
 
 let currentThemes = [];
@@ -27,10 +27,65 @@ let systemVoices = [];
 let currentSortColumn = null;
 let isSortAscending = true;
 
+// Voice recognition state monitors
+let voiceRecognition = null;
+let isListening = false;
+let voiceNextTimeout = null;
+
+// Fix: Missing Audio Control state variables declared globally
+let activeRepeatMode = "sequence"; 
+let rowRepeatCountTarget = 3;      
+let rowRepeatCounterCurrent = 0;   
+let playbackOrderQueue = [];       
+
 let starData = JSON.parse(localStorage.getItem("germanStarData")) || {};
 const wordbankData = [];
 
-// FIXED: Dynamically aggregates all unique columns present in the CURRENT filtered slice
+// Fix: Added missing array shuffling engine utility
+function shuffle(array) {
+  let currentIndex = array.length, randomIndex;
+  while (currentIndex !== 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+    [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+  }
+  return array;
+}
+
+// Fix: Added missing Star storage reading function
+function getStar(wordKey) {
+  return starData[wordKey] || "neutral";
+}
+
+// Fix: Added missing Star persistence toggle action handler
+function toggleStar(wordKey, event) {
+  if (event) event.stopPropagation();
+  const current = getStar(wordKey);
+  if (current === "neutral") starData[wordKey] = "hard";
+  else if (current === "hard") starData[wordKey] = "easy";
+  else starData[wordKey] = "neutral";
+  
+  localStorage.setItem("germanStarData", JSON.stringify(starData));
+  applyFilters();
+}
+
+// Fix: Added missing dynamic UI audio configuration synchronizer
+function updateAudioLoopSettings() {
+  const modeSelect = document.getElementById("loop-mode-select");
+  const countWrapper = document.getElementById("row-count-wrapper");
+  const repeatInput = document.getElementById("row-repeat-input");
+
+  if (modeSelect) activeRepeatMode = modeSelect.value;
+  
+  if (countWrapper && modeSelect) {
+    countWrapper.style.display = modeSelect.value === "repeat-row" ? "flex" : "none";
+  }
+  if (repeatInput) {
+    rowRepeatCountTarget = parseInt(repeatInput.value, 10) || 3;
+  }
+}
+
+// Dynamically aggregates all unique columns present in the CURRENT filtered slice
 function getDynamicColumns() {
   if (!filteredWords || filteredWords.length === 0) {
     if (wordbankData && wordbankData.length > 0) {
@@ -39,7 +94,6 @@ function getDynamicColumns() {
     return ["German", "Meaning"]; 
   }
   
-  // Scan all filtered items to collect every unique property key available
   const allKeys = new Set();
   filteredWords.forEach(item => {
     Object.keys(item).forEach(key => {
@@ -64,7 +118,7 @@ function autoDetectLanguage(keyName) {
 function getPrimaryKey(item) {
   if (!item) return "unknown";
   const fields = getDynamicColumns();
-  return item.word || item.German || item.infinitiv || item[fields[0]] || "unknown";
+  return item.word || item.German || item.Noun || item.infinitiv || item[fields[0]] || "unknown";
 }
 
 function getItemTheme(item) {
@@ -81,6 +135,7 @@ window.onload = () => {
     speechSynthesis.onvoiceschanged = initVoices;
   }
   
+  initVoiceRecognition();
   loadExternalVocabulary("data/vocabulary.json"); 
   setupButtons();
   updateStats();
@@ -89,6 +144,16 @@ window.onload = () => {
 function initVoices() {
   if (typeof speechSynthesis !== "undefined") {
     systemVoices = speechSynthesis.getVoices();
+  }
+}
+
+function initVoiceRecognition() {
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (SpeechRecognition) {
+    voiceRecognition = new SpeechRecognition();
+    voiceRecognition.continuous = false;
+    voiceRecognition.interimResults = false;
+    voiceRecognition.maxAlternatives = 1;
   }
 }
 
@@ -121,6 +186,8 @@ function closeAllModals(){
 
 function fullResetUI(){
   stopAudio();
+  stopListening();
+  if (voiceNextTimeout) clearTimeout(voiceNextTimeout);
   selectedGerman = null;
   selectedEnglish = null;
   const tc = document.getElementById("test-content");
@@ -232,10 +299,8 @@ function applyFilters(){
   updateStats();
 }
 
-function getStar(wordKey){ return starData[wordKey] || "neutral"; }
-
 // =========================================================
-// REAL-TIME DYNAMIC TABLE COMPILER
+// REAL-TIME DYNAMIC TABLE COMPILER WITH SELECTION CONTROLS
 // =========================================================
 function renderTable(){
   const table = document.getElementById("word-table");
@@ -251,7 +316,13 @@ function renderTable(){
     if (currentSortColumn === f) {
       arrow = isSortAscending ? "🔼" : "🔽";
     }
-    headerHtml += `<th style="cursor:pointer;" onclick="sortMatrixByColumn('${f.replace(/'/g, "\\'")}')">${f} <span class="sort-icon">${arrow}</span></th>`;
+    headerHtml += `
+      <th style="cursor:pointer;">
+        <div style="display:flex; align-items:center; gap:5px; justify-content:center;">
+          <input type="checkbox" class="play-column-selector" data-column="${f}" checked onclick="event.stopPropagation();" style="cursor:pointer;">
+          <span onclick="sortMatrixByColumn('${f.replace(/'/g, "\\'")}')">${f} <span class="sort-icon">${arrow}</span></span>
+        </div>
+      </th>`;
   });
   headerHtml += `</tr>`;
   thead.innerHTML = headerHtml;
@@ -318,7 +389,7 @@ function renderTable(){
         </select>
         <div id="row-count-wrapper" style="display:none; align-items:center; gap:5px;">
           <label style="font-size:12px; font-weight:bold;">Count:</label>
-          <input type="number" id="row-repeat-input" value="3" min="1" max="10" style="width:50px; padding:4px; border-radius:4px; border:1px solid #cbd5e1; text-align:center;">
+          <input type="number" id="row-repeat-input" onchange="updateAudioLoopSettings()" value="3" min="1" max="10" style="width:50px; padding:4px; border-radius:4px; border:1px solid #cbd5e1; text-align:center;">
         </div>
       `;
       controlsBar.parentNode.insertBefore(advancedLoopDiv, controlsBar.nextSibling);
@@ -337,7 +408,7 @@ function sortMatrixByColumn(columnName) {
   }
 
   let activePlayingWordKey = null;
-  if (isPlayingAll && typeof playbackOrderQueue !== "undefined") {
+  if (isPlayingAll && typeof playbackOrderQueue !== "undefined" && playbackOrderQueue.length > 0) {
     const activeIndexInQueue = playbackOrderQueue[currentQuestion];
     if (filteredWords[activeIndexInQueue]) {
       activePlayingWordKey = getPrimaryKey(filteredWords[activeIndexInQueue]);
@@ -412,13 +483,42 @@ function stopAudio(){
   document.querySelectorAll("tr").forEach(r => r.classList.remove("playing"));
 }
 
+function stopListening() {
+  isListening = false;
+  if (voiceRecognition) {
+    try { voiceRecognition.stop(); } catch(e) {}
+  }
+}
+
+function getUmlautKeyboardHTML() {
+  return `
+    <div class="umlaut-buttons" style="display:flex; justify-content:center; gap:6px; margin-top:12px;">
+      <button type="button" onclick="insertUmlaut('ä')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ä</button>
+      <button type="button" onclick="insertUmlaut('ö')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ö</button>
+      <button type="button" onclick="insertUmlaut('ü')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ü</button>
+      <button type="button" onclick="insertUmlaut('ß')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ß</button>
+    </div>
+  `;
+}
+
+function insertUmlaut(char) {
+  const input = document.querySelector("#test-content input[type='text']");
+  if (input) {
+    const start = input.selectionStart;
+    const end = input.selectionEnd;
+    input.value = input.value.substring(0, start) + char + input.value.substring(end);
+    input.focus();
+    input.setSelectionRange(start + 1, start + 1);
+  }
+}
+
 // ============================================================================
-// PRACTICE MATRIX CORE
+// PRACTICE MATRIX ENGINE
 // ============================================================================
 function selectTestTheme(theme){
   currentThemes = [theme];
   currentWords = wordbankData.filter(w => getItemTheme(w) === theme);
-  applyFilters();
+  applyFilters(); 
   
   document.getElementById("test-theme-title").innerText = formatTheme(theme);
   document.getElementById("test-selection-area").style.display = "none";
@@ -439,19 +539,21 @@ function selectTestTheme(theme){
 
   const articleBtn = document.getElementById("article-test-btn");
   if (articleBtn) {
-    articleBtn.style.display = fields.includes("Article") ? "inline-block" : "none";
+    const validCandidates = filteredWords.filter(w => w.Article && ["der","die","das"].includes(String(w.Article).toLowerCase().trim()));
+    articleBtn.style.display = validCandidates.length > 0 ? "inline-block" : "none";
   }
 }
 
-function enterTestMode(){
+function enterTestMode() {
   const ttb = document.getElementById("test-type-buttons");
   const cp = document.querySelector(".config-panel");
   if(ttb) ttb.style.display = "none";
   if(cp) cp.style.display = "none";
 }
 
-// Fixed evaluation routing panel safely using unified schema mapping
-function exitTestMode(){
+function exitTestMode() {
+  stopListening();
+  if (voiceNextTimeout) clearTimeout(voiceNextTimeout);
   const ttb = document.getElementById("test-type-buttons");
   const cp = document.querySelector(".config-panel");
   if(ttb) ttb.style.display = "flex";
@@ -460,11 +562,15 @@ function exitTestMode(){
   if(tc) tc.innerHTML = "";
 }
 
-function lockAnswers(){
+function lockAnswers() {
   if(answerLocked) return true;
   answerLocked = true;
   setTimeout(() => { answerLocked = false; }, 1300);
   return false;
+}
+
+function buildTestWords() {
+  currentTestWords = shuffle([...filteredWords]); 
 }
 
 function startMeaningsTest(){
@@ -491,24 +597,15 @@ function startDictationTest(){
   buildTestWords(); enterTestMode(); renderDictation();
 }
 
-function insertUmlaut(char){
-  const input = document.getElementById("dictation-input");
-  if(!input) return;
-  const start = input.selectionStart;
-  const end = input.selectionEnd;
-  input.value = input.value.substring(0, start) + char + input.value.substring(end);
-  input.focus();
-}
-
 function normalizeGerman(text){
-  return text.toLowerCase().replace(/ae/g,"ä").replace(/oe/g,"ö").replace(/ue/g,"ü").replace(/ss/g,"ß").trim();
+  return String(text).toLowerCase().replace(/ae/g,"ä").replace(/oe/g,"ö").replace(/ue/g,"ü").replace(/ss/g,"ß").replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g,"").trim();
 }
 
 function startArticleTest(){
   currentTest = "article"; score = 0; currentQuestion = 0;
-  currentTestWords = filteredWords.filter(w => w.Article && ["der","die","das"].includes(w.Article.toLowerCase().trim()));
+  currentTestWords = shuffle(filteredWords.filter(w => w.Article && ["der","die","das"].includes(String(w.Article).toLowerCase().trim())));
   if(currentTestWords.length === 0){
-    alert("No explicit Article gender keys found in this theme slice!");
+    alert("No explicit items with Article values found in this selection slice!");
     return;
   }
   enterTestMode(); renderArticle();
@@ -518,7 +615,7 @@ function renderArticle() {
   if(currentQuestion >= currentTestWords.length) { finishTest(); return; }
   const q = currentTestWords[currentQuestion];
   const fields = getDynamicColumns();
-  const displayField = fields.find(f => f.toLowerCase().includes("german") || f.toLowerCase().includes("word") || f.toLowerCase().includes("infinitiv")) || fields[0];
+  const displayField = fields.find(f => f.toLowerCase().includes("noun") || f.toLowerCase().includes("german") || f.toLowerCase().includes("word") || f.toLowerCase().includes("infinitiv")) || fields[0];
   const options = shuffle(["der","die","das"]);
 
   document.getElementById("test-content").innerHTML = `
@@ -527,7 +624,7 @@ function renderArticle() {
       <div class="word-display">${q[displayField]}</div>
       <div class="options-grid">
         ${options.map(o => `
-          <button class="option-btn" onclick="checkArticle(this,'${o}','${q.Article}','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>
+          <button class="option-btn" onclick="checkArticle(this,'${o}','${String(q.Article).trim().toLowerCase()}','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>
         `).join("")}
       </div>
       <div class="score-box">Score: ${score}/${currentQuestion}</div>
@@ -535,14 +632,6 @@ function renderArticle() {
     </div>
   `;
 }
-
-document.addEventListener("click", (e) => {
-  const item = e.target.closest(".match-item");
-  if (!item) return;
-  if (item.innerText) {
-    safeSpeak(item.innerText, item.dataset.lang || "de-DE");
-  }
-});
 
 function checkArticle(btn, selected, correct, wordKey){
   if (lockAnswers()) return;
@@ -553,6 +642,7 @@ function checkArticle(btn, selected, correct, wordKey){
     btn.classList.add("correct"); score++; autoUpdateStar(wordKey, true);
   } else {
     btn.classList.add("incorrect"); autoUpdateStar(wordKey, false);
+    buttons.forEach(b => { if(b.innerText.toLowerCase().trim() === correct) b.classList.add("correct"); });
   }
   setTimeout(() => { currentQuestion++; renderArticle(); }, 1200);
 }
@@ -563,17 +653,18 @@ function startMatchingTest(){
 }
 
 function selectGerman(el){
+  if (el.classList.contains("match-correct")) return; 
   document.querySelectorAll(".german-item").forEach(i => i.classList.remove("match-selected"));
   el.classList.add("match-selected");
   selectedGerman = el;
 }
 
-// Evaluation pairing rules alignment check
 function selectEnglish(el){
-  if(!selectedGerman) return;
+  if (el.classList.contains("match-correct") || !selectedGerman) return; 
   selectedEnglish = el;
 
   if(selectedGerman.dataset.id === selectedEnglish.dataset.id){
+    selectedGerman.classList.remove("match-selected");
     selectedGerman.classList.add("match-correct");
     selectedEnglish.classList.add("match-correct");
     score++; matchedPairs++;
@@ -582,16 +673,154 @@ function selectEnglish(el){
     selectedGerman.classList.add("match-wrong");
     selectedEnglish.classList.add("match-wrong");
     autoUpdateStar(selectedGerman.dataset.id, false);
+    
+    const sg = selectedGerman;
+    const se = selectedEnglish;
+    setTimeout(() => {
+      sg.classList.remove("match-wrong", "match-selected");
+      se.classList.remove("match-wrong");
+    }, 900);
   }
 
-  setTimeout(() => {
-    selectedGerman = null; selectedEnglish = null;
-    if (matchedPairs >= currentTestWords.length) finishTest();
-    else renderMatching();
-  }, 1000);
+  selectedGerman = null; 
+  selectedEnglish = null;
+
+  if (matchedPairs >= currentTestWords.length) {
+    setTimeout(finishTest, 1000);
+  }
+}
+
+// ============================================================================
+// VOICE TEST COMPILER MATRIX (AUTO-SUBMIT CIRCUITS WITH INTELLIGENT PIVOTS)
+// ============================================================================
+function startVoiceTest() {
+  if (!voiceRecognition) {
+    alert("Web Speech recognition API is not supported in this browser format. Use Chrome or Edge.");
+    return;
+  }
+  currentTest = "voice"; score = 0; currentQuestion = 0;
+  buildTestWords(); enterTestMode(); renderVoiceQuestion();
+}
+
+function renderVoiceQuestion() {
+  if (voiceNextTimeout) clearTimeout(voiceNextTimeout);
+  if (currentQuestion >= currentTestWords.length) { finishTest(); return; }
+  stopListening();
+
+  const q = currentTestWords[currentQuestion];
+  const qField = document.getElementById("test-question-col").value;
+  const aField = document.getElementById("test-answer-col").value;
+
+  let targetQuestionText = String(q[qField] || "");
+  let targetAnswerText = String(q[aField] || "");
+  
+  let questionLang = autoDetectLanguage(qField);
+  let answerLang = autoDetectLanguage(aField);
+  let subModeTitle = `Translate Column [${qField}] ➡️ [${aField}]`;
+
+  if (q.Article && ["der","die","das"].includes(String(q.Article).toLowerCase().trim()) && aField.toLowerCase().includes("article")) {
+    targetAnswerText = String(q.Article).trim().toLowerCase();
+    answerLang = "de-DE";
+    subModeTitle = `Speak Only the Matching Article for: [ ${q[qField]} ]`;
+  }
+
+  document.getElementById("test-content").innerHTML = `
+    <div class="question-box voice-pulse-active" style="border: 2px solid #2a9d8f; background: #f4faf8;">
+      <h2>🗣️ Voice Interaction Loop</h2>
+      <p style="font-weight:bold; color:#2a9d8f;">${subModeTitle}</p>
+      
+      <div class="word-display" style="font-size: 28px; color: #264653; background: #fff; padding: 20px; border-radius: 8px; margin: 15px 0; box-shadow: inset 0 0 5px rgba(0,0,0,0.05);">
+        ${targetQuestionText}
+      </div>
+
+      <div id="voice-indicator-box" style="padding:12px; border-radius:8px; font-weight:bold; font-size:15px; margin-bottom:12px; background:#e9c46a; color:#fff; transition:0.2s;">
+        🔊 Generating Audio Prompt...
+      </div>
+
+      <div id="voice-transcript-output" style="font-weight:600; font-size:18px; color:#2a9d8f; min-height:30px; margin:10px 0;"></div>
+      <div id="voice-feedback-output"></div>
+
+      ${getUmlautKeyboardHTML()}
+
+      <div class="score-box" style="margin-top:15px;">Progress Session Score: ${score}/${currentQuestion}</div>
+      <div class="test-controls" style="margin-top:15px; display:flex; gap:10px; justify-content:center;">
+        <button onclick="safeSpeak('${targetQuestionText.replace(/'/g, "\\'")}', '${questionLang}')" class="primary-btn" style="background:#4a90e2;">🔊 Repeat Question</button>
+        <button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button>
+      </div>
+    </div>
+  `;
+
+  let utterText = targetQuestionText;
+  if (q.Article && qField.toLowerCase().includes("noun")) {
+    utterText = q.Article + " " + targetQuestionText;
+  }
+
+  let utter = safeSpeak(utterText, questionLang);
+  if (utter) {
+    utter.onend = () => triggerMicrophoneListen(targetAnswerText, answerLang);
+    utter.onerror = () => triggerMicrophoneListen(targetAnswerText, answerLang);
+  } else {
+    triggerMicrophoneListen(targetAnswerText, answerLang);
+  }
+}
+
+function triggerMicrophoneListen(expectedAnswer, targetLang) {
+  if (!voiceRecognition || currentTest !== "voice") return;
+  
+  const indicator = document.getElementById("voice-indicator-box");
+  if (indicator) {
+    indicator.style.background = "#e76f51";
+    indicator.innerHTML = "🎙️ Listening... SPEAK ANSWER NOW!";
+  }
+
+  voiceRecognition.lang = targetLang;
+  
+  voiceRecognition.onresult = (event) => {
+    const transcript = event.results[0][0].transcript;
+    const outputTranscript = document.getElementById("voice-transcript-output");
+    if (outputTranscript) outputTranscript.innerText = `Captured String: "${transcript}"`;
+
+    const normalizedUser = normalizeGerman(transcript);
+    const normalizedTarget = normalizeGerman(expectedAnswer);
+    const wordKey = getPrimaryKey(currentTestWords[currentQuestion]);
+    const fbBox = document.getElementById("voice-feedback-output");
+
+    if (normalizedUser === normalizedTarget || normalizedUser.includes(normalizedTarget) || normalizedTarget.includes(normalizedUser)) {
+      score++; autoUpdateStar(wordKey, true);
+      if (fbBox) fbBox.innerHTML = `<p class="correct" style="color:white; padding:8px; border-radius:6px; font-weight:bold;">✓ Correct! Matching Result</p>`;
+    } else {
+      autoUpdateStar(wordKey, false);
+      if (fbBox) fbBox.innerHTML = `<p class="incorrect" style="color:white; padding:8px; border-radius:6px; font-weight:bold;">❌ Incorrect! Expected: ${expectedAnswer}</p>`;
+    }
+
+    voiceNextTimeout = setTimeout(() => {
+      currentQuestion++;
+      renderVoiceQuestion();
+    }, 1000); 
+  };
+
+  voiceRecognition.onerror = (err) => {
+    console.warn("Speech API capture fallback exception timed out.", err);
+    const ind = document.getElementById("voice-indicator-box");
+    if (ind) {
+      ind.style.background = "#cbd5e1";
+      ind.innerHTML = "⏹️ Unrecognized Entry. Moving forward...";
+    }
+    voiceNextTimeout = setTimeout(() => {
+      currentQuestion++;
+      renderVoiceQuestion();
+    }, 1000);
+  };
+
+  try {
+    voiceRecognition.start();
+    isListening = true;
+  } catch(e) {}
 }
 
 function finishTest(){
+  stopListening();
+  if (voiceNextTimeout) clearTimeout(voiceNextTimeout);
   document.getElementById("test-content").innerHTML = `
     <div class="question-box">
       <h2>🎉 Session Completed!</h2>
@@ -613,32 +842,7 @@ function backToThemes(){
   document.getElementById("theme-selection-area").style.display = "block";
 }
 
-function buildTestWords(){
-  currentTestWords = shuffle([...filteredWords]);
-  if(currentBatchSize > 0) currentTestWords = currentTestWords.slice(0, currentBatchSize);
-}
-
-function shuffle(arr){ return [...arr].sort(() => Math.random() - 0.5); }
-
-let activeRepeatMode = "sequence";
-let rowRepeatCountTarget = 1;       
-let rowRepeatCounterCurrent = 0;
-let playbackOrderQueue = [];
-
-function updateAudioLoopSettings() {
-  activeRepeatMode = document.getElementById("loop-mode-select").value;
-  rowRepeatCountTarget = parseInt(document.getElementById("row-repeat-input").value) || 1;
-  
-  const wrapper = document.getElementById("row-count-wrapper");
-  if (wrapper) {
-    wrapper.style.display = (activeRepeatMode === "repeat-row") ? "flex" : "none";
-  }
-  if (isPlayingAll) {
-    generatePlaybackQueue(playbackOrderQueue[currentQuestion] || 0);
-  }
-}
-
-function generatePlaybackQueue(activeRowIndex) {
+const generatePlaybackQueue = function(activeRowIndex) {
   let indices = filteredWords.map((_, idx) => idx);
   if (activeRepeatMode === "alphabetical") {
     const primaryField = getDynamicColumns()[0];
@@ -653,9 +857,9 @@ function generatePlaybackQueue(activeRowIndex) {
   playbackOrderQueue = indices;
   const currentPos = playbackOrderQueue.indexOf(activeRowIndex);
   return currentPos !== -1 ? currentPos : 0;
-}
+};
 
-playAllAudio = function(startIndex = 0) {
+const playAllAudio = function(startIndex = 0) {
   if (filteredWords.length === 0) return;
   isPlayingAll = true;
   rowRepeatCounterCurrent = 0;
@@ -679,9 +883,14 @@ playAllAudio = function(startIndex = 0) {
     
     let itemsToSpeak = [];
     fields.forEach(f => {
-      if (f === "Article") return;
+      const colSelector = document.querySelector(`.play-column-selector[data-column="${f}"]`);
+      const isColumnChecked = colSelector ? colSelector.checked : true;
+      
       let textVal = currentItem[f];
-      if (textVal && String(textVal).trim() !== "") {
+      if (isColumnChecked && textVal && String(textVal).trim() !== "") {
+        if (f.toLowerCase().includes("noun") && currentItem.Article && ["der","die","das"].includes(String(currentItem.Article).toLowerCase().trim())) {
+          textVal = currentItem.Article + " " + textVal;
+        }
         itemsToSpeak.push({ text: String(textVal), lang: autoDetectLanguage(f) });
       }
     });
@@ -714,7 +923,7 @@ playAllAudio = function(startIndex = 0) {
   executeQueueLoop(queuePosition);
 };
 
-renderMeanings = function() {
+const renderMeanings = function() {
   if(currentQuestion >= currentTestWords.length) { finishTest(); return; }
   const q = currentTestWords[currentQuestion];
   
@@ -745,7 +954,7 @@ renderMeanings = function() {
   safeSpeak(String(q[qField]), autoDetectLanguage(qField));
 };
 
-renderDictation = function() {
+const renderDictation = function() {
   if(currentQuestion >= currentTestWords.length) { finishTest(); return; }
   const q = currentTestWords[currentQuestion];
   const qField = document.getElementById("test-question-col").value;
@@ -757,10 +966,7 @@ renderDictation = function() {
       <h2>Variable Target Dictation Test (${qField})</h2>
       <button class="primary-btn" onclick="safeSpeak('${targetSpelling.replace(/'/g, "\\'")}', '${activeLocale}')">🔊 Listen Prompt</button>
       <input type="text" id="dictation-input" autocomplete="off" placeholder="Type what you hear..." inputmode="text">
-      <div class="umlaut-buttons">
-        <button onclick="insertUmlaut('ä')">ä</button><button onclick="insertUmlaut('ö')">ö</button>
-        <button onclick="insertUmlaut('ü')">ü</button><button onclick="insertUmlaut('ß')">ß</button>
-      </div>
+      ${getUmlautKeyboardHTML()}
       <div id="dict-feedback"></div>
       <div class="score-box">Score: ${score}/${currentQuestion}</div>
       <div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
@@ -791,7 +997,7 @@ renderDictation = function() {
   }
 };
 
-renderMatching = function() {
+const renderMatching = function() {
   const qField = document.getElementById("test-question-col").value;
   const aField = document.getElementById("test-answer-col").value;
 
@@ -825,7 +1031,7 @@ renderMatching = function() {
   `;
 };
 
-downloadWordList = function() {
+const downloadWordList = function() {
   const table = document.getElementById("pdf-word-table");
   if(!table) return;
   table.innerHTML = "";
@@ -845,18 +1051,6 @@ downloadWordList = function() {
 
   html2pdf().from(document.getElementById("pdf-content")).save("Vocabulary_Matrix.pdf");
 };
-
-function toggleStar(wordKey, event) {
-  if (event) event.stopPropagation();
-  let current = starData[wordKey] || "neutral";
-  let next = "neutral";
-  if (current === "neutral") next = "hard";
-  else if (current === "hard") next = "easy";
-  
-  starData[wordKey] = next;
-  localStorage.setItem("germanStarData", JSON.stringify(starData));
-  applyFilters();
-}
 
 function autoUpdateStar(wordKey, isCorrect) {
   if (isCorrect) {
@@ -899,4 +1093,4 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 
-console.log("🔼 Dynamic N-Column Matrix Header Sorting Engine integrated successfully.");
+console.log("🔼 Dynamic N-Column Matrix Engine fully hardened.");
