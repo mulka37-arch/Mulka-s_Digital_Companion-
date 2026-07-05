@@ -1,5 +1,893 @@
 [
   {
+    "Infinitiv": "legen",
+    "Präsens (ich)": "lege",
+    "Präteritum": "legte",
+    "Partizip II": "gelegt",
+    "English Meaning": "to lay/put (flat)",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "liegen",
+    "Präsens (ich)": "liege",
+    "Präteritum": "lag",
+    "Partizip II": "gelegen",
+    "English Meaning": "to lie",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "stellen",
+    "Präsens (ich)": "stelle",
+    "Präteritum": "stellte",
+    "Partizip II": "gestellt",
+    "English Meaning": "to place/stand something",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "stehen",
+    "Präsens (ich)": "stehe",
+    "Präteritum": "stand",
+    "Partizip II": "gestanden",
+    "English Meaning": "to stand",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "setzen",
+    "Präsens (ich)": "setze",
+    "Präteritum": "setzte",
+    "Partizip II": "gesetzt",
+    "English Meaning": "to seat/put into sitting position",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "sitzen",
+    "Präsens (ich)": "sitze",
+    "Präteritum": "saß",
+    "Partizip II": "gesessen",
+    "English Meaning": "to sit",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "hängen (trans.)",
+    "Präsens (ich)": "hänge",
+    "Präteritum": "hängte",
+    "Partizip II": "gehängt",
+    "English Meaning": "to hang something",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "hängen (intrans.)",
+    "Präsens (ich)": "hänge",
+    "Präteritum": "hing",
+    "Partizip II": "gehangen",
+    "English Meaning": "to be hanging",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "stecken",
+    "Präsens (ich)": "stecke",
+    "Präteritum": "steckte",
+    "Partizip II": "gesteckt",
+    "English Meaning": "to put into/be stuck",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "kommen",
+    "Präsens (ich)": "komme",
+    "Präteritum": "kam",
+    "Partizip II": "gekommen",
+    "English Meaning": "to come",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "lernen",
+    "Präsens (ich)": "lerne",
+    "Präteritum": "lernte",
+    "Partizip II": "gelernt",
+    "English Meaning": "to learn",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "bestehen",
+    "Präsens (ich)": "bestehe",
+    "Präteritum": "bestand",
+    "Partizip II": "bestanden",
+    "English Meaning": "to pass",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "zahlen",
+    "Präsens (ich)": "zahle",
+    "Präteritum": "zahlte",
+    "Partizip II": "gezahlt",
+    "English Meaning": "to pay",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "übersetzen",
+    "Präsens (ich)": "übersetze",
+    "Präteritum": "übersetzte",
+    "Partizip II": "übersetzt",
+    "English Meaning": "to translate",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "anrufen",
+    "Präsens (ich)": "rufe an",
+    "Präteritum": "rief an",
+    "Partizip II": "angerufen",
+    "English Meaning": "to call",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "essen",
+    "Präsens (ich)": "esse",
+    "Präteritum": "aß",
+    "Partizip II": "gegessen",
+    "English Meaning": "to eat",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "bezahlen",
+    "Präsens (ich)": "bezahle",
+    "Präteritum": "bezahlte",
+    "Partizip II": "bezahlt",
+    "English Meaning": "to pay",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "ausziehen",
+    "Präsens (ich)": "ziehe aus",
+    "Präteritum": "zog aus",
+    "Partizip II": "ausgezogen",
+    "English Meaning": "to move out",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "arbeiten",
+    "Präsens (ich)": "arbeite",
+    "Präteritum": "arbeitete",
+    "Partizip II": "gearbeitet",
+    "English Meaning": "to work",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "spielen",
+    "Präsens (ich)": "spiele",
+    "Präteritum": "spielte",
+    "Partizip II": "gespielt",
+    "English Meaning": "to play",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "mitnehmen",
+    "Präsens (ich)": "nehme mit",
+    "Präteritum": "nahm mit",
+    "Partizip II": "mitgenommen",
+    "English Meaning": "to take along",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "fahren",
+    "Präsens (ich)": "fahre",
+    "Präteritum": "fuhr",
+    "Partizip II": "gefahren",
+    "English Meaning": "to drive/go",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "beantworten",
+    "Präsens (ich)": "beantworte",
+    "Präteritum": "beantwortete",
+    "Partizip II": "beantwortet",
+    "English Meaning": "to answer",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "fernsehen",
+    "Präsens (ich)": "sehe fern",
+    "Präteritum": "sah fern",
+    "Partizip II": "ferngesehen",
+    "English Meaning": "to watch TV",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "hören",
+    "Präsens (ich)": "höre",
+    "Präteritum": "hörte",
+    "Partizip II": "gehört",
+    "English Meaning": "to hear",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "sehen",
+    "Präsens (ich)": "sehe",
+    "Präteritum": "sah",
+    "Partizip II": "gesehen",
+    "English Meaning": "to see",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "lassen",
+    "Präsens (ich)": "lasse",
+    "Präteritum": "ließ",
+    "Partizip II": "gelassen",
+    "English Meaning": "to let/have done",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "bellen",
+    "Präsens (ich)": "belle",
+    "Präteritum": "bellte",
+    "Partizip II": "gebellt",
+    "English Meaning": "to bark",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "waschen",
+    "Präsens (ich)": "wasche",
+    "Präteritum": "wusch",
+    "Partizip II": "gewaschen",
+    "English Meaning": "to wash",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "streiten",
+    "Präsens (ich)": "streite",
+    "Präteritum": "stritt",
+    "Partizip II": "gestritten",
+    "English Meaning": "to argue",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "singen",
+    "Präsens (ich)": "singe",
+    "Präteritum": "sang",
+    "Partizip II": "gesungen",
+    "English Meaning": "to sing",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "schneiden",
+    "Präsens (ich)": "schneide",
+    "Präteritum": "schnitt",
+    "Partizip II": "geschnitten",
+    "English Meaning": "to cut",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "weinen",
+    "Präsens (ich)": "weine",
+    "Präteritum": "weinte",
+    "Partizip II": "geweint",
+    "English Meaning": "to cry",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "schreiben",
+    "Präsens (ich)": "schreibe",
+    "Präteritum": "schrieb",
+    "Partizip II": "geschrieben",
+    "English Meaning": "to write",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "reinigen",
+    "Präsens (ich)": "reinige",
+    "Präteritum": "reinigte",
+    "Partizip II": "gereinigt",
+    "English Meaning": "to clean",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "reparieren",
+    "Präsens (ich)": "repariere",
+    "Präteritum": "reparierte",
+    "Partizip II": "repariert",
+    "English Meaning": "to repair",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "nehmen",
+    "Präsens (ich)": "nehme",
+    "Präteritum": "nahm",
+    "Partizip II": "genommen",
+    "English Meaning": "to take",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "zurückstellen",
+    "Präsens (ich)": "stelle zurück",
+    "Präteritum": "stellte zurück",
+    "Partizip II": "zurückgestellt",
+    "English Meaning": "to put back",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "abnehmen",
+    "Präsens (ich)": "nehme ab",
+    "Präteritum": "nahm ab",
+    "Partizip II": "abgenommen",
+    "English Meaning": "to take down/remove",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "suchen",
+    "Präsens (ich)": "suche",
+    "Präteritum": "suchte",
+    "Partizip II": "gesucht",
+    "English Meaning": "to search",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Infinitiv": "lassen (liegen lassen)",
+    "Präsens (ich)": "lasse",
+    "Präteritum": "lies",
+    "Partizip II": "gelassen",
+    "English Meaning": "to leave",
+    "Theme": "Dr Schafer verbs"
+  },
+  {
+    "Article": "der",
+    "Singular": "Mantel",
+    "Plural": "Mäntel",
+    "English Meaning": "coat",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Buch",
+    "Plural": "Bücher",
+    "English Meaning": "book",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Schreibtisch",
+    "Plural": "Schreibtische",
+    "English Meaning": "desk",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Regal",
+    "Plural": "Regale",
+    "English Meaning": "shelf",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Kind",
+    "Plural": "Kinder",
+    "English Meaning": "child",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Stuhl",
+    "Plural": "Stühle",
+    "English Meaning": "chair",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Brief",
+    "Plural": "Briefe",
+    "English Meaning": "letter",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Tasche",
+    "Plural": "Taschen",
+    "English Meaning": "bag",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Garderobe",
+    "Plural": "Garderoben",
+    "English Meaning": "coat rack",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Wohnung",
+    "Plural": "Wohnungen",
+    "English Meaning": "apartment",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Strafe",
+    "Plural": "Strafen",
+    "English Meaning": "fine",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Baby",
+    "Plural": "Babys",
+    "English Meaning": "baby",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Freund",
+    "Plural": "Freunde",
+    "English Meaning": "friend",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Text",
+    "Plural": "Texte",
+    "English Meaning": "text",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Test",
+    "Plural": "Tests",
+    "English Meaning": "test",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Miete",
+    "Plural": "Mieten",
+    "English Meaning": "rent",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Auto",
+    "Plural": "Autos",
+    "English Meaning": "car",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Garten",
+    "Plural": "Gärten",
+    "English Meaning": "garden",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Sohn",
+    "Plural": "Söhne",
+    "English Meaning": "son",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Urlaub",
+    "Plural": "Urlaube",
+    "English Meaning": "vacation",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Frage",
+    "Plural": "Fragen",
+    "English Meaning": "question",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Fernsehen",
+    "Plural": "-",
+    "English Meaning": "television",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Hund",
+    "Plural": "Hunde",
+    "English Meaning": "dog",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Mann",
+    "Plural": "Männer",
+    "English Meaning": "man",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Haare",
+    "Plural": "-",
+    "English Meaning": "hair",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Nachbarin",
+    "Plural": "Nachbarinnen",
+    "English Meaning": "female neighbour",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Kursteilnehmer",
+    "Plural": "Kursteilnehmer",
+    "English Meaning": "course participant",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Unglück",
+    "Plural": "Unglücke",
+    "English Meaning": "accident",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Hose",
+    "Plural": "Hosen",
+    "English Meaning": "trousers",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Schublade",
+    "Plural": "Schubladen",
+    "English Meaning": "drawer",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Zeitung",
+    "Plural": "Zeitungen",
+    "English Meaning": "newspaper",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Ecke",
+    "Plural": "Ecken",
+    "English Meaning": "corner",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Puppe",
+    "Plural": "Puppen",
+    "English Meaning": "doll",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Schlüssel",
+    "Plural": "Schlüssel",
+    "English Meaning": "key",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Sofa",
+    "Plural": "Sofas",
+    "English Meaning": "sofa",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Bücherregal",
+    "Plural": "Bücherregale",
+    "English Meaning": "bookcase",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Schallplatte",
+    "Plural": "Schallplatten",
+    "English Meaning": "record",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Brieftasche",
+    "Plural": "Brieftaschen",
+    "English Meaning": "wallet",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Vogel",
+    "Plural": "Vögel",
+    "English Meaning": "bird",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Käfig",
+    "Plural": "Käfige",
+    "English Meaning": "cage",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Treppe",
+    "Plural": "Treppen",
+    "English Meaning": "stairs",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Jacke",
+    "Plural": "Jacken",
+    "English Meaning": "jacket",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Schuhschrank",
+    "Plural": "Schuhschränke",
+    "English Meaning": "shoe cabinet",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Handtasche",
+    "Plural": "Handtaschen",
+    "English Meaning": "handbag",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Post",
+    "Plural": "-",
+    "English Meaning": "mail",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Brille",
+    "Plural": "Brillen",
+    "English Meaning": "glasses",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Handtuch",
+    "Plural": "Handtücher",
+    "English Meaning": "towel",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Waschbecken",
+    "Plural": "Waschbecken",
+    "English Meaning": "washbasin",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Geld",
+    "Plural": "-",
+    "English Meaning": "money",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Schreibtischschublade",
+    "Plural": "Schreibtischschubladen",
+    "English Meaning": "desk drawer",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Fahrzeugpapiere",
+    "Plural": "-",
+    "English Meaning": "vehicle documents",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Tablette",
+    "Plural": "Tabletten",
+    "English Meaning": "tablet (medicine)",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Nachttisch",
+    "Plural": "Nachttische",
+    "English Meaning": "bedside table",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Adressbuch",
+    "Plural": "Adressbücher",
+    "English Meaning": "address book",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Flur",
+    "Plural": "Flure",
+    "English Meaning": "hallway",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Schal",
+    "Plural": "Schals",
+    "English Meaning": "scarf",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Zigarette",
+    "Plural": "Zigaretten",
+    "English Meaning": "cigarette",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Feuerzeug",
+    "Plural": "Feuerzeuge",
+    "English Meaning": "lighter",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Aschenbecher",
+    "Plural": "Aschenbecher",
+    "English Meaning": "ashtray",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Brot",
+    "Plural": "Brote",
+    "English Meaning": "bread",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Kühlschrank",
+    "Plural": "Kühlschränke",
+    "English Meaning": "refrigerator",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Thermoskanne",
+    "Plural": "Thermoskannen",
+    "English Meaning": "thermos flask",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Geschirr",
+    "Plural": "-",
+    "English Meaning": "dishes",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Wohnzimmerschrank",
+    "Plural": "Wohnzimmerschränke",
+    "English Meaning": "living room cabinet",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Küchenschrank",
+    "Plural": "Küchenschränke",
+    "English Meaning": "kitchen cabinet",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Schränkchen",
+    "Plural": "Schränkchen",
+    "English Meaning": "small cupboard",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Esszimmer",
+    "Plural": "Esszimmer",
+    "English Meaning": "dining room",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Serviette",
+    "Plural": "Servietten",
+    "English Meaning": "napkin",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Geschirrtuch",
+    "Plural": "Geschirrtücher",
+    "English Meaning": "dish towel",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Wäsche",
+    "Plural": "-",
+    "English Meaning": "laundry",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Wäscheleine",
+    "Plural": "Wäscheleinen",
+    "English Meaning": "clothesline",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Haus",
+    "Plural": "Häuser",
+    "English Meaning": "house",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Wäscheschrank",
+    "Plural": "Wäscheschränke",
+    "English Meaning": "linen cupboard",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Waschmaschine",
+    "Plural": "Waschmaschinen",
+    "English Meaning": "washing machine",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Fotos",
+    "Plural": "Foto/photos",
+    "English Meaning": "photos",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "der",
+    "Singular": "Besen",
+    "Plural": "Besen",
+    "English Meaning": "broom",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Hosentasche",
+    "Plural": "Hosentaschen",
+    "English Meaning": "trouser pocket",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "das",
+    "Singular": "Portemonnaie",
+    "Plural": "Portemonnaies",
+    "English Meaning": "wallet",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Seite",
+    "Plural": "Seiten",
+    "English Meaning": "page",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
+    "Article": "die",
+    "Singular": "Aktentasche",
+    "Plural": "Aktentaschen",
+    "English Meaning": "briefcase",
+    "Theme": "Dr Schafer Vocab"
+  },
+  {
     "Article": "die",
     "Noun": "Gabel",
     "English Meaning": "fork",
