@@ -31,16 +31,22 @@
         </div>
       </div>
 
+      <!-- Clean & Scalable Selection Block -->
       <div id="theme-selection-area">
         <h3>Select Categories / Themes</h3>
         
-        <div class="file-load-panel" style="margin: 15px 0; padding: 15px; background: #edf2f7; border-radius: 10px; text-align: center;">
-          <label style="font-weight: bold; display: block; margin-bottom: 8px; color: #1d3557;">📂 Load External Vocabulary Matrix:</label>
-          <input type="file" id="vocab-file-picker" accept=".json" style="display: block; margin: 10px auto;" />
+        <div class="control-actions-wrapper">
+          <button id="show-words-btn" class="primary-btn">Show Selected Themes</button>
+
+          <div class="file-load-panel">
+            <label>📂 Load External Vocabulary Matrix:</label>
+            <input type="file" id="vocab-file-picker" accept=".json" />
+          </div>
         </div>
 
-        <div id="theme-buttons" class="theme-grid"></div>
-        <button id="show-words-btn" class="primary-btn">Show Selected Themes</button>
+        <div class="theme-scroll-box">
+          <div id="theme-buttons" class="theme-grid"></div>
+        </div>
       </div>
 
       <div id="word-table-container" style="display:none;">
