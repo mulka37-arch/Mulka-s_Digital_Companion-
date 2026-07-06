@@ -1,5 +1,992 @@
 [
   {
+    "German": "Name",
+    "Article": "der Name",
+    "Plural": "die Namen",
+    "English": "name",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Heimatland",
+    "Article": "das Heimatland",
+    "Plural": "die Heimatländer",
+    "English": "home country",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Wohnort",
+    "Article": "der Wohnort",
+    "Plural": "die Wohnorte",
+    "English": "place of residence",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Sprache",
+    "Article": "die Sprache",
+    "Plural": "die Sprachen",
+    "English": "language",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Beruf",
+    "Article": "der Beruf",
+    "Plural": "die Berufe",
+    "English": "profession/job",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Arbeitgeber",
+    "Article": "der Arbeitgeber",
+    "Plural": "die Arbeitgeber",
+    "English": "employer",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Universität",
+    "Article": "die Universität",
+    "Plural": "die Universitäten",
+    "English": "university",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Hobby",
+    "Article": "das Hobby",
+    "Plural": "die Hobbys",
+    "English": "hobby",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Alter",
+    "Article": "das Alter",
+    "Plural": "die Alter",
+    "English": "age",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Geburtsort",
+    "Article": "der Geburtsort",
+    "Plural": "die Geburtsorte",
+    "English": "birthplace",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Studium",
+    "Article": "das Studium",
+    "Plural": "die Studien",
+    "English": "studies/degree",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Masterdiplom",
+    "Article": "das Masterdiplom",
+    "Plural": "die Masterdiplome",
+    "English": "master's diploma",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Firma",
+    "Article": "die Firma",
+    "Plural": "die Firmen",
+    "English": "company",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Stelle",
+    "Article": "die Stelle",
+    "Plural": "die Stellen",
+    "English": "position/job",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Patentprüfer",
+    "Article": "der Patentprüfer",
+    "Plural": "die Patentprüfer",
+    "English": "patent examiner",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Patent",
+    "Article": "das Patent",
+    "Plural": "die Patente",
+    "English": "patent",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Patentanwalt",
+    "Article": "der Patentanwalt",
+    "Plural": "die Patentanwälte",
+    "English": "patent attorney",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Wohnung",
+    "Article": "die Wohnung",
+    "Plural": "die Wohnungen",
+    "English": "apartment",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Zentrum",
+    "Article": "das Zentrum",
+    "Plural": "die Zentren",
+    "English": "center",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Freizeit",
+    "Article": "die Freizeit",
+    "Plural": "-",
+    "English": "free time",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Fußball",
+    "Article": "der Fußball",
+    "Plural": "-",
+    "English": "football/soccer",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Fachzeitschrift",
+    "Article": "die Fachzeitschrift",
+    "Plural": "die Fachzeitschriften",
+    "English": "specialist journal",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Sekretärin",
+    "Article": "die Sekretärin",
+    "Plural": "die Sekretärinnen",
+    "English": "secretary (female)",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Ausbildung",
+    "Article": "die Ausbildung",
+    "Plural": "die Ausbildungen",
+    "English": "training/apprenticeship",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "E-Mail",
+    "Article": "die E-Mail",
+    "Plural": "die E-Mails",
+    "English": "email",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Kunde",
+    "Article": "der Kunde",
+    "Plural": "die Kunden",
+    "English": "customer",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Chef",
+    "Article": "der Chef",
+    "Plural": "die Chefs",
+    "English": "boss",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Termin",
+    "Article": "der Termin",
+    "Plural": "die Termine",
+    "English": "appointment",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Miete",
+    "Article": "die Miete",
+    "Plural": "die Mieten",
+    "English": "rent",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Eltern",
+    "Article": "die Eltern",
+    "Plural": "-",
+    "English": "parents",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Lebenslauf",
+    "Article": "der Lebenslauf",
+    "Plural": "die Lebensläufe",
+    "English": "curriculum vitae (CV)",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Schule",
+    "Article": "die Schule",
+    "Plural": "die Schulen",
+    "English": "school",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Grundschule",
+    "Article": "die Grundschule",
+    "Plural": "die Grundschulen",
+    "English": "primary school",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Gymnasium",
+    "Article": "das Gymnasium",
+    "Plural": "die Gymnasien",
+    "English": "grammar/high school",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Abitur",
+    "Article": "das Abitur",
+    "Plural": "die Abiture",
+    "English": "university entrance qualification",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Note",
+    "Article": "die Note",
+    "Plural": "die Noten",
+    "English": "grade",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Unterricht",
+    "Article": "der Unterricht",
+    "Plural": "-",
+    "English": "lessons/teaching",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "German",
+    "Article": "Article",
+    "Plural": "Plural",
+    "English": "English",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Freizeit",
+    "Article": "die Freizeit",
+    "Plural": "die Freizeiten",
+    "English": "free time/leisure",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Hobby",
+    "Article": "das Hobby",
+    "Plural": "die Hobbys",
+    "English": "hobby",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Musik",
+    "Article": "die Musik",
+    "Plural": "-",
+    "English": "music",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Fotografie",
+    "Article": "die Fotografie",
+    "Plural": "die Fotografien",
+    "English": "photography",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Film",
+    "Article": "der Film",
+    "Plural": "die Filme",
+    "English": "film/movie",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Biografie",
+    "Article": "die Biografie",
+    "Plural": "die Biografien",
+    "English": "biography",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Konzert",
+    "Article": "das Konzert",
+    "Plural": "die Konzerte",
+    "English": "concert",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Sport",
+    "Article": "der Sport",
+    "Plural": "-",
+    "English": "sport",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Garten",
+    "Article": "der Garten",
+    "Plural": "die Gärten",
+    "English": "garden",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Fußball",
+    "Article": "der Fußball",
+    "Plural": "die Fußbälle",
+    "English": "football/soccer",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Reise",
+    "Article": "die Reise",
+    "Plural": "die Reisen",
+    "English": "trip/journey",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Ausflug",
+    "Article": "der Ausflug",
+    "Plural": "die Ausflüge",
+    "English": "excursion/day trip",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Radio",
+    "Article": "das Radio",
+    "Plural": "die Radios",
+    "English": "radio",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Karte",
+    "Article": "die Karte",
+    "Plural": "die Karten",
+    "English": "card/ticket",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Gesellschaftsspiel",
+    "Article": "das Gesellschaftsspiel",
+    "Plural": "die Gesellschaftsspiele",
+    "English": "board game",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Party",
+    "Article": "die Party",
+    "Plural": "die Partys",
+    "English": "party",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Gemälde",
+    "Article": "das Gemälde",
+    "Plural": "die Gemälde",
+    "English": "painting",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Skulptur",
+    "Article": "die Skulptur",
+    "Plural": "die Skulpturen",
+    "English": "sculpture",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Instrument",
+    "Article": "das Instrument",
+    "Plural": "die Instrumente",
+    "English": "instrument",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Stereoanlage",
+    "Article": "die Stereoanlage",
+    "Plural": "die Stereoanlagen",
+    "English": "stereo system",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "CD",
+    "Article": "die CD",
+    "Plural": "die CDs",
+    "English": "CD",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Kopfhörer",
+    "Article": "der Kopfhörer",
+    "Plural": "die Kopfhörer",
+    "English": "headphones",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "CD-Spieler",
+    "Article": "der CD-Spieler",
+    "Plural": "die CD-Spieler",
+    "English": "CD player",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Verstärker",
+    "Article": "der Verstärker",
+    "Plural": "die Verstärker",
+    "English": "amplifier",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Kassette",
+    "Article": "die Kassette",
+    "Plural": "die Kassetten",
+    "English": "cassette",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Lautsprecher",
+    "Article": "der Lautsprecher",
+    "Plural": "die Lautsprecher",
+    "English": "speaker",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Fernbedienung",
+    "Article": "die Fernbedienung",
+    "Plural": "die Fernbedienungen",
+    "English": "remote control",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Jazz",
+    "Article": "der Jazz",
+    "Plural": "-",
+    "English": "jazz",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Rock",
+    "Article": "der Rock",
+    "Plural": "-",
+    "English": "rock (music)",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Oper",
+    "Article": "die Oper",
+    "Plural": "die Opern",
+    "English": "opera",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Blues",
+    "Article": "der Blues",
+    "Plural": "-",
+    "English": "blues",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Krimi",
+    "Article": "der Krimi",
+    "Plural": "die Krimis",
+    "English": "crime story/thriller",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Mord",
+    "Article": "der Mord",
+    "Plural": "die Morde",
+    "English": "murder",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Verbrechen",
+    "Article": "das Verbrechen",
+    "Plural": "die Verbrechen",
+    "English": "crime",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Detektiv",
+    "Article": "der Detektiv",
+    "Plural": "die Detektive",
+    "English": "detective",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Zeuge",
+    "Article": "der Zeuge",
+    "Plural": "die Zeugen",
+    "English": "witness",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Beweis",
+    "Article": "der Beweis",
+    "Plural": "die Beweise",
+    "English": "evidence/proof",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "German",
+    "Article": "Article",
+    "Plural": "Plural",
+    "English": "English",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Geld",
+    "Article": "das Geld",
+    "Plural": "-",
+    "English": "money",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Konsum",
+    "Article": "der Konsum",
+    "Plural": "-",
+    "English": "consumption",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Miete",
+    "Article": "die Miete",
+    "Plural": "die Mieten",
+    "English": "rent",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Energie",
+    "Article": "die Energie",
+    "Plural": "die Energien",
+    "English": "energy",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Kleidung",
+    "Article": "die Kleidung",
+    "Plural": "-",
+    "English": "clothing",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Rechnung",
+    "Article": "die Rechnung",
+    "Plural": "die Rechnungen",
+    "English": "bill/invoice",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Konto",
+    "Article": "das Konto",
+    "Plural": "die Konten",
+    "English": "account",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Sparkonto",
+    "Article": "das Sparkonto",
+    "Plural": "die Sparkonten",
+    "English": "savings account",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Girokonto",
+    "Article": "das Girokonto",
+    "Plural": "die Girokonten",
+    "English": "checking/current account",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Trinkgeld",
+    "Article": "das Trinkgeld",
+    "Plural": "die Trinkgelder",
+    "English": "tip",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "German",
+    "Article": "Article",
+    "Plural": "Plural",
+    "English": "English",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Büro",
+    "Article": "das Büro",
+    "Plural": "die Büros",
+    "English": "office",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Arbeit",
+    "Article": "die Arbeit",
+    "Plural": "die Arbeiten",
+    "English": "work",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Beruf",
+    "Article": "der Beruf",
+    "Plural": "die Berufe",
+    "English": "profession/job",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Termin",
+    "Article": "der Termin",
+    "Plural": "die Termine",
+    "English": "appointment",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Rezeption",
+    "Article": "die Rezeption",
+    "Plural": "die Rezeptionen",
+    "English": "reception",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "German": "Bestellung",
+    "Article": "die Bestellung",
+    "Plural": "die Bestellungen",
+    "English": "order",
+    "Theme": "Nouns-Begunungen"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich bleibe zu Hause",
+    "Nebensatz": "weil ich müde bin.",
+    "English meaning": "I stay at home because I am tired.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Er geht nicht zur Arbeit",
+    "Nebensatz": "weil er krank ist.",
+    "English meaning": "He doesn’t go to work because he is sick.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Wir essen Pizza",
+    "Nebensatz": "weil wir Hunger haben.",
+    "English meaning": "We eat pizza because we are hungry.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Sie kauft Blumen",
+    "Nebensatz": "weil sie Geburtstag hat.",
+    "English meaning": "She buys flowers because it’s her birthday.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich trinke Kaffee",
+    "Nebensatz": "weil ich wach bleiben will.",
+    "English meaning": "I drink coffee because I want to stay awake.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Er lernt Deutsch",
+    "Nebensatz": "weil er in Berlin lebt.",
+    "English meaning": "He learns German because he lives in Berlin.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Wir fahren mit dem Bus",
+    "Nebensatz": "weil es regnet.",
+    "English meaning": "We take the bus because it’s raining.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich mag Hunde",
+    "Nebensatz": "weil sie freundlich sind.",
+    "English meaning": "I like dogs because they are friendly.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Sie bleibt zu Hause",
+    "Nebensatz": "weil sie Besuch bekommt.",
+    "English meaning": "She stays home because she’s expecting visitors.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich gehe früh ins Bett",
+    "Nebensatz": "weil ich morgen arbeiten muss.",
+    "English meaning": "I go to bed early because I have to work tomorrow.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich habe gute Laune",
+    "Nebensatz": "wenn die Sonne scheint.",
+    "English meaning": "I’m in a good mood when the sun shines.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Wir gehen spazieren",
+    "Nebensatz": "wenn es nicht regnet.",
+    "English meaning": "We go for a walk when it doesn’t rain.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Er kommt",
+    "Nebensatz": "wenn er Zeit hat.",
+    "English meaning": "He comes when he has time.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich habe Urlaub",
+    "Nebensatz": "wenn der Sommer beginnt.",
+    "English meaning": "I have vacation when summer starts.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Sie ruft mich an",
+    "Nebensatz": "wenn sie Hilfe braucht.",
+    "English meaning": "She calls me when she needs help.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich spare Geld",
+    "Nebensatz": "wenn ich weniger kaufe.",
+    "English meaning": "I save money when I buy less.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Wir treffen uns",
+    "Nebensatz": "wenn der Film beginnt.",
+    "English meaning": "We meet when the movie starts.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich esse",
+    "Nebensatz": "wenn ich Hunger habe.",
+    "English meaning": "I eat when I’m hungry.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Er schläft",
+    "Nebensatz": "wenn er müde ist.",
+    "English meaning": "He sleeps when he’s tired.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich lerne",
+    "Nebensatz": "wenn ich Ruhe habe.",
+    "English meaning": "I study when I have peace.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich glaube",
+    "Nebensatz": "dass du recht hast.",
+    "English meaning": "I believe that you are right.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Er sagt",
+    "Nebensatz": "dass er morgen kommt.",
+    "English meaning": "He says that he will come tomorrow.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Wir wissen",
+    "Nebensatz": "dass Deutsch wichtig ist.",
+    "English meaning": "We know that German is important.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Sie denkt",
+    "Nebensatz": "dass das Wetter schön ist.",
+    "English meaning": "She thinks that the weather is nice.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich hoffe",
+    "Nebensatz": "dass du bald gesund bist.",
+    "English meaning": "I hope that you’ll be healthy soon.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Er meint",
+    "Nebensatz": "dass der Film interessant ist.",
+    "English meaning": "He thinks that the movie is interesting.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Wir hören",
+    "Nebensatz": "dass die Musik laut ist.",
+    "English meaning": "We hear that the music is loud.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich sehe",
+    "Nebensatz": "dass du müde bist.",
+    "English meaning": "I see that you are tired.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Sie glaubt",
+    "Nebensatz": "dass er ehrlich ist.",
+    "English meaning": "She believes that he is honest.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich weiß",
+    "Nebensatz": "dass du gut kochen kannst.",
+    "English meaning": "I know that you can cook well.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich kaufe Brot",
+    "Nebensatz": "weil wir keins mehr haben.",
+    "English meaning": "I buy bread because we don’t have any left.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Er bleibt im Bett",
+    "Nebensatz": "weil er Fieber hat.",
+    "English meaning": "He stays in bed because he has a fever.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Wir lachen",
+    "Nebensatz": "weil der Witz lustig ist.",
+    "English meaning": "We laugh because the joke is funny.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich gehe einkaufen",
+    "Nebensatz": "weil der Kühlschrank leer ist.",
+    "English meaning": "I go shopping because the fridge is empty.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich habe Zeit",
+    "Nebensatz": "wenn ich früh fertig bin.",
+    "English meaning": "I have time when I finish early.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Wir spielen Fußball",
+    "Nebensatz": "wenn das Wetter gut ist.",
+    "English meaning": "We play football when the weather is good.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Er liest ein Buch",
+    "Nebensatz": "wenn er allein ist.",
+    "English meaning": "He reads a book when he is alone.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich bekomme Geld",
+    "Nebensatz": "wenn ich arbeite.",
+    "English meaning": "I get money when I work.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich hoffe",
+    "Nebensatz": "dass du morgen kommst.",
+    "English meaning": "I hope that you come tomorrow.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Er glaubt",
+    "Nebensatz": "dass sie ihn liebt.",
+    "English meaning": "He believes that she loves him.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Wir denken",
+    "Nebensatz": "dass das Essen lecker ist.",
+    "English meaning": "We think that the food is tasty.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich weiß",
+    "Nebensatz": "dass du fleißig bist.",
+    "English meaning": "I know that you are hardworking.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Ich trinke Wasser",
+    "Nebensatz": "weil es gesund ist.",
+    "English meaning": "I drink water because it’s healthy.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "weil",
+    "Hauptsatz": "Er fährt langsam",
+    "Nebensatz": "weil er Angst hat.",
+    "English meaning": "He drives slowly because he is afraid.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Ich bin glücklich",
+    "Nebensatz": "wenn ich Musik höre.",
+    "English meaning": "I’m happy when I listen to music.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "wenn",
+    "Hauptsatz": "Wir feiern",
+    "Nebensatz": "wenn wir gute Nachrichten bekommen.",
+    "English meaning": "We celebrate when we get good news.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Ich glaube",
+    "Nebensatz": "dass Lernen Spaß macht.",
+    "English meaning": "I believe that learning is fun.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
+    "connector": "dass",
+    "Hauptsatz": "Sie sagt",
+    "Nebensatz": "dass sie morgen frei hat.",
+    "English meaning": "She says that she has a day off tomorrow.",
+    "Theme": "Wenn / Weil / Dass"
+  },
+  {
     "Infinitiv": "legen",
     "Präsens (ich)": "lege",
     "Präteritum": "legte",
