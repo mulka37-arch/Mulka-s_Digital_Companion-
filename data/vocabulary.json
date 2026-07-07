@@ -1,5 +1,5327 @@
 [
   {
+    "Article": "die",
+    "Noun": "Ahnung",
+    "English Meaning": "clue / idea",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Idee",
+    "English Meaning": "idea",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Freiheit",
+    "English Meaning": "freedom",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Meinung",
+    "English Meaning": "opinion",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Erfolg",
+    "English Meaning": "success",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Erinnerung",
+    "English Meaning": "memory",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Wirklichkeit",
+    "English Meaning": "reality",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tasche",
+    "English Meaning": "bag / pocket",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Brille",
+    "English Meaning": "glasses",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schirm",
+    "English Meaning": "umbrella",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tasche",
+    "English Meaning": "bag",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Ring",
+    "English Meaning": "ring",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tüte",
+    "English Meaning": "bag / paper bag",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kette",
+    "English Meaning": "chain / necklace",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schirm",
+    "English Meaning": "umbrella",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schmuck",
+    "English Meaning": "jewellery",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Frühling",
+    "English Meaning": "spring",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Hund",
+    "English Meaning": "dog",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Katze",
+    "English Meaning": "cat",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kommunikation",
+    "English Meaning": "communication",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Tier",
+    "English Meaning": "animal",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Drache",
+    "English Meaning": "dragon",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kaninchen",
+    "English Meaning": "rabbit",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kuh",
+    "English Meaning": "cow",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "App",
+    "English Meaning": "app / application",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Medikament",
+    "English Meaning": "medicine / medication",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Häschen",
+    "English Meaning": "little rabbit",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Löwe",
+    "English Meaning": "lion",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schmetterling",
+    "English Meaning": "butterfly",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Vogel",
+    "English Meaning": "bird",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kaninchen",
+    "English Meaning": "rabbit",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Frosch",
+    "English Meaning": "frog",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Täter",
+    "English Meaning": "perpetrators / agents",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Jahrhundert",
+    "English Meaning": "century",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Vogel",
+    "English Meaning": "bird",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Lampe",
+    "English Meaning": "lamp",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Herd",
+    "English Meaning": "stove / cooker",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Spülmaschine",
+    "English Meaning": "dishwasher",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Heizung",
+    "English Meaning": "heating",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Wecker",
+    "English Meaning": "alarm clock",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Geschichte",
+    "English Meaning": "story / history",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Musik",
+    "English Meaning": "music",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Märchen",
+    "English Meaning": "fairy tale",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kuchen",
+    "English Meaning": "cake",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Reis",
+    "English Meaning": "rice",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Brötchen",
+    "English Meaning": "bread roll",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Reise",
+    "English Meaning": "journey / trip",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Servierwagen",
+    "English Meaning": "serving trolley",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Brötchen",
+    "English Meaning": "bread roll",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Süßigkeit",
+    "English Meaning": "sweets / candy",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schokoladenkuchen",
+    "English Meaning": "chocolate cake",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Schwarzbrot",
+    "English Meaning": "dark rye bread",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Rollschuhe",
+    "English Meaning": "roller skates",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Schokolade",
+    "English Meaning": "chocolate",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Torte",
+    "English Meaning": "gateau / cake",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Geschäftsreise",
+    "English Meaning": "business trip",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Eis",
+    "English Meaning": "ice cream",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Spaziergang",
+    "English Meaning": "walk / stroll",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bleistift",
+    "English Meaning": "pencil",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Lolly",
+    "English Meaning": "lollipop",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bäckerei",
+    "English Meaning": "bakery",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bonbon",
+    "English Meaning": "sweets / candy",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Pudding",
+    "English Meaning": "pudding",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bäckerei",
+    "English Meaning": "bakery",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Überweisung",
+    "English Meaning": "bank transfer",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Brot",
+    "English Meaning": "bread",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kaffee",
+    "English Meaning": "coffee",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Cola",
+    "English Meaning": "cola",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Lehrer",
+    "English Meaning": "teacher (male)",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Milch",
+    "English Meaning": "milk",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wasser",
+    "English Meaning": "water",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Alkohol",
+    "English Meaning": "alcohol",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kaffee",
+    "English Meaning": "coffee",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Espressomaschine",
+    "English Meaning": "espresso machine",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Tee",
+    "English Meaning": "tea",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Saft",
+    "English Meaning": "juice",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Wein",
+    "English Meaning": "wine",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Champagner",
+    "English Meaning": "champagne",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Lehrer",
+    "English Meaning": "teacher",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Lehrerin",
+    "English Meaning": "teacher (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Erzieherin",
+    "English Meaning": "kindergarten teacher (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Champagner",
+    "English Meaning": "champagne",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Espresso",
+    "English Meaning": "espresso",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Mineralwasser",
+    "English Meaning": "mineral water",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Rotwein",
+    "English Meaning": "red wine",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sekt",
+    "English Meaning": "sparkling wine",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kakao",
+    "English Meaning": "cocoa",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Bier",
+    "English Meaning": "beer",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Wein",
+    "English Meaning": "wine",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kaffee",
+    "English Meaning": "coffee",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Milch",
+    "English Meaning": "milk",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wasser",
+    "English Meaning": "water",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Fuß",
+    "English Meaning": "foot",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Haar",
+    "English Meaning": "hair",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Halsschmerz",
+    "English Meaning": "sore throat",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Hals",
+    "English Meaning": "neck",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gesicht",
+    "English Meaning": "face",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Hand",
+    "English Meaning": "hand",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Zahn",
+    "English Meaning": "tooth",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schuh",
+    "English Meaning": "shoe",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kleidung",
+    "English Meaning": "clothing",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bluse",
+    "English Meaning": "blouse",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kleid",
+    "English Meaning": "dress",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Rock",
+    "English Meaning": "skirt",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mantel",
+    "English Meaning": "coat",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Socken",
+    "English Meaning": "socks",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "T-Shirt",
+    "English Meaning": "T-shirt",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Krawatte",
+    "English Meaning": "tie",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Pullover",
+    "English Meaning": "pullover / sweater",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Hut",
+    "English Meaning": "hat",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Jacke",
+    "English Meaning": "jacket",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Abendkleid",
+    "English Meaning": "evening dress",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bluse",
+    "English Meaning": "blouse",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Rock",
+    "English Meaning": "skirt",
+    "Theme": "Nouns new",
+    "MindMap": "Clothing & Accessories",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "E-Mail",
+    "English Meaning": "email",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mailbox",
+    "English Meaning": "mailbox",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Nachricht",
+    "English Meaning": "news / message",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Zeitung",
+    "English Meaning": "newspaper",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Nachricht",
+    "English Meaning": "message / news",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kontakt",
+    "English Meaning": "contact",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Briefkasten",
+    "English Meaning": "letterbox",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Briefkasten",
+    "English Meaning": "letterbox",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "USA",
+    "English Meaning": "USA",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sudan",
+    "English Meaning": "Sudan",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Datum",
+    "English Meaning": "date",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Februar",
+    "English Meaning": "february",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Januar",
+    "English Meaning": "january",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sommer",
+    "English Meaning": "summer",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Winter",
+    "English Meaning": "winter",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Computer",
+    "English Meaning": "computer",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Glück",
+    "English Meaning": "luck / happiness",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Handy",
+    "English Meaning": "mobile phone",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Radio",
+    "English Meaning": "radio",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kopfhörer",
+    "English Meaning": "headphones",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Monitor",
+    "English Meaning": "monitor / screen",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Handynummer",
+    "English Meaning": "mobile number",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Drucker",
+    "English Meaning": "printer",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Maus-Pad",
+    "English Meaning": "mouse pad",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Restaurant",
+    "English Meaning": "restaurant",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Cafeteria",
+    "English Meaning": "cafeteria",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kiosk",
+    "English Meaning": "kiosk / newsstand",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kantine",
+    "English Meaning": "canteen / cafeteria",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Restaurantbesuch",
+    "English Meaning": "restaurant visit",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Schule",
+    "English Meaning": "school",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Klasse",
+    "English Meaning": "class / classroom",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kita",
+    "English Meaning": "daycare centre",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Club",
+    "English Meaning": "club",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Club",
+    "English Meaning": "club",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kneipe",
+    "English Meaning": "pub / tavern",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Ferien",
+    "English Meaning": "vacation / holidays",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wochenende",
+    "English Meaning": "weekend",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Freizeit",
+    "English Meaning": "free time",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Geburtstag",
+    "English Meaning": "birthday",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Weihnachtsbaum",
+    "English Meaning": "Christmas tree",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Weihnachtsmann",
+    "English Meaning": "Santa Claus",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Hochzeit",
+    "English Meaning": "wedding",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Geburtstagskuchen",
+    "English Meaning": "birthday cake",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Feiertag",
+    "English Meaning": "public holiday",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Eltern",
+    "English Meaning": "parents",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kindergarten",
+    "English Meaning": "kindergarten",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Katzenbaby",
+    "English Meaning": "kitten",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sohn",
+    "English Meaning": "son",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Deutschunterricht",
+    "English Meaning": "German lesson",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Großeltern",
+    "English Meaning": "grandparents",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Oma",
+    "English Meaning": "grandma",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Opa",
+    "English Meaning": "grandpa",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Person",
+    "English Meaning": "person",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tochter",
+    "English Meaning": "daughter",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mensch",
+    "English Meaning": "human / person",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Baby",
+    "English Meaning": "baby",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Oma",
+    "English Meaning": "grandma",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Opa",
+    "English Meaning": "grandpa",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Eltern",
+    "English Meaning": "parents",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mutter",
+    "English Meaning": "mother",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Vater",
+    "English Meaning": "father",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Geschwister",
+    "English Meaning": "siblings",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kind",
+    "English Meaning": "child",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sohn",
+    "English Meaning": "son",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tochter",
+    "English Meaning": "daughter",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Zwillinge",
+    "English Meaning": "twins",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sohn",
+    "English Meaning": "son",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Töchterchen",
+    "English Meaning": "little daughter",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Single",
+    "English Meaning": "single person",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kindheit",
+    "English Meaning": "childhood",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Enkel",
+    "English Meaning": "grandson",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Enkelin",
+    "English Meaning": "granddaughter",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Musikunterricht",
+    "English Meaning": "music lesson",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kinderspielplatz",
+    "English Meaning": "children's playground",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schwiegereltern",
+    "English Meaning": "parents-in-law",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kinderzimmer",
+    "English Meaning": "children's room",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Grund",
+    "English Meaning": "reason / cause",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Arztkind",
+    "English Meaning": "doctor's child",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kinderarzt",
+    "English Meaning": "paediatrician",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Geschwister",
+    "English Meaning": "siblings",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kind",
+    "English Meaning": "child",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mutter",
+    "English Meaning": "mother",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Vater",
+    "English Meaning": "father",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mensch",
+    "English Meaning": "human / person",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Arbeitslose",
+    "English Meaning": "unemployed person (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Baby",
+    "English Meaning": "baby",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Lust",
+    "English Meaning": "desire / inclination",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Liebe",
+    "English Meaning": "love",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Angst",
+    "English Meaning": "fear",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Lust",
+    "English Meaning": "desire / interest",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Glückwunsch",
+    "English Meaning": "congratulation",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Laune",
+    "English Meaning": "mood / temper",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Stress",
+    "English Meaning": "stress",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Wunsch",
+    "English Meaning": "wish / desire",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Heiterkeit",
+    "English Meaning": "cheerfulness",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Ärger",
+    "English Meaning": "anger / trouble",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Interesse",
+    "English Meaning": "interest",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Wunsch",
+    "English Meaning": "wish / desire",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Käse",
+    "English Meaning": "cheese",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Spaghetti",
+    "English Meaning": "spaghetti",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Zucker",
+    "English Meaning": "sugar",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fastfood",
+    "English Meaning": "fast food",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Sandwich",
+    "English Meaning": "sandwich",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Joghurt",
+    "English Meaning": "yoghurt",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Marmelade",
+    "English Meaning": "jam / marmalade",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Pyjama",
+    "English Meaning": "pyjamas",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Korn",
+    "English Meaning": "grain / seed",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Spaghetti",
+    "English Meaning": "spaghetti",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Suppe",
+    "English Meaning": "soup",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Hamburger",
+    "English Meaning": "hamburger",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Lieblingsessen",
+    "English Meaning": "favourite food",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Essen",
+    "English Meaning": "food / eating",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Pizza",
+    "English Meaning": "pizza",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Stau",
+    "English Meaning": "traffic jam",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Käse",
+    "English Meaning": "cheese",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Obst",
+    "English Meaning": "fruit",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Banane",
+    "English Meaning": "banana",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kiwi",
+    "English Meaning": "kiwi",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Apfel",
+    "English Meaning": "apple",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Obst",
+    "English Meaning": "fruit",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Regal",
+    "English Meaning": "shelf",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schrank",
+    "English Meaning": "wardrobe / cupboard",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sessel",
+    "English Meaning": "armchair",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Stuhl",
+    "English Meaning": "chair",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Tisch",
+    "English Meaning": "table",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tablette",
+    "English Meaning": "tablet / pill",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Möbel",
+    "English Meaning": "furniture",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Küchenstuhl",
+    "English Meaning": "kitchen chair",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Sofa",
+    "English Meaning": "sofa",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Regal",
+    "English Meaning": "shelf",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Küchentisch",
+    "English Meaning": "kitchen table",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kühlschrank",
+    "English Meaning": "fridge / refrigerator",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Atlantische Ozean",
+    "English Meaning": "Atlantic Ocean",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kühlschrank",
+    "English Meaning": "fridge / refrigerator",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Schlafzimmer",
+    "English Meaning": "bedroom",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Leute",
+    "English Meaning": "people",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Junge",
+    "English Meaning": "boy",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Mädchen",
+    "English Meaning": "girl",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mann",
+    "English Meaning": "man",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Frau",
+    "English Meaning": "woman",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Traummann",
+    "English Meaning": "dream man",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Herrenuhr",
+    "English Meaning": "men's watch",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Einwohner",
+    "English Meaning": "inhabitant",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Einwohner",
+    "English Meaning": "inhabitant",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fräulein",
+    "English Meaning": "miss / young woman",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Herr",
+    "English Meaning": "gentleman / Mr.",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Erwachsene",
+    "English Meaning": "adult (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Erwachsene",
+    "English Meaning": "adult (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Jugendliche",
+    "English Meaning": "youth / adolescent (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Jugendliche",
+    "English Meaning": "youth / adolescent (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Name",
+    "English Meaning": "name",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Sache",
+    "English Meaning": "thing / matter",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Beste",
+    "English Meaning": "the best",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gute",
+    "English Meaning": "good / everything good",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Neue",
+    "English Meaning": "new things",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wichtige",
+    "English Meaning": "important matter",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Lärm",
+    "English Meaning": "noise",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Alpen",
+    "English Meaning": "Alpen",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wetter",
+    "English Meaning": "weather",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Berg",
+    "English Meaning": "mountain",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Fluss",
+    "English Meaning": "river",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Krankheit",
+    "English Meaning": "illness / disease",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Land",
+    "English Meaning": "country / land",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Meer",
+    "English Meaning": "sea / ocean",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Strand",
+    "English Meaning": "beach",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Niederlande",
+    "English Meaning": "Netherlands",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Schweiz",
+    "English Meaning": "Switzerland",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Regen",
+    "English Meaning": "rain",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Regen",
+    "English Meaning": "rain",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Sonne",
+    "English Meaning": "sun",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Grammatik",
+    "English Meaning": "grammar",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Vokalwechsel",
+    "English Meaning": "vowel change",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Reflexivpronomen",
+    "English Meaning": "reflexive pronoun",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Hauptsatz",
+    "English Meaning": "main clause",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Satzverbindung",
+    "English Meaning": "sentence connection",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Adverb",
+    "English Meaning": "adverb",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Konjunktion",
+    "English Meaning": "conjunction",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Dass-Satz",
+    "English Meaning": "that-clause",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Nebensatz",
+    "English Meaning": "subordinate clause",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Passiv",
+    "English Meaning": "passive voice",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Genitiv",
+    "English Meaning": "genitive case",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Präposition",
+    "English Meaning": "preposition",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fieber",
+    "English Meaning": "fever",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Erkältung",
+    "English Meaning": "cold (illness)",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Wäsche",
+    "English Meaning": "laundry",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Garten",
+    "English Meaning": "garden",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schlüssel",
+    "English Meaning": "key",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Toilette",
+    "English Meaning": "toilet",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Waschzeug",
+    "English Meaning": "toiletries",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tür",
+    "English Meaning": "door",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Treppe",
+    "English Meaning": "stairs / staircase",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fenster",
+    "English Meaning": "window",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schlüssel",
+    "English Meaning": "key",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Decke",
+    "English Meaning": "ceiling / blanket",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tastatur",
+    "English Meaning": "keyboard",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Wand",
+    "English Meaning": "wall",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Uhr",
+    "English Meaning": "clock / watch",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Spiegel",
+    "English Meaning": "mirror",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Müllabfuhr",
+    "English Meaning": "refuse collection",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Gabel",
+    "English Meaning": "fork",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Löffel",
+    "English Meaning": "spoon",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Messer",
+    "English Meaning": "knife",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tasse",
+    "English Meaning": "cup",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fläschchen",
+    "English Meaning": "small bottle",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Glas",
+    "English Meaning": "glass",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Flasche",
+    "English Meaning": "bottle",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Parfümflasche",
+    "English Meaning": "perfume bottle",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fläschchen",
+    "English Meaning": "small bottle",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kaffeetasse",
+    "English Meaning": "coffee cup",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Weinglas",
+    "English Meaning": "wine glass",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Fernsehturm",
+    "English Meaning": "television tower",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Turm",
+    "English Meaning": "tower",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schlosspark",
+    "English Meaning": "castle park",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kaiserpalast",
+    "English Meaning": "imperial palace",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mausoleum",
+    "English Meaning": "mausoleum",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Palast",
+    "English Meaning": "palace",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Schloss",
+    "English Meaning": "castle / palace",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Schlosspark",
+    "English Meaning": "castle park",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Messeturm",
+    "English Meaning": "trade fair tower",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Deutschkurs",
+    "English Meaning": "German course",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kurs",
+    "English Meaning": "course",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wörterbuch",
+    "English Meaning": "dictionary",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Text",
+    "English Meaning": "text",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Buch",
+    "English Meaning": "book",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Übung",
+    "English Meaning": "exercise",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Test",
+    "English Meaning": "test",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Haltestelle",
+    "English Meaning": "bus stop / station",
+    "Theme": "Nouns new",
+    "MindMap": "Education & Learning",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Lösung",
+    "English Meaning": "solution",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Fehler",
+    "English Meaning": "mistake",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Alternative",
+    "English Meaning": "alternative",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Folge",
+    "English Meaning": "consequence / result",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Reihenfolge",
+    "English Meaning": "chronological order / sequence",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bedingung",
+    "English Meaning": "condition / requirement",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bestellung",
+    "English Meaning": "order",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Antwort",
+    "English Meaning": "answer / reply",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Frage",
+    "English Meaning": "question",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gold",
+    "English Meaning": "gold",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Metall",
+    "English Meaning": "metal",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Fisch",
+    "English Meaning": "fish",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Hähnchen",
+    "English Meaning": "chicken",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Schnitzel",
+    "English Meaning": "schnitzel",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fleisch",
+    "English Meaning": "meat",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Huhn",
+    "English Meaning": "chicken / hen",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Wurst",
+    "English Meaning": "sausage",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Peking-Ente",
+    "English Meaning": "Peking duck",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Fisch",
+    "English Meaning": "fish",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Film",
+    "English Meaning": "film / movie",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Bild",
+    "English Meaning": "picture",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Foto",
+    "English Meaning": "photo",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Anzeige",
+    "English Meaning": "advertisement / notice",
+    "Theme": "Nouns new",
+    "MindMap": "Technology & Communication",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Eigentum",
+    "English Meaning": "property",
+    "Theme": "Nouns new",
+    "MindMap": "Finance & Legal",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Geld",
+    "English Meaning": "money",
+    "Theme": "Nouns new",
+    "MindMap": "Finance & Legal",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "König",
+    "English Meaning": "king",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Prinz",
+    "English Meaning": "prince",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Prinzessin",
+    "English Meaning": "princess",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Arzt",
+    "English Meaning": "doctor",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Polizist",
+    "English Meaning": "police officer",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Architektin",
+    "English Meaning": "architect (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Pilotin",
+    "English Meaning": "pilot (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Verkäufer",
+    "English Meaning": "salesman",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kellner",
+    "English Meaning": "waiter",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Polizeiauto",
+    "English Meaning": "police car",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Apothekerin",
+    "English Meaning": "pharmacist (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Politiker",
+    "English Meaning": "politician",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Zahnarzt",
+    "English Meaning": "dentist (male)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Psychologe",
+    "English Meaning": "psychologist (male)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Psychologin",
+    "English Meaning": "psychologist (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sportler",
+    "English Meaning": "athlete",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bäcker",
+    "English Meaning": "baker",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bäckerin",
+    "English Meaning": "baker (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Biologe",
+    "English Meaning": "biologist",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Journalist",
+    "English Meaning": "journalist",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Studentin",
+    "English Meaning": "student (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kuss",
+    "English Meaning": "kiss",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "Spielsachen",
+    "Noun": "nur Plural",
+    "English Meaning": "plural only",
+    "Theme": "Nouns new",
+    "MindMap": "Miscellaneous",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Durst",
+    "English Meaning": "thirst",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Hunger",
+    "English Meaning": "hunger",
+    "Theme": "Nouns new",
+    "MindMap": "Health & Body",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Blume",
+    "English Meaning": "flower",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Baum",
+    "English Meaning": "tree",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Natur",
+    "English Meaning": "nature",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gras",
+    "English Meaning": "grass",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Pflanze",
+    "English Meaning": "plant",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Blume",
+    "English Meaning": "flower",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Baum",
+    "English Meaning": "tree",
+    "Theme": "Nouns new",
+    "MindMap": "Animals & Nature",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bank",
+    "English Meaning": "bank",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Museum",
+    "English Meaning": "museum",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Praxis",
+    "English Meaning": "medical practice",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kino",
+    "English Meaning": "cinema",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Operation",
+    "English Meaning": "operation",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kirche",
+    "English Meaning": "church",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Stadion",
+    "English Meaning": "stadium",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Oper",
+    "English Meaning": "opera",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Theater",
+    "English Meaning": "theatre",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Peking-Oper",
+    "English Meaning": "Peking opera",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Stadion",
+    "English Meaning": "stadium",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mediothek",
+    "English Meaning": "media library",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Klinik",
+    "English Meaning": "clinic / hospital",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kirchturm",
+    "English Meaning": "church tower",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fitnessstudio",
+    "English Meaning": "gym / fitness studio",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bräutigam",
+    "English Meaning": "bridegroom",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Braut",
+    "English Meaning": "bride",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Wohnung",
+    "English Meaning": "apartment / flat",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Haus",
+    "English Meaning": "house",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Rathaus",
+    "English Meaning": "town hall",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Haustier",
+    "English Meaning": "pet",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Küche",
+    "English Meaning": "kitchen",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Raum",
+    "English Meaning": "room",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Wohnung",
+    "English Meaning": "apartment / flat",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Krankenhaus",
+    "English Meaning": "hospital",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Bad",
+    "English Meaning": "bathroom",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Haushalt",
+    "English Meaning": "household",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Terrasse",
+    "English Meaning": "terrace / patio",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Balkon",
+    "English Meaning": "balcony",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Erdgeschoss",
+    "English Meaning": "ground floor",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Flur",
+    "English Meaning": "hallway / corridor",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Wohnzimmer",
+    "English Meaning": "living room",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Hochhaus",
+    "English Meaning": "high-rise building / skyscraper",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Balkon",
+    "English Meaning": "balcony",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Hausstür",
+    "English Meaning": "front door",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Häuschen",
+    "English Meaning": "little house",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Traum",
+    "English Meaning": "dream",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Zeitraum",
+    "English Meaning": "period of time",
+    "Theme": "Nouns new",
+    "MindMap": "Home & Living",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kasse",
+    "English Meaning": "till / cash desk",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Organisation",
+    "English Meaning": "organisation",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Service",
+    "English Meaning": "service",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Diskussion",
+    "English Meaning": "discussion",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Situation",
+    "English Meaning": "situation",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Streit",
+    "English Meaning": "argument / quarrel",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Politik",
+    "English Meaning": "politics",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Verbindung",
+    "English Meaning": "connection",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Verspätung",
+    "English Meaning": "delay",
+    "Theme": "Nouns new",
+    "MindMap": "Emotions & Abstract",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Einladung",
+    "English Meaning": "invitation",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Party",
+    "English Meaning": "party",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Trinkgeld",
+    "English Meaning": "tip",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Geschenk",
+    "English Meaning": "present / gift",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kollege",
+    "English Meaning": "colleague (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kollegin",
+    "English Meaning": "colleague (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Freund",
+    "English Meaning": "friend",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Freund",
+    "English Meaning": "friend (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Freundin",
+    "English Meaning": "friend (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Freund",
+    "English Meaning": "friend (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Freundin",
+    "English Meaning": "friend (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Gast",
+    "English Meaning": "guest",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Gäste",
+    "English Meaning": "guests",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kollegin",
+    "English Meaning": "colleague (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Nachbarin",
+    "English Meaning": "neighbour (female)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kollege",
+    "English Meaning": "colleague",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Freundschaft",
+    "English Meaning": "friendship",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kollege",
+    "English Meaning": "colleague",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bekannte",
+    "English Meaning": "acquaintance (male)",
+    "Theme": "Nouns new",
+    "MindMap": "People & Relationships",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Sport",
+    "English Meaning": "sport",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Ball",
+    "English Meaning": "ball",
+    "Theme": "Nouns new",
+    "MindMap": "Leisure & Entertainment",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Gegenwart",
+    "English Meaning": "present (time)",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Zukunft",
+    "English Meaning": "future",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Gleitzeit",
+    "English Meaning": "flextime",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Vergangenheit",
+    "English Meaning": "past",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Vorvergangenheit",
+    "English Meaning": "past perfect time",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Stunde",
+    "English Meaning": "hour",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Nacht",
+    "English Meaning": "night",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mittagspause",
+    "English Meaning": "lunch break",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Abend",
+    "English Meaning": "evening",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mitternacht",
+    "English Meaning": "midnight",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Morgen",
+    "English Meaning": "morning",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Montag",
+    "English Meaning": "Monday",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Dauer",
+    "English Meaning": "duration",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Zeitpunkt",
+    "English Meaning": "point in time / moment",
+    "Theme": "Nouns new",
+    "MindMap": "Time & Calendar",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Souvenir",
+    "English Meaning": "souvenir",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Sehenswürdigkeit",
+    "English Meaning": "sight / tourist attraction",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Flughafen",
+    "English Meaning": "airport",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Flug",
+    "English Meaning": "flight",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Ankunft",
+    "English Meaning": "arrival",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Ausflug",
+    "English Meaning": "excursion / trip",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Visum",
+    "English Meaning": "visa",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Benzin",
+    "English Meaning": "petrol / gasoline",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gepäck",
+    "English Meaning": "luggage",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Koffer",
+    "English Meaning": "suitcase",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Reifen",
+    "English Meaning": "tyre",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Ticket",
+    "English Meaning": "ticket",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Pass",
+    "English Meaning": "passport",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Koffer",
+    "English Meaning": "suitcase",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Reifen",
+    "English Meaning": "tyre",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Stadt",
+    "English Meaning": "city",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Platz",
+    "English Meaning": "place / square",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Tunnel",
+    "English Meaning": "tunnel",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Campingplatz",
+    "English Meaning": "campsite",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Tennisplatz",
+    "English Meaning": "tennis court",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Zentrum",
+    "English Meaning": "centre / downtown",
+    "Theme": "Nouns new",
+    "MindMap": "Places & Buildings",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gemüse",
+    "English Meaning": "vegetables",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Karotte",
+    "English Meaning": "carrot",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kartoffel",
+    "English Meaning": "potato",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Tomate",
+    "English Meaning": "tomato",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Salat",
+    "English Meaning": "salad",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kartoffelsalat",
+    "English Meaning": "potato salad",
+    "Theme": "Nouns new",
+    "MindMap": "Food & Drinks",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Auto",
+    "English Meaning": "car",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bahnhof",
+    "English Meaning": "train station",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bus",
+    "English Meaning": "bus",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fahrrad",
+    "English Meaning": "bicycle",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "PKW",
+    "English Meaning": "car",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Taxi",
+    "English Meaning": "taxi",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "LKW",
+    "English Meaning": "lorry / truck",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Wagen",
+    "English Meaning": "car / wagon",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Auto",
+    "English Meaning": "car",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Bus",
+    "English Meaning": "bus",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fahrrad",
+    "English Meaning": "bicycle",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Straßenbahn",
+    "English Meaning": "tram",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Taxi",
+    "English Meaning": "taxi",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "U-Bahn",
+    "English Meaning": "underground train",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Zug",
+    "English Meaning": "train",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Bahn",
+    "English Meaning": "train / railway",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Boot",
+    "English Meaning": "boat",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mercedes",
+    "English Meaning": "Mercedes (car)",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Anzug",
+    "English Meaning": "suit",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Flugzeug",
+    "English Meaning": "aeroplane",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Umzug",
+    "English Meaning": "relocation / move",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Fitnesstraining",
+    "English Meaning": "fitness training",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Autoreifen",
+    "English Meaning": "car tyre",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Auto",
+    "English Meaning": "car",
+    "Theme": "Nouns new",
+    "MindMap": "Transportation",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Post",
+    "English Meaning": "post office",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Abteilung",
+    "English Meaning": "department",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Arbeit",
+    "English Meaning": "work / job",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Büro",
+    "English Meaning": "office",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Hausaufgabe",
+    "English Meaning": "homework",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Beruf",
+    "English Meaning": "profession / job",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Firma",
+    "English Meaning": "company / firm",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Projekt",
+    "English Meaning": "project",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Amt",
+    "English Meaning": "office / department",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Kaufhaus",
+    "English Meaning": "department store",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Exportabteilung",
+    "English Meaning": "export department",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Sekretariat",
+    "English Meaning": "secretariat / office",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gehalt",
+    "English Meaning": "salary / wage",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Job",
+    "English Meaning": "job",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Gehalt",
+    "English Meaning": "salary / wage",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Arbeitszeit",
+    "English Meaning": "working hours",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Vertrag",
+    "English Meaning": "contract",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Arbeitszeit",
+    "English Meaning": "working hours",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Bürogebäude",
+    "English Meaning": "office building",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Geschäftszeit",
+    "English Meaning": "business hours",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Programmierer",
+    "English Meaning": "programmer",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kunde",
+    "English Meaning": "customer (male)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Kundin",
+    "English Meaning": "customer (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Patient",
+    "English Meaning": "patient",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Internet",
+    "English Meaning": "internet",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Praktikum",
+    "English Meaning": "internship",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Sekunde",
+    "English Meaning": "second",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Chefin",
+    "English Meaning": "boss (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Assistentin",
+    "English Meaning": "assistant (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Chef",
+    "English Meaning": "boss",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Chef",
+    "English Meaning": "boss",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Mitarbeiter",
+    "English Meaning": "employee",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Mitarbeiterin",
+    "English Meaning": "employee (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kunde",
+    "English Meaning": "customer",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Patient",
+    "English Meaning": "patient",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Praktikant",
+    "English Meaning": "intern / trainee",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Angestellte",
+    "English Meaning": "employee (male)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Angestellte",
+    "English Meaning": "employee (female)",
+    "Theme": "Nouns new",
+    "MindMap": "Professions & Work",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "die",
+    "Noun": "Information",
+    "English Meaning": "information",
+    "Theme": "Nouns new",
+    "MindMap": "Office & Stationery",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kuli",
+    "English Meaning": "ballpoint pen",
+    "Theme": "Nouns new",
+    "MindMap": "Office & Stationery",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Stift",
+    "English Meaning": "pen",
+    "Theme": "Nouns new",
+    "MindMap": "Office & Stationery",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "das",
+    "Noun": "Formular",
+    "English Meaning": "form",
+    "Theme": "Nouns new",
+    "MindMap": "Office & Stationery",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Kugelschreiber",
+    "English Meaning": "ballpoint pen",
+    "Theme": "Nouns new",
+    "MindMap": "Office & Stationery",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "Article": "der",
+    "Noun": "Papierkorb",
+    "English Meaning": "waste paper bin",
+    "Theme": "Nouns new",
+    "MindMap": "Office & Stationery",
+    "Is_Exception": "FALSE",
+    "Exception_Note": ""
+  },
+  {
+    "German": "Montag",
+    "Article": "der",
+    "Meaning": "Monday",
+    "Theme": "Time Patterns",
+    "MindMap": "Days of the Week",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Freitag",
+    "Article": "der",
+    "Meaning": "Friday",
+    "Theme": "Time Patterns",
+    "MindMap": "Days of the Week",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Samstag",
+    "Article": "der",
+    "Meaning": "Saturday",
+    "Theme": "Time Patterns",
+    "MindMap": "Days of the Week",
+    "Is_Exception": true,
+    "Exception_Note": "🎉 Weekend Start: Colloquially called 'Sonnabend' in northern Germany!"
+  },
+  {
+    "German": "Sonntag",
+    "Article": "der",
+    "Meaning": "Sunday",
+    "Theme": "Time Patterns",
+    "MindMap": "Days of the Week",
+    "Is_Exception": true,
+    "Exception_Note": "🎉 Weekend End: Most German supermarkets and stores are strictly closed on Sundays!"
+  },
+
+  {
+    "German": "Löffel",
+    "Article": "der",
+    "Meaning": "Spoon",
+    "Theme": "Kitchen Vessels",
+    "MindMap": "Cutlery & Tableware",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Gabel",
+    "Article": "die",
+    "Meaning": "Fork",
+    "Theme": "Kitchen Vessels",
+    "MindMap": "Cutlery & Tableware",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Messer",
+    "Article": "das",
+    "Meaning": "Knife",
+    "Theme": "Kitchen Vessels",
+    "MindMap": "Cutlery & Tableware",
+    "Is_Exception": true,
+    "Exception_Note": "⚠️ Gender Outlier: Unlike spoon (der) and fork (die), knife is Neutrum (das Messer)!"
+  },
+
+  {
+    "German": "Auge",
+    "Article": "das",
+    "Meaning": "Eye",
+    "Theme": "Human Anatomy",
+    "MindMap": "The Face",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Nase",
+    "Article": "die",
+    "Meaning": "Nose",
+    "Theme": "Human Anatomy",
+    "MindMap": "The Face",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Mund",
+    "Article": "der",
+    "Meaning": "効率 / Mouth",
+    "Theme": "Human Anatomy",
+    "MindMap": "The Face",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Ohr",
+    "Article": "das",
+    "Meaning": "Ear",
+    "Theme": "Human Anatomy",
+    "MindMap": "The Face",
+    "Is_Exception": true,
+    "Exception_Note": "⚠️ Irregular Plural: The plural shifts to 'die Ohren' (adds -en), unlike the regular dual plural rules!"
+  },
+
+  {
+    "German": "Bus",
+    "Article": "der",
+    "Meaning": "Bus",
+    "Theme": "Daily Commute",
+    "MindMap": "Public Transit",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Zug",
+    "Article": "der",
+    "Meaning": "Train",
+    "Theme": "Daily Commute",
+    "MindMap": "Public Transit",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "U-Bahn",
+    "Article": "die",
+    "Meaning": "Subway",
+    "Theme": "Daily Commute",
+    "MindMap": "Public Transit",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Bahn",
+    "Article": "die",
+    "Meaning": "Tram / Rail",
+    "Theme": "Daily Commute",
+    "MindMap": "Public Transit",
+    "Is_Exception": false,
+    "Exception_Note": ""
+  },
+  {
+    "German": "Auto",
+    "Article": "das",
+    "Meaning": "Car",
+    "Theme": "Daily Commute",
+    "MindMap": "Public Transit",
+    "Is_Exception": true,
+    "Exception_Note": "⚠️ Irregular Plural: The plural ending takes a non-Germanic 's' modifier -> die Autos!"
+  },
+  {
     "German": "Name",
     "Article": "der Name",
     "Plural": "die Namen",

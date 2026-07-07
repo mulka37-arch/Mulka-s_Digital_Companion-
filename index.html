@@ -16,14 +16,14 @@
 
   <section class="main-buttons" id="main-buttons">
     <button id="wordbank-btn">📚 WORDBANK</button>
-    <button id="testbank-btn">🧠 TESTBANK</button>
+    <button id="mindmaps-btn" style="background: #d97706; color: white;">🧠 MINDMAPS</button>
+    <button id="testbank-btn">🔬 TESTBANK</button>
   </section>
 
   <section id="active-test-area"></section>
 
   <div id="wordbank-modal" class="modal">
     <div class="modal-content large-modal">
-
       <div class="top-bar">
         <h2>📚 Wordbank Engine</h2>
         <div class="top-actions">
@@ -31,19 +31,15 @@
         </div>
       </div>
 
-      <!-- Clean & Scalable Selection Block -->
       <div id="theme-selection-area">
         <h3>Select Categories / Themes</h3>
-        
         <div class="control-actions-wrapper">
           <button id="show-words-btn" class="primary-btn">Show Selected Themes</button>
-
           <div class="file-load-panel">
             <label>📂 Load External Vocabulary Matrix:</label>
             <input type="file" id="vocab-file-picker" accept=".json" />
           </div>
         </div>
-
         <div class="theme-scroll-box">
           <div id="theme-buttons" class="theme-grid"></div>
         </div>
@@ -54,14 +50,12 @@
           <h3 id="theme-title">Selected Themes</h3>
           <div id="stats-box" class="stats-box"></div>
         </div>
-
         <div class="filter-bar">
           <button onclick="setFilter('all')">⚪ All</button>
           <button onclick="setFilter('hard')">🔴 Hard</button>
           <button onclick="setFilter('easy')">🟢 Easy</button>
           <button onclick="setFilter('neutral')">⚪ Neutral</button>
         </div>
-
         <div class="batch-bar">
           <span>Display Batch Size:</span>
           <button onclick="setBatchSize(20)">20</button>
@@ -69,7 +63,6 @@
           <button onclick="setBatchSize(100)">100</button>
           <button onclick="setBatchSize(0)">All</button>
         </div>
-
         <div class="controls-bar">
           <button class="play-all-btn" onclick="playAllAudio()">▶️ Play All</button>
           <button class="stop-btn" onclick="stopAudio()">⏹ Stop</button>
@@ -77,39 +70,63 @@
           <button onclick="downloadWordList()">📥 Export PDF</button>
           <button class="primary-btn" onclick="backToThemes()">⬅ Back To Themes</button>
         </div>
-
         <div class="table-wrapper">
           <table id="word-table"></table>
         </div>
-
         <div class="bottom-actions" style="margin-top: 15px;">
           <button class="primary-btn" onclick="backToThemes()">⬅ Back To Themes</button>
         </div>
       </div>
+    </div>
+  </div>
 
+  <div id="mindmaps-modal" class="modal">
+    <div class="modal-content large-modal" style="background: linear-gradient(135deg, #0f172a, #1e293b); color: white;">
+      <div class="top-bar" style="border-bottom: 1px solid #334155;">
+        <h2 style="color: #f8fafc;">🧠 Cognitive MindMap Networks</h2>
+        <button id="close-mindmaps" class="close-btn">✖</button>
+      </div>
+      
+      <div id="map-cluster-selection">
+        <h3 style="color: #94a3b8; margin-bottom: 12px;">Select an Eligible Sub-Theme Group:</h3>
+        <div id="map-cluster-buttons" class="theme-grid"></div>
+      </div>
+
+      <div id="map-galaxy-workspace" style="display: none; position: relative;">
+        <div style="margin-bottom: 15px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+          <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+            <button class="play-all-btn" onclick="playSystemicCognitiveAudio()">▶️ Play Map Audio</button>
+            <button class="stop-btn" onclick="stopAudio()">⏹ Stop</button>
+            <button class="primary-btn" style="background: #475569;" onclick="exitMindMapWorkspace()">⬅️ Change Theme</button>
+          </div>
+          
+          <div id="map-pagination-controls" style="display: flex; gap: 6px; align-items: center; background: #1e293b; padding: 4px 10px; border-radius: 8px; border: 1px solid #334155;">
+            <span style="font-size: 12px; font-weight: bold; color: #94a3b8;">Maps:</span>
+            <div id="pagination-button-strip" style="display: flex; gap: 4px;"></div>
+          </div>
+        </div>
+
+        <div id="exception-display-ticker" style="color: #f43f5e; font-weight: bold; font-size: 14px; min-height: 20px; margin-bottom: 10px; text-align: center;"></div>
+        <svg id="cognitive-galaxy-svg" style="width: 100%; height: 62vh; min-height: 400px; background: #0b0f19; border-radius: 12px; overflow: visible;"></svg>
+      </div>
     </div>
   </div>
 
   <div id="testbank-modal" class="modal">
     <div class="modal-content large-modal">
-      
       <div class="top-bar">
         <h2>🧠 Dynamic Test Matrix</h2>
         <div class="top-actions">
           <button id="close-testbank" class="close-btn">✖</button>
         </div>
       </div>
-
       <div id="test-selection-area">
         <h3>Select Theme to Practice</h3>
         <div id="test-theme-buttons" class="theme-grid"></div>
       </div>
-
       <div id="test-options-container" style="display:none;">
         <h3 id="test-theme-title">Theme</h3>
-        
         <div id="test-stats-box" class="stats-box" style="margin: 10px 0;"></div>
-
         <div class="config-panel" style="background: #f8fafc; border: 2px dashed #cbd5e1; padding: 15px; border-radius: 10px; margin: 15px 0;">
           <h4 style="color:#1d3557; margin-bottom: 10px;">🎛️ Configure Test Variables</h4>
           <div style="display:flex; flex-wrap:wrap; gap:15px;">
@@ -123,7 +140,6 @@
             </div>
           </div>
         </div>
-
         <div id="test-type-buttons" class="test-buttons" style="display:flex; gap:10px; flex-wrap:wrap;">
           <button onclick="startMeaningsTest()">🎵 Meanings Test</button>
           <button onclick="startDictationTest()">🎤 Dictation Test</button>
@@ -131,7 +147,6 @@
           <button onclick="startMatchingTest()">🔗 Matching Test</button>
           <button id="voice-test-btn" class="primary-btn" style="background: #2a9d8f;" onclick="startVoiceTest()">🗣️ Voice Reply Test</button>
         </div>
-
         <div id="test-content"></div>
       </div>
     </div>

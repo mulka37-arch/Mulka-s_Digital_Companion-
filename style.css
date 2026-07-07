@@ -347,3 +347,53 @@ input[type="text"] {
 .theme-scroll-box .theme-grid {
   margin: 0; 
 }
+/* =========================================================
+   COGNITIVE GALAXY SYSTEMIC DESIGN STYLES
+========================================================= */
+#cognitive-galaxy-svg {
+  touch-action: none;
+  user-select: none;
+}
+
+.cognitive-center-sun {
+  fill: #ff9800;
+  stroke: #ffffff;
+  stroke-width: 3;
+  filter: drop-shadow(0 0 15px rgba(255, 152, 0, 0.7));
+}
+
+.cognitive-node-item {
+  cursor: pointer;
+}
+
+.cognitive-node-item circle {
+  transition: transform 0.2s ease, fill 0.2s;
+}
+
+.cognitive-node-item:hover circle {
+  transform: scale(1.15);
+}
+
+#map-galaxy-workspace line {
+  stroke: #475569;
+  stroke-width: 1.5;
+  opacity: 0.4;
+}
+
+#map-galaxy-workspace text {
+  fill: #ffffff;
+  font-size: 11px;
+  font-weight: bold;
+  pointer-events: none;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
+}
+
+/* Red pulsing visual queue engine for dynamic data exception markers */
+.exception-pulse {
+  animation: mapExceptionPulse 1.2s infinite alternate ease-in-out;
+}
+
+@keyframes mapExceptionPulse {
+  0% { fill: #e11d48; filter: drop-shadow(0 0 4px #e11d48); }
+  100% { fill: #f43f5e; filter: drop-shadow(0 0 14px #f43f5e); stroke-width: 3; }
+}
