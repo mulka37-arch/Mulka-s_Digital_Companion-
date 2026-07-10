@@ -37,10 +37,11 @@ let rowRepeatCountTarget = 3;
 let rowRepeatCounterCurrent = 0;   
 let playbackOrderQueue = [];       
 
-// NEW: Global State Trackers for Paged MindMap Clusters
+// Hierarchical State Management Variables for Paged MindMaps
 let mindMapActiveGroupWords = [];
 let mindMapCurrentPage = 0;
-const MOBILE_MAX_NODES_PER_MAP = 8; // Restricts overlaps on smartphone aspect boundaries
+let mindMapSelectedMotherTheme = ""; 
+const MOBILE_MAX_NODES_PER_MAP = 8; // Caps density strictly to protect text collisions
 
 let cognitiveAnimationId = null;
 let cognitiveAngle = 0;
@@ -74,11 +75,10 @@ function toggleStar(wordKey, event) {
   applyFilters();
 }
 
-// Fixed column sorting helper to ensure MindMap tags are parsed correctly
 function getDynamicColumns() {
   if (!filteredWords || filteredWords.length === 0) {
     if (wordbankData && wordbankData.length > 0) {
-      return Object.keys(wordbankData[0]).filter(key => !["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note"].includes(key));
+      return Object.keys(wordbankData[0]).filter(key => !["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note", "MindMap", "Sub_Group", "sub_theme"].includes(key));
     }
     return ["German", "Meaning"]; 
   }
@@ -86,7 +86,7 @@ function getDynamicColumns() {
   const allKeys = new Set();
   filteredWords.forEach(item => {
     Object.keys(item).forEach(key => {
-      if (!["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note"].includes(key)) {
+      if (!["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note", "MindMap", "Sub_Group", "sub_theme"].includes(key)) {
         allKeys.add(key);
       }
     });
@@ -159,7 +159,6 @@ function setupButtons(){
   if(wbBtn) wbBtn.onclick = () => openModal("wordbank-modal");
   if(tbBtn) tbBtn.onclick = () => openModal("testbank-modal");
   
-  // Connect explicit MindMaps workspace click event target bindings
   if(mmBtn) mmBtn.onclick = () => {
     openModal("mindmaps-modal");
     buildSubThemeClusterMenus();
@@ -206,38 +205,85 @@ function fullResetUI(){
   if(wtc) wtc.style.display = "none";
 }
 
-// =========================================================
-// INTERACTIVE ENGINE COGNITIVE CONSTELLATION CORES
-// =========================================================
+// ============================================================================
+// TWO-TIER SUB-THEME GALAXY INTERFACE IMPLEMENTATION
+// ============================================================================
 function buildSubThemeClusterMenus() {
   const container = document.getElementById("map-cluster-buttons");
+  const titleHeader = document.querySelector("#map-cluster-selection h3");
   if (!container) return;
   container.innerHTML = "";
 
-  const trackingMap = {};
-  wordbankData.forEach(word => {
-    // Dynamic fallbacks to read column mappings for Sub_Group configurations
-    const subTheme = (word.MindMap || word.Sub_Group || word.sub_theme || "").trim();
-    if (subTheme && subTheme !== "" && subTheme !== "-") {
-      trackingMap[subTheme] = (trackingMap[subTheme] || 0) + 1;
-    }
-  });
+  if (titleHeader) titleHeader.innerText = "Select an Eligible Theme Container:";
 
-  const subThemes = Object.keys(trackingMap);
+  // Tier 1 Lookup: Isolate macro Mother Themes that contain entries with maps assigned
+  const motherThemes = [...new Set(wordbankData
+    .filter(word => {
+      const sub = (word.MindMap || word.Sub_Group || word.sub_theme || "").trim();
+      return sub && sub !== "" && sub !== "-";
+    })
+    .map(word => getItemTheme(word))
+  )].filter(Boolean);
 
-  if (subThemes.length === 0) {
-    container.innerHTML = `<p style="color: #94a3b8; padding: 20px; text-align: center; width:100%;">No vocabulary records have been assigned an active sub-theme column tag ("MindMap" / "Sub_Group") parameter yet!</p>`;
+  if (motherThemes.length === 0) {
+    container.innerHTML = `<p style="color: #94a3b8; padding: 20px; text-align: center; width:100%;">No vocabulary records have been assigned an active sub-theme column tag ("MindMap") yet!</p>`;
     return;
   }
 
-  subThemes.forEach(theme => {
+  motherThemes.forEach(motherTheme => {
     const btn = document.createElement("button");
     btn.style.cssText = "background: #1e293b; color: #f8fafc; border: 1px solid #475569; padding: 14px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px;";
+    
+    const totalCount = wordbankData.filter(w => getItemTheme(w) === motherTheme).length;
     btn.innerHTML = `
-      <span style="font-size: 14px; font-weight: bold; color: #f8fafc;">${theme}</span>
-      <span style="font-size: 11px; color: #38bdf8;">(${trackingMap[theme]} Words Found)</span>
+      <span style="font-size: 14px; font-weight: bold; color: #f8fafc;">📁 ${formatTheme(motherTheme)}</span>
+      <span style="font-size: 11px; color: #38bdf8;">(${totalCount} Total Matrix Items)</span>
     `;
-    btn.onclick = () => initializeMindMapWorkspace(theme);
+    btn.onclick = () => openMotherThemeSubMenu(motherTheme);
+    container.appendChild(btn);
+  });
+}
+
+function openMotherThemeSubMenu(motherThemeName) {
+  const container = document.getElementById("map-cluster-buttons");
+  const titleHeader = document.querySelector("#map-cluster-selection h3");
+  if (!container) return;
+  
+  mindMapSelectedMotherTheme = motherThemeName;
+  container.innerHTML = "";
+
+  if (titleHeader) {
+    titleHeader.innerHTML = `Course: <span style="color: #38bdf8;">${formatTheme(motherThemeName)}</span> ➡️ Select Lesson Map:`;
+  }
+
+  // Tier 2 Lookup: Scan and collect sub-themes grouped under this specific parent folder context
+  const trackingMap = {};
+  wordbankData.forEach(word => {
+    if (getItemTheme(word) === motherThemeName) {
+      const subTheme = (word.MindMap || word.Sub_Group || word.sub_theme || "").trim();
+      if (subTheme && subTheme !== "" && subTheme !== "-") {
+        trackingMap[subTheme] = (trackingMap[subTheme] || 0) + 1;
+      }
+    }
+  });
+
+  const availableSubThemes = Object.keys(trackingMap);
+
+  // Structural Back Button Navigation Control Anchor
+  const backBtn = document.createElement("button");
+  backBtn.style.cssText = "background: #475569; color: #ffffff; padding: 14px; border-radius: 10px; font-weight: bold; grid-column: 1 / -1;";
+  backBtn.innerText = "⬅️ Back to Main Course Themes";
+  backBtn.onclick = () => buildSubThemeClusterMenus();
+  container.appendChild(backBtn);
+
+  availableSubThemes.forEach(subTheme => {
+    const btn = document.createElement("button");
+    btn.style.cssText = "background: #0f172a; color: #f8fafc; border: 1px solid #3b82f6; padding: 14px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px;";
+    btn.innerHTML = `
+      <span style="font-size: 13px; font-weight: bold; color: #34d399;">🌌 ${subTheme}</span>
+      <span style="font-size: 11px; color: #94a3b8;">(${trackingMap[subTheme]} Cluster Nodes)</span>
+    `;
+    btn.onclick = () => initializeMindMapWorkspace(subTheme);
     container.appendChild(btn);
   });
 }
@@ -248,7 +294,7 @@ function initializeMindMapWorkspace(subThemeName) {
 
   mindMapActiveGroupWords = wordbankData.filter(word => {
     const val = (word.MindMap || word.Sub_Group || word.sub_theme || "").trim();
-    return val === subThemeName;
+    return val === subThemeName && getItemTheme(word) === mindMapSelectedMotherTheme;
   });
 
   mindMapCurrentPage = 0; 
@@ -264,7 +310,6 @@ function renderPagedCognitiveGalaxy(subThemeName) {
   const totalWords = mindMapActiveGroupWords.length;
   const totalPages = Math.ceil(totalWords / MOBILE_MAX_NODES_PER_MAP);
 
-  // Compile Mobile Navigation Split Indicators Strip
   const strip = document.getElementById("pagination-button-strip");
   if (strip) {
     strip.innerHTML = "";
@@ -273,11 +318,9 @@ function renderPagedCognitiveGalaxy(subThemeName) {
       pBtn.innerText = p + 1;
       pBtn.style.cssText = `padding: 4px 10px; font-size: 12px; border-radius: 4px; border: none; font-weight: bold; cursor: pointer;`;
       if (p === mindMapCurrentPage) {
-        pBtn.style.background = "#2a9d8f";
-        pBtn.style.color = "#ffffff";
+        pBtn.style.background = "#2a9d8f"; pBtn.style.color = "#ffffff";
       } else {
-        pBtn.style.background = "#334155";
-        pBtn.style.color = "#94a3b8";
+        pBtn.style.background = "#334155"; pBtn.style.color = "#94a3b8";
       }
       pBtn.onclick = () => {
         mindMapCurrentPage = p;
@@ -287,7 +330,6 @@ function renderPagedCognitiveGalaxy(subThemeName) {
     }
   }
 
-  // Isolate standard page index viewport array window boundaries
   const startIdx = mindMapCurrentPage * MOBILE_MAX_NODES_PER_MAP;
   const pageWordsSlice = mindMapActiveGroupWords.slice(startIdx, startIdx + MOBILE_MAX_NODES_PER_MAP);
 
@@ -336,7 +378,7 @@ function renderPagedCognitiveGalaxy(subThemeName) {
       
       const ticker = document.getElementById("exception-display-ticker");
       if (ticker) {
-        ticker.innerText = isException ? (word.Exception_Note || word.exception_note || "⚠️ Logical System Exception Found!") : "";
+        ticker.innerText = isException ? (word.Exception_Note || word.exception_note || "⚠️ Outlier Detected!") : "";
       }
       safeSpeak(speechPhrase, autoDetectLanguage("German"));
     };
@@ -344,7 +386,6 @@ function renderPagedCognitiveGalaxy(subThemeName) {
     nodesG.appendChild(nodeG);
   });
 
-  // Render Core Central Anchor Sun
   const sunG = document.createElementNS("http://www.w3.org/2000/svg", "g");
   const sunCircle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
   sunCircle.setAttribute("cx", cx); sunCircle.setAttribute("cy", cy);
@@ -363,7 +404,7 @@ function renderPagedCognitiveGalaxy(subThemeName) {
   
   function stepAnimation() {
     if (document.getElementById("mindmaps-modal").style.display === "none") return;
-    cognitiveAngle += 0.0025; // Continuous rotational movement speed calculations
+    cognitiveAngle += 0.0025;
 
     const nodes = nodesG.children;
     const links = linesG.children;
@@ -385,9 +426,7 @@ function renderPagedCognitiveGalaxy(subThemeName) {
             circ.setAttribute("stroke", "#ffffff"); circ.setAttribute("stroke-width", "2");
           }
         }
-        if (txt) {
-          txt.setAttribute("x", x); txt.setAttribute("y", y + 4);
-        }
+        if (txt) { txt.setAttribute("x", x); txt.setAttribute("y", y + 4); }
       }
       if (links[i]) {
         links[i].setAttribute("x1", cx); links[i].setAttribute("y1", cy);
@@ -409,9 +448,7 @@ function playSystemicCognitiveAudio() {
 
   function runAudioSequenceChain() {
     if (!isPlayingAll || currentStep >= pageWordsSlice.length) {
-      activeCognitiveNodeIndex = null;
-      isPlayingAll = false;
-      return;
+      activeCognitiveNodeIndex = null; isPlayingAll = false; return;
     }
 
     activeCognitiveNodeIndex = currentStep;
@@ -422,18 +459,14 @@ function playSystemicCognitiveAudio() {
     const isException = word.Is_Exception === true || word.Is_Exception === "true" || word.is_exception === true;
     const ticker = document.getElementById("exception-display-ticker");
     if (ticker) {
-      ticker.innerText = isException ? (word.Exception_Note || word.exception_note || "⚠️ Pattern Exception!") : "";
+      ticker.innerText = isException ? (word.Exception_Note || word.exception_note || "⚠️ Rule Exception!") : "";
     }
 
     let utter = safeSpeak(talkStr, autoDetectLanguage("German"));
     if (utter) {
-      utter.onend = () => {
-        setTimeout(() => { currentStep++; runAudioSequenceChain(); }, 1100);
-      };
+      utter.onend = () => { setTimeout(() => { currentStep++; runAudioSequenceChain(); }, 1100); };
       utter.onerror = () => { currentStep++; runAudioSequenceChain(); };
-    } else {
-      currentStep++; runAudioSequenceChain();
-    }
+    } else { currentStep++; runAudioSequenceChain(); }
   }
   runAudioSequenceChain();
 }
@@ -443,6 +476,9 @@ function exitMindMapWorkspace() {
   if (cognitiveAnimationId) cancelAnimationFrame(cognitiveAnimationId);
   document.getElementById("map-galaxy-workspace").style.display = "none";
   document.getElementById("map-cluster-selection").style.display = "block";
+  
+  if (mindMapSelectedMotherTheme) openMotherThemeSubMenu(mindMapSelectedMotherTheme);
+  else buildSubThemeClusterMenus();
 }
 
 // =========================================================
@@ -497,16 +533,11 @@ function buildThemes(){
   });
 }
 
-function formatTheme(theme){
-  return theme.replace(/_/g," ").replace(/\b\w/g,c => c.toUpperCase());
-}
+function formatTheme(theme){ return theme.replace(/_/g," ").replace(/\b\w/g,c => c.toUpperCase()); }
 
 function loadSelectedThemes(){
   const selected = [...document.querySelectorAll(".theme-input:checked")].map(i => i.value);
-  if(selected.length === 0){
-    alert("Select at least one theme");
-    return;
-  }
+  if(selected.length === 0){ alert("Select at least one theme"); return; }
   currentThemes = selected;
   currentWords = wordbankData.filter(w => currentThemes.includes(getItemTheme(w)));
   applyFilters();
@@ -530,10 +561,7 @@ function applyFilters(){
     filteredWords = filteredWords.filter(w => getStar(getPrimaryKey(w)) === "neutral");
   }
 
-  if(currentBatchSize > 0){
-    filteredWords = filteredWords.slice(0, currentBatchSize);
-  }
-
+  if(currentBatchSize > 0){ filteredWords = filteredWords.slice(0, currentBatchSize); }
   renderTable();
   updateStats();
 }
@@ -547,18 +575,15 @@ function renderTable(){
   table.innerHTML = "";
 
   const fields = getDynamicColumns();
-
   const thead = document.createElement("thead");
   let headerHtml = `<tr><th>⭐</th>`;
   fields.forEach(f => {
     let arrow = "↕"; 
-    if (currentSortColumn === f) {
-      arrow = isSortAscending ? "🔼" : "🔽";
-    }
+    if (currentSortColumn === f) { arrow = isSortAscending ? "🔼" : "🔽"; }
     headerHtml += `
       <th style="cursor:pointer;">
         <div style="display:flex; align-items:center; gap:5px; justify-content:center;">
-          <input type="checkbox" class="play-column-selector" data-column="${f}" checked onclick="event.stopPropagation();" style="cursor:pointer;">
+          <input type="checkbox" class="play-column-selector" data-column="${f}" checked onclick="event.stopPropagation();">
           <span onclick="sortMatrixByColumn('${f.replace(/'/g, "\\'")}')">${f} <span class="sort-icon">${arrow}</span></span>
         </div>
       </th>`;
@@ -572,8 +597,7 @@ function renderTable(){
 
   filteredWords.forEach((word, index) => {
     const wordKey = getPrimaryKey(word);
-    let starClass = "star-neutral";
-    let starIcon = "⚪";
+    let starClass = "star-neutral"; let starIcon = "⚪";
 
     if(getStar(wordKey) === "easy") { starClass = "star-easy"; starIcon = "🟢"; }
     if(getStar(wordKey) === "hard") { starClass = "star-hard"; starIcon = "🔴"; }
@@ -583,21 +607,11 @@ function renderTable(){
     row.setAttribute("data-index", index);
 
     if (isPlayingAll && typeof playbackOrderQueue !== "undefined") {
-      const currentActiveRowIndex = playbackOrderQueue[currentQuestion];
-      if (index === currentActiveRowIndex) {
-        row.classList.add("playing");
-      }
+      if (index === playbackOrderQueue[currentQuestion]) row.classList.add("playing");
     }
 
     const safeWordKey = typeof wordKey === 'string' ? wordKey.replace(/'/g, "\\'") : String(wordKey);
-
-    let rowHtml = `
-      <td>
-        <span class="star-btn ${starClass}" onclick="toggleStar('${safeWordKey}', event)">
-          ${starIcon}
-        </span>
-      </td>
-    `;
+    let rowHtml = `<td><span class="star-btn ${starClass}" onclick="toggleStar('${safeWordKey}', event)">${starIcon}</span></td>`;
 
     fields.forEach(f => {
       let val = word[f];
@@ -609,7 +623,6 @@ function renderTable(){
     row.onclick = () => playAllAudio(index);
     tbody.appendChild(row);
   });
-
   table.appendChild(tbody);
 
   if (!document.getElementById("advanced-loop-controls")) {
@@ -638,41 +651,26 @@ function renderTable(){
 
 function sortMatrixByColumn(columnName) {
   if (filteredWords.length === 0) return;
-
-  if (currentSortColumn === columnName) {
-    isSortAscending = !isSortAscending;
-  } else {
-    currentSortColumn = columnName;
-    isSortAscending = true;
-  }
+  if (currentSortColumn === columnName) { isSortAscending = !isSortAscending; } 
+  else { currentSortColumn = columnName; isSortAscending = true; }
 
   let activePlayingWordKey = null;
   if (isPlayingAll && typeof playbackOrderQueue !== "undefined" && playbackOrderQueue.length > 0) {
-    const activeIndexInQueue = playbackOrderQueue[currentQuestion];
-    if (filteredWords[activeIndexInQueue]) {
-      activePlayingWordKey = getPrimaryKey(filteredWords[activeIndexInQueue]);
+    if (filteredWords[playbackOrderQueue[currentQuestion]]) {
+      activePlayingWordKey = getPrimaryKey(filteredWords[playbackOrderQueue[currentQuestion]]);
     }
   }
 
   filteredWords.sort((a, b) => {
-    let valA = String(a[columnName] || "").trim();
-    let valB = String(b[columnName] || "").trim();
-
-    if (valA === "-") valA = "";
-    if (valB === "-") valB = "";
-
-    return isSortAscending 
-      ? valA.localeCompare(valB, undefined, { numeric: true, sensitivity: 'base' })
-      : valB.localeCompare(valA, undefined, { numeric: true, sensitivity: 'base' });
+    let valA = String(a[columnName] || "").trim(); let valB = String(b[columnName] || "").trim();
+    if (valA === "-") valA = ""; if (valB === "-") valB = "";
+    return isSortAscending ? valA.localeCompare(valB, undefined, { numeric: true, sensitivity: 'base' }) : valB.localeCompare(valA, undefined, { numeric: true, sensitivity: 'base' });
   });
 
   if (isPlayingAll && activePlayingWordKey && typeof generatePlaybackQueue === "function") {
     const newRowIndex = filteredWords.findIndex(w => getPrimaryKey(w) === activePlayingWordKey);
-    if (newRowIndex !== -1) {
-      currentQuestion = generatePlaybackQueue(newRowIndex);
-    }
+    if (newRowIndex !== -1) currentQuestion = generatePlaybackQueue(newRowIndex);
   }
-
   renderTable(); 
 }
 
@@ -682,18 +680,9 @@ function updateStats(){
   const hard = currentWords.filter(w => getStar(getPrimaryKey(w)) === "hard").length;
   const neutral = currentWords.filter(w => getStar(getPrimaryKey(w)) === "neutral").length;
 
-  const html = `
-    <span>📚 Total: ${total}</span>
-    <span>🔴 Hard: ${hard}</span>
-    <span>🟢 Easy: ${easy}</span>
-    <span>⚪ Neutral: ${neutral}</span>
-  `;
-  
-  const statsBox = document.getElementById("stats-box");
-  if(statsBox) statsBox.innerHTML = html;
-  
-  const testBox = document.getElementById("test-stats-box");
-  if(testBox) testBox.innerHTML = html;
+  const html = `<span>📚 Total: ${total}</span><span>🔴 Hard: ${hard}</span><span>🟢 Easy: ${easy}</span><span>⚪ Neutral: ${neutral}</span>`;
+  const statsBox = document.getElementById("stats-box"); if(statsBox) statsBox.innerHTML = html;
+  const testBox = document.getElementById("test-stats-box"); if(testBox) testBox.innerHTML = html;
 }
 
 function updateAudioLoopSettings() {
@@ -702,13 +691,8 @@ function updateAudioLoopSettings() {
   const repeatInput = document.getElementById("row-repeat-input");
 
   if (modeSelect) activeRepeatMode = modeSelect.value;
-  
-  if (countWrapper && modeSelect) {
-    countWrapper.style.display = modeSelect.value === "repeat-row" ? "flex" : "none";
-  }
-  if (repeatInput) {
-    rowRepeatCountTarget = parseInt(repeatInput.value, 10) || 3;
-  }
+  if (countWrapper && modeSelect) countWrapper.style.display = modeSelect.value === "repeat-row" ? "flex" : "none";
+  if (repeatInput) rowRepeatCountTarget = parseInt(repeatInput.value, 10) || 3;
 }
 
 // =========================================================
@@ -719,8 +703,7 @@ function safeSpeak(text, lang = "de-DE") {
   try {
     speechSynthesis.cancel();
     const utter = new SpeechSynthesisUtterance(text);
-    utter.lang = lang;
-    utter.rate = speechRate || 0.8;
+    utter.lang = lang; utter.rate = speechRate || 0.8;
 
     if (systemVoices.length > 0) {
       let chosenVoice = systemVoices.find(v => v.lang.startsWith(lang) && v.localService === true) || systemVoices.find(v => v.lang.startsWith(lang));
@@ -728,42 +711,27 @@ function safeSpeak(text, lang = "de-DE") {
     }
     speechSynthesis.speak(utter);
     return utter;
-  } catch(err) { console.log(err); return null; }
+  } catch(err) { return null; }
 }
 
 function stopAudio(){
-  isPlayingAll = false;
-  activeCognitiveNodeIndex = null;
+  isPlayingAll = false; activeCognitiveNodeIndex = null;
   if (typeof speechSynthesis !== "undefined") speechSynthesis.cancel();
   document.querySelectorAll("tr").forEach(r => r.classList.remove("playing"));
 }
 
-function stopListening() {
-  isListening = false;
-  if (voiceRecognition) {
-    try { voiceRecognition.stop(); } catch(e) {}
-  }
-}
+function stopListening() { isListening = false; if (voiceRecognition) { try { voiceRecognition.stop(); } catch(e) {} } }
 
 function getUmlautKeyboardHTML() {
-  return `
-    <div class="umlaut-buttons" style="display:flex; justify-content:center; gap:6px; margin-top:12px;">
-      <button type="button" onclick="insertUmlaut('ä')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ä</button>
-      <button type="button" onclick="insertUmlaut('ö')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ö</button>
-      <button type="button" onclick="insertUmlaut('ü')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ü</button>
-      <button type="button" onclick="insertUmlaut('ß')" style="min-width:44px; height:44px; background:#6d597a; color:#fff;">ß</button>
-    </div>
-  `;
+  return `<div class="umlaut-buttons"><button type="button" onclick="insertUmlaut('ä')">ä</button><button type="button" onclick="insertUmlaut('ö')">ö</button><button type="button" onclick="insertUmlaut('ü')">ü</button><button type="button" onclick="insertUmlaut('ß')">ß</button></div>`;
 }
 
 function insertUmlaut(char) {
   const input = document.querySelector("#test-content input[type='text']");
   if (input) {
-    const start = input.selectionStart;
-    const end = input.selectionEnd;
+    const start = input.selectionStart; const end = input.selectionEnd;
     input.value = input.value.substring(0, start) + char + input.value.substring(end);
-    input.focus();
-    input.setSelectionRange(start + 1, start + 1);
+    input.focus(); input.setSelectionRange(start + 1, start + 1);
   }
 }
 
@@ -771,21 +739,16 @@ function insertUmlaut(char) {
 // PRACTICE MATRIX ENGINE
 // ============================================================================
 function selectTestTheme(theme){
-  currentThemes = [theme];
-  currentWords = wordbankData.filter(w => getItemTheme(w) === theme);
-  applyFilters(); 
-  
+  currentThemes = [theme]; currentWords = wordbankData.filter(w => getItemTheme(w) === theme); applyFilters(); 
   document.getElementById("test-theme-title").innerText = formatTheme(theme);
   document.getElementById("test-selection-area").style.display = "none";
   document.getElementById("test-options-container").style.display = "block";
 
-  const qSelect = document.getElementById("test-question-col");
-  const aSelect = document.getElementById("test-answer-col");
+  const qSelect = document.getElementById("test-question-col"); const aSelect = document.getElementById("test-answer-col");
   const fields = getDynamicColumns();
 
   if(qSelect && aSelect) {
-    qSelect.innerHTML = "";
-    aSelect.innerHTML = "";
+    qSelect.innerHTML = ""; aSelect.innerHTML = "";
     fields.forEach((f, idx) => {
       qSelect.innerHTML += `<option value="${f}" ${idx === 0 ? "selected" : ""}>${f}</option>`;
       aSelect.innerHTML += `<option value="${f}" ${idx === 1 ? "selected" : (idx === 0 ? "selected" : "")}>${f}</option>`;
@@ -800,133 +763,73 @@ function selectTestTheme(theme){
 }
 
 function enterTestMode() {
-  const ttb = document.getElementById("test-type-buttons");
-  const cp = document.querySelector(".config-panel");
-  if(ttb) ttb.style.display = "none";
-  if(cp) cp.style.display = "none";
+  const ttb = document.getElementById("test-type-buttons"); const cp = document.querySelector(".config-panel");
+  if(ttb) ttb.style.display = "none"; if(cp) cp.style.display = "none";
 }
 
 function exitTestMode() {
-  stopListening();
-  if (voiceNextTimeout) clearTimeout(voiceNextTimeout);
-  const ttb = document.getElementById("test-type-buttons");
-  const cp = document.querySelector(".config-panel");
-  if(ttb) ttb.style.display = "flex";
-  if(cp) cp.style.display = "block";
-  const tc = document.getElementById("test-content");
-  if(tc) tc.innerHTML = "";
+  stopListening(); if (voiceNextTimeout) clearTimeout(voiceNextTimeout);
+  const ttb = document.getElementById("test-type-buttons"); const cp = document.querySelector(".config-panel");
+  if(ttb) ttb.style.display = "flex"; if(cp) cp.style.display = "block";
+  const tc = document.getElementById("test-content"); if(tc) tc.innerHTML = "";
 }
 
 function lockAnswers() {
   if(answerLocked) return true;
-  answerLocked = true;
-  setTimeout(() => { answerLocked = false; }, 1300);
-  return false;
+  answerLocked = true; setTimeout(() => { answerLocked = false; }, 1300); return false;
 }
 
-function buildTestWords() {
-  currentTestWords = shuffle([...filteredWords]); 
-}
-
-function startMeaningsTest(){
-  currentTest = "meanings"; score = 0; currentQuestion = 0;
-  buildTestWords(); enterTestMode(); renderMeanings();
-}
+function buildTestWords() { currentTestWords = shuffle([...filteredWords]); }
+function startMeaningsTest(){ currentTest = "meanings"; score = 0; currentQuestion = 0; buildTestWords(); enterTestMode(); renderMeanings(); }
 
 function checkMeaning(btn, selected, correct, wordKey){
-  if (lockAnswers()) return;
-  const buttons = document.querySelectorAll(".option-btn");
-  buttons.forEach(b => b.disabled = true);
-
-  if(selected === correct){
-    btn.classList.add("correct"); score++; autoUpdateStar(wordKey, true);
-  } else {
-    btn.classList.add("incorrect"); autoUpdateStar(wordKey, false);
-    buttons.forEach(b => { if(b.innerText === correct) b.classList.add("correct"); });
-  }
+  if (lockAnswers()) return; const buttons = document.querySelectorAll(".option-btn"); buttons.forEach(b => b.disabled = true);
+  if(selected === correct){ btn.classList.add("correct"); score++; autoUpdateStar(wordKey, true); } 
+  else { btn.classList.add("incorrect"); autoUpdateStar(wordKey, false); buttons.forEach(b => { if(b.innerText === correct) b.classList.add("correct"); }); }
   setTimeout(() => { currentQuestion++; renderMeanings(); }, 1400);
 }
 
-function startDictationTest(){
-  currentTest = "dictation"; score = 0; currentQuestion = 0;
-  buildTestWords(); enterTestMode(); renderDictation();
-}
-
-function normalizeGerman(text){
-  return String(text).toLowerCase().replace(/ae/g,"ä").replace(/oe/g,"ö").replace(/ue/g,"ü").replace(/ss/g,"ß").replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g,"").trim();
-}
-
-function startArticleTest(){
-  currentTest = "article"; score = 0; currentQuestion = 0;
-  currentTestWords = shuffle(filteredWords.filter(w => w.Article && ["der","die","das"].includes(String(w.Article).toLowerCase().trim())));
-  if(currentTestWords.length === 0){
-    alert("No explicit items with Article values found in this selection slice!");
-    return;
-  }
-  enterTestMode(); renderArticle();
-}
+function startDictationTest(){ currentTest = "dictation"; score = 0; currentQuestion = 0; buildTestWords(); enterTestMode(); renderDictation(); }
+function normalizeGerman(text){ return String(text).toLowerCase().replace(/ae/g,"ä").replace(/oe/g,"ö").replace(/ue/g,"ü").replace(/ss/g,"ß").replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g,"").trim(); }
+function startArticleTest(){ currentTest = "article"; score = 0; currentQuestion = 0; currentTestWords = shuffle(filteredWords.filter(w => w.Article && ["der","die","das"].includes(String(w.Article).toLowerCase().trim()))); enterTestMode(); renderArticle(); }
 
 function renderArticle() {
   if(currentQuestion >= currentTestWords.length) { finishTest(); return; }
-  const q = currentTestWords[currentQuestion];
-  const fields = getDynamicColumns();
-  const displayField = fields.find(f => f.toLowerCase().includes("noun") || f.toLowerCase().includes("german") || f.toLowerCase().includes("word") || f.toLowerCase().includes("infinitiv")) || fields[0];
+  const q = currentTestWords[currentQuestion]; const fields = getDynamicColumns();
+  const displayField = fields.find(f => f.toLowerCase().includes("noun") || f.toLowerCase().includes("german") || f.toLowerCase().includes("word")) || fields[0];
   const options = shuffle(["der","die","das"]);
 
   document.getElementById("test-content").innerHTML = `
     <div class="question-box">
-      <h2>Grammatical Article Gender Test</h2>
-      <div class="word-display">${q[displayField]}</div>
-      <div class="options-grid">
-        ${options.map(o => `
-          <button class="option-btn" onclick="checkArticle(this,'${o}','${String(q.Article).trim().toLowerCase()}','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>
-        `).join("")}
-      </div>
-      <div class="score-box">Score: ${score}/${currentQuestion}</div>
-      <div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
-    </div>
-  `;
+      <h2>Grammatical Article Gender Test</h2><div class="word-display">${q[displayField]}</div>
+      <div class="options-grid">${options.map(o => `<button class="option-btn" onclick="checkArticle(this,'${o}','String(q.Article).trim().toLowerCase()','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>`).join("")}</div>
+      <div class="score-box">Score: ${score}/${currentQuestion}</div><div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
+    </div>`;
 }
 
-// ... Rest of your core test logic methods stay unchanged ...
 function checkArticle(btn, selected, correct, wordKey){
-  if (lockAnswers()) return;
-  const buttons = document.querySelectorAll(".option-btn");
-  buttons.forEach(b => b.disabled = true);
-  if(selected.trim().toLowerCase() === correct.trim().toLowerCase()){
-    btn.classList.add("correct"); score++; autoUpdateStar(wordKey, true);
-  } else {
-    btn.classList.add("incorrect"); autoUpdateStar(wordKey, false);
-    buttons.forEach(b => { if(b.innerText.toLowerCase().trim() === correct) b.classList.add("correct"); });
-  }
+  if (lockAnswers()) return; const buttons = document.querySelectorAll(".option-btn"); buttons.forEach(b => b.disabled = true);
+  if(selected.trim().toLowerCase() === correct.trim().toLowerCase()){ btn.classList.add("correct"); score++; autoUpdateStar(wordKey, true); } 
+  else { btn.classList.add("incorrect"); autoUpdateStar(wordKey, false); buttons.forEach(b => { if(b.innerText.toLowerCase().trim() === correct) b.classList.add("correct"); }); }
   setTimeout(() => { currentQuestion++; renderArticle(); }, 1200);
 }
 
-function startMatchingTest(){
-  currentTest = "matching"; score = 0; matchedPairs = 0;
-  buildTestWords(); enterTestMode(); renderMatching();
-}
+function startMatchingTest(){ currentTest = "matching"; score = 0; matchedPairs = 0; buildTestWords(); enterTestMode(); renderMatching(); }
 
 function selectGerman(el){
   if (el.classList.contains("match-correct")) return; 
   document.querySelectorAll(".german-item").forEach(i => i.classList.remove("match-selected"));
-  el.classList.add("match-selected");
-  selectedGerman = el;
+  el.classList.add("match-selected"); selectedGerman = el;
 }
 
 function selectEnglish(el){
   if (el.classList.contains("match-correct") || !selectedGerman) return; 
   selectedEnglish = el;
   if(selectedGerman.dataset.id === selectedEnglish.dataset.id){
-    selectedGerman.classList.remove("match-selected");
-    selectedGerman.classList.add("match-correct");
-    selectedEnglish.classList.add("match-correct");
-    score++; matchedPairs++;
-    autoUpdateStar(selectedGerman.dataset.id, true);
+    selectedGerman.classList.remove("match-selected"); selectedGerman.classList.add("match-correct"); selectedEnglish.classList.add("match-correct");
+    score++; matchedPairs++; autoUpdateStar(selectedGerman.dataset.id, true);
   } else {
-    selectedGerman.classList.add("match-wrong");
-    selectedEnglish.classList.add("match-wrong");
-    autoUpdateStar(selectedGerman.dataset.id, false);
+    selectedGerman.classList.add("match-wrong"); selectedEnglish.classList.add("match-wrong"); autoUpdateStar(selectedGerman.dataset.id, false);
     const sg = selectedGerman; const se = selectedEnglish;
     setTimeout(() => { sg.classList.remove("match-wrong", "match-selected"); se.classList.remove("match-wrong"); }, 900);
   }
@@ -936,8 +839,7 @@ function selectEnglish(el){
 
 function startVoiceTest() {
   if (!voiceRecognition) { alert("Web Speech recognition API is not supported in this browser format. Use Chrome or Edge."); return; }
-  currentTest = "voice"; score = 0; currentQuestion = 0;
-  buildTestWords(); enterTestMode(); renderVoiceQuestion();
+  currentTest = "voice"; score = 0; currentQuestion = 0; buildTestWords(); enterTestMode(); renderVoiceQuestion();
 }
 
 function renderVoiceQuestion() {
@@ -945,26 +847,18 @@ function renderVoiceQuestion() {
   if (currentQuestion >= currentTestWords.length) { finishTest(); return; }
   stopListening();
 
-  const q = currentTestWords[currentQuestion];
-  const qField = document.getElementById("test-question-col").value;
-  const aField = document.getElementById("test-answer-col").value;
-
-  let targetQuestionText = String(q[qField] || "");
-  let targetAnswerText = String(q[aField] || "");
-  let questionLang = autoDetectLanguage(qField);
-  let answerLang = autoDetectLanguage(aField);
+  const q = currentTestWords[currentQuestion]; const qField = document.getElementById("test-question-col").value; const aField = document.getElementById("test-answer-col").value;
+  let targetQuestionText = String(q[qField] || ""); let targetAnswerText = String(q[aField] || "");
+  let questionLang = autoDetectLanguage(qField); let answerLang = autoDetectLanguage(aField);
   let subModeTitle = `Translate Column [${qField}] ➡️ [${aField}]`;
 
   if (q.Article && ["der","die","das"].includes(String(q.Article).toLowerCase().trim()) && aField.toLowerCase().includes("article")) {
-    targetAnswerText = String(q.Article).trim().toLowerCase();
-    answerLang = "de-DE";
-    subModeTitle = `Speak Only the Matching Article for: [ ${q[qField]} ]`;
+    targetAnswerText = String(q.Article).trim().toLowerCase(); answerLang = "de-DE"; subModeTitle = `Speak Only the Matching Article for: [ ${q[qField]} ]`;
   }
 
   document.getElementById("test-content").innerHTML = `
     <div class="question-box voice-pulse-active" style="border: 2px solid #2a9d8f; background: #f4faf8;">
-      <h2>🗣️ Voice Interaction Loop</h2>
-      <p style="font-weight:bold; color:#2a9d8f;">${subModeTitle}</p>
+      <h2>🗣️ Voice Interaction Loop</h2><p style="font-weight:bold; color:#2a9d8f;">${subModeTitle}</p>
       <div class="word-display" style="font-size:28px; color:#264653; background:#fff; padding:20px; border-radius:8px; margin:15px 0;">${targetQuestionText}</div>
       <div id="voice-indicator-box" style="padding:12px; border-radius:8px; font-weight:bold; background:#e9c46a; color:#fff;">🔊 Generating Audio Prompt...</div>
       <div id="voice-transcript-output" style="font-weight:600; font-size:18px; color:#2a9d8f; min-height:30px; margin:10px 0;"></div>
@@ -972,47 +866,34 @@ function renderVoiceQuestion() {
       ${getUmlautKeyboardHTML()}
       <div class="score-box" style="margin-top:15px;">Progress Session Score: ${score}/${currentQuestion}</div>
       <div class="test-controls" style="margin-top:15px; display:flex; gap:10px; justify-content:center;">
-        <button onclick="safeSpeak('${targetQuestionText.replace(/'/g, "\\'")}', '${questionLang}')" class="primary-btn" style="background:#4a90e2;">🔊 Repeat Question</button>
-        <button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button>
+        <button onclick="safeSpeak('${targetQuestionText.replace(/'/g, "\\'")}', '${questionLang}')" class="primary-btn" style="background:#4a90e2;">🔊 Repeat Question</button><button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button>
       </div>
-    </div>
-  `;
+    </div>`;
 
-  let utterText = targetQuestionText;
-  if (q.Article && qField.toLowerCase().includes("noun")) { utterText = q.Article + " " + targetQuestionText; }
+  let utterText = targetQuestionText; if (q.Article && qField.toLowerCase().includes("noun")) { utterText = q.Article + " " + targetQuestionText; }
   let utter = safeSpeak(utterText, questionLang);
   if (utter) {
-    utter.onend = () => triggerMicrophoneListen(targetAnswerText, answerLang);
-    utter.onerror = () => triggerMicrophoneListen(targetAnswerText, answerLang);
+    utter.onend = () => triggerMicrophoneListen(targetAnswerText, answerLang); utter.onerror = () => triggerMicrophoneListen(targetAnswerText, answerLang);
   } else { triggerMicrophoneListen(targetAnswerText, answerLang); }
 }
 
 function triggerMicrophoneListen(expectedAnswer, targetLang) {
   if (!voiceRecognition || currentTest !== "voice") return;
-  const indicator = document.getElementById("voice-indicator-box");
-  if (indicator) { indicator.style.background = "#e76f51"; indicator.innerHTML = "🎙️ Listening... SPEAK ANSWER NOW!"; }
+  const indicator = document.getElementById("voice-indicator-box"); if (indicator) { indicator.style.background = "#e76f51"; indicator.innerHTML = "🎙️ Listening... SPEAK ANSWER NOW!"; }
   voiceRecognition.lang = targetLang;
   voiceRecognition.onresult = (event) => {
-    const transcript = event.results[0][0].transcript;
-    const outputTranscript = document.getElementById("voice-transcript-output");
-    if (outputTranscript) outputTranscript.innerText = `Captured String: "${transcript}"`;
+    const transcript = event.results[0][0].transcript; const outputTranscript = document.getElementById("voice-transcript-output"); if (outputTranscript) outputTranscript.innerText = `Captured String: "${transcript}"`;
     const normalizedUser = normalizeGerman(transcript); const normalizedTarget = normalizeGerman(expectedAnswer);
     const wordKey = getPrimaryKey(currentTestWords[currentQuestion]); const fbBox = document.getElementById("voice-feedback-output");
 
     if (normalizedUser === normalizedTarget || normalizedUser.includes(normalizedTarget) || normalizedTarget.includes(normalizedUser)) {
-      score++; autoUpdateStar(wordKey, true);
-      if (fbBox) fbBox.innerHTML = `<p class="correct" style="color:white; padding:8px; border-radius:6px;">✓ Correct! Matching Result</p>`;
+      score++; autoUpdateStar(wordKey, true); if (fbBox) fbBox.innerHTML = `<p class="correct" style="color:white; padding:8px; border-radius:6px;">✓ Correct! Matching Result</p>`;
     } else {
-      autoUpdateStar(wordKey, false);
-      if (fbBox) fbBox.innerHTML = `<p class="incorrect" style="color:white; padding:8px; border-radius:6px;">❌ Incorrect! Expected: ${expectedAnswer}</p>`;
+      autoUpdateStar(wordKey, false); if (fbBox) fbBox.innerHTML = `<p class="incorrect" style="color:white; padding:8px; border-radius:6px;">❌ Incorrect! Expected: ${expectedAnswer}</p>`;
     }
     voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 1000); 
   };
-  voiceRecognition.onerror = (err) => {
-    const ind = document.getElementById("voice-indicator-box");
-    if (ind) { ind.style.background = "#cbd5e1"; ind.innerHTML = "⏹️ Unrecognized Entry. Moving forward..."; }
-    voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 1000);
-  };
+  voiceRecognition.onerror = () => { voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 1000); };
   try { voiceRecognition.start(); isListening = true; } catch(e) {}
 }
 
@@ -1087,10 +968,8 @@ const renderMeanings = function() {
       <h2>Evaluation Quiz: ${qField} ➡️ ${aField}</h2>
       <div class="word-display" style="font-size:28px; color:#1d3557; background:#f8fafc; padding:15px; border-radius:8px;">${q[qField] || "---"}</div>
       <div class="options-grid">${options.map(o => `<button class="option-btn" onclick="checkMeaning(this,'${o.replace(/'/g, "\\'")}','${correct.replace(/'/g, "\\'")}','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>`).join("")}</div>
-      <div class="score-box">Progress Score: ${score}/${currentQuestion}</div>
-      <div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button></div>
-    </div>
-  `;
+      <div class="score-box">Progress Score: ${score}/${currentQuestion}</div><div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button></div>
+    </div>`;
   safeSpeak(String(q[qField]), autoDetectLanguage(qField));
 };
 
@@ -1100,15 +979,11 @@ const renderDictation = function() {
 
   document.getElementById("test-content").innerHTML = `
     <div class="question-box">
-      <h2>Variable Target Dictation Test (${qField})</h2>
-      <button class="primary-btn" onclick="safeSpeak('${targetSpelling.replace(/'/g, "\\'")}', '${activeLocale}')">🔊 Listen Prompt</button>
+      <h2>Variable Target Dictation Test (${qField})</h2><button class="primary-btn" onclick="safeSpeak('${targetSpelling.replace(/'/g, "\\'")}', '${activeLocale}')">🔊 Listen Prompt</button>
       <input type="text" id="dictation-input" autocomplete="off" placeholder="Type what you hear...">
-      ${getUmlautKeyboardHTML()}
-      <div id="dict-feedback"></div>
-      <div class="score-box">Score: ${score}/${currentQuestion}</div>
+      ${getUmlautKeyboardHTML()}<div id="dict-feedback"></div><div class="score-box">Score: ${score}/${currentQuestion}</div>
       <div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
-    </div>
-  `;
+    </div>`;
   const input = document.getElementById("dictation-input");
   if (input) {
     input.focus(); setTimeout(() => { safeSpeak(targetSpelling, activeLocale); }, 300);
@@ -1134,10 +1009,8 @@ const renderMatching = function() {
         <div class="match-column"><h3>${qField}</h3>${german.map(w => `<div class="match-item german-item" data-id="${getPrimaryKey(w)}" onclick="selectGerman(this)">${w.Article ? w.Article + " " : ""}${w[qField] || "-"}</div>`).join("")}</div>
         <div class="match-column"><h3>${aField}</h3>${english.map(w => `<div class="match-item english-item" data-id="${getPrimaryKey(w)}" onclick="selectEnglish(this)">${w[aField] || "-"}</div>`).join("")}</div>
       </div>
-      <div class="score-box">Score: ${score}/${currentTestWords.length}</div>
-      <div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
-    </div>
-  `;
+      <div class="score-box">Score: ${score}/${currentTestWords.length}</div><div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
+    </div>`;
 };
 
 const downloadWordList = function() {
@@ -1152,5 +1025,26 @@ function autoUpdateStar(wordKey, isCorrect) {
   else { starData[wordKey] = "hard"; }
   localStorage.setItem("germanStarData", JSON.stringify(starData));
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+  const filePicker = document.getElementById("vocab-file-picker");
+  if (filePicker) {
+    filePicker.addEventListener("change", (event) => {
+      const file = event.target.files[0]; if (!file) return;
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const parsedData = JSON.parse(e.target.result);
+          if (Array.isArray(parsedData) && parsedData.length > 0) {
+            wordbankData.length = 0; parsedData.forEach(item => wordbankData.push(item));
+            currentFilter = "all"; currentBatchSize = 20; stopAudio(); buildThemes(); fullResetUI(); updateStats();
+            alert(`🎉 Success! Loaded ${wordbankData.length} manual entries.`);
+          }
+        } catch (err) { alert("❌ Error parsing entry structural design JSON format."); }
+      };
+      reader.readAsText(file);
+    });
+  }
+});
 
 console.log("🔼 Dynamic N-Column Matrix Engine fully hardened.");

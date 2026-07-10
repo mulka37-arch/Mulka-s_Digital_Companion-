@@ -1,5 +1,413 @@
 [
   {
+    "infinitiv": "abschließen (ein Studium)",
+    "Präsens (er)": "er schließt ab",
+    "Präteritum (er)": "er schloss ab",
+    "Perfekt (er)": "er hat abgeschlossen",
+    "English Meaning": "to complete/finish (studies)",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "anfangen",
+    "Präsens (er)": "er fängt an",
+    "Präteritum (er)": "er fing an",
+    "Perfekt (er)": "er hat angefangen",
+    "English Meaning": "to begin",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "aufstehen",
+    "Präsens (er)": "er steht auf",
+    "Präteritum (er)": "er stand auf",
+    "Perfekt (er)": "er ist aufgestanden",
+    "English Meaning": "to get up",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "backen (ein Brot)",
+    "Präsens (er)": "er backt/bäckt",
+    "Präteritum (er)": "er backte",
+    "Perfekt (er)": "er hat gebacken",
+    "English Meaning": "to bake",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "beginnen",
+    "Präsens (er)": "er beginnt",
+    "Präteritum (er)": "er begann",
+    "Perfekt (er)": "er hat begonnen",
+    "English Meaning": "to begin",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "bekommen (eine Stelle)",
+    "Präsens (er)": "er bekommt",
+    "Präteritum (er)": "er bekam",
+    "Perfekt (er)": "er hat bekommen",
+    "English Meaning": "to receive/get",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "bieten (eine Chance)",
+    "Präsens (er)": "er bietet",
+    "Präteritum (er)": "er bot",
+    "Perfekt (er)": "er hat geboten",
+    "English Meaning": "to offer",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "bleiben",
+    "Präsens (er)": "er bleibt",
+    "Präteritum (er)": "er blieb",
+    "Perfekt (er)": "er ist geblieben",
+    "English Meaning": "to stay/remain",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "essen",
+    "Präsens (er)": "er isst",
+    "Präteritum (er)": "er aß",
+    "Perfekt (er)": "er hat gegessen",
+    "English Meaning": "to eat",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "fahren",
+    "Präsens (er)": "er fährt",
+    "Präteritum (er)": "er fuhr",
+    "Perfekt (er)": "er ist gefahren",
+    "English Meaning": "to drive/go",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "fliegen",
+    "Präsens (er)": "er fliegt",
+    "Präteritum (er)": "er flog",
+    "Perfekt (er)": "er ist geflogen",
+    "English Meaning": "to fly",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "geben",
+    "Präsens (er)": "er gibt",
+    "Präteritum (er)": "er gab",
+    "Perfekt (er)": "er hat gegeben",
+    "English Meaning": "to give",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "gehen",
+    "Präsens (er)": "er geht",
+    "Präteritum (er)": "er ging",
+    "Perfekt (er)": "er ist gegangen",
+    "English Meaning": "to go",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "gewinnen",
+    "Präsens (er)": "er gewinnt",
+    "Präteritum (er)": "er gewann",
+    "Perfekt (er)": "er hat gewonnen",
+    "English Meaning": "to win",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "halten (eine Vorlesung)",
+    "Präsens (er)": "er hält",
+    "Präteritum (er)": "er hielt",
+    "Perfekt (er)": "er hat gehalten",
+    "English Meaning": "to hold",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "heißen",
+    "Präsens (er)": "er heißt",
+    "Präteritum (er)": "er hieß",
+    "Perfekt (er)": "er hat geheißen",
+    "English Meaning": "to be called",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "helfen",
+    "Präsens (er)": "er hilft",
+    "Präteritum (er)": "er half",
+    "Perfekt (er)": "er hat geholfen",
+    "English Meaning": "to help",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "kommen",
+    "Präsens (er)": "er kommt",
+    "Präteritum (er)": "er kam",
+    "Perfekt (er)": "er ist gekommen",
+    "English Meaning": "to come",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "lesen",
+    "Präsens (er)": "er liest",
+    "Präteritum (er)": "er las",
+    "Perfekt (er)": "er hat gelesen",
+    "English Meaning": "to read",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "nehmen",
+    "Präsens (er)": "er nimmt",
+    "Präteritum (er)": "er nahm",
+    "Perfekt (er)": "er hat genommen",
+    "English Meaning": "to take",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "einnehmen (eine Tablette)",
+    "Präsens (er)": "er nimmt ein",
+    "Präteritum (er)": "er nahm ein",
+    "Perfekt (er)": "er hat eingenommen",
+    "English Meaning": "to take (medicine)",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "schießen (ein Tor)",
+    "Präsens (er)": "er schießt",
+    "Präteritum (er)": "er schoss",
+    "Perfekt (er)": "er hat geschossen",
+    "English Meaning": "to shoot/score",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "schlafen",
+    "Präsens (er)": "er schläft",
+    "Präteritum (er)": "er schlief",
+    "Perfekt (er)": "er hat geschlafen",
+    "English Meaning": "to sleep",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "schreiben",
+    "Präsens (er)": "er schreibt",
+    "Präteritum (er)": "er schrieb",
+    "Perfekt (er)": "er hat geschrieben",
+    "English Meaning": "to write",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "sein",
+    "Präsens (er)": "er ist",
+    "Präteritum (er)": "er war",
+    "Perfekt (er)": "er ist gewesen",
+    "English Meaning": "to be",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "singen",
+    "Präsens (er)": "er singt",
+    "Präteritum (er)": "er sang",
+    "Perfekt (er)": "er hat gesungen",
+    "English Meaning": "to sing",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "stehen",
+    "Präsens (er)": "er steht",
+    "Präteritum (er)": "er stand",
+    "Perfekt (er)": "er hat gestanden",
+    "English Meaning": "to stand",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "sprechen",
+    "Präsens (er)": "er spricht",
+    "Präteritum (er)": "er sprach",
+    "Perfekt (er)": "er hat gesprochen",
+    "English Meaning": "to speak",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "trinken",
+    "Präsens (er)": "er trinkt",
+    "Präteritum (er)": "er trank",
+    "Perfekt (er)": "er hat getrunken",
+    "English Meaning": "to drink",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "umziehen (in eine Stadt)",
+    "Präsens (er)": "er zieht um",
+    "Präteritum (er)": "er zog um",
+    "Perfekt (er)": "er ist umgezogen",
+    "English Meaning": "to move (house/city)",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "vergessen",
+    "Präsens (er)": "er vergisst",
+    "Präteritum (er)": "er vergaß",
+    "Perfekt (er)": "er hat vergessen",
+    "English Meaning": "to forget",
+    "Theme": "Unregalmaßige Verben"
+  },
+  {
+    "infinitiv": "sich anziehen",
+    "Präsens (er)": "er zieht sich an",
+    "Präteritum (er)": "er zog sich an",
+    "Perfekt (er)": "er hat sich angezogen",
+    "English Meaning": "to get dressed",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich ärgern",
+    "Präsens (er)": "er ärgert sich",
+    "Präteritum (er)": "er ärgerte sich",
+    "Perfekt (er)": "er hat sich geärgert",
+    "English Meaning": "to get annoyed",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich bedanken",
+    "Präsens (er)": "er bedankt sich",
+    "Präteritum (er)": "er bedankte sich",
+    "Perfekt (er)": "er hat sich bedankt",
+    "English Meaning": "to thank",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich befinden",
+    "Präsens (er)": "er befindet sich",
+    "Präteritum (er)": "er befand sich",
+    "Perfekt (er)": "er hat sich befunden",
+    "English Meaning": "to be located",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich beschweren",
+    "Präsens (er)": "er beschwert sich",
+    "Präteritum (er)": "er beschwerte sich",
+    "Perfekt (er)": "er hat sich beschwert",
+    "English Meaning": "to complain",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich beeilen",
+    "Präsens (er)": "er beeilt sich",
+    "Präteritum (er)": "er beeilte sich",
+    "Perfekt (er)": "er hat sich beeilt",
+    "English Meaning": "to hurry",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich duschen",
+    "Präsens (er)": "er duscht sich",
+    "Präteritum (er)": "er duschte sich",
+    "Perfekt (er)": "er hat sich geduscht",
+    "English Meaning": "to take a shower",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich erinnern",
+    "Präsens (er)": "er erinnert sich",
+    "Präteritum (er)": "er erinnerte sich",
+    "Perfekt (er)": "er hat sich erinnert",
+    "English Meaning": "to remember",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich erkälten",
+    "Präsens (er)": "er erkältet sich",
+    "Präteritum (er)": "er erkältete sich",
+    "Perfekt (er)": "er hat sich erkältet",
+    "English Meaning": "to catch a cold",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich freuen",
+    "Präsens (er)": "er freut sich",
+    "Präteritum (er)": "er freute sich",
+    "Perfekt (er)": "er hat sich gefreut",
+    "English Meaning": "to be happy",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich föhnen",
+    "Präsens (er)": "er föhnt sich",
+    "Präteritum (er)": "er föhnte sich",
+    "Perfekt (er)": "er hat sich geföhnt",
+    "English Meaning": "to blow-dry hair",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich interessieren",
+    "Präsens (er)": "er interessiert sich",
+    "Präteritum (er)": "er interessierte sich",
+    "Perfekt (er)": "er hat sich interessiert",
+    "English Meaning": "to be interested",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich kämmen",
+    "Präsens (er)": "er kämmt sich",
+    "Präteritum (er)": "er kämmte sich",
+    "Perfekt (er)": "er hat sich gekämmt",
+    "English Meaning": "to comb hair",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich schminken",
+    "Präsens (er)": "er schminkt sich",
+    "Präteritum (er)": "er schminkte sich",
+    "Perfekt (er)": "er hat sich geschminkt",
+    "English Meaning": "to put on makeup",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich streiten",
+    "Präsens (er)": "er streitet sich",
+    "Präteritum (er)": "er stritt sich",
+    "Perfekt (er)": "er hat sich gestritten",
+    "English Meaning": "to argue",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich treffen",
+    "Präsens (er)": "er trifft sich",
+    "Präteritum (er)": "er traf sich",
+    "Perfekt (er)": "er hat sich getroffen",
+    "English Meaning": "to meet",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich umziehen",
+    "Präsens (er)": "er zieht sich um",
+    "Präteritum (er)": "er zog sich um",
+    "Perfekt (er)": "er hat sich umgezogen",
+    "English Meaning": "to change clothes",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich unterhalten",
+    "Präsens (er)": "er unterhält sich",
+    "Präteritum (er)": "er unterhielt sich",
+    "Perfekt (er)": "er hat sich unterhalten",
+    "English Meaning": "to have a conversation",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich verlieben",
+    "Präsens (er)": "er verliebt sich",
+    "Präteritum (er)": "er verliebte sich",
+    "Perfekt (er)": "er hat sich verliebt",
+    "English Meaning": "to fall in love",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
+    "infinitiv": "sich vorstellen",
+    "Präsens (er)": "er stellt sich vor",
+    "Präteritum (er)": "er stellte sich vor",
+    "Perfekt (er)": "er hat sich vorgestellt",
+    "English Meaning": "to introduce oneself",
+    "Theme": "Reflexive &teilreflexive verben"
+  },
+  {
     "Article": "die",
     "Noun": "Ahnung",
     "English Meaning": "clue / idea",

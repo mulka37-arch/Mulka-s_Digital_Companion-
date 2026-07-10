@@ -287,12 +287,16 @@ input[type="text"] {
   .theme-grid label, .theme-grid button { font-size: 12px; padding: 8px; min-height: 44px; }
   .options-grid { grid-template-columns: 1fr; gap: 8px; }
   .option-btn { font-size: 14px; padding: 12px; }
-  .matching-container { grid-template-columns: 1fr; gap: 12px; }
-  .match-column { min-height: unset; padding: 8px; }
+  
+  /* 🛠️ CHANGED THIS LINE: Forces side-by-side columns on mobile */
+  .matching-container { grid-template-columns: 1fr 1fr !important; gap: 8px; }
+  
+  /* 🛠️ CHANGED THIS LINE: Tweaked padding so long German words fit cleanly */
+  .match-column { min-height: unset; padding: 6px; }
+  
   .filter-bar, .batch-bar, .controls-bar { justify-content: flex-start; }
   input[type="text"] { font-size: 16px; }
 }
-
 #word-table th {
   cursor: pointer;
   user-select: none;
