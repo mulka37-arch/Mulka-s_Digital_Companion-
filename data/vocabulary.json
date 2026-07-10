@@ -1,5 +1,2861 @@
 [
   {
+    "German Main": "arbeiten",
+    "Synonym 1": "jobben",
+    "Synonym 2": "tätig sein",
+    "English": "work",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Beruf",
+    "Synonym 1": "Job",
+    "Synonym 2": "Beschäftigung",
+    "English": "occupation",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Bewerbung",
+    "Synonym 1": "Anschreiben",
+    "Synonym 2": "Bewerbungsschreiben",
+    "English": "application",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Chef",
+    "Synonym 1": "Vorgesetzter",
+    "Synonym 2": "Boss",
+    "English": "boss",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "verdienen",
+    "Synonym 1": "einnehmen",
+    "Synonym 2": "Gehalt bekommen",
+    "English": "earn",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Einstellung",
+    "Synonym 1": "Anstellung",
+    "Synonym 2": "Einstieg",
+    "English": "employment",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Fortbildung",
+    "Synonym 1": "Weiterbildung",
+    "Synonym 2": "Training",
+    "English": "further training",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Gehalt",
+    "Synonym 1": "Lohn",
+    "Synonym 2": "Verdienst",
+    "English": "salary",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Kündigung",
+    "Synonym 1": "Entlassung",
+    "Synonym 2": "Kündigen",
+    "English": "dismissal",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Stelle",
+    "Synonym 1": "Position",
+    "Synonym 2": "Jobangebot",
+    "English": "position",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Teilzeit",
+    "Synonym 1": "Halbtags",
+    "Synonym 2": "teilzeitlich",
+    "English": "part-time",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Urlaub",
+    "Synonym 1": "Ferien",
+    "Synonym 2": "Freizeit",
+    "English": "vacation",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Vollzeit",
+    "Synonym 1": "Ganztags",
+    "Synonym 2": "full-time",
+    "English": "full-time",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Ausbildung",
+    "Synonym 1": "Lehre",
+    "Synonym 2": "Berufsausbildung",
+    "English": "apprenticeship",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Prüfung",
+    "Synonym 1": "Test",
+    "Synonym 2": "Examen",
+    "English": "exam",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Schule",
+    "Synonym 1": "Bildungseinrichtung",
+    "Synonym 2": "Institut",
+    "English": "school",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Studium",
+    "Synonym 1": "Hochschule",
+    "Synonym 2": "Universität",
+    "English": "studies",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Lehrer",
+    "Synonym 1": "Dozent",
+    "Synonym 2": "Pädagoge",
+    "English": "teacher",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Schüler",
+    "Synonym 1": "Lernender",
+    "Synonym 2": "Student",
+    "English": "pupil/student",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Note",
+    "Synonym 1": "Zensur",
+    "Synonym 2": "Bewertung",
+    "English": "grade",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Arzt",
+    "Synonym 1": "Doktor",
+    "Synonym 2": "Mediziner",
+    "English": "doctor",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Krankheit",
+    "Synonym 1": "Erkrankung",
+    "Synonym 2": "Leiden",
+    "English": "illness",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gesund",
+    "Synonym 1": "fit",
+    "Synonym 2": "wohlauf",
+    "English": "healthy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Medizin",
+    "Synonym 1": "Arznei",
+    "Synonym 2": "Medikament",
+    "English": "medicine",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Schmerz",
+    "Synonym 1": "Weh",
+    "Synonym 2": "Pein",
+    "English": "pain",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Apotheke",
+    "Synonym 1": "Drogerie",
+    "Synonym 2": "Pharmazie",
+    "English": "pharmacy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Rezept",
+    "Synonym 1": "Verschreibung",
+    "Synonym 2": "Verordnung",
+    "English": "prescription",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Operation",
+    "Synonym 1": "Eingriff",
+    "Synonym 2": "OP",
+    "English": "surgery",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Krankenhaus",
+    "Synonym 1": "Klinik",
+    "Synonym 2": "Spital",
+    "English": "hospital",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Fieber",
+    "Synonym 1": "Temperatur",
+    "Synonym 2": "hohe Temperatur",
+    "English": "fever",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Erkältung",
+    "Synonym 1": "Schnupfen",
+    "Synonym 2": "Grippe",
+    "English": "cold",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Kopfschmerzen",
+    "Synonym 1": "Migräne",
+    "Synonym 2": "Kopfweh",
+    "English": "headache",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "müde",
+    "Synonym 1": "erschöpft",
+    "Synonym 2": "kaputt",
+    "English": "tired",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Sport treiben",
+    "Synonym 1": "trainieren",
+    "Synonym 2": "sich bewegen",
+    "English": "do sports",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Ernährung",
+    "Synonym 1": "Nahrung",
+    "Synonym 2": "Essen",
+    "English": "nutrition",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Familie",
+    "Synonym 1": "Verwandte",
+    "Synonym 2": "Angehörige",
+    "English": "family",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Eltern",
+    "Synonym 1": "Vater und Mutter",
+    "Synonym 2": "Erziehungsberechtigte",
+    "English": "parents",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Kind",
+    "Synonym 1": "Nachwuchs",
+    "Synonym 2": "Kleinkind",
+    "English": "child",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Ehe",
+    "Synonym 1": "Heirat",
+    "Synonym 2": "Partnerschaft",
+    "English": "marriage",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Freund",
+    "Synonym 1": "Kumpel",
+    "Synonym 2": "Bekannter",
+    "English": "friend",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Haus",
+    "Synonym 1": "Wohnung",
+    "Synonym 2": "Zuhause",
+    "English": "house/home",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Möbel",
+    "Synonym 1": "Einrichtung",
+    "Synonym 2": "Mobiliar",
+    "English": "furniture",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Küche",
+    "Synonym 1": "Kochstelle",
+    "Synonym 2": "Herd",
+    "English": "kitchen",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Einkaufen",
+    "Synonym 1": "Shoppen",
+    "Synonym 2": "besorgen",
+    "English": "shopping",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Essen",
+    "Synonym 1": "Mahlzeit",
+    "Synonym 2": "Gericht",
+    "English": "meal",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Frühstück",
+    "Synonym 1": "Morgenmahl",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Mittagessen",
+    "Synonym 1": "Lunch",
+    "Synonym 2": "Hauptmahl",
+    "English": "lunch",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Abendessen",
+    "Synonym 1": "Dinner",
+    "Synonym 2": "Abendbrot",
+    "English": "dinner",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "waschen",
+    "Synonym 1": "reinigen",
+    "Synonym 2": "putzen",
+    "English": "wash/clean",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Kleidung",
+    "Synonym 1": "Bekleidung",
+    "Synonym 2": "Outfit",
+    "English": "clothing",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Reise",
+    "Synonym 1": "Trip",
+    "Synonym 2": "Fahrt",
+    "English": "trip",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Flug",
+    "Synonym 1": "Flugzeug",
+    "Synonym 2": "Flugreise",
+    "English": "flight",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Zug",
+    "Synonym 1": "Bahn",
+    "Synonym 2": "Train",
+    "English": "train",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Auto",
+    "Synonym 1": "Wagen",
+    "Synonym 2": "PKW",
+    "English": "car",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Hotel",
+    "Synonym 1": "Unterkunft",
+    "Synonym 2": "Herberge",
+    "English": "hotel",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Stadt",
+    "Synonym 1": "Ort",
+    "Synonym 2": "Metropole",
+    "English": "city",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Land",
+    "Synonym 1": "Staat",
+    "Synonym 2": "Region",
+    "English": "country",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Weg",
+    "Synonym 1": "Route",
+    "Synonym 2": "Pfad",
+    "English": "way",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Ankunft",
+    "Synonym 1": "Eintreffen",
+    "Synonym 2": "Ankommen",
+    "English": "arrival",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Abfahrt",
+    "Synonym 1": "Start",
+    "Synonym 2": "Departure",
+    "English": "departure",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Ticket",
+    "Synonym 1": "Fahrkarte",
+    "Synonym 2": "Billet",
+    "English": "ticket",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Gepäck",
+    "Synonym 1": "Luggage",
+    "Synonym 2": "Koffer",
+    "English": "luggage",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Urlaubsort",
+    "Synonym 1": "Destination",
+    "Synonym 2": "Ferienziel",
+    "English": "vacation spot",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Umwelt",
+    "Synonym 1": "Natur",
+    "Synonym 2": "Ökologie",
+    "English": "environment",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Problem",
+    "Synonym 1": "Issue",
+    "Synonym 2": "Schwierigkeit",
+    "English": "problem",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Lösung",
+    "Synonym 1": "Antwort",
+    "Synonym 2": "Ausweg",
+    "English": "solution",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Gesellschaft",
+    "Synonym 1": "Community",
+    "Synonym 2": "Soziales",
+    "English": "society",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Politik",
+    "Synonym 1": "Regierung",
+    "Synonym 2": "Staat",
+    "English": "politics",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Wirtschaft",
+    "Synonym 1": "Economy",
+    "Synonym 2": "Finanzen",
+    "English": "economy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Geld",
+    "Synonym 1": "Kohle",
+    "Synonym 2": "Euros",
+    "English": "money",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Preis",
+    "Synonym 1": "Kosten",
+    "Synonym 2": "Wert",
+    "English": "price",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "billig",
+    "Synonym 1": "günstig",
+    "Synonym 2": "preiswert",
+    "English": "cheap",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "teuer",
+    "Synonym 1": "kostspielig",
+    "Synonym 2": "hochpreisig",
+    "English": "expensive",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "neu",
+    "Synonym 1": "frisch",
+    "Synonym 2": "modern",
+    "English": "new",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "alt",
+    "Synonym 1": "gebraucht",
+    "Synonym 2": "veraltet",
+    "English": "old",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schön",
+    "Synonym 1": "hübsch",
+    "Synonym 2": "attraktiv",
+    "English": "beautiful",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "hässlich",
+    "Synonym 1": "unattraktiv",
+    "Synonym 2": "unschön",
+    "English": "ugly",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "wichtig",
+    "Synonym 1": "bedeutend",
+    "Synonym 2": "essentiell",
+    "English": "important",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "beginnen",
+    "Synonym 1": "starten",
+    "Synonym 2": "anfangen",
+    "English": "start",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "beenden",
+    "Synonym 1": "aufhören",
+    "Synonym 2": "fertigstellen",
+    "English": "end",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "helfen",
+    "Synonym 1": "unterstützen",
+    "Synonym 2": "assistieren",
+    "English": "help",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "lernen",
+    "Synonym 1": "studieren",
+    "Synonym 2": "erlernen",
+    "English": "learn",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "verstehen",
+    "Synonym 1": "kapieren",
+    "Synonym 2": "begreifen",
+    "English": "understand",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "erklären",
+    "Synonym 1": "erläutern",
+    "Synonym 2": "beschreiben",
+    "English": "explain",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "fragen",
+    "Synonym 1": "nachfragen",
+    "Synonym 2": "erfragen",
+    "English": "ask",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "antworten",
+    "Synonym 1": "reagieren",
+    "Synonym 2": "erwidern",
+    "English": "answer",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "kaufen",
+    "Synonym 1": "erwerben",
+    "Synonym 2": "besorgen",
+    "English": "buy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "verkaufen",
+    "Synonym 1": "anbieten",
+    "Synonym 2": "veräußern",
+    "English": "sell",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gehen",
+    "Synonym 1": "laufen",
+    "Synonym 2": "spazieren",
+    "English": "go/walk",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "kommen",
+    "Synonym 1": "ankommen",
+    "Synonym 2": "eintreffen",
+    "English": "come",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "machen",
+    "Synonym 1": "tun",
+    "Synonym 2": "erledigen",
+    "English": "do",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sagen",
+    "Synonym 1": "äußern",
+    "Synonym 2": "mitteilen",
+    "English": "say",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "denken",
+    "Synonym 1": "meinen",
+    "Synonym 2": "glauben",
+    "English": "think/opine",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "wissen",
+    "Synonym 1": "kennen",
+    "Synonym 2": "erfahren",
+    "English": "know",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "finden",
+    "Synonym 1": "entdecken",
+    "Synonym 2": "lokalisieren",
+    "English": "find",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "verlieren",
+    "Synonym 1": "verlegen",
+    "Synonym 2": "einbüßen",
+    "English": "lose",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gewinnen",
+    "Synonym 1": "siegen",
+    "Synonym 2": "erlangen",
+    "English": "win",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "ändern",
+    "Synonym 1": "verändern",
+    "Synonym 2": "umstellen",
+    "English": "change",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schnell",
+    "Synonym 1": "rasch",
+    "Synonym 2": "fix",
+    "English": "fast",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "langsam",
+    "Synonym 1": "träge",
+    "Synonym 2": "schleppend",
+    "English": "slow",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gut",
+    "Synonym 1": "super",
+    "Synonym 2": "toll",
+    "English": "good",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schlecht",
+    "Synonym 1": "miserabel",
+    "Synonym 2": "übel",
+    "English": "bad",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "groß",
+    "Synonym 1": "riesig",
+    "Synonym 2": "enorm",
+    "English": "big",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "klein",
+    "Synonym 1": "mini",
+    "Synonym 2": "winzig",
+    "English": "small",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "glücklich",
+    "Synonym 1": "froh",
+    "Synonym 2": "zufrieden",
+    "English": "happy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "traurig",
+    "Synonym 1": "betrübt",
+    "Synonym 2": "niedergeschlagen",
+    "English": "sad",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "interessant",
+    "Synonym 1": "spannend",
+    "Synonym 2": "fesselnd",
+    "English": "interesting",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "langweilig",
+    "Synonym 1": "öde",
+    "Synonym 2": "eintönig",
+    "English": "boring",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "einfach",
+    "Synonym 1": "leicht",
+    "Synonym 2": "unkompliziert",
+    "English": "easy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schwer",
+    "Synonym 1": "schwierig",
+    "Synonym 2": "kompliziert",
+    "English": "difficult",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "oft",
+    "Synonym 1": "häufig",
+    "Synonym 2": "regelmäßig",
+    "English": "often",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "selten",
+    "Synonym 1": "rar",
+    "Synonym 2": "gelegentlich",
+    "English": "rarely",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "immer",
+    "Synonym 1": "stets",
+    "Synonym 2": "jederzeit",
+    "English": "always",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "nie",
+    "Synonym 1": "niemals",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "manchmal",
+    "Synonym 1": "gelegentlich",
+    "Synonym 2": "hin und wieder",
+    "English": "sometimes",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "German Main",
+    "Synonym 1": "Synonym 1",
+    "Synonym 2": "Synonym 2",
+    "English": "English",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "aufstehen",
+    "Synonym 1": "aufwachen",
+    "Synonym 2": "aus dem Bett gehen",
+    "English": "get up",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schlafen",
+    "Synonym 1": "pennen",
+    "Synonym 2": "ruhig sein",
+    "English": "sleep",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "früh",
+    "Synonym 1": "am Morgen",
+    "Synonym 2": "morgens",
+    "English": "early",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "spät",
+    "Synonym 1": "am Abend",
+    "Synonym 2": "abends",
+    "English": "late",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "heute",
+    "Synonym 1": "aktuell",
+    "Synonym 2": "diesen Tag",
+    "English": "today",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "morgen",
+    "Synonym 1": "am nächsten Tag",
+    "Synonym 2": "zweifellos",
+    "English": "tomorrow",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gestern",
+    "Synonym 1": "vorher",
+    "Synonym 2": "vorgestern",
+    "English": "yesterday",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Woche",
+    "Synonym 1": "Sieben Tage",
+    "Synonym 2": "Wochenende",
+    "English": "week",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Wochenende",
+    "Synonym 1": "Samstag und Sonntag",
+    "Synonym 2": "Freizeitende",
+    "English": "weekend",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Termin",
+    "Synonym 1": "Treffen",
+    "Synonym 2": "Verabredung",
+    "English": "appointment",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "hungrig",
+    "Synonym 1": "Hunger haben",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "durstig",
+    "Synonym 1": "Durst haben",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "trinken",
+    "Synonym 1": "etwas trinken",
+    "Synonym 2": "Flüssigkeit zu sich nehmen",
+    "English": "drink",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "kochen",
+    "Synonym 1": "Essen zubereiten",
+    "Synonym 2": "zubereiten",
+    "English": "cook",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Gemüse",
+    "Synonym 1": "Vegetables",
+    "Synonym 2": "Grünzeug",
+    "English": "vegetables",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Obst",
+    "Synonym 1": "Früchte",
+    "Synonym 2": "Frucht",
+    "English": "fruit",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Brot",
+    "Synonym 1": "Brotchen",
+    "Synonym 2": "Gebäck",
+    "English": "bread",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Fleisch",
+    "Synonym 1": "Meat",
+    "Synonym 2": "Tierprodukt",
+    "English": "meat",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "vegetarisch",
+    "Synonym 1": "ohne Fleisch",
+    "Synonym 2": "veggie",
+    "English": "vegetarian",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Rechnung",
+    "Synonym 1": "Quittung",
+    "Synonym 2": "Beleg",
+    "English": "bill/receipt",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Rabatt",
+    "Synonym 1": "Ermäßigung",
+    "Synonym 2": "Nachlass",
+    "English": "discount",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Angebot",
+    "Synonym 1": "Sonderangebot",
+    "Synonym 2": "Deal",
+    "English": "special offer",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Größe",
+    "Synonym 1": "Maß",
+    "Synonym 2": "Size",
+    "English": "size",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "anprobieren",
+    "Synonym 1": "probieren",
+    "Synonym 2": "testen",
+    "English": "try on",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "passen",
+    "Synonym 1": "gut sitzen",
+    "Synonym 2": "richtige Größe",
+    "English": "fit",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "bezahlen",
+    "Synonym 1": "zahlen",
+    "Synonym 2": "kaufen",
+    "English": "pay",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "teilen",
+    "Synonym 1": "aufteilen",
+    "Synonym 2": "spalten",
+    "English": "share",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Kollege",
+    "Synonym 1": "Mitarbeiter",
+    "Synonym 2": "Teammitglied",
+    "English": "colleague",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Besprechung",
+    "Synonym 1": "Meeting",
+    "Synonym 2": "Sitzung",
+    "English": "meeting",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Pause",
+    "Synonym 1": "Unterbrechung",
+    "Synonym 2": "Break",
+    "English": "break",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Überstunden",
+    "Synonym 1": "Mehrarbeit",
+    "Synonym 2": "extra Stunden",
+    "English": "overtime",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Homeoffice",
+    "Synonym 1": "von zu Hause arbeiten",
+    "Synonym 2": "remotearbeiten",
+    "English": "work from home",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Arbeitsplatz",
+    "Synonym 1": "Platz",
+    "Synonym 2": "Jobort",
+    "English": "workplace",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "befördern",
+    "Synonym 1": "hochsetzen",
+    "Synonym 2": "Promotion",
+    "English": "promote",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "krankmelden",
+    "Synonym 1": "sich krank melden",
+    "Synonym 2": "fehlen",
+    "English": "call in sick",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Impfung",
+    "Synonym 1": "Schutzimpfung",
+    "Synonym 2": "Vaccination",
+    "English": "vaccination",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Allergie",
+    "Synonym 1": "Unverträglichkeit",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Tablette",
+    "Synonym 1": "Pille",
+    "Synonym 2": "Medikament",
+    "English": "tablet/pill",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "verletzen",
+    "Synonym 1": "sich wehtun",
+    "Synonym 2": "verwunden",
+    "English": "injure",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Unfall",
+    "Synonym 1": "Crash",
+    "Synonym 2": "Zusammenstoß",
+    "English": "accident",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Notfall",
+    "Synonym 1": "Emergency",
+    "Synonym 2": "Dringend",
+    "English": "emergency",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "retten",
+    "Synonym 1": "helfen",
+    "Synonym 2": "leben retten",
+    "English": "save",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Buchung",
+    "Synonym 1": "Reservierung",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "stornieren",
+    "Synonym 1": "absagen",
+    "Synonym 2": "kündigen",
+    "English": "cancel",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Verspätung",
+    "Synonym 1": "Verzögerung",
+    "Synonym 2": "Delay",
+    "English": "delay",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "pünktlich",
+    "Synonym 1": "zur richtigen Zeit",
+    "Synonym 2": "on time",
+    "English": "on time",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "umsteigen",
+    "Synonym 1": "wechseln",
+    "Synonym 2": "Transfer",
+    "English": "change (trains)",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Führerschein",
+    "Synonym 1": "Driver's license",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Miete",
+    "Synonym 1": "Leihen",
+    "Synonym 2": "Rental",
+    "English": "rent",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "vermieten",
+    "Synonym 1": "verleihen",
+    "Synonym 2": "anbieten",
+    "English": "rent out",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Mieter",
+    "Synonym 1": "Bewohner",
+    "Synonym 2": "Person die mietet",
+    "English": "tenant",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Nachbar",
+    "Synonym 1": "Nebenbewohner",
+    "Synonym 2": "Person nebenan",
+    "English": "neighbor",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "umziehen",
+    "Synonym 1": "wechseln",
+    "Synonym 2": "neue Wohnung",
+    "English": "move house",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "reparieren",
+    "Synonym 1": "richten",
+    "Synonym 2": "fixen",
+    "English": "repair",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Heizung",
+    "Synonym 1": "Wärme",
+    "Synonym 2": "Heizsystem",
+    "English": "heating",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "recyceln",
+    "Synonym 1": "wiederverwenden",
+    "Synonym 2": "trennen",
+    "English": "recycle",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Müll",
+    "Synonym 1": "Abfall",
+    "Synonym 2": "Waste",
+    "English": "garbage",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sparen",
+    "Synonym 1": "einsparen",
+    "Synonym 2": "reduzieren",
+    "English": "save",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Energie",
+    "Synonym 1": "Strom",
+    "Synonym 2": "Power",
+    "English": "energy",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Klimawandel",
+    "Synonym 1": "Erderwärmung",
+    "Synonym 2": "Climate change",
+    "English": "climate change",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Freiwillige",
+    "Synonym 1": "Ehrenamtlicher",
+    "Synonym 2": "Volunteer",
+    "English": "volunteer",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "helfen",
+    "Synonym 1": "unterstützen",
+    "Synonym 2": "beistehen",
+    "English": "help/support",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Regel",
+    "Synonym 1": "Vorschrift",
+    "Synonym 2": "Gesetz",
+    "English": "rule",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Strafe",
+    "Synonym 1": "Bestrafung",
+    "Synonym 2": "Penalty",
+    "English": "punishment",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gleich",
+    "Synonym 1": "gleichberechtigt",
+    "Synonym 2": "fair",
+    "English": "equal",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sparen",
+    "Synonym 1": "Geld beiseitelegen",
+    "Synonym 2": "zurücklegen",
+    "English": "save money",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "ausgeben",
+    "Synonym 1": "verbrauchen",
+    "Synonym 2": "spendieren",
+    "English": "spend",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Schulden",
+    "Synonym 1": "Debt",
+    "Synonym 2": "offene Rechnung",
+    "English": "debt",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "Kredit",
+    "Synonym 1": "Loan",
+    "Synonym 2": "Darlehen",
+    "English": "loan",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "rechnen",
+    "Synonym 1": "kalkulieren",
+    "Synonym 2": "berechnen",
+    "English": "calculate",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "planen",
+    "Synonym 1": "vorbereiten",
+    "Synonym 2": "organisieren",
+    "English": "plan",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "entscheiden",
+    "Synonym 1": "sich entscheiden",
+    "Synonym 2": "wählen",
+    "English": "decide",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "vergessen",
+    "Synonym 1": "nicht erinnern",
+    "Synonym 2": "verlieren",
+    "English": "forget",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "erinnern",
+    "Synonym 1": "sich erinnern",
+    "Synonym 2": "merken",
+    "English": "remember",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "warten",
+    "Synonym 1": "abwarten",
+    "Synonym 2": "bleiben",
+    "English": "wait",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "eilen",
+    "Synonym 1": "sich beeilen",
+    "Synonym 2": "hetzen",
+    "English": "hurry",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "anrufen",
+    "Synonym 1": "telefonieren",
+    "Synonym 2": "kontaktieren",
+    "English": "call",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schreiben",
+    "Synonym 1": "texten",
+    "Synonym 2": "Nachricht senden",
+    "English": "write/message",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "lesen",
+    "Synonym 1": "durchlesen",
+    "Synonym 2": "studieren",
+    "English": "read",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "hören",
+    "Synonym 1": "zuhören",
+    "Synonym 2": "lauschen",
+    "English": "listen",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sehen",
+    "Synonym 1": "schauen",
+    "Synonym 2": "blicken",
+    "English": "look/see",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sprechen",
+    "Synonym 1": "reden",
+    "Synonym 2": "unterhalten",
+    "English": "speak/talk",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schweigen",
+    "Synonym 1": "still sein",
+    "Synonym 2": "nichts sagen",
+    "English": "be silent",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "lachen",
+    "Synonym 1": "grinsen",
+    "Synonym 2": "freuen",
+    "English": "laugh",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "weinen",
+    "Synonym 1": "heulen",
+    "Synonym 2": "traurig sein",
+    "English": "cry",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "freundlich",
+    "Synonym 1": "nett",
+    "Synonym 2": "lieb",
+    "English": "friendly",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "unfreundlich",
+    "Synonym 1": "unhöflich",
+    "Synonym 2": "grob",
+    "English": "unfriendly",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "ruhig",
+    "Synonym 1": "still",
+    "Synonym 2": "leise",
+    "English": "quiet",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "laut",
+    "Synonym 1": "krachend",
+    "Synonym 2": "noisig",
+    "English": "loud",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sauber",
+    "Synonym 1": "rein",
+    "Synonym 2": "ordentlich",
+    "English": "clean",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schmutzig",
+    "Synonym 1": "dreckig",
+    "Synonym 2": "unsauber",
+    "English": "dirty",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "warm",
+    "Synonym 1": "heiß",
+    "Synonym 2": "wärmer",
+    "English": "warm/hot",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "kalt",
+    "Synonym 1": "frostig",
+    "Synonym 2": "kühl",
+    "English": "cold",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "voll",
+    "Synonym 1": "gefüllt",
+    "Synonym 2": "komplett",
+    "English": "full",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "leer",
+    "Synonym 1": "ausgeleert",
+    "Synonym 2": "ohne Inhalt",
+    "English": "empty",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sicher",
+    "Synonym 1": "geschützt",
+    "Synonym 2": "safe",
+    "English": "safe",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "gefährlich",
+    "Synonym 1": "riskant",
+    "Synonym 2": "unsicher",
+    "English": "dangerous",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "jetzt",
+    "Synonym 1": "sofort",
+    "Synonym 2": "gleich",
+    "English": "now",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "bald",
+    "Synonym 1": "demnächst",
+    "Synonym 2": "in Kürze",
+    "English": "soon",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "schon",
+    "Synonym 1": "bereits",
+    "Synonym 2": "vorher",
+    "English": "already",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "noch",
+    "Synonym 1": "weiterhin",
+    "Synonym 2": "bis jetzt",
+    "English": "still/yet",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "vielleicht",
+    "Synonym 1": "eventuell",
+    "Synonym 2": "möglicherweise",
+    "English": "maybe",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "sicherlich",
+    "Synonym 1": "bestimmt",
+    "Synonym 2": "auf jeden Fall",
+    "English": "definitely",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "leider",
+    "Synonym 1": "unglücklicherweise",
+    "Synonym 2": "schade",
+    "English": "unfortunately",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "glücklicherweise",
+    "Synonym 1": "zum Glück",
+    "Synonym 2": "gottseidank",
+    "English": "fortunately",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "weil",
+    "Synonym 1": "da",
+    "Synonym 2": "aus dem Grund",
+    "English": "because",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "obwohl",
+    "Synonym 1": "trotzdem",
+    "Synonym 2": "dennoch",
+    "English": "although",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "damit",
+    "Synonym 1": "um zu",
+    "Synonym 2": "zwecks",
+    "English": "so that/in order to",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "wenn",
+    "Synonym 1": "falls",
+    "Synonym 2": "im Fall",
+    "English": "if",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "oder",
+    "Synonym 1": "alternativ",
+    "Synonym 2": "",
+    "English": "",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "und",
+    "Synonym 1": "zusätzlich",
+    "Synonym 2": "auch",
+    "English": "and",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "aber",
+    "Synonym 1": "jedoch",
+    "Synonym 2": "allerdings",
+    "English": "but",
+    "Theme": "Synonyms"
+  },
+  {
+    "German Main": "abwesend",
+    "Synonym 1": "nicht da",
+    "Synonym 2": "nicht anwesend",
+    "English": "absent",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Antrag",
+    "Synonym 1": "Formular",
+    "Synonym 2": "Einreichung",
+    "English": "application",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "anwesend",
+    "Synonym 1": "da",
+    "Synonym 2": "vor Ort",
+    "English": "present",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Aushang",
+    "Synonym 1": "Mitteilung",
+    "Synonym 2": "Plakat",
+    "English": "notice",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Ausweis",
+    "Synonym 1": "Identitätskarte",
+    "Synonym 2": "Dokument",
+    "English": "ID card",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Behörde",
+    "Synonym 1": "Amt",
+    "Synonym 2": "Institution",
+    "English": "authority",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Bewilligung",
+    "Synonym 1": "Genehmigung",
+    "Synonym 2": "Erlaubnis",
+    "English": "approval",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "einreichen",
+    "Synonym 1": "abgeben",
+    "Synonym 2": "vorlegen",
+    "English": "to submit",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "eröffnen",
+    "Synonym 1": "starten",
+    "Synonym 2": "beginnen",
+    "English": "to open",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Versicherung",
+    "Synonym 1": "Absicherung",
+    "Synonym 2": "Schutz",
+    "English": "insurance",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Zugang",
+    "Synonym 1": "Eintritt",
+    "Synonym 2": "Eintrittsberechtigung",
+    "English": "access",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "absagen",
+    "Synonym 1": "stornieren",
+    "Synonym 2": "nicht stattfinden lassen",
+    "English": "to cancel",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "absenden",
+    "Synonym 1": "schicken",
+    "Synonym 2": "übertragen",
+    "English": "to send",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bestätigen",
+    "Synonym 1": "zusagen",
+    "Synonym 2": "bestätigen lassen",
+    "English": "to confirm",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bestellen",
+    "Synonym 1": "reservieren",
+    "Synonym 2": "buchen",
+    "English": "to order",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bevorzugen",
+    "Synonym 1": "lieber haben",
+    "Synonym 2": "präferieren",
+    "English": "to prefer",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Einladung",
+    "Synonym 1": "Aufforderung",
+    "Synonym 2": "Einladungsschreiben",
+    "English": "invitation",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Erfahrungsaustausch",
+    "Synonym 1": "Feedback",
+    "Synonym 2": "Diskussion",
+    "English": "experience exchange",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erhalten",
+    "Synonym 1": "bekommen",
+    "Synonym 2": "kriegen",
+    "English": "to receive",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erklären",
+    "Synonym 1": "beschreiben",
+    "Synonym 2": "erläutern",
+    "English": "to explain",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erreichbar",
+    "Synonym 1": "kontaktierbar",
+    "Synonym 2": "verfügbar",
+    "English": "reachable",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erreichen",
+    "Synonym 1": "ankommen",
+    "Synonym 2": "kontaktieren",
+    "English": "to reach",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "finden",
+    "Synonym 1": "entdecken",
+    "Synonym 2": "herausfinden",
+    "English": "to find",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "informieren",
+    "Synonym 1": "mitteilen",
+    "Synonym 2": "Bescheid sagen",
+    "English": "to inform",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "kontaktieren",
+    "Synonym 1": "erreichen",
+    "Synonym 2": "sich melden",
+    "English": "to contact",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "kündigen",
+    "Synonym 1": "beenden",
+    "Synonym 2": "auflösen",
+    "English": "to cancel",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Meldung",
+    "Synonym 1": "Mitteilung",
+    "Synonym 2": "Information",
+    "English": "announcement",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Ratschlag",
+    "Synonym 1": "Tipp",
+    "Synonym 2": "Empfehlung",
+    "English": "advice",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "sich beschweren",
+    "Synonym 1": "reklamieren",
+    "Synonym 2": "",
+    "English": "to complain",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "suchen",
+    "Synonym 1": "benötigen",
+    "Synonym 2": "brauchen",
+    "English": "to search",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "teilnehmen",
+    "Synonym 1": "mitmachen",
+    "Synonym 2": "dabei sein",
+    "English": "to participate",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "vereinbaren",
+    "Synonym 1": "abmachen",
+    "Synonym 2": "festlegen",
+    "English": "to arrange",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verschieben",
+    "Synonym 1": "verlegen",
+    "Synonym 2": "später machen",
+    "English": "to postpone",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "vorschlagen",
+    "Synonym 1": "empfehlen",
+    "Synonym 2": "Idee geben",
+    "English": "to suggest",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "widersprechen",
+    "Synonym 1": "nein sagen",
+    "Synonym 2": "nicht akzeptieren",
+    "English": "to disagree",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "zustimmen",
+    "Synonym 1": "einverstanden sein",
+    "Synonym 2": "akzeptieren",
+    "English": "to agree",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verbrauchen",
+    "Synonym 1": "nutzen",
+    "Synonym 2": "aufbrauchen",
+    "English": "to consume",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "benutzen",
+    "Synonym 1": "verwenden",
+    "Synonym 2": "nutzen",
+    "English": "to use",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "beständig",
+    "Synonym 1": "dauerhaft",
+    "Synonym 2": "stabil",
+    "English": "constant",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bisher",
+    "Synonym 1": "bis jetzt",
+    "Synonym 2": "bisherig",
+    "English": "until now",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "dauerhaft",
+    "Synonym 1": "ständig",
+    "Synonym 2": "fest",
+    "English": "permanent",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "einfach",
+    "Synonym 1": "leicht",
+    "Synonym 2": "unkompliziert",
+    "English": "simple",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "einzeln",
+    "Synonym 1": "separat",
+    "Synonym 2": "alleine",
+    "English": "individually",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "entfernt",
+    "Synonym 1": "weg",
+    "Synonym 2": "gelöscht",
+    "English": "removed",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "eventuell",
+    "Synonym 1": "vielleicht",
+    "Synonym 2": "möglicherweise",
+    "English": "possibly",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "gemeinsam",
+    "Synonym 1": "zusammen",
+    "Synonym 2": "miteinander",
+    "English": "together",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "häufig",
+    "Synonym 1": "oft",
+    "Synonym 2": "regelmäßig",
+    "English": "often",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "hinzufügen",
+    "Synonym 1": "ergänzen",
+    "Synonym 2": "dazugeben",
+    "English": "to add",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "kaum",
+    "Synonym 1": "fast nicht",
+    "Synonym 2": "selten",
+    "English": "barely",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "kompliziert",
+    "Synonym 1": "schwierig",
+    "Synonym 2": "nicht einfach",
+    "English": "complex",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "regelmäßig",
+    "Synonym 1": "oft",
+    "Synonym 2": "konstant",
+    "English": "regularly",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "selten",
+    "Synonym 1": "kaum",
+    "Synonym 2": "nicht oft",
+    "English": "rarely",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "überprüfen",
+    "Synonym 1": "kontrollieren",
+    "Synonym 2": "ansehen",
+    "English": "to check",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "ungefähr",
+    "Synonym 1": "circa",
+    "Synonym 2": "etwa",
+    "English": "approximately",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "unterschiedlich",
+    "Synonym 1": "verschieden",
+    "Synonym 2": "variierend",
+    "English": "different",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "krank",
+    "Synonym 1": "nicht gesund",
+    "Synonym 2": "gesundheitliche Probleme",
+    "English": "sick",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Medikament",
+    "Synonym 1": "Arznei",
+    "Synonym 2": "Tabletten",
+    "English": "medicine",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Rezept",
+    "Synonym 1": "Verschreibung",
+    "Synonym 2": "",
+    "English": "prescription",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Schmerzen",
+    "Synonym 1": "Beschwerden",
+    "Synonym 2": "",
+    "English": "pain",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Untersuchung",
+    "Synonym 1": "Termin",
+    "Synonym 2": "Kontrolle",
+    "English": "checkup",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verletzt",
+    "Synonym 1": "wehgetan",
+    "Synonym 2": "Unfall gehabt",
+    "English": "injured",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Besichtigung",
+    "Synonym 1": "ansehen",
+    "Synonym 2": "anschauen",
+    "English": "viewing",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Bewohner",
+    "Synonym 1": "Mieter",
+    "Synonym 2": "Anwohner",
+    "English": "resident",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Kaution",
+    "Synonym 1": "Sicherheit",
+    "Synonym 2": "",
+    "English": "deposit",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Miete",
+    "Synonym 1": "Monatskosten",
+    "Synonym 2": "",
+    "English": "rent",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Nebenkosten",
+    "Synonym 1": "zusätzliche Kosten",
+    "Synonym 2": "",
+    "English": "additional costs",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Reinigung",
+    "Synonym 1": "Sauberkeit",
+    "Synonym 2": "Putzen",
+    "English": "cleaning",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "abbuchen",
+    "Synonym 1": "abziehen",
+    "Synonym 2": "automatisch zahlen",
+    "English": "to deduct",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Beitrag",
+    "Synonym 1": "Gebühr",
+    "Synonym 2": "Zahlung",
+    "English": "payment",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bezahlen",
+    "Synonym 1": "zahlen",
+    "Synonym 2": "entrichten",
+    "English": "to pay",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Ermäßigung",
+    "Synonym 1": "Rabatt",
+    "Synonym 2": "Preisnachlass",
+    "English": "discount",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Gebühr",
+    "Synonym 1": "Kosten",
+    "Synonym 2": "Preis",
+    "English": "fee",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "inklusive",
+    "Synonym 1": "enthalten",
+    "Synonym 2": "mit dabei",
+    "English": "included",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "kostenlos",
+    "Synonym 1": "gratis",
+    "Synonym 2": "umsonst",
+    "English": "free",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "sparen",
+    "Synonym 1": "weniger ausgeben",
+    "Synonym 2": "aufbewahren",
+    "English": "to save",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "überweisen",
+    "Synonym 1": "Geld senden",
+    "Synonym 2": "Zahlung machen",
+    "English": "to transfer",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "allerdings",
+    "Synonym 1": "aber",
+    "Synonym 2": "jedoch",
+    "English": "however",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "außerdem",
+    "Synonym 1": "zusätzlich",
+    "Synonym 2": "dazu",
+    "English": "besides",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "dennoch",
+    "Synonym 1": "trotzdem",
+    "Synonym 2": "jedoch",
+    "English": "nevertheless",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "deshalb",
+    "Synonym 1": "darum",
+    "Synonym 2": "deswegen",
+    "English": "therefore",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "übersichtlich",
+    "Synonym 1": "leicht verständlich",
+    "Synonym 2": "gut zu sehen",
+    "English": "clear",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Zusammenfassung",
+    "Synonym 1": "Kurztext",
+    "Synonym 2": "Überblick",
+    "English": "summary",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "zwar",
+    "Synonym 1": "allerdings",
+    "Synonym 2": "jedoch",
+    "English": "indeed",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "beachten",
+    "Synonym 1": "aufpassen",
+    "Synonym 2": "berücksichtigen",
+    "English": "to observe",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bedingt",
+    "Synonym 1": "abhängig",
+    "Synonym 2": "abhängig von",
+    "English": "conditional",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Bedingung",
+    "Synonym 1": "Voraussetzung",
+    "Synonym 2": "nötig",
+    "English": "condition",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Beschränkung",
+    "Synonym 1": "Limit",
+    "Synonym 2": "Begrenzung",
+    "English": "restriction",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "einhalten",
+    "Synonym 1": "befolgen",
+    "Synonym 2": "Regeln beachten",
+    "English": "to follow",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erforderlich",
+    "Synonym 1": "notwendig",
+    "Synonym 2": "Pflicht",
+    "English": "required",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erhöhen",
+    "Synonym 1": "mehr machen",
+    "Synonym 2": "steigern",
+    "English": "to increase",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erlaubnis",
+    "Synonym 1": "Genehmigung",
+    "Synonym 2": "Zustimmung",
+    "English": "permission",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erlaubt",
+    "Synonym 1": "gestattet",
+    "Synonym 2": "zulässig",
+    "English": "allowed",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "geeignet",
+    "Synonym 1": "passend",
+    "Synonym 2": "ideal",
+    "English": "suitable",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "gesperrt",
+    "Synonym 1": "geschlossen",
+    "Synonym 2": "nicht zugänglich",
+    "English": "blocked",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "gültig",
+    "Synonym 1": "akzeptiert",
+    "Synonym 2": "verwendbar",
+    "English": "valid",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "höchstens",
+    "Synonym 1": "nicht mehr als",
+    "Synonym 2": "maximal",
+    "English": "at most",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "mindestens",
+    "Synonym 1": "wenigstens",
+    "Synonym 2": "",
+    "English": "at least",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "mindestens",
+    "Synonym 1": "wenigstens",
+    "Synonym 2": "nicht weniger als",
+    "English": "minimum",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "möglich",
+    "Synonym 1": "machbar",
+    "Synonym 2": "erlaubt",
+    "English": "possible",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "nur",
+    "Synonym 1": "ausschließlich",
+    "Synonym 2": "lediglich",
+    "English": "only",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Pflicht",
+    "Synonym 1": "notwendig",
+    "Synonym 2": "erforderlich",
+    "English": "obligation",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Rücksicht",
+    "Synonym 1": "Achtung",
+    "Synonym 2": "Aufmerksamkeit",
+    "English": "consideration",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "senken",
+    "Synonym 1": "verringern",
+    "Synonym 2": "reduzieren",
+    "English": "to reduce",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "unbedingt",
+    "Synonym 1": "auf jeden Fall",
+    "Synonym 2": "sicher",
+    "English": "absolutely",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "ungeeignet",
+    "Synonym 1": "nicht geeignet",
+    "Synonym 2": "falsch",
+    "English": "unsuitable",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "ungültig",
+    "Synonym 1": "nicht gültig",
+    "Synonym 2": "nicht akzeptiert",
+    "English": "invalid",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "unmöglich",
+    "Synonym 1": "nicht machbar",
+    "Synonym 2": "",
+    "English": "impossible",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verboten",
+    "Synonym 1": "untersagt",
+    "Synonym 2": "nicht erlaubt",
+    "English": "forbidden",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verkürzen",
+    "Synonym 1": "reduzieren",
+    "Synonym 2": "kürzer machen",
+    "English": "to shorten",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verlängern",
+    "Synonym 1": "weiterführen",
+    "Synonym 2": "ausdehnen",
+    "English": "to extend",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "vermeiden",
+    "Synonym 1": "nicht tun",
+    "Synonym 2": "aus dem Weg gehen",
+    "English": "to avoid",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Verordnung",
+    "Synonym 1": "Regel",
+    "Synonym 2": "Gesetz",
+    "English": "regulation",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Vorschrift",
+    "Synonym 1": "Regel",
+    "Synonym 2": "Pflicht",
+    "English": "instruction",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "vorübergehend",
+    "Synonym 1": "kurzfristig",
+    "Synonym 2": "momentan",
+    "English": "temporary",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "weder noch",
+    "Synonym 1": "keins von beiden",
+    "Synonym 2": "",
+    "English": "neither nor",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "bereitstellen",
+    "Synonym 1": "zur Verfügung stellen",
+    "Synonym 2": "anbieten",
+    "English": "to provide",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "abholung",
+    "Synonym 1": "holen",
+    "Synonym 2": "abnehmen",
+    "English": "pickup",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Angebot",
+    "Synonym 1": "Aktion",
+    "Synonym 2": "Sonderpreis",
+    "English": "offer",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "auswählen",
+    "Synonym 1": "entscheiden",
+    "Synonym 2": "wählen",
+    "English": "to choose",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "beschädigt",
+    "Synonym 1": "kaputt",
+    "Synonym 2": "defekt",
+    "English": "damaged",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Bewertung",
+    "Synonym 1": "Kritik",
+    "Synonym 2": "Meinung",
+    "English": "review",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Garantie",
+    "Synonym 1": "Gewährleistung",
+    "Synonym 2": "",
+    "English": "warranty",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Hersteller",
+    "Synonym 1": "Produzent",
+    "Synonym 2": "Firma",
+    "English": "manufacturer",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Kunde",
+    "Synonym 1": "Klient",
+    "Synonym 2": "Gast",
+    "English": "customer",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Lieferant",
+    "Synonym 1": "Zulieferer",
+    "Synonym 2": "Anbieter",
+    "English": "supplier",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Lieferung",
+    "Synonym 1": "Versand",
+    "Synonym 2": "Zustellung",
+    "English": "delivery",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Lieferzeit",
+    "Synonym 1": "Versanddauer",
+    "Synonym 2": "Zustellzeit",
+    "English": "delivery time",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Produkt",
+    "Synonym 1": "Ware",
+    "Synonym 2": "Artikel",
+    "English": "product",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "reduziert",
+    "Synonym 1": "billiger",
+    "Synonym 2": "günstiger",
+    "English": "discounted",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Reklamation",
+    "Synonym 1": "Beschwerde",
+    "Synonym 2": "Problem melden",
+    "English": "complaint",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Reparatur",
+    "Synonym 1": "Instandsetzung",
+    "Synonym 2": "fixen",
+    "English": "repair",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Rückgabe",
+    "Synonym 1": "Umtausch",
+    "Synonym 2": "",
+    "English": "return",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Sparangebot",
+    "Synonym 1": "Rabattaktion",
+    "Synonym 2": "Sonderpreis",
+    "English": "special offer",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verfügbar",
+    "Synonym 1": "frei",
+    "Synonym 2": "vorhanden",
+    "English": "available",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Verfügbarkeit",
+    "Synonym 1": "frei",
+    "Synonym 2": "vorhanden",
+    "English": "availability",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Zustellung",
+    "Synonym 1": "Lieferung",
+    "Synonym 2": "Versand",
+    "English": "delivery",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "ab sofort",
+    "Synonym 1": "startet jetzt",
+    "Synonym 2": "",
+    "English": "from now",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "anschließend",
+    "Synonym 1": "danach",
+    "Synonym 2": "im Anschluss",
+    "English": "afterwards",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "dauern",
+    "Synonym 1": "Zeit brauchen",
+    "Synonym 2": "anhalten",
+    "English": "to last",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "erst",
+    "Synonym 1": "nur am Anfang",
+    "Synonym 2": "zu Beginn",
+    "English": "first",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "frühestens",
+    "Synonym 1": "ab dem",
+    "Synonym 2": "erst ab",
+    "English": "not before",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "geschlossen",
+    "Synonym 1": "zu",
+    "Synonym 2": "nicht geöffnet",
+    "English": "closed",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "gleichzeitig",
+    "Synonym 1": "zur selben Zeit",
+    "Synonym 2": "parallel",
+    "English": "simultaneously",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "nachher",
+    "Synonym 1": "später",
+    "Synonym 2": "anschließend",
+    "English": "after",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Öffnungszeiten",
+    "Synonym 1": "Zeiten wann geöffnet",
+    "Synonym 2": "",
+    "English": "opening hours",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "rechtzeitig",
+    "Synonym 1": "pünktlich",
+    "Synonym 2": "früh genug",
+    "English": "on time",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "sofort",
+    "Synonym 1": "gleich",
+    "Synonym 2": "direkt",
+    "English": "immediately",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "später",
+    "Synonym 1": "danach",
+    "Synonym 2": "im Anschluss",
+    "English": "later",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "spätestens",
+    "Synonym 1": "bis zum",
+    "Synonym 2": "nicht später als",
+    "English": "at the latest",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "täglich",
+    "Synonym 1": "jeden Tag",
+    "Synonym 2": "",
+    "English": "daily",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Termin",
+    "Synonym 1": "Vereinbarung",
+    "Synonym 2": "Absprache",
+    "English": "appointment",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "vorher",
+    "Synonym 1": "zuvor",
+    "Synonym 2": "davor",
+    "English": "before",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "werktags",
+    "Synonym 1": "Montag bis Freitag",
+    "Synonym 2": "",
+    "English": "weekdays",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Zeitraum",
+    "Synonym 1": "Dauer",
+    "Synonym 2": "Zeitraum von bis",
+    "English": "time period",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "zunächst",
+    "Synonym 1": "erst",
+    "Synonym 2": "zuerst",
+    "English": "at first",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Abfahrt",
+    "Synonym 1": "Start",
+    "Synonym 2": "losfahren",
+    "English": "departure",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Ankunft",
+    "Synonym 1": "kommt an",
+    "Synonym 2": "erreicht",
+    "English": "arrival",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Bus",
+    "Synonym 1": "Linie",
+    "Synonym 2": "Verbindung",
+    "English": "bus",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Fahrkarte",
+    "Synonym 1": "Ticket",
+    "Synonym 2": "Karte",
+    "English": "ticket",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "stillgelegt",
+    "Synonym 1": "außer Betrieb",
+    "Synonym 2": "deaktiviert",
+    "English": "closed",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Störung",
+    "Synonym 1": "Problem",
+    "Synonym 2": "Ausfall",
+    "English": "disruption",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Umsteigen",
+    "Synonym 1": "Anschluss nehmen",
+    "Synonym 2": "wechseln",
+    "English": "change trains",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Verkehr",
+    "Synonym 1": "Transport",
+    "Synonym 2": "Straßenbetrieb",
+    "English": "traffic",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verspätet",
+    "Synonym 1": "später",
+    "Synonym 2": "Verzögerung",
+    "English": "delayed",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Zug",
+    "Synonym 1": "Bahn",
+    "Synonym 2": "Regionalbahn",
+    "English": "train",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Bewerbung",
+    "Synonym 1": "Unterlagen",
+    "Synonym 2": "Lebenslauf schicken",
+    "English": "application",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Erfahrung",
+    "Synonym 1": "Kenntnisse",
+    "Synonym 2": "Praxis",
+    "English": "experience",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Fortbildung",
+    "Synonym 1": "Weiterbildung",
+    "Synonym 2": "Schulung",
+    "English": "training course",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Gehalt",
+    "Synonym 1": "Lohn",
+    "Synonym 2": "Einkommen",
+    "English": "salary",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Leitung",
+    "Synonym 1": "Führung",
+    "Synonym 2": "Verantwortliche",
+    "English": "management",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Mitarbeiter",
+    "Synonym 1": "Angestellter",
+    "Synonym 2": "Kollege",
+    "English": "employee",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Rücksprache",
+    "Synonym 1": "Absprache",
+    "Synonym 2": "Gespräch",
+    "English": "consultation",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Stelle",
+    "Synonym 1": "Arbeitsplatz",
+    "Synonym 2": "",
+    "English": "job",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Teilzeit",
+    "Synonym 1": "halbtags",
+    "Synonym 2": "",
+    "English": "part-time",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verbessern",
+    "Synonym 1": "optimieren",
+    "Synonym 2": "besser machen",
+    "English": "to improve",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Versammlung",
+    "Synonym 1": "Treffen",
+    "Synonym 2": "Zusammenkunft",
+    "English": "meeting",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "verschlechtern",
+    "Synonym 1": "schlechter machen",
+    "Synonym 2": "reduzieren",
+    "English": "to worsen",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Vertrag",
+    "Synonym 1": "Vereinbarung",
+    "Synonym 2": "",
+    "English": "contract",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "Vollzeit",
+    "Synonym 1": "ganztags",
+    "Synonym 2": "",
+    "English": "full-time",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
+    "German Main": "zuständig",
+    "Synonym 1": "verantwortlich",
+    "Synonym 2": "in Charge",
+    "English": "responsible",
+    "Theme": "Synonyms_Must-Learn"
+  },
+  {
     "infinitiv": "abschließen (ein Studium)",
     "Präsens (er)": "er schließt ab",
     "Präteritum (er)": "er schloss ab",
@@ -47253,2052 +50109,6 @@
     "theme": "sentences"
   },  
   {
-    "Article": "ab sofort",
-    "German": "startet jetzt",
-    "English": "from now",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "abbuchen",
-    "German": "abziehen",
-    "English": "to deduct",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "abbuchen",
-    "German": "automatisch zahlen",
-    "English": "to deduct",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Abfahrt",
-    "German": "Start",
-    "English": "departure",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Abfahrt",
-    "German": "losfahren",
-    "English": "departure",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "abholung",
-    "German": "holen",
-    "English": "pickup",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "abholung",
-    "German": "abnehmen",
-    "English": "pickup",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "absagen",
-    "German": "stornieren",
-    "English": "to cancel",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "absagen",
-    "German": "nicht stattfinden lassen",
-    "English": "to cancel",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "absenden",
-    "German": "schicken",
-    "English": "to send",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "absenden",
-    "German": "übertragen",
-    "English": "to send",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "abwesend",
-    "German": "nicht da",
-    "English": "absent",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "abwesend",
-    "German": "nicht anwesend",
-    "English": "absent",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "allerdings",
-    "German": "aber",
-    "English": "however",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "allerdings",
-    "German": "jedoch",
-    "English": "however",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Angebot",
-    "German": "Aktion",
-    "English": "offer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Angebot",
-    "German": "Sonderpreis",
-    "English": "offer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ankunft",
-    "German": "kommt an",
-    "English": "arrival",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ankunft",
-    "German": "erreicht",
-    "English": "arrival",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "anschließend",
-    "German": "danach",
-    "English": "afterwards",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "anschließend",
-    "German": "im Anschluss",
-    "English": "afterwards",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Antrag",
-    "German": "Formular",
-    "English": "application",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Antrag",
-    "German": "Einreichung",
-    "English": "application",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "anwesend",
-    "German": "da",
-    "English": "present",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "anwesend",
-    "German": "vor Ort",
-    "English": "present",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Aushang",
-    "German": "Mitteilung",
-    "English": "notice",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Aushang",
-    "German": "Plakat",
-    "English": "notice",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "außerdem",
-    "German": "zusätzlich",
-    "English": "besides",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "außerdem",
-    "German": "dazu",
-    "English": "besides",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "auswählen",
-    "German": "entscheiden",
-    "English": "to choose",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "auswählen",
-    "German": "wählen",
-    "English": "to choose",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ausweis",
-    "German": "Identitätskarte",
-    "English": "ID card",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ausweis",
-    "German": "Dokument",
-    "English": "ID card",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "beachten",
-    "German": "aufpassen",
-    "English": "to observe",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "beachten",
-    "German": "berücksichtigen",
-    "English": "to observe",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bedingt",
-    "German": "abhängig",
-    "English": "conditional",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bedingt",
-    "German": "abhängig von",
-    "English": "conditional",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bedingung",
-    "German": "Voraussetzung",
-    "English": "condition",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bedingung",
-    "German": "nötig",
-    "English": "condition",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Behörde",
-    "German": "Amt",
-    "English": "authority",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Behörde",
-    "German": "Institution",
-    "English": "authority",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Beitrag",
-    "German": "Gebühr",
-    "English": "payment",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Beitrag",
-    "German": "Zahlung",
-    "English": "payment",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "benutzen",
-    "German": "verwenden",
-    "English": "to use",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "benutzen",
-    "German": "nutzen",
-    "English": "to use",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bereitstellen",
-    "German": "zur Verfügung stellen",
-    "English": "to provide",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bereitstellen",
-    "German": "anbieten",
-    "English": "to provide",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "beschädigt",
-    "German": "kaputt",
-    "English": "damaged",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "beschädigt",
-    "German": "defekt",
-    "English": "damaged",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Beschränkung",
-    "German": "Limit",
-    "English": "restriction",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Beschränkung",
-    "German": "Begrenzung",
-    "English": "restriction",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Besichtigung",
-    "German": "ansehen",
-    "English": "viewing",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Besichtigung",
-    "German": "anschauen",
-    "English": "viewing",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "beständig",
-    "German": "dauerhaft",
-    "English": "constant",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "beständig",
-    "German": "stabil",
-    "English": "constant",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bestätigen",
-    "German": "zusagen",
-    "English": "to confirm",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bestätigen",
-    "German": "bestätigen lassen",
-    "English": "to confirm",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bestellen",
-    "German": "reservieren",
-    "English": "to order",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bestellen",
-    "German": "buchen",
-    "English": "to order",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bevorzugen",
-    "German": "lieber haben",
-    "English": "to prefer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bevorzugen",
-    "German": "präferieren",
-    "English": "to prefer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewerbung",
-    "German": "Unterlagen",
-    "English": "application",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewerbung",
-    "German": "Lebenslauf schicken",
-    "English": "application",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewertung",
-    "German": "Kritik",
-    "English": "review",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewertung",
-    "German": "Meinung",
-    "English": "review",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewilligung",
-    "German": "Genehmigung",
-    "English": "approval",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewilligung",
-    "German": "Erlaubnis",
-    "English": "approval",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewohner",
-    "German": "Mieter",
-    "English": "resident",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bewohner",
-    "German": "Anwohner",
-    "English": "resident",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bezahlen",
-    "German": "zahlen",
-    "English": "to pay",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bezahlen",
-    "German": "entrichten",
-    "English": "to pay",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bisher",
-    "German": "bis jetzt",
-    "English": "until now",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "bisher",
-    "German": "bisherig",
-    "English": "until now",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bus",
-    "German": "Linie",
-    "English": "bus",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Bus",
-    "German": "Verbindung",
-    "English": "bus",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "dauerhaft",
-    "German": "ständig",
-    "English": "permanent",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "dauerhaft",
-    "German": "fest",
-    "English": "permanent",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "dauern",
-    "German": "Zeit brauchen",
-    "English": "to last",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "dauern",
-    "German": "anhalten",
-    "English": "to last",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "dennoch",
-    "German": "trotzdem",
-    "English": "nevertheless",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "dennoch",
-    "German": "jedoch",
-    "English": "nevertheless",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "deshalb",
-    "German": "darum",
-    "English": "therefore",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "deshalb",
-    "German": "deswegen",
-    "English": "therefore",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einfach",
-    "German": "leicht",
-    "English": "simple",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einfach",
-    "German": "unkompliziert",
-    "English": "simple",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einhalten",
-    "German": "befolgen",
-    "English": "to follow",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einhalten",
-    "German": "Regeln beachten",
-    "English": "to follow",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Einladung",
-    "German": "Aufforderung",
-    "English": "invitation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Einladung",
-    "German": "Einladungsschreiben",
-    "English": "invitation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einreichen",
-    "German": "abgeben",
-    "English": "to submit",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einreichen",
-    "German": "vorlegen",
-    "English": "to submit",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einzeln",
-    "German": "separat",
-    "English": "individually",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "einzeln",
-    "German": "alleine",
-    "English": "individually",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "entfernt",
-    "German": "weg",
-    "English": "removed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "entfernt",
-    "German": "gelöscht",
-    "English": "removed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Erfahrung",
-    "German": "Kenntnisse",
-    "English": "experience",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Erfahrung",
-    "German": "Praxis",
-    "English": "experience",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Erfahrungsaustausch",
-    "German": "Feedback",
-    "English": "experience exchange",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Erfahrungsaustausch",
-    "German": "Diskussion",
-    "English": "experience exchange",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erforderlich",
-    "German": "notwendig",
-    "English": "required",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erforderlich",
-    "German": "Pflicht",
-    "English": "required",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erhalten",
-    "German": "bekommen",
-    "English": "to receive",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erhalten",
-    "German": "kriegen",
-    "English": "to receive",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erhöhen",
-    "German": "mehr machen",
-    "English": "to increase",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erhöhen",
-    "German": "steigern",
-    "English": "to increase",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erklären",
-    "German": "beschreiben",
-    "English": "to explain",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erklären",
-    "German": "erläutern",
-    "English": "to explain",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erlaubnis",
-    "German": "Genehmigung",
-    "English": "permission",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erlaubnis",
-    "German": "Zustimmung",
-    "English": "permission",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erlaubt",
-    "German": "gestattet",
-    "English": "allowed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erlaubt",
-    "German": "zulässig",
-    "English": "allowed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ermäßigung",
-    "German": "Rabatt",
-    "English": "discount",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ermäßigung",
-    "German": "Preisnachlass",
-    "English": "discount",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "eröffnen",
-    "German": "starten",
-    "English": "to open",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "eröffnen",
-    "German": "beginnen",
-    "English": "to open",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erreichbar",
-    "German": "kontaktierbar",
-    "English": "reachable",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erreichbar",
-    "German": "verfügbar",
-    "English": "reachable",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erreichen",
-    "German": "ankommen",
-    "English": "to reach",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erreichen",
-    "German": "kontaktieren",
-    "English": "to reach",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erst",
-    "German": "nur am Anfang",
-    "English": "first",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "erst",
-    "German": "zu Beginn",
-    "English": "first",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "eventuell",
-    "German": "vielleicht",
-    "English": "possibly",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "eventuell",
-    "German": "möglicherweise",
-    "English": "possibly",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Fahrkarte",
-    "German": "Ticket",
-    "English": "ticket",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Fahrkarte",
-    "German": "Karte",
-    "English": "ticket",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "finden",
-    "German": "entdecken",
-    "English": "to find",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "finden",
-    "German": "herausfinden",
-    "English": "to find",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Fortbildung",
-    "German": "Weiterbildung",
-    "English": "training course",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Fortbildung",
-    "German": "Schulung",
-    "English": "training course",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "frühestens",
-    "German": "ab dem",
-    "English": "not before",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "frühestens",
-    "German": "erst ab",
-    "English": "not before",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Garantie",
-    "German": "Gewährleistung",
-    "English": "warranty",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Gebühr",
-    "German": "Kosten",
-    "English": "fee",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Gebühr",
-    "German": "Preis",
-    "English": "fee",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "geeignet",
-    "German": "passend",
-    "English": "suitable",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "geeignet",
-    "German": "ideal",
-    "English": "suitable",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Gehalt",
-    "German": "Lohn",
-    "English": "salary",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Gehalt",
-    "German": "Einkommen",
-    "English": "salary",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gemeinsam",
-    "German": "zusammen",
-    "English": "together",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gemeinsam",
-    "German": "miteinander",
-    "English": "together",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "geschlossen",
-    "German": "zu",
-    "English": "closed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "geschlossen",
-    "German": "nicht geöffnet",
-    "English": "closed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gesperrt",
-    "German": "geschlossen",
-    "English": "blocked",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gesperrt",
-    "German": "nicht zugänglich",
-    "English": "blocked",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gleichzeitig",
-    "German": "zur selben Zeit",
-    "English": "simultaneously",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gleichzeitig",
-    "German": "parallel",
-    "English": "simultaneously",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gültig",
-    "German": "akzeptiert",
-    "English": "valid",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "gültig",
-    "German": "verwendbar",
-    "English": "valid",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "häufig",
-    "German": "oft",
-    "English": "often",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "häufig",
-    "German": "regelmäßig",
-    "English": "often",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Hersteller",
-    "German": "Produzent",
-    "English": "manufacturer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Hersteller",
-    "German": "Firma",
-    "English": "manufacturer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "hinzufügen",
-    "German": "ergänzen",
-    "English": "to add",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "hinzufügen",
-    "German": "dazugeben",
-    "English": "to add",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "höchstens",
-    "German": "nicht mehr als",
-    "English": "at most",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "höchstens",
-    "German": "maximal",
-    "English": "at most",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "informieren",
-    "German": "mitteilen",
-    "English": "to inform",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "informieren",
-    "German": "Bescheid sagen",
-    "English": "to inform",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "inklusive",
-    "German": "enthalten",
-    "English": "included",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "inklusive",
-    "German": "mit dabei",
-    "English": "included",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kaum",
-    "German": "fast nicht",
-    "English": "barely",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kaum",
-    "German": "selten",
-    "English": "barely",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Kaution",
-    "German": "Sicherheit",
-    "English": "deposit",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kompliziert",
-    "German": "schwierig",
-    "English": "complex",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kompliziert",
-    "German": "nicht einfach",
-    "English": "complex",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kontaktieren",
-    "German": "erreichen",
-    "English": "to contact",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kontaktieren",
-    "German": "sich melden",
-    "English": "to contact",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kostenlos",
-    "German": "gratis",
-    "English": "free",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kostenlos",
-    "German": "umsonst",
-    "English": "free",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "krank",
-    "German": "nicht gesund",
-    "English": "sick",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "krank",
-    "German": "gesundheitliche Probleme",
-    "English": "sick",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Kunde",
-    "German": "Klient",
-    "English": "customer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Kunde",
-    "German": "Gast",
-    "English": "customer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kündigen",
-    "German": "beenden",
-    "English": "to cancel",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "kündigen",
-    "German": "auflösen",
-    "English": "to cancel",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Leitung",
-    "German": "Führung",
-    "English": "management",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Leitung",
-    "German": "Verantwortliche",
-    "English": "management",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Lieferant",
-    "German": "Zulieferer",
-    "English": "supplier",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Lieferant",
-    "German": "Anbieter",
-    "English": "supplier",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Lieferung",
-    "German": "Versand",
-    "English": "delivery",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Lieferung",
-    "German": "Zustellung",
-    "English": "delivery",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Lieferzeit",
-    "German": "Versanddauer",
-    "English": "delivery time",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Lieferzeit",
-    "German": "Zustellzeit",
-    "English": "delivery time",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Medikament",
-    "German": "Arznei",
-    "English": "medicine",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Medikament",
-    "German": "Tabletten",
-    "English": "medicine",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Meldung",
-    "German": "Mitteilung",
-    "English": "announcement",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Meldung",
-    "German": "Information",
-    "English": "announcement",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Miete",
-    "German": "Monatskosten",
-    "English": "rent",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "mindestens",
-    "German": "wenigstens",
-    "English": "at least",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "mindestens",
-    "German": "wenigstens",
-    "English": "minimum",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "mindestens",
-    "German": "nicht weniger als",
-    "English": "minimum",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Mitarbeiter",
-    "German": "Angestellter",
-    "English": "employee",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Mitarbeiter",
-    "German": "Kollege",
-    "English": "employee",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "möglich",
-    "German": "machbar",
-    "English": "possible",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "möglich",
-    "German": "erlaubt",
-    "English": "possible",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "nachher",
-    "German": "später",
-    "English": "after",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "nachher",
-    "German": "anschließend",
-    "English": "after",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Nebenkosten",
-    "German": "zusätzliche Kosten",
-    "English": "additional costs",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "nur",
-    "German": "ausschließlich",
-    "English": "only",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "nur",
-    "German": "lediglich",
-    "English": "only",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Öffnungszeiten",
-    "German": "Zeiten wann geöffnet",
-    "English": "opening hours",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Pflicht",
-    "German": "notwendig",
-    "English": "obligation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Pflicht",
-    "German": "erforderlich",
-    "English": "obligation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Produkt",
-    "German": "Ware",
-    "English": "product",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Produkt",
-    "German": "Artikel",
-    "English": "product",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ratschlag",
-    "German": "Tipp",
-    "English": "advice",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Ratschlag",
-    "German": "Empfehlung",
-    "English": "advice",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "rechtzeitig",
-    "German": "pünktlich",
-    "English": "on time",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "rechtzeitig",
-    "German": "früh genug",
-    "English": "on time",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "reduziert",
-    "German": "billiger",
-    "English": "discounted",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "reduziert",
-    "German": "günstiger",
-    "English": "discounted",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "regelmäßig",
-    "German": "oft",
-    "English": "regularly",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "regelmäßig",
-    "German": "konstant",
-    "English": "regularly",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Reinigung",
-    "German": "Sauberkeit",
-    "English": "cleaning",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Reinigung",
-    "German": "Putzen",
-    "English": "cleaning",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Reklamation",
-    "German": "Beschwerde",
-    "English": "complaint",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Reklamation",
-    "German": "Problem melden",
-    "English": "complaint",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Reparatur",
-    "German": "Instandsetzung",
-    "English": "repair",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Reparatur",
-    "German": "fixen",
-    "English": "repair",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Rezept",
-    "German": "Verschreibung",
-    "English": "prescription",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Rückgabe",
-    "German": "Umtausch",
-    "English": "return",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Rücksicht",
-    "German": "Achtung",
-    "English": "consideration",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Rücksicht",
-    "German": "Aufmerksamkeit",
-    "English": "consideration",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Rücksprache",
-    "German": "Absprache",
-    "English": "consultation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Rücksprache",
-    "German": "Gespräch",
-    "English": "consultation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Schmerzen",
-    "German": "Beschwerden",
-    "English": "pain",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "selten",
-    "German": "kaum",
-    "English": "rarely",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "selten",
-    "German": "nicht oft",
-    "English": "rarely",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "senken",
-    "German": "verringern",
-    "English": "to reduce",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "senken",
-    "German": "reduzieren",
-    "English": "to reduce",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "sich beschweren",
-    "German": "reklamieren",
-    "English": "to complain",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "sofort",
-    "German": "gleich",
-    "English": "immediately",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "sofort",
-    "German": "direkt",
-    "English": "immediately",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Sparangebot",
-    "German": "Rabattaktion",
-    "English": "special offer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Sparangebot",
-    "German": "Sonderpreis",
-    "English": "special offer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "sparen",
-    "German": "weniger ausgeben",
-    "English": "to save",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "sparen",
-    "German": "aufbewahren",
-    "English": "to save",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "später",
-    "German": "danach",
-    "English": "later",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "später",
-    "German": "im Anschluss",
-    "English": "later",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "spätestens",
-    "German": "bis zum",
-    "English": "at the latest",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "spätestens",
-    "German": "nicht später als",
-    "English": "at the latest",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Stelle",
-    "German": "Arbeitsplatz",
-    "English": "job",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "stillgelegt",
-    "German": "außer Betrieb",
-    "English": "closed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "stillgelegt",
-    "German": "deaktiviert",
-    "English": "closed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Störung",
-    "German": "Problem",
-    "English": "disruption",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Störung",
-    "German": "Ausfall",
-    "English": "disruption",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "suchen",
-    "German": "benötigen",
-    "English": "to search",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "suchen",
-    "German": "brauchen",
-    "English": "to search",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "täglich",
-    "German": "jeden Tag",
-    "English": "daily",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "teilnehmen",
-    "German": "mitmachen",
-    "English": "to participate",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "teilnehmen",
-    "German": "dabei sein",
-    "English": "to participate",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Teilzeit",
-    "German": "halbtags",
-    "English": "part-time",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Termin",
-    "German": "Vereinbarung",
-    "English": "appointment",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Termin",
-    "German": "Absprache",
-    "English": "appointment",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "überprüfen",
-    "German": "kontrollieren",
-    "English": "to check",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "überprüfen",
-    "German": "ansehen",
-    "English": "to check",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "übersichtlich",
-    "German": "leicht verständlich",
-    "English": "clear",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "übersichtlich",
-    "German": "gut zu sehen",
-    "English": "clear",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "überweisen",
-    "German": "Geld senden",
-    "English": "to transfer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "überweisen",
-    "German": "Zahlung machen",
-    "English": "to transfer",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Umsteigen",
-    "German": "Anschluss nehmen",
-    "English": "change trains",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Umsteigen",
-    "German": "wechseln",
-    "English": "change trains",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "unbedingt",
-    "German": "auf jeden Fall",
-    "English": "absolutely",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "unbedingt",
-    "German": "sicher",
-    "English": "absolutely",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "ungeeignet",
-    "German": "nicht geeignet",
-    "English": "unsuitable",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "ungeeignet",
-    "German": "falsch",
-    "English": "unsuitable",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "ungefähr",
-    "German": "circa",
-    "English": "approximately",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "ungefähr",
-    "German": "etwa",
-    "English": "approximately",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "ungültig",
-    "German": "nicht gültig",
-    "English": "invalid",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "ungültig",
-    "German": "nicht akzeptiert",
-    "English": "invalid",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "unmöglich",
-    "German": "nicht machbar",
-    "English": "impossible",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "unterschiedlich",
-    "German": "verschieden",
-    "English": "different",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "unterschiedlich",
-    "German": "variierend",
-    "English": "different",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Untersuchung",
-    "German": "Termin",
-    "English": "checkup",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Untersuchung",
-    "German": "Kontrolle",
-    "English": "checkup",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verbessern",
-    "German": "optimieren",
-    "English": "to improve",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verbessern",
-    "German": "besser machen",
-    "English": "to improve",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verboten",
-    "German": "untersagt",
-    "English": "forbidden",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verboten",
-    "German": "nicht erlaubt",
-    "English": "forbidden",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verbrauchen",
-    "German": "nutzen",
-    "English": "to consume",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verbrauchen",
-    "German": "aufbrauchen",
-    "English": "to consume",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vereinbaren",
-    "German": "abmachen",
-    "English": "to arrange",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vereinbaren",
-    "German": "festlegen",
-    "English": "to arrange",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verfügbar",
-    "German": "frei",
-    "English": "available",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verfügbar",
-    "German": "vorhanden",
-    "English": "available",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Verfügbarkeit",
-    "German": "frei",
-    "English": "availability",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Verfügbarkeit",
-    "German": "vorhanden",
-    "English": "availability",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Verkehr",
-    "German": "Transport",
-    "English": "traffic",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Verkehr",
-    "German": "Straßenbetrieb",
-    "English": "traffic",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verkürzen",
-    "German": "reduzieren",
-    "English": "to shorten",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verkürzen",
-    "German": "kürzer machen",
-    "English": "to shorten",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verlängern",
-    "German": "weiterführen",
-    "English": "to extend",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verlängern",
-    "German": "ausdehnen",
-    "English": "to extend",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verletzt",
-    "German": "wehgetan",
-    "English": "injured",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verletzt",
-    "German": "Unfall gehabt",
-    "English": "injured",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vermeiden",
-    "German": "nicht tun",
-    "English": "to avoid",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vermeiden",
-    "German": "aus dem Weg gehen",
-    "English": "to avoid",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Verordnung",
-    "German": "Regel",
-    "English": "regulation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Verordnung",
-    "German": "Gesetz",
-    "English": "regulation",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Versammlung",
-    "German": "Treffen",
-    "English": "meeting",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Versammlung",
-    "German": "Zusammenkunft",
-    "English": "meeting",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verschieben",
-    "German": "verlegen",
-    "English": "to postpone",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verschieben",
-    "German": "später machen",
-    "English": "to postpone",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verschlechtern",
-    "German": "schlechter machen",
-    "English": "to worsen",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verschlechtern",
-    "German": "reduzieren",
-    "English": "to worsen",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Versicherung",
-    "German": "Absicherung",
-    "English": "insurance",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Versicherung",
-    "German": "Schutz",
-    "English": "insurance",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verspätet",
-    "German": "später",
-    "English": "delayed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "verspätet",
-    "German": "Verzögerung",
-    "English": "delayed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Vertrag",
-    "German": "Vereinbarung",
-    "English": "contract",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Vollzeit",
-    "German": "ganztags",
-    "English": "full-time",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vorher",
-    "German": "zuvor",
-    "English": "before",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vorher",
-    "German": "davor",
-    "English": "before",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vorschlagen",
-    "German": "empfehlen",
-    "English": "to suggest",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vorschlagen",
-    "German": "Idee geben",
-    "English": "to suggest",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Vorschrift",
-    "German": "Regel",
-    "English": "instruction",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Vorschrift",
-    "German": "Pflicht",
-    "English": "instruction",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vorübergehend",
-    "German": "kurzfristig",
-    "English": "temporary",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "vorübergehend",
-    "German": "momentan",
-    "English": "temporary",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "weder noch",
-    "German": "keins von beiden",
-    "English": "neither nor",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "werktags",
-    "German": "Montag bis Freitag",
-    "English": "weekdays",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "widersprechen",
-    "German": "nein sagen",
-    "English": "to disagree",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "widersprechen",
-    "German": "nicht akzeptieren",
-    "English": "to disagree",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zeitraum",
-    "German": "Dauer",
-    "English": "time period",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zeitraum",
-    "German": "Zeitraum von bis",
-    "English": "time period",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zug",
-    "German": "Bahn",
-    "English": "train",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zug",
-    "German": "Regionalbahn",
-    "English": "train",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zugang",
-    "German": "Eintritt",
-    "English": "access",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zugang",
-    "German": "Eintrittsberechtigung",
-    "English": "access",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zunächst",
-    "German": "erst",
-    "English": "at first",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zunächst",
-    "German": "zuerst",
-    "English": "at first",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zusammenfassung",
-    "German": "Kurztext",
-    "English": "summary",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zusammenfassung",
-    "German": "Überblick",
-    "English": "summary",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zuständig",
-    "German": "verantwortlich",
-    "English": "responsible",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zuständig",
-    "German": "in Charge",
-    "English": "responsible",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zustellung",
-    "German": "Lieferung",
-    "English": "delivery",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "Zustellung",
-    "German": "Versand",
-    "English": "delivery",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zustimmen",
-    "German": "einverstanden sein",
-    "English": "to agree",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zustimmen",
-    "German": "akzeptieren",
-    "English": "to agree",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zwar",
-    "German": "allerdings",
-    "English": "indeed",
-    "theme": "synonyms"
-  },
-  {
-    "Article": "zwar",
-    "German": "jedoch",
-    "English": "indeed",
-    "theme": "synonyms"
-  },
-{
     "Article": "Teil 1: Stellen Sie sich bitte vor. (Please introduce yourself.)",
     "German": "Hallo, ich heiße Sadhashiva. Ich bin 39 Jahre alt, komme aus Indien und wohne in Bahrain.",
     "English": "Hello, my name is Sadhashiva. I am 39 years old, I am from India and I live in Bahrain.",
