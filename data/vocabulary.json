@@ -1,5 +1,320 @@
 [
   {
+    "🇩🇪 German Sentence": "Der Bürgermeister sagte, er würde die Straße morgen öffnen.",
+    "🇬🇧 English Translation": "The mayor said he would open the street tomorrow.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Reported speech",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Polizei erklärte, sie hätte den Täter schon gefunden.",
+    "🇬🇧 English Translation": "The police stated they had already found the suspect.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "Reported speech",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ein Sprecher meinte, das Wetter wäre besser, wenn es nicht regnen würde.",
+    "🇬🇧 English Translation": "A spokesman said the weather would be better if it didn’t rain.",
+    "🧩 Verb": "sein / werden",
+    "💬 Context &formula": "Hypothetical",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Lehrerin sagte, sie würde gern mehr Zeit für Projekte haben.",
+    "🇬🇧 English Translation": "The teacher said she would like more time for projects.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Reported wish",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Arzt erklärte, er könnte die Operation morgen durchführen.",
+    "🇬🇧 English Translation": "The doctor explained he could perform the operation tomorrow.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "Polite statement",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Trainer meinte, die Mannschaft würde gewinnen, wenn sie mehr trainieren würde.",
+    "🇬🇧 English Translation": "The coach said the team would win if they trained more.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Conditional",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Zeitung schrieb, viele Menschen wären glücklicher mit kürzeren Arbeitszeiten.",
+    "🇬🇧 English Translation": "The newspaper wrote that many people would be happier with shorter working hours.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "Commentary",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Politiker sagte, er würde die Steuern senken, wenn er könnte.",
+    "🇬🇧 English Translation": "The politician said he would lower taxes if he could.",
+    "🧩 Verb": "werden / können",
+    "💬 Context &formula": "Hypothetical",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Firma erklärte, sie würde neue Produkte vorstellen.",
+    "🇬🇧 English Translation": "The company announced it would present new products.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Reported plan",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Reporter meinte, das Konzert wäre ausverkauft.",
+    "🇬🇧 English Translation": "The reporter said the concert was sold out.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "Reported fact",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Studentin sagte, sie würde gern im Ausland studieren.",
+    "🇬🇧 English Translation": "The student said she would like to study abroad.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Wish",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Direktor erklärte, er hätte das Projekt schon genehmigt.",
+    "🇬🇧 English Translation": "The director explained he had already approved the project.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "Reported past",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Nachbarn sagten, sie würden helfen, wenn sie Zeit hätten.",
+    "🇬🇧 English Translation": "The neighbors said they would help if they had time.",
+    "🧩 Verb": "werden / haben",
+    "💬 Context &formula": "Conditional",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Journalist meinte, die Preise wären zu hoch.",
+    "🇬🇧 English Translation": "The journalist said the prices were too high.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "Opinion",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Lehrerin sagte, sie würde den Schülern mehr Aufgaben geben.",
+    "🇬🇧 English Translation": "The teacher said she would give the students more tasks.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Reported intention",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Fahrer erklärte, er könnte schneller fahren, wenn die Straße frei wäre.",
+    "🇬🇧 English Translation": "The driver explained he could drive faster if the road were clear.",
+    "🧩 Verb": "können / sein",
+    "💬 Context &formula": "Hypothetical",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Zeitung schrieb, viele Leute würden lieber zu Hause bleiben.",
+    "🇬🇧 English Translation": "The newspaper wrote that many people would rather stay at home.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Commentary",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Arzt sagte, er würde mehr Patienten behandeln, wenn er Zeit hätte.",
+    "🇬🇧 English Translation": "The doctor said he would treat more patients if he had time.",
+    "🧩 Verb": "werden / haben",
+    "💬 Context &formula": "Conditional",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Verkäuferin meinte, sie würde das Produkt empfehlen.",
+    "🇬🇧 English Translation": "The saleswoman said she would recommend the product.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Reported speech",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Politiker erklärte, er wäre zufrieden mit dem Ergebnis.",
+    "🇬🇧 English Translation": "The politician said he was satisfied with the result.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "Reported opinion",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Firma sagte, sie würde neue Mitarbeiter einstellen.",
+    "🇬🇧 English Translation": "The company said it would hire new employees.",
+    "🧩 Verb": "werden",
+    "💬 Context &formula": "Reported plan",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Trainer meinte, die Spieler müssten mehr üben.",
+    "🇬🇧 English Translation": "The coach said the players would have to practice more.",
+    "🧩 Verb": "müssen",
+    "💬 Context &formula": "Reported necessity",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Zeitung schrieb, das Festival würde nächstes Jahr größer sein.",
+    "🇬🇧 English Translation": "The newspaper wrote the festival would be bigger next year.",
+    "🧩 Verb": "werden / sein",
+    "💬 Context &formula": "Future speculation",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Der Bürgermeister sagte, er würde das Problem lösen, wenn er könnte.",
+    "🇬🇧 English Translation": "The mayor said he would solve the problem if he could.",
+    "🧩 Verb": "werden / können",
+    "💬 Context &formula": "Hypothetical",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Die Lehrerin erklärte, sie wäre froh, wenn alle Schüler pünktlich kämen.",
+    "🇬🇧 English Translation": "The teacher said she would be glad if all students came on time.",
+    "🧩 Verb": "sein / kommen",
+    "💬 Context &formula": "Conditional",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich mehr Zeit hätte, würde ich Deutsch lernen.",
+    "🇬🇧 English Translation": "If I had more time, I would learn German.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "hätte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ich würde dir helfen, wenn ich Zeit hätte.",
+    "🇬🇧 English Translation": "I would help you if I had time.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "hätte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich ein Auto hätte, würde ich dich abholen.",
+    "🇬🇧 English Translation": "If I had a car, I’d pick you up.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "hätte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich den Mut hätte, würde ich ihn anrufen.",
+    "🇬🇧 English Translation": "If I had the courage, I’d call him.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "hätte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ich würde gern mehr Sport machen, wenn ich Zeit hätte.",
+    "🇬🇧 English Translation": "I’d like to do more sports if I had time.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "hätte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich Urlaub hätte, würde ich ans Meer fahren.",
+    "🇬🇧 English Translation": "If I had vacation, I’d go to the sea.",
+    "🧩 Verb": "haben",
+    "💬 Context &formula": "hätte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn du mir helfen könntest, wäre ich froh.",
+    "🇬🇧 English Translation": "If you could help me, I’d be glad.",
+    "🧩 Verb": "können / sein",
+    "💬 Context &formula": "könnte + wäre",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich besser kochen könnte, würde ich jeden Tag selbst kochen.",
+    "🇬🇧 English Translation": "If I could cook better, I’d cook every day.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "könnte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich besser tanzen könnte, würde ich mitmachen.",
+    "🇬🇧 English Translation": "If I could dance better, I’d join in.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "könnte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich besser singen könnte, würde ich im Chor singen.",
+    "🇬🇧 English Translation": "If I could sing better, I’d sing in the choir.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "könnte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich besser Deutsch sprechen könnte, würde ich mehr Freunde finden.",
+    "🇬🇧 English Translation": "If I could speak German better, I’d find more friends.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "könnte + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn du fleißiger wärest, bekämst du bessere Noten.",
+    "🇬🇧 English Translation": "If you were more diligent, you’d get better grades.",
+    "🧩 Verb": "sein / bekommen",
+    "💬 Context &formula": "wäre + bekäme",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich reich wäre, würde ich um die Welt reisen.",
+    "🇬🇧 English Translation": "If I were rich, I would travel around the world.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "wäre + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn ich in Berlin wäre, würde ich das Museum besuchen.",
+    "🇬🇧 English Translation": "If I were in Berlin, I’d visit the museum.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "wäre + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ich würde das Buch kaufen, wenn es billiger wäre.",
+    "🇬🇧 English Translation": "I’d buy the book if it were cheaper.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "wäre + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ich würde gern schlafen, wenn es ruhig wäre.",
+    "🇬🇧 English Translation": "I’d like to sleep if it were quiet.",
+    "🧩 Verb": "sein",
+    "💬 Context &formula": "wäre + würde + Infinitiv",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn es heute nicht regnen würde, gingen wir spazieren.",
+    "🇬🇧 English Translation": "If it didn’t rain today, we’d go for a walk.",
+    "🧩 Verb": "gehen",
+    "💬 Context &formula": "würde + Infinitiv / ginge",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Wenn du früher aufstehen würdest, kämst du nicht zu spät.",
+    "🇬🇧 English Translation": "If you got up earlier, you wouldn’t be late.",
+    "🧩 Verb": "kommen",
+    "💬 Context &formula": "würde + Infinitiv / käme",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ich würde gern ins Kino gehen, wenn ich könnte.",
+    "🇬🇧 English Translation": "I would like to go to the cinema if I could.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "würde + Infinitiv / könnte",
+    "Theme": "Konjunktiv II"
+  },
+  {
+    "🇩🇪 German Sentence": "Ich würde gern am Meer wohnen, wenn ich könnte.",
+    "🇬🇧 English Translation": "I’d like to live by the sea if I could.",
+    "🧩 Verb": "können",
+    "💬 Context &formula": "würde + Infinitiv / könnte",
+    "Theme": "Konjunktiv II"
+  },
+ {
     "German Main": "arbeiten",
     "Synonym 1": "jobben",
     "Synonym 2": "tätig sein",
