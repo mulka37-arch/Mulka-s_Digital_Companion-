@@ -1,5 +1,1293 @@
 [
   {
+    "Word (German)": "alt",
+    "English Meaning": "old",
+    "Antonym (German)": "jung / neu",
+    "Antonym English Meaning": "young / new",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "angenehm",
+    "English Meaning": "pleasant",
+    "Antonym (German)": "unangenehm",
+    "Antonym English Meaning": "unpleasant",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "arm",
+    "English Meaning": "poor",
+    "Antonym (German)": "reich",
+    "Antonym English Meaning": "rich",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "automatisch",
+    "English Meaning": "automated",
+    "Antonym (German)": "manuell",
+    "Antonym English Meaning": "manual",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "barrierefrei",
+    "English Meaning": "accessible",
+    "Antonym (German)": "nicht barrierefrei",
+    "Antonym English Meaning": "inaccessible",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bekannt",
+    "English Meaning": "famous / known",
+    "Antonym (German)": "unbekannt",
+    "Antonym English Meaning": "unknown",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bequem",
+    "English Meaning": "comfortable",
+    "Antonym (German)": "unbequem",
+    "Antonym English Meaning": "uncomfortable",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "besetzt",
+    "English Meaning": "occupied / taken",
+    "Antonym (German)": "frei",
+    "Antonym English Meaning": "vacant / free",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bestimmt",
+    "English Meaning": "definite / specific",
+    "Antonym (German)": "unbestimmt",
+    "Antonym English Meaning": "indefinite",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "billig / günstig",
+    "English Meaning": "cheap / affordable",
+    "Antonym (German)": "teuer",
+    "Antonym English Meaning": "expensive",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "böse",
+    "English Meaning": "evil / angry",
+    "Antonym (German)": "lieb / nett",
+    "Antonym English Meaning": "kind / nice",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "breit",
+    "English Meaning": "wide",
+    "Antonym (German)": "schmal / eng",
+    "Antonym English Meaning": "narrow",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "brutto",
+    "English Meaning": "gross (salary)",
+    "Antonym (German)": "netto",
+    "Antonym English Meaning": "net (salary)",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bunt",
+    "English Meaning": "colorful",
+    "Antonym (German)": "schwarz-weiß / einfarbig",
+    "Antonym English Meaning": "black and white / solid color",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "chaotisch",
+    "English Meaning": "chaotic",
+    "Antonym (German)": "ordnungsliebend / ordentlich",
+    "Antonym English Meaning": "orderly / neat",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "deutlich",
+    "English Meaning": "clear",
+    "Antonym (German)": "undeutlich",
+    "Antonym English Meaning": "unclear",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "dick",
+    "English Meaning": "thick / fat",
+    "Antonym (German)": "dünn / schlank",
+    "Antonym English Meaning": "thin / slim",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "direkt",
+    "English Meaning": "direct",
+    "Antonym (German)": "indirekt",
+    "Antonym English Meaning": "indirect",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "dringend",
+    "English Meaning": "urgent",
+    "Antonym (German)": "unwichtig",
+    "Antonym English Meaning": "unimportant",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "dunkel",
+    "English Meaning": "dark",
+    "Antonym (German)": "hell",
+    "Antonym English Meaning": "light / bright",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "echt",
+    "English Meaning": "real / authentic",
+    "Antonym (German)": "falsch / gefälscht",
+    "Antonym English Meaning": "fake / forged",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einfach / leicht",
+    "English Meaning": "simple / easy",
+    "Antonym (German)": "schwer / schwierig",
+    "Antonym English Meaning": "difficult / hard",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einsam",
+    "English Meaning": "lonely",
+    "Antonym (German)": "gemeinsam",
+    "Antonym English Meaning": "together",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "erfolgreich",
+    "English Meaning": "successful",
+    "Antonym (German)": "erfolglos",
+    "Antonym English Meaning": "unsuccessful",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "erlaubt",
+    "English Meaning": "permitted / allowed",
+    "Antonym (German)": "verboten",
+    "Antonym English Meaning": "forbidden / prohibited",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "faul",
+    "English Meaning": "lazy",
+    "Antonym (German)": "fleißig",
+    "Antonym English Meaning": "hardworking / diligent",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "feige",
+    "English Meaning": "cowardly",
+    "Antonym (German)": "mutig",
+    "Antonym English Meaning": "brave",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "feucht",
+    "English Meaning": "damp / moist",
+    "Antonym (German)": "trocken",
+    "Antonym English Meaning": "dry",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "fit",
+    "English Meaning": "fit",
+    "Antonym (German)": "krank / müde",
+    "Antonym English Meaning": "sick / tired",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "flexibel",
+    "English Meaning": "flexible",
+    "Antonym (German)": "unflexibel",
+    "Antonym English Meaning": "inflexible",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "formell",
+    "English Meaning": "formal",
+    "Antonym (German)": "informell",
+    "Antonym English Meaning": "informal",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "frisch",
+    "English Meaning": "fresh",
+    "Antonym (German)": "alt / verdorben",
+    "Antonym English Meaning": "old / spoiled",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "froh / glücklich",
+    "English Meaning": "happy",
+    "Antonym (German)": "traurig / unglücklich",
+    "Antonym English Meaning": "sad / unhappy",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "früh",
+    "English Meaning": "early",
+    "Antonym (German)": "spät",
+    "Antonym English Meaning": "late",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "gefährlich",
+    "English Meaning": "dangerous",
+    "Antonym (German)": "sicher",
+    "Antonym English Meaning": "safe",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "geizig",
+    "English Meaning": "stingy",
+    "Antonym (German)": "großzügig",
+    "Antonym English Meaning": "generous",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "gesund",
+    "English Meaning": "healthy",
+    "Antonym (German)": "krank",
+    "Antonym English Meaning": "sick / ill",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "gesprächig",
+    "English Meaning": "talkative",
+    "Antonym (German)": "ruhig / schweigsam",
+    "Antonym English Meaning": "quiet / silent",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "gleich",
+    "English Meaning": "same",
+    "Antonym (German)": "unterschiedlich / anders",
+    "Antonym English Meaning": "different",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "groß",
+    "English Meaning": "big / tall",
+    "Antonym (German)": "klein",
+    "Antonym English Meaning": "small / short",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "gutt",
+    "English Meaning": "good",
+    "Antonym (German)": "schlecht",
+    "Antonym English Meaning": "bad",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "günstig",
+    "English Meaning": "advantageous / cheap",
+    "Antonym (German)": "ungünstig",
+    "Antonym English Meaning": "disadvantageous",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "hart",
+    "English Meaning": "hard",
+    "Antonym (German)": "weich",
+    "Antonym English Meaning": "soft",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "hässlich",
+    "English Meaning": "ugly",
+    "Antonym (German)": "schön / hübsch",
+    "Antonym English Meaning": "beautiful / pretty",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "heiß",
+    "English Meaning": "hot",
+    "Antonym (German)": "kalt",
+    "Antonym English Meaning": "cold",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "hilfsbereit",
+    "English Meaning": "helpful",
+    "Antonym (German)": "unhilfsbereit",
+    "Antonym English Meaning": "unhelpful",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "höflich",
+    "English Meaning": "polite",
+    "Antonym (German)": "unhöflich",
+    "Antonym English Meaning": "rude / impolite",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "interessant",
+    "English Meaning": "interesting",
+    "Antonym (German)": "langweilig",
+    "Antonym English Meaning": "boring",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "klar",
+    "English Meaning": "clear",
+    "Antonym (German)": "unklar",
+    "Antonym English Meaning": "unclear",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "klug / intelligent",
+    "English Meaning": "smart / intelligent",
+    "Antonym (German)": "dumm",
+    "Antonym English Meaning": "stupid",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "konsequent",
+    "English Meaning": "consistent",
+    "Antonym (German)": "inkonsequent",
+    "Antonym English Meaning": "inconsistent",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "kontaktfreudig",
+    "English Meaning": "outgoing / sociable",
+    "Antonym (German)": "schüchtern",
+    "Antonym English Meaning": "shy",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "korrekt",
+    "English Meaning": "correct",
+    "Antonym (German)": "inkorrekt / falsch",
+    "Antonym English Meaning": "incorrect / wrong",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "lang",
+    "English Meaning": "long",
+    "Antonym (German)": "kurz",
+    "Antonym English Meaning": "short",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "langsam",
+    "English Meaning": "slow",
+    "Antonym (German)": "schnell",
+    "Antonym English Meaning": "fast",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "laut",
+    "English Meaning": "loud",
+    "Antonym (German)": "leise / ruhig",
+    "Antonym English Meaning": "quiet",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "lebendig",
+    "English Meaning": "alive",
+    "Antonym (German)": "tot",
+    "Antonym English Meaning": "dead",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "lecker",
+    "English Meaning": "delicious",
+    "Antonym (German)": "schrecklich",
+    "Antonym English Meaning": "terrible (taste)",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ledig",
+    "English Meaning": "single",
+    "Antonym (German)": "verheiratet",
+    "Antonym English Meaning": "married",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "leer",
+    "English Meaning": "empty",
+    "Antonym (German)": "voll",
+    "Antonym English Meaning": "full",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "möglich",
+    "English Meaning": "possible",
+    "Antonym (German)": "unmöglich",
+    "Antonym English Meaning": "impossible",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "modern",
+    "English Meaning": "modern",
+    "Antonym (German)": "altmodisch",
+    "Antonym English Meaning": "old-fashioned",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "müde",
+    "English Meaning": "tired",
+    "Antonym (German)": "wach",
+    "Antonym English Meaning": "awake",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "nah",
+    "English Meaning": "near",
+    "Antonym (German)": "weit / fern",
+    "Antonym English Meaning": "far",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "nass",
+    "English Meaning": "wet",
+    "Antonym (German)": "trocken",
+    "Antonym English Meaning": "dry",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "nervös",
+    "English Meaning": "nervous",
+    "Antonym (German)": "ruhig / entspannt",
+    "Antonym English Meaning": "calm / relaxed",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "neu",
+    "English Meaning": "new",
+    "Antonym (German)": "alt",
+    "Antonym English Meaning": "old",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "nützlich",
+    "English Meaning": "useful",
+    "Antonym (German)": "nutzlos",
+    "Antonym English Meaning": "useless",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "offen",
+    "English Meaning": "open",
+    "Antonym (German)": "geschlossen",
+    "Antonym English Meaning": "closed",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "pünktlich",
+    "English Meaning": "on time / punctual",
+    "Antonym (German)": "unpünktlich / verspätet",
+    "Antonym English Meaning": "late",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "regelmäßig",
+    "English Meaning": "regularly",
+    "Antonym (German)": "unregelmäßig",
+    "Antonym English Meaning": "irregularly",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "richtig",
+    "English Meaning": "correct",
+    "Antonym (German)": "falsch",
+    "Antonym English Meaning": "wrong",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "risikofreudig",
+    "English Meaning": "risk-taking",
+    "Antonym (German)": "vorsichtig",
+    "Antonym English Meaning": "cautious",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "sauber",
+    "English Meaning": "clean",
+    "Antonym (German)": "schmutzig",
+    "Antonym English Meaning": "dirty",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "satt",
+    "English Meaning": "full (after eating)",
+    "Antonym (German)": "hungrig",
+    "Antonym English Meaning": "hungry",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "scharf",
+    "English Meaning": "spicy / sharp",
+    "Antonym (German)": "mild / stumpf",
+    "Antonym English Meaning": "mild / dull",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "schwer",
+    "English Meaning": "heavy",
+    "Antonym (German)": "leicht",
+    "Antonym English Meaning": "light (weight)",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "selten",
+    "English Meaning": "rarely",
+    "Antonym (German)": "oft / häufig",
+    "Antonym English Meaning": "often / frequently",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "sicher",
+    "English Meaning": "safe / certain",
+    "Antonym (German)": "unsicher / gefährlich",
+    "Antonym English Meaning": "uncertain / unsafe",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "spannend",
+    "English Meaning": "exciting",
+    "Antonym (German)": "langweilig",
+    "Antonym English Meaning": "boring",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "spontan",
+    "English Meaning": "spontaneous",
+    "Antonym (German)": "geplant",
+    "Antonym English Meaning": "planned",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "stark",
+    "English Meaning": "strong",
+    "Antonym (German)": "schwach",
+    "Antonym English Meaning": "weak",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "steif",
+    "English Meaning": "stiff / formal",
+    "Antonym (German)": "locker",
+    "Antonym English Meaning": "relaxed / informal",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "stürmisch",
+    "English Meaning": "stormy",
+    "Antonym (German)": "windstill / ruhig",
+    "Antonym English Meaning": "calm",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "teuer",
+    "English Meaning": "expensive",
+    "Antonym (German)": "billig / günstig",
+    "Antonym English Meaning": "cheap / affordable",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "tolerant",
+    "English Meaning": "tolerant",
+    "Antonym (German)": "intolerant",
+    "Antonym English Meaning": "intolerant",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "unberührt",
+    "English Meaning": "untouched",
+    "Antonym (German)": "benutzt",
+    "Antonym English Meaning": "used",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "unwichtig",
+    "English Meaning": "unimportant",
+    "Antonym (German)": "wichtig",
+    "Antonym English Meaning": "important",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verfügbar",
+    "English Meaning": "available",
+    "Antonym (German)": "ausverkauft / vergriffen",
+    "Antonym English Meaning": "sold out / unavailable",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verliebt",
+    "English Meaning": "in love",
+    "Antonym (German)": "verhasst",
+    "Antonym English Meaning": "hated",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verwandt",
+    "English Meaning": "related",
+    "Antonym (German)": "fremd",
+    "Antonym English Meaning": "unrelated / stranger",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "vollständig",
+    "English Meaning": "complete",
+    "Antonym (German)": "unvollständig",
+    "Antonym English Meaning": "incomplete",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "voraussichtlich",
+    "English Meaning": "expected",
+    "Antonym (German)": "sicher",
+    "Antonym English Meaning": "definite / certain",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "warm",
+    "English Meaning": "warm",
+    "Antonym (German)": "kühl",
+    "Antonym English Meaning": "cool",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "wertvoll",
+    "English Meaning": "valuable",
+    "Antonym (German)": "wertlos",
+    "Antonym English Meaning": "worthless",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "zufrieden",
+    "English Meaning": "satisfied",
+    "Antonym (German)": "unzufrieden",
+    "Antonym English Meaning": "dissatisfied",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "zukünftig",
+    "English Meaning": "future",
+    "Antonym (German)": "vergangen",
+    "Antonym English Meaning": "past",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "abfahren",
+    "English Meaning": "to depart",
+    "Antonym (German)": "ankommen",
+    "Antonym English Meaning": "to arrive",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "abgeben",
+    "English Meaning": "to hand in",
+    "Antonym (German)": "abholen",
+    "Antonym English Meaning": "to pick up",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ablehnen",
+    "English Meaning": "to decline",
+    "Antonym (German)": "annehmen / akzeptieren",
+    "Antonym English Meaning": "to accept",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "abmelden",
+    "English Meaning": "to deregister",
+    "Antonym (German)": "anmelden",
+    "Antonym English Meaning": "to register",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "anbieten",
+    "English Meaning": "to offer",
+    "Antonym (German)": "nachfragen",
+    "Antonym English Meaning": "to demand / request",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "anfangen / beginnen",
+    "English Meaning": "to start",
+    "Antonym (German)": "aufhören / beenden",
+    "Antonym English Meaning": "to stop / finish",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "anrufen",
+    "English Meaning": "to call",
+    "Antonym (German)": "auflegen",
+    "Antonym English Meaning": "to hang up",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "anreisen",
+    "English Meaning": "to arrive (travel)",
+    "Antonym (German)": "abreisen",
+    "Antonym English Meaning": "to depart (travel)",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ansprechen",
+    "English Meaning": "to address someone",
+    "Antonym (German)": "ignorieren",
+    "Antonym English Meaning": "to ignore",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "anziehen",
+    "English Meaning": "to put on (clothes)",
+    "Antonym (German)": "ausziehen",
+    "Antonym English Meaning": "to take off (clothes)",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "aufstehen",
+    "English Meaning": "to get up",
+    "Antonym (German)": "ins Bett gehen / schlafen gehen",
+    "Antonym English Meaning": "to go to bed",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ausgeben (Geld)",
+    "English Meaning": "to spend money",
+    "Antonym (German)": "sparen / einnehmen",
+    "Antonym English Meaning": "to save / earn money",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ausfüllen",
+    "English Meaning": "to fill out",
+    "Antonym (German)": "durchstreichen",
+    "Antonym English Meaning": "to cross out",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ausleihen",
+    "English Meaning": "to borrow / rent",
+    "Antonym (German)": "zurückgeben",
+    "Antonym English Meaning": "to return",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "ausmachen / ausschalten",
+    "English Meaning": "to turn off",
+    "Antonym (German)": "anmachen / einschalten",
+    "Antonym English Meaning": "to turn on",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "backen",
+    "English Meaning": "to bake",
+    "Antonym (German)": "kochen",
+    "Antonym English Meaning": "to boil / cook",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "beantworten",
+    "English Meaning": "to answer",
+    "Antonym (German)": "fragen",
+    "Antonym English Meaning": "to ask",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bedanken (sich)",
+    "English Meaning": "to thank",
+    "Antonym (German)": "beschweren (sich)",
+    "Antonym English Meaning": "to complain",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "beeilen (sich)",
+    "English Meaning": "to hurry",
+    "Antonym (German)": "zeit lassen (sich)",
+    "Antonym English Meaning": "to take one's time",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "begrüßen",
+    "English Meaning": "to greet",
+    "Antonym (German)": "verabschieden",
+    "Antonym English Meaning": "to say goodbye",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bestellen",
+    "English Meaning": "to order",
+    "Antonym (German)": "stornieren / absagen",
+    "Antonym English Meaning": "to cancel",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bestätigen",
+    "English Meaning": "to confirm",
+    "Antonym (German)": "bestreiten / ablehnen",
+    "Antonym English Meaning": "to deny / reject",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bewerben (sich)",
+    "English Meaning": "to apply",
+    "Antonym (German)": "kündigen",
+    "Antonym English Meaning": "to resign / quit",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "bezahlen",
+    "English Meaning": "to pay",
+    "Antonym (German)": "erstatten",
+    "Antonym English Meaning": "to refund",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einbrechen",
+    "English Meaning": "to break in",
+    "Antonym (German)": "schützen",
+    "Antonym English Meaning": "to protect",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einladen",
+    "English Meaning": "to invite",
+    "Antonym (German)": "ausladen / absagen",
+    "Antonym English Meaning": "to uninvite / cancel",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einnehmen (Tablette)",
+    "English Meaning": "to take (medicine)",
+    "Antonym (German)": "absetzen",
+    "Antonym English Meaning": "to stop taking",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einzahlen",
+    "English Meaning": "to deposit",
+    "Antonym (German)": "abheben",
+    "Antonym English Meaning": "to withdraw",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "einziehen",
+    "English Meaning": "to move in",
+    "Antonym (German)": "ausziehen",
+    "Antonym English Meaning": "to move out",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "empfehlen",
+    "English Meaning": "to recommend",
+    "Antonym (German)": "abraten",
+    "Antonym English Meaning": "to advise against",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "erinnern (sich)",
+    "English Meaning": "to remember",
+    "Antonym (German)": "vergessen",
+    "Antonym English Meaning": "to forget",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "eröffnen (Konto)",
+    "English Meaning": "to open (account)",
+    "Antonym (German)": "schließen / sperren",
+    "Antonym English Meaning": "to close / freeze",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "essen",
+    "English Meaning": "to eat",
+    "Antonym (German)": "fasten",
+    "Antonym English Meaning": "to fast",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "fahren",
+    "English Meaning": "to drive / ride",
+    "Antonym (German)": "gehen / stehen",
+    "Antonym English Meaning": "to walk / stand",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "freuen (auf/über)",
+    "English Meaning": "to rejoice",
+    "Antonym (German)": "ärgern (über)",
+    "Antonym English Meaning": "to be annoyed",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "geben",
+    "English Meaning": "to give",
+    "Antonym (German)": "nehmen",
+    "Antonym English Meaning": "to take",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "gewinnen",
+    "English Meaning": "to win",
+    "Antonym (German)": "verlieren",
+    "Antonym English Meaning": "to lose",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "heiraten",
+    "English Meaning": "to marry",
+    "Antonym (German)": "scheiden lassen (sich)",
+    "Antonym English Meaning": "to divorce",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "kaufen",
+    "English Meaning": "to buy",
+    "Antonym (German)": "verkaufen",
+    "Antonym English Meaning": "to sell",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "lieben",
+    "English Meaning": "to love",
+    "Antonym (German)": "hassen",
+    "Antonym English Meaning": "to hate",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "liefern",
+    "English Meaning": "to deliver",
+    "Antonym (German)": "abholen",
+    "Antonym English Meaning": "to pick up",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "loben",
+    "English Meaning": "to praise",
+    "Antonym (German)": "kritisieren",
+    "Antonym English Meaning": "to criticize",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "mieten",
+    "English Meaning": "to rent",
+    "Antonym (German)": "vermieten",
+    "Antonym English Meaning": "to rent out",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "öffnen",
+    "English Meaning": "to open",
+    "Antonym (German)": "schließen",
+    "Antonym English Meaning": "to close",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "passen",
+    "English Meaning": "to fit / suit",
+    "Antonym (German)": "unpassend sein",
+    "Antonym English Meaning": "to mismatch",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "schmecken",
+    "English Meaning": "to taste good",
+    "Antonym (German)": "nicht schmecken",
+    "Antonym English Meaning": "to taste bad",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "senden / schicken",
+    "English Meaning": "to send",
+    "Antonym (German)": "empfangen / erhalten",
+    "Antonym English Meaning": "to receive",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "siezen",
+    "English Meaning": "to use \"Sie",
+    "Antonym (German)": "duzen",
+    "Antonym English Meaning": "to use \"du",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "spenden",
+    "English Meaning": "to donate",
+    "Antonym (German)": "behalten",
+    "Antonym English Meaning": "to keep",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "sprechen / reden",
+    "English Meaning": "to speak",
+    "Antonym (German)": "schweigen",
+    "Antonym English Meaning": "to be silent",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "sterben",
+    "English Meaning": "to die",
+    "Antonym (German)": "leben",
+    "Antonym English Meaning": "to live",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "streiten",
+    "English Meaning": "to argue",
+    "Antonym (German)": "vertragen (sich)",
+    "Antonym English Meaning": "to make peace",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "suchen",
+    "English Meaning": "to search",
+    "Antonym (German)": "finden",
+    "Antonym English Meaning": "to find",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "tauschen",
+    "English Meaning": "to swap / trade",
+    "Antonym (German)": "behalten",
+    "Antonym English Meaning": "to keep",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "teilnehmen",
+    "English Meaning": "to participate",
+    "Antonym (German)": "absagen / fehlen",
+    "Antonym English Meaning": "to cancel / be absent",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "telefonieren",
+    "English Meaning": "to talk on phone",
+    "Antonym (German)": "auflegen",
+    "Antonym English Meaning": "to hang up",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "umziehen (Stadt)",
+    "English Meaning": "to relocate",
+    "Antonym (German)": "bleiben",
+    "Antonym English Meaning": "to stay",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "unterrichten",
+    "English Meaning": "to teach",
+    "Antonym (German)": "lernen / studieren",
+    "Antonym English Meaning": "to learn / study",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verbieten",
+    "English Meaning": "to forbid",
+    "Antonym (German)": "erlauben / gestatten",
+    "Antonym English Meaning": "to allow",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "vereinbaren (Termin)",
+    "English Meaning": "to agree on",
+    "Antonym (German)": "absagen / verschieben",
+    "Antonym English Meaning": "to cancel / postpone",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verlieren",
+    "English Meaning": "to lose",
+    "Antonym (German)": "finden",
+    "Antonym English Meaning": "to find",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verpassen",
+    "English Meaning": "to miss (train/trend)",
+    "Antonym (German)": "erwischen / einholen",
+    "Antonym English Meaning": "to catch / keep up",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "versprechen",
+    "English Meaning": "to promise",
+    "Antonym (German)": "brechen",
+    "Antonym English Meaning": "to break (a promise)",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "verstehen",
+    "English Meaning": "to understand",
+    "Antonym (German)": "missverstehen",
+    "Antonym English Meaning": "to misunderstand",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "vorlesen",
+    "English Meaning": "to read aloud",
+    "Antonym (German)": "zuhören",
+    "Antonym English Meaning": "to listen",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "warten",
+    "English Meaning": "to wait",
+    "Antonym (German)": "gehen",
+    "Antonym English Meaning": "to leave / go",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "weiterleiten",
+    "English Meaning": "to forward",
+    "Antonym (German)": "löschen",
+    "Antonym English Meaning": "to delete",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "wünschen",
+    "English Meaning": "to wish",
+    "Antonym (German)": "befürchten",
+    "Antonym English Meaning": "to fear",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "zeigen",
+    "English Meaning": "to show",
+    "Antonym (German)": "verstecken",
+    "Antonym English Meaning": "to hide",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "zubereiten",
+    "English Meaning": "to prepare (food)",
+    "Antonym (German)": "verzehren / essen",
+    "Antonym English Meaning": "to consume",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "zuhören",
+    "English Meaning": "to listen",
+    "Antonym (German)": "ignorieren / weghören",
+    "Antonym English Meaning": "to ignore",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "zustimmen",
+    "English Meaning": "to agree",
+    "Antonym (German)": "widersprechen / ablehnen",
+    "Antonym English Meaning": "to disagree",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Arbeitgeber",
+    "English Meaning": "employer",
+    "Antonym (German)": "der Arbeitnehmer",
+    "Antonym English Meaning": "employee",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "die Anmeldung",
+    "English Meaning": "registration",
+    "Antonym (German)": "die Abmeldung",
+    "Antonym English Meaning": "deregistration",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "das Bruttoeinkommen",
+    "English Meaning": "gross income",
+    "Antonym (German)": "das Nettoeinkommen",
+    "Antonym English Meaning": "net income",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "die Einnahmen (Pl.)",
+    "English Meaning": "income",
+    "Antonym (German)": "die Ausgaben (Pl.)",
+    "Antonym English Meaning": "expenses",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Handwerker",
+    "English Meaning": "technician / repairman",
+    "Antonym (German)": "der Kunde",
+    "Antonym English Meaning": "client / customer",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Hausmeister",
+    "English Meaning": "janitor / caretaker",
+    "Antonym (German)": "der Mieter",
+    "Antonym English Meaning": "tenant",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Mörder",
+    "English Meaning": "murderer",
+    "Antonym (German)": "das Opfer",
+    "Antonym English Meaning": "victim",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "die Nachtruhe",
+    "English Meaning": "nighttime silence",
+    "Antonym (German)": "der Lärm / der Krach",
+    "Antonym English Meaning": "noise / racket",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Reiseleiter",
+    "English Meaning": "tour guide",
+    "Antonym (German)": "der Tourist",
+    "Antonym English Meaning": "tourist",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "das Rezept",
+    "English Meaning": "prescription",
+    "Antonym (German)": "das frei verkäufliche Produkt",
+    "Antonym English Meaning": "over-the-counter product",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Schienenersatzverkehr",
+    "English Meaning": "rail replacement bus",
+    "Antonym (German)": "der Zugverkehr",
+    "Antonym English Meaning": "regular train traffic",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "die Übernachtung",
+    "English Meaning": "overnight stay",
+    "Antonym (German)": "die Abreise",
+    "Antonym English Meaning": "departure",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Vermieter",
+    "English Meaning": "landlord",
+    "Antonym (German)": "der Mieter",
+    "Antonym English Meaning": "tenant",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "der Vorteil",
+    "English Meaning": "advantage",
+    "Antonym (German)": "der Nachteil",
+    "Antonym English Meaning": "disadvantage",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
+    "Word (German)": "die Zusage",
+    "English Meaning": "acceptance / confirmation",
+    "Antonym (German)": "die Absage",
+    "Antonym English Meaning": "rejection / cancellation",
+    "Theme": "Antonyms-Gegenteile"
+  },
+  {
     "🇩🇪 German Sentence": "Der Bürgermeister sagte, er würde die Straße morgen öffnen.",
     "🇬🇧 English Translation": "The mayor said he would open the street tomorrow.",
     "🧩 Verb": "werden",
