@@ -1,5 +1,2994 @@
 [
   {
+    "Article": "der",
+    "German Word": "Name",
+    "English Meaning": "name",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Jahr",
+    "English Meaning": "year",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Geburtsort",
+    "English Meaning": "place of birth",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Schule",
+    "English Meaning": "school",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Biologie",
+    "English Meaning": "biology",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Studium",
+    "English Meaning": "studies (university)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Masterdiplom",
+    "English Meaning": "Master's degree / diploma",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Firma",
+    "English Meaning": "company / firm",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Stelle",
+    "English Meaning": "position / job",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Patentamt",
+    "English Meaning": "patent office",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Patentprüfer",
+    "English Meaning": "patent examiner",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Patent",
+    "English Meaning": "patent",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Brief",
+    "English Meaning": "letter",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Patentanwalt",
+    "English Meaning": "patent attorney",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Frau",
+    "English Meaning": "wife / woman",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Wohnung",
+    "English Meaning": "apartment / flat",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Zentrum",
+    "English Meaning": "center",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Freizeit",
+    "English Meaning": "leisure time / free time",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Fußball",
+    "English Meaning": "football / soccer",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Fachzeitschrift",
+    "English Meaning": "professional journal / trade magazine",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Ausbildung",
+    "English Meaning": "vocational training / apprenticeship",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Kauffrau",
+    "English Meaning": "businesswoman / commercial clerk",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Büromanagement",
+    "English Meaning": "office management",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Büromanagerin",
+    "English Meaning": "office manager (female)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "E-Mail",
+    "English Meaning": "email",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kunde",
+    "English Meaning": "customer / client",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Kollegin",
+    "English Meaning": "colleague (female)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kollege",
+    "English Meaning": "colleague (male)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Termin",
+    "English Meaning": "appointment",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Eltern",
+    "English Meaning": "parents",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Miete",
+    "English Meaning": "rent",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Geld",
+    "English Meaning": "money",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Ding",
+    "English Meaning": "thing",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Freund",
+    "English Meaning": "friend",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Kino",
+    "English Meaning": "cinema / movie theater",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "heißen",
+    "English Meaning": "to be called / named",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sein",
+    "English Meaning": "to be",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "kommen aus",
+    "English Meaning": "to come from",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gehen",
+    "English Meaning": "to go",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "studieren",
+    "English Meaning": "to study (at university)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "abschließen",
+    "English Meaning": "to complete / graduate / finish",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "arbeiten",
+    "English Meaning": "to work",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "umziehen",
+    "English Meaning": "to move / relocate",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bekommen",
+    "English Meaning": "to get / receive",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "müssen",
+    "English Meaning": "to must / have to (modal verb)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "lesen",
+    "English Meaning": "to read",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "schreiben",
+    "English Meaning": "to write",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wohnen",
+    "English Meaning": "to live / reside",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "spielen",
+    "English Meaning": "to play",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geboren sein",
+    "English Meaning": "to be born",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "machen",
+    "English Meaning": "to do / make",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "telefonieren mit",
+    "English Meaning": "to speak on the phone with",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "vereinbaren",
+    "English Meaning": "to arrange / agree upon (e.g., appointments)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "möchten",
+    "English Meaning": "would like to (modal structure)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ausgeben",
+    "English Meaning": "to spend (money)",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "alt",
+    "English Meaning": "old",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "europäisch",
+    "English Meaning": "European",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verheiratet",
+    "English Meaning": "married",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "klein",
+    "English Meaning": "small / little",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "teuer",
+    "English Meaning": "expensive",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verschieden",
+    "English Meaning": "different / various",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ledig",
+    "English Meaning": "single / unmarried",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "danach",
+    "English Meaning": "after that / afterwards",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "dort",
+    "English Meaning": "there",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "hier",
+    "English Meaning": "here",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "seit",
+    "English Meaning": "since",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "noch",
+    "English Meaning": "still / yet",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "lieber",
+    "English Meaning": "rather / preferably",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gern",
+    "English Meaning": "gladly / with pleasure",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "manchmal",
+    "English Meaning": "sometimes",
+    "Topic number": 1.02,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Oper",
+    "English Meaning": "opera",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Serenade",
+    "English Meaning": "serenade",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Geschenk",
+    "English Meaning": "gift / present",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Kultur",
+    "English Meaning": "culture",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Station",
+    "English Meaning": "stage / stop / phase",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Leben",
+    "English Meaning": "life",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Kind",
+    "English Meaning": "child",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Schwester",
+    "English Meaning": "sister",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Vater",
+    "English Meaning": "father",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Musik",
+    "English Meaning": "music",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kinderstar",
+    "English Meaning": "child star",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Kaiserin",
+    "English Meaning": "empress",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "König",
+    "English Meaning": "king",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Klavier",
+    "English Meaning": "piano",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Familie",
+    "English Meaning": "family",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Konzert",
+    "English Meaning": "concert",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Musikstück",
+    "English Meaning": "piece of music",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Operndebüt",
+    "English Meaning": "opera debut",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Opernhaus",
+    "English Meaning": "opera house",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Fußballplatz",
+    "English Meaning": "football pitch / field",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Fangruppe",
+    "English Meaning": "fan group",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Lieblingssänger",
+    "English Meaning": "favorite singer (male)",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Lieblingssängerin",
+    "English Meaning": "favorite singer (female)",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Ruf",
+    "English Meaning": "shout / call",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Musikspaß",
+    "English Meaning": "musical fun",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Lärm",
+    "English Meaning": "noise",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Zuschauer",
+    "English Meaning": "spectator / audience member",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kampf",
+    "English Meaning": "fight / struggle / battle",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Tod",
+    "English Meaning": "death",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Mutter",
+    "English Meaning": "mother",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Karriere",
+    "English Meaning": "career",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Künstler",
+    "English Meaning": "artist",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Theater",
+    "English Meaning": "theater",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Konzerthalle",
+    "English Meaning": "concert hall",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Metropole",
+    "English Meaning": "metropolis",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Bombenerfolg",
+    "English Meaning": "massive success / blockbuster",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Hochzeit",
+    "English Meaning": "wedding",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Gesellschaftsspiel",
+    "English Meaning": "parlor game / board game",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Kartenspiel",
+    "English Meaning": "card game",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Schulden",
+    "English Meaning": "debts",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Einkommen",
+    "English Meaning": "income",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Publikum",
+    "English Meaning": "audience / public",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Interesse",
+    "English Meaning": "interest",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Zauberflöte",
+    "English Meaning": "magic flute",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Krankheit",
+    "English Meaning": "illness / disease",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "kennen",
+    "English Meaning": "to know (a person/place)",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sagen",
+    "English Meaning": "to say",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "leben",
+    "English Meaning": "to live",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geboren werden",
+    "English Meaning": "to be born",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "überleben",
+    "English Meaning": "to survive",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unterrichten",
+    "English Meaning": "to teach / instruct",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "reisen",
+    "English Meaning": "to travel",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geben",
+    "English Meaning": "to give (es gab = there was)",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "komponieren",
+    "English Meaning": "to compose",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "feiern",
+    "English Meaning": "to celebrate / hold",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unterstützen",
+    "English Meaning": "to support",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "kämpfen",
+    "English Meaning": "to fight / struggle",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gewinnen",
+    "English Meaning": "to win",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verändern",
+    "English Meaning": "to change",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "rufen",
+    "English Meaning": "to shout / call",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "reden",
+    "English Meaning": "to talk / speak",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "husten",
+    "English Meaning": "to cough",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "umziehen",
+    "English Meaning": "to move (relocate)",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "beginnen",
+    "English Meaning": "to begin / start",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "heiraten",
+    "English Meaning": "to marry",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "einladen",
+    "English Meaning": "to invite",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bekommen",
+    "English Meaning": "to receive / get (children)",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verdienen",
+    "English Meaning": "to earn",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "trinken",
+    "English Meaning": "to drink",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verspielen",
+    "English Meaning": "to gamble away",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verlieren",
+    "English Meaning": "to lose",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sterben",
+    "English Meaning": "to die",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "österreichisch",
+    "English Meaning": "Austrian",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ehrgeizig",
+    "English Meaning": "ambitious",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "früh",
+    "English Meaning": "early",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "begabt",
+    "English Meaning": "talented / gifted",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "fertig",
+    "English Meaning": "finished / ready",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "laut",
+    "English Meaning": "loud",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "frei",
+    "English Meaning": "free / freelance",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "erfolgreich",
+    "English Meaning": "successful",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "plötzlich",
+    "English Meaning": "sudden",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "insgesamt",
+    "English Meaning": "in total / altogether",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bald",
+    "English Meaning": "soon",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "nebenbei",
+    "English Meaning": "on the side / incidentally",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "früher",
+    "English Meaning": "in the past / earlier",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "heute",
+    "English Meaning": "today / nowadays",
+    "Topic number": 1.12,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "Article",
+    "German Word": "German Word",
+    "English Meaning": "English Meaning",
+    "Topic number": 1.16,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Veränderung",
+    "English Meaning": "change / alteration",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Konsumverhalten",
+    "English Meaning": "consumer behavior",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Jahrzehnt",
+    "English Meaning": "decade",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Untersuchung",
+    "English Meaning": "study / investigation / research",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Bereich",
+    "English Meaning": "area / field / sector",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Bezahlen",
+    "English Meaning": "paying / payment",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Produkt",
+    "English Meaning": "product",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Motto",
+    "English Meaning": "motto / slogan",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Ratenzahlung",
+    "English Meaning": "installment payment",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Rate",
+    "English Meaning": "installment / rate",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Smartphone",
+    "English Meaning": "smartphone",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Betrag",
+    "English Meaning": "amount (of money)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Rest",
+    "English Meaning": "rest / remainder",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kaufpreis",
+    "English Meaning": "purchase price",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Monat",
+    "English Meaning": "month",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Grund",
+    "English Meaning": "reason / ground",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Einkaufen",
+    "English Meaning": "shopping",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Trend",
+    "English Meaning": "trend",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Tendenz",
+    "English Meaning": "tendency / trend",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Wissenschaftler",
+    "English Meaning": "scientist / researcher",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Konsum",
+    "English Meaning": "consumption",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Gruppe",
+    "English Meaning": "group",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Bioqualität",
+    "English Meaning": "organic quality",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Lebensmittel",
+    "English Meaning": "foodstuff / grocery",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die Herkunft",
+    "German Word": "Herkünfte",
+    "English Meaning": "Noun",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Produktionsbedingung",
+    "English Meaning": "production condition",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Turbo-Konsument",
+    "English Meaning": "hyper-consumer / fast-consumer",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Preis",
+    "English Meaning": "price",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Herstellung",
+    "English Meaning": "production / manufacturing",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Marke",
+    "English Meaning": "brand / trademark",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Produktauswahl",
+    "English Meaning": "product selection / choice",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Rolle",
+    "English Meaning": "role (eine Rolle spielen = to play a role)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Hobby",
+    "English Meaning": "hobby",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Video",
+    "English Meaning": "video",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Internet",
+    "English Meaning": "internet",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Marmelade",
+    "English Meaning": "jam / marmalade",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kosmetikartikel",
+    "English Meaning": "cosmetic item",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Mensch",
+    "English Meaning": "human / person",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Gemeinschaftsgarten",
+    "English Meaning": "community garden",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kleingarten",
+    "English Meaning": "allotment garden / small garden",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Obst",
+    "English Meaning": "fruit",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Gemüse",
+    "English Meaning": "vegetables",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Information",
+    "English Meaning": "information",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Tipp",
+    "English Meaning": "tip / hint / piece of advice",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sich verändern",
+    "English Meaning": "to change",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bestätigen",
+    "English Meaning": "to confirm",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "haben",
+    "English Meaning": "to have",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "kaufen",
+    "English Meaning": "to buy",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gelten",
+    "English Meaning": "to apply / be valid",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "heißen",
+    "English Meaning": "to mean / be called",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "zahlen",
+    "English Meaning": "to pay",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bezahlen",
+    "English Meaning": "to pay (for something)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "abzahlen",
+    "English Meaning": "to pay off (a debt/price in installments)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "brauchen",
+    "English Meaning": "to need",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "liegen",
+    "English Meaning": "to lie / be situated",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "besitzen",
+    "English Meaning": "to own / possess",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unterscheiden",
+    "English Meaning": "to distinguish / differentiate",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "achten auf",
+    "English Meaning": "to pay attention to / look out for",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "schauen auf",
+    "English Meaning": "to look at / focus on",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "herstellen",
+    "English Meaning": "to produce / make",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bauen",
+    "English Meaning": "to grow / build (anbauen = to cultivate)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "anbauen",
+    "English Meaning": "to grow / cultivate (crops)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "helfen",
+    "English Meaning": "to help",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "stark",
+    "English Meaning": "strongly / heavily / powerful",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sogenannte(r/s)",
+    "English Meaning": "so-called",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "möglich",
+    "English Meaning": "possible",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "klein",
+    "English Meaning": "small",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "dringend",
+    "English Meaning": "urgently / desperate",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bewusst",
+    "English Meaning": "conscious / aware / deliberate",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "eigen",
+    "English Meaning": "own (e.g., eigene Herstellung)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "immer wieder",
+    "English Meaning": "again and again / repeatedly",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "oft",
+    "English Meaning": "often",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "zum Beispiel (z. B.)",
+    "English Meaning": "for example",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "nur",
+    "English Meaning": "only",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "einfach",
+    "English Meaning": "simply / just",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unbedingt",
+    "English Meaning": "absolutely / at all costs",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "weniger",
+    "English Meaning": "less",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "selbst",
+    "English Meaning": "oneself / by oneself (e.g., selbst gemacht)",
+    "Topic number": 1.21,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Traum",
+    "English Meaning": "dream",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Reichtum",
+    "English Meaning": "wealth / riches",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Lotto",
+    "English Meaning": "lottery",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Frage",
+    "English Meaning": "question",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Heimatland",
+    "English Meaning": "homeland / home country",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Lotterie",
+    "English Meaning": "lottery",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Lottogewinn",
+    "English Meaning": "lottery win / prize",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Lottomillionär",
+    "English Meaning": "lottery millionaire",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Mal",
+    "English Meaning": "time (e.g., zum ersten Mal = for the first time)",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Hotel",
+    "English Meaning": "hotel",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Kugel",
+    "English Meaning": "ball / sphere",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Trommel",
+    "English Meaning": "drum (here: lottery drum)",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Geburtsstunde",
+    "English Meaning": "hour of birth / dawning",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Spielrunde",
+    "English Meaning": "round of play / game round",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Spieler",
+    "English Meaning": "player / gambler",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Anzahl",
+    "English Meaning": "number / quantity / amount",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Lottoschein",
+    "English Meaning": "lottery ticket",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Gewinn",
+    "English Meaning": "win / profit / prize",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Zahl",
+    "English Meaning": "number",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Gewinnsumme",
+    "English Meaning": "prize money / jackpot",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "beantworten",
+    "English Meaning": "to answer",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geben",
+    "English Meaning": "to give (es gibt = there is/are)",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wissen",
+    "English Meaning": "to know (a fact)",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "hören",
+    "English Meaning": "to hear / listen",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "passieren",
+    "English Meaning": "to happen",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "drehen",
+    "English Meaning": "to turn / spin",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "dürfen",
+    "English Meaning": "to be allowed to (modal verb)",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "nehmen",
+    "English Meaning": "to take",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "teilnehmen",
+    "English Meaning": "to participate / take part",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "betragen",
+    "English Meaning": "to amount to",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "feiern",
+    "English Meaning": "to celebrate",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "können",
+    "English Meaning": "to be able to (modal verb)",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "folgend",
+    "English Meaning": "following",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "groß",
+    "English Meaning": "big / great",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "schon",
+    "English Meaning": "already",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "einmal",
+    "English Meaning": "once / ever",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wie viel",
+    "English Meaning": "how much",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "warum",
+    "English Meaning": "why",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "warum nicht",
+    "English Meaning": "why not",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "zum ersten Mal",
+    "English Meaning": "for the first time",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "heute",
+    "English Meaning": "today",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "erst",
+    "English Meaning": "only / not until",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "rund",
+    "English Meaning": "around / approximately",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bis heute",
+    "English Meaning": "up until today / to date",
+    "Topic number": 1.24,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Lottogewinn",
+    "English Meaning": "lottery win / jackpot",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Mann",
+    "English Meaning": "man",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Spiel",
+    "English Meaning": "game",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Zeitung",
+    "English Meaning": "newspaper",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Woche",
+    "English Meaning": "week",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Lottozentrale",
+    "English Meaning": "lottery headquarters / central office",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Überraschung",
+    "English Meaning": "surprise",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Zentrale",
+    "English Meaning": "headquarters / central office",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Gewinner",
+    "English Meaning": "winner",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Zweck",
+    "English Meaning": "purpose / cause (soziale Zwecke = social causes)",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Angestellte",
+    "English Meaning": "employee",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Nachrichtensender",
+    "English Meaning": "news channel / broadcaster",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Boulevard-Magazin",
+    "English Meaning": "tabloid magazine / gossip show",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Arbeit",
+    "English Meaning": "work / job",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Haus",
+    "English Meaning": "house",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Auto",
+    "English Meaning": "car",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Umgebung",
+    "English Meaning": "surroundings / environment / neighborhood",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sich melden",
+    "English Meaning": "to report / get in touch / check in",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sich vorstellen",
+    "English Meaning": "to imagine (or to introduce oneself)",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wollen",
+    "English Meaning": "to want (modal verb)",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "führen",
+    "English Meaning": "to lead / guide (ein Leben führen = to lead a life)",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "spenden",
+    "English Meaning": "to donate",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geben",
+    "English Meaning": "to give (es gab = there was/were)",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "meinen",
+    "English Meaning": "to think / state / mean",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "erleben",
+    "English Meaning": "to experience / live to see",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sagen",
+    "English Meaning": "to say / tell",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "tun",
+    "English Meaning": "to do",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sich interessieren für",
+    "English Meaning": "to be interested in",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "berichten",
+    "English Meaning": "to report",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bleiben",
+    "English Meaning": "to remain / stay",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bekannt geben",
+    "English Meaning": "to announce / disclose / make known",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gehen",
+    "English Meaning": "to go / walk",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unbekannt",
+    "English Meaning": "unknown",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unglaublich",
+    "English Meaning": "unbelievable / incredible",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "neu",
+    "English Meaning": "new",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gesamt",
+    "English Meaning": "whole / entire / total",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sozial",
+    "English Meaning": "social",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ganz",
+    "English Meaning": "whole / entire / completely",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wenig",
+    "English Meaning": "few (few people)",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "komplett",
+    "English Meaning": "complete / completely",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "anonym",
+    "English Meaning": "anonymous",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "schön",
+    "English Meaning": "beautiful / nice",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "unauffällig",
+    "English Meaning": "inconspicuous / discreet / low-profile",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "vertraut",
+    "English Meaning": "familiar",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "einige",
+    "English Meaning": "a few / several",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "später",
+    "English Meaning": "later",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "nie",
+    "English Meaning": "never",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "noch nie",
+    "English Meaning": "never before",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bis heute",
+    "English Meaning": "until today / up to now",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "weiter",
+    "English Meaning": "further / keep on doing something",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "jeden Tag",
+    "English Meaning": "every day",
+    "Topic number": 1.25,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Regel",
+    "English Meaning": "rule",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Trinkgeld",
+    "English Meaning": "tip / tipping money",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Doktorarbeit",
+    "English Meaning": "doctoral thesis / PhD dissertation",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Thema",
+    "English Meaning": "topic / theme",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Branche",
+    "English Meaning": "industry / sector / branch",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Kellner",
+    "English Meaning": "waiter",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Taxifahrer",
+    "English Meaning": "taxi driver",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Gesetz",
+    "English Meaning": "law (here: code / unwritten rule)",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Restaurantbesuch",
+    "English Meaning": "restaurant visit",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Prozent",
+    "English Meaning": "percent",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Norden",
+    "English Meaning": "the north",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Land",
+    "English Meaning": "country",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Touristengegend",
+    "English Meaning": "tourist area",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Beleidigung",
+    "English Meaning": "insult / offense",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Gastfreundschaft",
+    "English Meaning": "hospitality",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Annahme",
+    "English Meaning": "acceptance / taking",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Gast",
+    "English Meaning": "guest",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geben",
+    "English Meaning": "gab",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sagen",
+    "English Meaning": "sagte",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "erwarten",
+    "English Meaning": "erwartete",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "sein",
+    "English Meaning": "war",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "müssen",
+    "English Meaning": "musste",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gelten als",
+    "English Meaning": "galt",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verbieten",
+    "English Meaning": "verbot",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gewöhnen",
+    "English Meaning": "gewöhnte",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "einfach",
+    "English Meaning": "simple / easy",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ganz",
+    "English Meaning": "quite / entirely / whole",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "europaweit",
+    "English Meaning": "Europe-wide",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ungefähr",
+    "English Meaning": "approximately / roughly",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "skandinavisch",
+    "English Meaning": "Scandinavian",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "eher",
+    "English Meaning": "rather / sooner",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "südlich",
+    "English Meaning": "southern",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "arabisch",
+    "English Meaning": "Arabic",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "richtig",
+    "English Meaning": "correct / right",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "vorsichtig",
+    "English Meaning": "cautious / careful",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "außerhalb",
+    "English Meaning": "outside / outside of",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "genauso",
+    "English Meaning": "just like that / exactly the same",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "verboten",
+    "English Meaning": "forbidden",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wichtig",
+    "English Meaning": "important",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "üblich",
+    "English Meaning": "common / customary / usual",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "geizig",
+    "English Meaning": "stingy / miserly",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "normalerweise",
+    "English Meaning": "normally / usually",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gar kein",
+    "English Meaning": "none at all / absolutely no",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "inbegriffen",
+    "English Meaning": "included",
+    "Topic number": 1.26,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Nachricht",
+    "English Meaning": "news / piece of news",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Stadt",
+    "English Meaning": "city / town",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Welt",
+    "English Meaning": "world",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Tasche",
+    "English Meaning": "pocket / bag",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Liste",
+    "English Meaning": "list",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Ort",
+    "English Meaning": "place / location",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Verdächtige",
+    "English Meaning": "suspect",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Kosten",
+    "English Meaning": "costs / expenses",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Platz",
+    "English Meaning": "place / spot / rank",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Hauptstadt",
+    "English Meaning": "capital city",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Touristenmagnet",
+    "English Meaning": "tourist magnet",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Lebensqualität",
+    "English Meaning": "quality of life",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Beratungsunternehmen",
+    "English Meaning": "consulting firm / company",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Umfrage",
+    "English Meaning": "survey / poll",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Stelle",
+    "English Meaning": "position / place",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Städteliste",
+    "English Meaning": "list of cities",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Vergleich",
+    "English Meaning": "comparison",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Kriterium",
+    "English Meaning": "criterion",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Umwelt",
+    "English Meaning": "environment",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Sicherheit",
+    "English Meaning": "safety / security",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Gesundheit",
+    "English Meaning": "health",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "die",
+    "German Word": "Bildung",
+    "English Meaning": "education",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "der",
+    "German Word": "Verkehr",
+    "English Meaning": "traffic / transport",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "das",
+    "German Word": "Freizeitangebot",
+    "English Meaning": "recreational / leisure facility or offer",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "zählen zu",
+    "English Meaning": "to count among / be one of",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "greifen",
+    "English Meaning": "to reach / grab",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "liegen",
+    "English Meaning": "to lie / be located",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "anführen",
+    "English Meaning": "to lead / head (a list)",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "folgen",
+    "English Meaning": "to follow",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "belegen",
+    "English Meaning": "to occupy / take (a place/rank)",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "finden",
+    "English Meaning": "to find",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "punkten mit",
+    "English Meaning": "to score points with / excel at",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "ermitteln",
+    "English Meaning": "to determine / ascertain / find out",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "teilen mit",
+    "English Meaning": "to share with",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "kommen auf",
+    "English Meaning": "to reach / come to (a rank)",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "schaffen",
+    "English Meaning": "to manage / make it (to a position)",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "bewerten",
+    "English Meaning": "to evaluate / rate",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gehören zu",
+    "English Meaning": "to belong to",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "gut",
+    "English Meaning": "good",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "tief",
+    "English Meaning": "deep / deeply",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "weltweit",
+    "English Meaning": "worldwide",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "üblich",
+    "English Meaning": "usual / customary",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "hoch",
+    "English Meaning": "high",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "norwegisch",
+    "English Meaning": "Norwegian",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "lebenswert",
+    "English Meaning": "worth living in / livable",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "deutsch",
+    "English Meaning": "German",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "besonders",
+    "English Meaning": "especially / particularly",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "zuerst",
+    "English Meaning": "first / first of all",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wo",
+    "English Meaning": "where",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "wie",
+    "English Meaning": "how / like",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "anders",
+    "English Meaning": "differently / otherwise",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "immerhin",
+    "English Meaning": "after all / at least",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
+    "Article": "-",
+    "German Word": "dzu (dazu)",
+    "English Meaning": "in addition / to this",
+    "Topic number": 1.27,
+    "Theme": "Vocab-Audios"
+  },
+  {
     "Word (German)": "alt",
     "English Meaning": "old",
     "Antonym (German)": "jung / neu",
