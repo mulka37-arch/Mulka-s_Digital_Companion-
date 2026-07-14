@@ -1,5 +1,2301 @@
 [
   {
+    "Verb (Infinitiv)": "fangen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "fing",
+    "Perfect Participle (Perfekt)": "gefangen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "lassen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "ließ",
+    "Perfect Participle (Perfekt)": "gelassen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fallen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "fiel",
+    "Perfect Participle (Perfekt)": "gefallen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "halten",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "hielt",
+    "Perfect Participle (Perfekt)": "gehalten",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "raten",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "riet",
+    "Perfect Participle (Perfekt)": "geraten",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "waschen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "wusch",
+    "Perfect Participle (Perfekt)": "gewaschen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wachsen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "wuchs",
+    "Perfect Participle (Perfekt)": "gewachsen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "laden",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "lud",
+    "Perfect Participle (Perfekt)": "geladen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schlagen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "schlug",
+    "Perfect Participle (Perfekt)": "geschlagen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "tragen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "trug",
+    "Perfect Participle (Perfekt)": "getragen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fahren",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "fuhr",
+    "Perfect Participle (Perfekt)": "gefahren",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "essen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "aß",
+    "Perfect Participle (Perfekt)": "gegessen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "vergessen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "vergaß",
+    "Perfect Participle (Perfekt)": "vergessen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "lesen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "las",
+    "Perfect Participle (Perfekt)": "gelesen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "geben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "gab",
+    "Perfect Participle (Perfekt)": "gegeben",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sehen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "sah",
+    "Perfect Participle (Perfekt)": "gesehen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "geschehen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "geschah",
+    "Perfect Participle (Perfekt)": "geschehen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "treten",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "trat",
+    "Perfect Participle (Perfekt)": "getreten",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "nehmen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "nahm",
+    "Perfect Participle (Perfekt)": "genommen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "helfen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "half",
+    "Perfect Participle (Perfekt)": "geholfen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sprechen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "sprach",
+    "Perfect Participle (Perfekt)": "gesprochen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "erschrecken",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "erschrak",
+    "Perfect Participle (Perfekt)": "erschrocken",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bewerben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "bewarb",
+    "Perfect Participle (Perfekt)": "beworben",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "empfehlen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "empfahl",
+    "Perfect Participle (Perfekt)": "empfohlen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "treffen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "traf",
+    "Perfect Participle (Perfekt)": "getroffen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "werfen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "warf",
+    "Perfect Participle (Perfekt)": "geworfen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "brechen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "brach",
+    "Perfect Participle (Perfekt)": "gebrochen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "stehlen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "stahl",
+    "Perfect Participle (Perfekt)": "gestohlen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sterben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "starb",
+    "Perfect Participle (Perfekt)": "gestorben",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "springen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "sprang",
+    "Perfect Participle (Perfekt)": "gesprungen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "trinken",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "trank",
+    "Perfect Participle (Perfekt)": "getrunken",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "finden",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "fand",
+    "Perfect Participle (Perfekt)": "gefunden",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "klingen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "klang",
+    "Perfect Participle (Perfekt)": "geklungen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "singen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "sang",
+    "Perfect Participle (Perfekt)": "gesungen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sinken",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "sank",
+    "Perfect Participle (Perfekt)": "gesunken",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verschwinden",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "verschwand",
+    "Perfect Participle (Perfekt)": "verschwunden",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ziehen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "zog",
+    "Perfect Participle (Perfekt)": "gezogen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verlieren",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "verlor",
+    "Perfect Participle (Perfekt)": "verloren",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schließen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "schloss",
+    "Perfect Participle (Perfekt)": "geschlossen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fliegen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "flog",
+    "Perfect Participle (Perfekt)": "geflogen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "biegen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "bog",
+    "Perfect Participle (Perfekt)": "gebogen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bieten",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "bot",
+    "Perfect Participle (Perfekt)": "geboten",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "riechen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "roch",
+    "Perfect Participle (Perfekt)": "gerochen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "steigen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "stieg",
+    "Perfect Participle (Perfekt)": "gestiegen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schreiben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "schrieb",
+    "Perfect Participle (Perfekt)": "geschrieben",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bleiben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "blieb",
+    "Perfect Participle (Perfekt)": "geblieben",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "treiben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "trieb",
+    "Perfect Participle (Perfekt)": "getrieben",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "entscheiden",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "entschied",
+    "Perfect Participle (Perfekt)": "entschieden",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "leihen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "lieh",
+    "Perfect Participle (Perfekt)": "geliehen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "scheinen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "schien",
+    "Perfect Participle (Perfekt)": "geschienen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "vergleichen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "verglich",
+    "Perfect Participle (Perfekt)": "verglichen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "streiten",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "stritt",
+    "Perfect Participle (Perfekt)": "gestritten",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "beginnen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "begann",
+    "Perfect Participle (Perfekt)": "begonnen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gewinnen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "gewann",
+    "Perfect Participle (Perfekt)": "gewonnen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schwimmen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "schwamm",
+    "Perfect Participle (Perfekt)": "geschwommen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bitten",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "bat",
+    "Perfect Participle (Perfekt)": "gebeten",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "liegen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "lag",
+    "Perfect Participle (Perfekt)": "gelegen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sitzen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "saß",
+    "Perfect Participle (Perfekt)": "gesessen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "denken",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "dachte",
+    "Perfect Participle (Perfekt)": "gedacht",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bringen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "brachte",
+    "Perfect Participle (Perfekt)": "gebracht",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "kennen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "kannte",
+    "Perfect Participle (Perfekt)": "gekannt",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "nennen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "nannte",
+    "Perfect Participle (Perfekt)": "genannt",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "brennen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "brannte",
+    "Perfect Participle (Perfekt)": "gebrannt",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wissen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "wusste",
+    "Perfect Participle (Perfekt)": "gewusst",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gehen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "ging",
+    "Perfect Participle (Perfekt)": "gegangen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "stehen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "stand",
+    "Perfect Participle (Perfekt)": "gestanden",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "laufen",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "lief",
+    "Perfect Participle (Perfekt)": "gelaufen",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "tun",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "tat",
+    "Perfect Participle (Perfekt)": "getan",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schreiben",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "Sie schreibt ihm eine E",
+    "Perfect Participle (Perfekt)": "Mail.",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "antworten auf",
+    "3rd Person Present (Präsens)": "-",
+    "Preterite (Präteritum)": "Wann antwortest du auf meine E",
+    "Perfect Participle (Perfekt)": "Mail?",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "abgeben",
+    "3rd Person Present (Präsens)": "gibt ab",
+    "Preterite (Präteritum)": "gab ab",
+    "Perfect Participle (Perfekt)": "hat abgegeben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "abschließen",
+    "3rd Person Present (Präsens)": "schließt ab",
+    "Preterite (Präteritum)": "schloss ab",
+    "Perfect Participle (Perfekt)": "hat abgeschlossen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "anbieten",
+    "3rd Person Present (Präsens)": "bietet an",
+    "Preterite (Präteritum)": "bot an",
+    "Perfect Participle (Perfekt)": "hat angeboten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "anfangen",
+    "3rd Person Present (Präsens)": "fängt an",
+    "Preterite (Präteritum)": "fing an",
+    "Perfect Participle (Perfekt)": "hat angefangen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "anrufen",
+    "3rd Person Present (Präsens)": "ruft an",
+    "Preterite (Präteritum)": "rief an",
+    "Perfect Participle (Perfekt)": "hat angerufen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ansehen",
+    "3rd Person Present (Präsens)": "sieht an",
+    "Preterite (Präteritum)": "sah an",
+    "Perfect Participle (Perfekt)": "hat angesehen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "anziehen",
+    "3rd Person Present (Präsens)": "zieht an",
+    "Preterite (Präteritum)": "zog an",
+    "Perfect Participle (Perfekt)": "hat anzogen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ausgeben",
+    "3rd Person Present (Präsens)": "gibt aus",
+    "Preterite (Präteritum)": "gab aus",
+    "Perfect Participle (Perfekt)": "hat ausgegeben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "aussehen",
+    "3rd Person Present (Präsens)": "sieht aus",
+    "Preterite (Präteritum)": "sah aus",
+    "Perfect Participle (Perfekt)": "hat ausgesehen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "backen",
+    "3rd Person Present (Präsens)": "bäckt/backt",
+    "Preterite (Präteritum)": "buk/backte",
+    "Perfect Participle (Perfekt)": "hat gebacken",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "beginnen",
+    "3rd Person Present (Präsens)": "beginnt",
+    "Preterite (Präteritum)": "begann",
+    "Perfect Participle (Perfekt)": "hat begonnen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "behalten",
+    "3rd Person Present (Präsens)": "behält",
+    "Preterite (Präteritum)": "behielt",
+    "Perfect Participle (Perfekt)": "hat behalten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bekommen",
+    "3rd Person Present (Präsens)": "bekommt",
+    "Preterite (Präteritum)": "bekam",
+    "Perfect Participle (Perfekt)": "hat bekommen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bewerben",
+    "3rd Person Present (Präsens)": "bewirbt",
+    "Preterite (Präteritum)": "bewarb",
+    "Perfect Participle (Perfekt)": "hat beworben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "biegen",
+    "3rd Person Present (Präsens)": "biegt",
+    "Preterite (Präteritum)": "bog",
+    "Perfect Participle (Perfekt)": "hat gebogen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bieten",
+    "3rd Person Present (Präsens)": "bietet",
+    "Preterite (Präteritum)": "bot",
+    "Perfect Participle (Perfekt)": "hat geboten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bitten",
+    "3rd Person Present (Präsens)": "bittet",
+    "Preterite (Präteritum)": "bat",
+    "Perfect Participle (Perfekt)": "hat gebeten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "braten",
+    "3rd Person Present (Präsens)": "brät",
+    "Preterite (Präteritum)": "briet",
+    "Perfect Participle (Perfekt)": "hat gebraten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "brennen",
+    "3rd Person Present (Präsens)": "brennt",
+    "Preterite (Präteritum)": "brannte",
+    "Perfect Participle (Perfekt)": "hat gebrannt",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bringen",
+    "3rd Person Present (Präsens)": "bringt",
+    "Preterite (Präteritum)": "brachte",
+    "Perfect Participle (Perfekt)": "hat gebracht",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "denken",
+    "3rd Person Present (Präsens)": "denkt",
+    "Preterite (Präteritum)": "dachte",
+    "Perfect Participle (Perfekt)": "hat gedacht",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "einladen",
+    "3rd Person Present (Präsens)": "lädt ein",
+    "Preterite (Präteritum)": "lud ein",
+    "Perfect Participle (Perfekt)": "hat eingeladen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "empfehlen",
+    "3rd Person Present (Präsens)": "empfiehlt",
+    "Preterite (Präteritum)": "empfahl",
+    "Perfect Participle (Perfekt)": "hat empfohlen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "entscheiden",
+    "3rd Person Present (Präsens)": "entscheidet",
+    "Preterite (Präteritum)": "entschied",
+    "Perfect Participle (Perfekt)": "hat entschieden",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "essen",
+    "3rd Person Present (Präsens)": "isst",
+    "Preterite (Präteritum)": "aß",
+    "Perfect Participle (Perfekt)": "hat gegessen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fangen",
+    "3rd Person Present (Präsens)": "fängt",
+    "Preterite (Präteritum)": "fing",
+    "Perfect Participle (Perfekt)": "hat gefangen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fernsehen",
+    "3rd Person Present (Präsens)": "sieht fern",
+    "Preterite (Präteritum)": "sah fern",
+    "Perfect Participle (Perfekt)": "hat ferngesehen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "finden",
+    "3rd Person Present (Präsens)": "findet",
+    "Preterite (Präteritum)": "fand",
+    "Perfect Participle (Perfekt)": "hat gefunden",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "geben",
+    "3rd Person Present (Präsens)": "gibt",
+    "Preterite (Präteritum)": "gab",
+    "Perfect Participle (Perfekt)": "hat gegeben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gefallen",
+    "3rd Person Present (Präsens)": "gefällt",
+    "Preterite (Präteritum)": "gefiel",
+    "Perfect Participle (Perfekt)": "hat gefallen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gewinnen",
+    "3rd Person Present (Präsens)": "gewinnt",
+    "Preterite (Präteritum)": "gewann",
+    "Perfect Participle (Perfekt)": "hat gewonnen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "haben",
+    "3rd Person Present (Präsens)": "hat",
+    "Preterite (Präteritum)": "hatte",
+    "Perfect Participle (Perfekt)": "hat gehabt",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "halten",
+    "3rd Person Present (Präsens)": "hält",
+    "Preterite (Präteritum)": "hielt",
+    "Perfect Participle (Perfekt)": "hat gehalten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "hängen",
+    "3rd Person Present (Präsens)": "hängt",
+    "Preterite (Präteritum)": "hing",
+    "Perfect Participle (Perfekt)": "hat gehängt/gehangen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "heißen",
+    "3rd Person Present (Präsens)": "heißt",
+    "Preterite (Präteritum)": "hieß",
+    "Perfect Participle (Perfekt)": "hat geheißen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "helfen",
+    "3rd Person Present (Präsens)": "hilft",
+    "Preterite (Präteritum)": "half",
+    "Perfect Participle (Perfekt)": "hat geholfen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "kennen",
+    "3rd Person Present (Präsens)": "kennt",
+    "Preterite (Präteritum)": "kannte",
+    "Perfect Participle (Perfekt)": "hat gekannt",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "klingen",
+    "3rd Person Present (Präsens)": "klingt",
+    "Preterite (Präteritum)": "klang",
+    "Perfect Participle (Perfekt)": "hat geklungen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "laden",
+    "3rd Person Present (Präsens)": "lädt",
+    "Preterite (Präteritum)": "lud",
+    "Perfect Participle (Perfekt)": "hat geladen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "lassen",
+    "3rd Person Present (Präsens)": "lässt",
+    "Preterite (Präteritum)": "ließ",
+    "Perfect Participle (Perfekt)": "hat gelassen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "leidtun",
+    "3rd Person Present (Präsens)": "tut leid",
+    "Preterite (Präteritum)": "tat leid",
+    "Perfect Participle (Perfekt)": "hat leidgetan",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "leihen",
+    "3rd Person Present (Präsens)": "leiht",
+    "Preterite (Präteritum)": "lieh",
+    "Perfect Participle (Perfekt)": "hat geliehen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "lesen",
+    "3rd Person Present (Präsens)": "liest",
+    "Preterite (Präteritum)": "las",
+    "Perfect Participle (Perfekt)": "hat gelesen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "liegen",
+    "3rd Person Present (Präsens)": "liegt",
+    "Preterite (Präteritum)": "lag",
+    "Perfect Participle (Perfekt)": "hat gelegen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "mitbringen",
+    "3rd Person Present (Präsens)": "bringt mit",
+    "Preterite (Präteritum)": "brachte mit",
+    "Perfect Participle (Perfekt)": "hat mitgebracht",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "mitnehmen",
+    "3rd Person Present (Präsens)": "nimmt mit",
+    "Preterite (Präteritum)": "nahm mit",
+    "Perfect Participle (Perfekt)": "hat mitgenommen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "mögen",
+    "3rd Person Present (Präsens)": "mag",
+    "Preterite (Präteritum)": "mochte",
+    "Perfect Participle (Perfekt)": "hat gemocht",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "nehmen",
+    "3rd Person Present (Präsens)": "nimmt",
+    "Preterite (Präteritum)": "nahm",
+    "Perfect Participle (Perfekt)": "hat genommen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "nennen",
+    "3rd Person Present (Präsens)": "nennt",
+    "Preterite (Präteritum)": "nannte",
+    "Perfect Participle (Perfekt)": "hat genannt",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "raten",
+    "3rd Person Present (Präsens)": "rät",
+    "Preterite (Präteritum)": "riet",
+    "Perfect Participle (Perfekt)": "hat geraten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "riechen",
+    "3rd Person Present (Präsens)": "riecht",
+    "Preterite (Präteritum)": "roch",
+    "Perfect Participle (Perfekt)": "hat gerochen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "rufen",
+    "3rd Person Present (Präsens)": "ruft",
+    "Preterite (Präteritum)": "rief",
+    "Perfect Participle (Perfekt)": "hat gerufen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "scheinen",
+    "3rd Person Present (Präsens)": "scheint",
+    "Preterite (Präteritum)": "schien",
+    "Perfect Participle (Perfekt)": "hat geschienen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schlafen",
+    "3rd Person Present (Präsens)": "schläft",
+    "Preterite (Präteritum)": "schlief",
+    "Perfect Participle (Perfekt)": "hat geschlafen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schlagen",
+    "3rd Person Present (Präsens)": "schlägt",
+    "Preterite (Präteritum)": "schlug",
+    "Perfect Participle (Perfekt)": "hat geschlagen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schließen",
+    "3rd Person Present (Präsens)": "schließt",
+    "Preterite (Präteritum)": "schloss",
+    "Perfect Participle (Perfekt)": "hat geschlossen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schneiden",
+    "3rd Person Present (Präsens)": "schneidet",
+    "Preterite (Präteritum)": "schnitt",
+    "Perfect Participle (Perfekt)": "hat geschnitten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schreiben",
+    "3rd Person Present (Präsens)": "schreibt",
+    "Preterite (Präteritum)": "schrieb",
+    "Perfect Participle (Perfekt)": "hat geschrieben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sehen",
+    "3rd Person Present (Präsens)": "sieht",
+    "Preterite (Präteritum)": "sah",
+    "Perfect Participle (Perfekt)": "hat gesehen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "singen",
+    "3rd Person Present (Präsens)": "singt",
+    "Preterite (Präteritum)": "sang",
+    "Perfect Participle (Perfekt)": "hat gesungen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sitzen",
+    "3rd Person Present (Präsens)": "sitzt",
+    "Preterite (Präteritum)": "saß",
+    "Perfect Participle (Perfekt)": "hat/ist gesessen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sprechen",
+    "3rd Person Present (Präsens)": "spricht",
+    "Preterite (Präteritum)": "sprach",
+    "Perfect Participle (Perfekt)": "hat gesprochen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "stattfinden",
+    "3rd Person Present (Präsens)": "findet statt",
+    "Preterite (Präteritum)": "fand statt",
+    "Perfect Participle (Perfekt)": "hat stattgefunden",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "stehen",
+    "3rd Person Present (Präsens)": "steht",
+    "Preterite (Präteritum)": "stand",
+    "Perfect Participle (Perfekt)": "hat/ist gestanden",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "stehlen",
+    "3rd Person Present (Präsens)": "stiehlt",
+    "Preterite (Präteritum)": "stahl",
+    "Perfect Participle (Perfekt)": "hat gestohlen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "streiten",
+    "3rd Person Present (Präsens)": "streitet",
+    "Preterite (Präteritum)": "stritt",
+    "Perfect Participle (Perfekt)": "hat gestritten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "teilnehmen",
+    "3rd Person Present (Präsens)": "nimmt teil",
+    "Preterite (Präteritum)": "nahm teil",
+    "Perfect Participle (Perfekt)": "hat teilgenommen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "tragen",
+    "3rd Person Present (Präsens)": "trägt",
+    "Preterite (Präteritum)": "trug",
+    "Perfect Participle (Perfekt)": "hat getragen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "treiben",
+    "3rd Person Present (Präsens)": "treibt",
+    "Preterite (Präteritum)": "trieb",
+    "Perfect Participle (Perfekt)": "hat getrieben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "treffen",
+    "3rd Person Present (Präsens)": "trifft",
+    "Preterite (Präteritum)": "traf",
+    "Perfect Participle (Perfekt)": "hat getroffen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "treten",
+    "3rd Person Present (Präsens)": "tritt",
+    "Preterite (Präteritum)": "trat",
+    "Perfect Participle (Perfekt)": "hat getreten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "trinken",
+    "3rd Person Present (Präsens)": "trinkt",
+    "Preterite (Präteritum)": "trank",
+    "Perfect Participle (Perfekt)": "hat getrunken",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "tun",
+    "3rd Person Present (Präsens)": "tut",
+    "Preterite (Präteritum)": "tat",
+    "Perfect Participle (Perfekt)": "hat getan",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "übertragen",
+    "3rd Person Present (Präsens)": "überträgt",
+    "Preterite (Präteritum)": "übertrug",
+    "Perfect Participle (Perfekt)": "hat übertragen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "überweisen",
+    "3rd Person Present (Präsens)": "überweist",
+    "Preterite (Präteritum)": "überwies",
+    "Perfect Participle (Perfekt)": "hat überwiesen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "umziehen",
+    "3rd Person Present (Präsens)": "zieht um",
+    "Preterite (Präteritum)": "zog um",
+    "Perfect Participle (Perfekt)": "hat/ist umgezogen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "unterhalten",
+    "3rd Person Present (Präsens)": "unterhält",
+    "Preterite (Präteritum)": "unterhielt",
+    "Perfect Participle (Perfekt)": "hat unterhalten",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "unternehmen",
+    "3rd Person Present (Präsens)": "unternimmt",
+    "Preterite (Präteritum)": "unternahm",
+    "Perfect Participle (Perfekt)": "hat unternommen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "unterschreiben",
+    "3rd Person Present (Präsens)": "unterschreibt",
+    "Preterite (Präteritum)": "unterschrieb",
+    "Perfect Participle (Perfekt)": "hat unterschrieben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verbringen",
+    "3rd Person Present (Präsens)": "verbringt",
+    "Preterite (Präteritum)": "verbrachte",
+    "Perfect Participle (Perfekt)": "hat verbracht",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "vergessen",
+    "3rd Person Present (Präsens)": "vergisst",
+    "Preterite (Präteritum)": "vergaß",
+    "Perfect Participle (Perfekt)": "hat vergessen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "vergleichen",
+    "3rd Person Present (Präsens)": "vergleicht",
+    "Preterite (Präteritum)": "verglich",
+    "Perfect Participle (Perfekt)": "hat vergleichen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verlieren",
+    "3rd Person Present (Präsens)": "verliert",
+    "Preterite (Präteritum)": "verlor",
+    "Perfect Participle (Perfekt)": "hat verloren",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verschieben",
+    "3rd Person Present (Präsens)": "verschiebt",
+    "Preterite (Präteritum)": "verschob",
+    "Perfect Participle (Perfekt)": "hat verschoben",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "versprechen",
+    "3rd Person Present (Präsens)": "verspricht",
+    "Preterite (Präteritum)": "versprach",
+    "Perfect Participle (Perfekt)": "hat versprochen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verstehen",
+    "3rd Person Present (Präsens)": "versteht",
+    "Preterite (Präteritum)": "verstand",
+    "Perfect Participle (Perfekt)": "hat verstanden",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "vorschlagen",
+    "3rd Person Present (Präsens)": "schlägt vor",
+    "Preterite (Präteritum)": "schlug vor",
+    "Perfect Participle (Perfekt)": "hat vorgeschlagen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "vorstellen",
+    "3rd Person Present (Präsens)": "stellt vor",
+    "Preterite (Präteritum)": "stellte vor",
+    "Perfect Participle (Perfekt)": "hat vorgestellt",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "waschen",
+    "3rd Person Present (Präsens)": "wäscht",
+    "Preterite (Präteritum)": "wusch",
+    "Perfect Participle (Perfekt)": "hat gewaschen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wegwerfen",
+    "3rd Person Present (Präsens)": "wirft weg",
+    "Preterite (Präteritum)": "warf weg",
+    "Perfect Participle (Perfekt)": "hat weggeworfen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wehtun",
+    "3rd Person Present (Präsens)": "tut weh",
+    "Preterite (Präteritum)": "tat weh",
+    "Perfect Participle (Perfekt)": "hat wehgetan",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "werfen",
+    "3rd Person Present (Präsens)": "wirft",
+    "Preterite (Präteritum)": "warf",
+    "Perfect Participle (Perfekt)": "hat geworfen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wissen",
+    "3rd Person Present (Präsens)": "weiß",
+    "Preterite (Präteritum)": "wusste",
+    "Perfect Participle (Perfekt)": "hat gewusst",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ziehen",
+    "3rd Person Present (Präsens)": "zieht",
+    "Preterite (Präteritum)": "zog",
+    "Perfect Participle (Perfekt)": "hat gezogen",
+    "sein/haben": "haben",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "abfahren",
+    "3rd Person Present (Präsens)": "fährt ab",
+    "Preterite (Präteritum)": "fuhr ab",
+    "Perfect Participle (Perfekt)": "ist abgefahren",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "abfliegen",
+    "3rd Person Present (Präsens)": "fliegt ab",
+    "Preterite (Präteritum)": "flog ab",
+    "Perfect Participle (Perfekt)": "ist abgeflegen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ankommen",
+    "3rd Person Present (Präsens)": "kommt an",
+    "Preterite (Präteritum)": "kam an",
+    "Perfect Participle (Perfekt)": "ist angekommen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "aufstehen",
+    "3rd Person Present (Präsens)": "steht auf",
+    "Preterite (Präteritum)": "stand auf",
+    "Perfect Participle (Perfekt)": "ist aufgestanden",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ausgehen",
+    "3rd Person Present (Präsens)": "geht aus",
+    "Preterite (Präteritum)": "ging aus",
+    "Perfect Participle (Perfekt)": "ist ausgegangen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "aussteigen",
+    "3rd Person Present (Präsens)": "steigt aus",
+    "Preterite (Präteritum)": "stieg aus",
+    "Perfect Participle (Perfekt)": "ist ausgestiegen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "ausziehen",
+    "3rd Person Present (Präsens)": "zieht aus",
+    "Preterite (Präteritum)": "zog aus",
+    "Perfect Participle (Perfekt)": "ist/hat ausgezogen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bleiben",
+    "3rd Person Present (Präsens)": "bleibt",
+    "Preterite (Präteritum)": "blieb",
+    "Perfect Participle (Perfekt)": "ist geblieben",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "brechen",
+    "3rd Person Present (Präsens)": "bricht",
+    "Preterite (Präteritum)": "brach",
+    "Perfect Participle (Perfekt)": "ist gebrochen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "einfallen",
+    "3rd Person Present (Präsens)": "fällt ein",
+    "Preterite (Präteritum)": "fiel ein",
+    "Perfect Participle (Perfekt)": "ist eingefallen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "einschlafen",
+    "3rd Person Present (Präsens)": "schläft ein",
+    "Preterite (Präteritum)": "schlief ein",
+    "Perfect Participle (Perfekt)": "ist eingeschlafen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "einsteigen",
+    "3rd Person Present (Präsens)": "steigt ein",
+    "Preterite (Präteritum)": "stieg ein",
+    "Perfect Participle (Perfekt)": "ist eingestiegen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "einziehen",
+    "3rd Person Present (Präsens)": "zieht ein",
+    "Preterite (Präteritum)": "zog ein",
+    "Perfect Participle (Perfekt)": "ist eingezogen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fahren",
+    "3rd Person Present (Präsens)": "fährt",
+    "Preterite (Präteritum)": "fuhr",
+    "Perfect Participle (Perfekt)": "ist gefahren",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fallen",
+    "3rd Person Present (Präsens)": "fällt",
+    "Preterite (Präteritum)": "fiel",
+    "Perfect Participle (Perfekt)": "ist gefallen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fliegen",
+    "3rd Person Present (Präsens)": "fliegt",
+    "Preterite (Präteritum)": "flog",
+    "Perfect Participle (Perfekt)": "ist geflogen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gehen",
+    "3rd Person Present (Präsens)": "geht",
+    "Preterite (Präteritum)": "ging",
+    "Perfect Participle (Perfekt)": "ist gegangen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "geschehen",
+    "3rd Person Present (Präsens)": "geschieht",
+    "Preterite (Präteritum)": "geschah",
+    "Perfect Participle (Perfekt)": "ist geschehen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "kommen",
+    "3rd Person Present (Präsens)": "kommt",
+    "Preterite (Präteritum)": "kam",
+    "Perfect Participle (Perfekt)": "ist gekommen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "laufen",
+    "3rd Person Present (Präsens)": "läuft",
+    "Preterite (Präteritum)": "lief",
+    "Perfect Participle (Perfekt)": "ist gelaufen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "losfahren",
+    "3rd Person Present (Präsens)": "fährt los",
+    "Preterite (Präteritum)": "fuhr los",
+    "Perfect Participle (Perfekt)": "ist losgefahren",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "mitkommen",
+    "3rd Person Present (Präsens)": "kommt mit",
+    "Preterite (Präteritum)": "kam mit",
+    "Perfect Participle (Perfekt)": "ist mitgekommen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schwimmen",
+    "3rd Person Present (Präsens)": "schwimmt",
+    "Preterite (Präteritum)": "schwamm",
+    "Perfect Participle (Perfekt)": "ist schwommen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sein",
+    "3rd Person Present (Präsens)": "ist",
+    "Preterite (Präteritum)": "war",
+    "Perfect Participle (Perfekt)": "ist gewesen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sinken",
+    "3rd Person Present (Präsens)": "sinkt",
+    "Preterite (Präteritum)": "sank",
+    "Perfect Participle (Perfekt)": "ist gesunken",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "spazieren gehen",
+    "3rd Person Present (Präsens)": "geht spazieren",
+    "Preterite (Präteritum)": "ging spazieren",
+    "Perfect Participle (Perfekt)": "ist spazieren gegangen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "springen",
+    "3rd Person Present (Präsens)": "springt",
+    "Preterite (Präteritum)": "sprang",
+    "Perfect Participle (Perfekt)": "ist gesprungen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "steigen",
+    "3rd Person Present (Präsens)": "steigt",
+    "Preterite (Präteritum)": "stieg",
+    "Perfect Participle (Perfekt)": "ist gestiegen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sterben",
+    "3rd Person Present (Präsens)": "stirbt",
+    "Preterite (Präteritum)": "starb",
+    "Perfect Participle (Perfekt)": "ist gestorben",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "umsteigen",
+    "3rd Person Present (Präsens)": "steigt um",
+    "Preterite (Präteritum)": "stieg um",
+    "Perfect Participle (Perfekt)": "ist umgestiegen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verschwinden",
+    "3rd Person Present (Präsens)": "verschwindet",
+    "Preterite (Präteritum)": "verschwand",
+    "Perfect Participle (Perfekt)": "ist verschwunden",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wachsen",
+    "3rd Person Present (Präsens)": "wächst",
+    "Preterite (Präteritum)": "wuchs",
+    "Perfect Participle (Perfekt)": "ist gewachsen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "weggehen",
+    "3rd Person Present (Präsens)": "geht weg",
+    "Preterite (Präteritum)": "ging weg",
+    "Perfect Participle (Perfekt)": "ist weggegangen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "werden",
+    "3rd Person Present (Präsens)": "wird",
+    "Preterite (Präteritum)": "wurde",
+    "Perfect Participle (Perfekt)": "ist geworden",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "zurechtkommen",
+    "3rd Person Present (Präsens)": "kommt zurecht",
+    "Preterite (Präteritum)": "kam zurecht",
+    "Perfect Participle (Perfekt)": "ist zurechtgekommen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "zurückkommen",
+    "3rd Person Present (Präsens)": "kommt zurück",
+    "Preterite (Präteritum)": "kam zurück",
+    "Perfect Participle (Perfekt)": "ist zurückgekommen",
+    "sein/haben": "sein",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "anbieten",
+    "3rd Person Present (Präsens)": "offer",
+    "Preterite (Präteritum)": "Darf ich Ihnen einen Tee anbieten?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bezahlen",
+    "3rd Person Present (Präsens)": "Pay",
+    "Preterite (Präteritum)": "Er hat uns die Getränke bezahlt.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bestellen",
+    "3rd Person Present (Präsens)": "Order",
+    "Preterite (Präteritum)": "Er hat uns Kaffee bestellt.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bringen",
+    "3rd Person Present (Präsens)": "bring",
+    "Preterite (Präteritum)": "Bitte bringen Sie mir einen Kaffee.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "empfehlen",
+    "3rd Person Present (Präsens)": "Recommend",
+    "Preterite (Präteritum)": "Ich kann Ihnen ein Restaurant empfehlen.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "erklären",
+    "3rd Person Present (Präsens)": "Explain",
+    "Preterite (Präteritum)": "Können Sie mir das Problem erklären?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "erzählen",
+    "3rd Person Present (Präsens)": "Tell",
+    "Preterite (Präteritum)": "Meine Oma hat uns immer schöne Geschichten erzählt.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "geben",
+    "3rd Person Present (Präsens)": "give",
+    "Preterite (Präteritum)": "Bitte geben Sie mir die Rechnung.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "holen",
+    "3rd Person Present (Präsens)": "Get",
+    "Preterite (Präteritum)": "Er holt uns die Getränke.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "kaufen",
+    "3rd Person Present (Präsens)": "BUY NOW",
+    "Preterite (Präteritum)": "Ich möchte meinem Sohn einen Laptop kaufen.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "koche",
+    "3rd Person Present (Präsens)": "Cooks",
+    "Preterite (Präteritum)": "Wer kocht uns heute das Mittagessen?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "leihen",
+    "3rd Person Present (Präsens)": "Borrow",
+    "Preterite (Präteritum)": "Sie hat ihm ein Buch geliehen.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "liefern",
+    "3rd Person Present (Präsens)": "Deliver",
+    "Preterite (Präteritum)": "Die Firma liefert uns die Möbel am Freitag.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "mitbringen",
+    "3rd Person Present (Präsens)": "What to bring with you",
+    "Preterite (Präteritum)": "Sie bringen ihm aus dem Urlaub ein Souvenir mit.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "renovieren",
+    "3rd Person Present (Präsens)": "Renovate",
+    "Preterite (Präteritum)": "Wir renovieren unseren Freunden die Wohnung.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "reparieren",
+    "3rd Person Present (Präsens)": "Repair",
+    "Preterite (Präteritum)": "Die Werkstatt kann uns das Auto erst nächste Woche reparieren.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "reservieren",
+    "3rd Person Present (Präsens)": "Book",
+    "Preterite (Präteritum)": "Bitte reservieren Sie uns einen Tisch für 20:00 Uhr.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sagen",
+    "3rd Person Present (Präsens)": "say",
+    "Preterite (Präteritum)": "Hast du ihm die Neuigkeit gesagt?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schenken",
+    "3rd Person Present (Präsens)": "Giving",
+    "Preterite (Präteritum)": "Sie schenkt ihrem Vater eine Krawatte.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schicken",
+    "3rd Person Present (Präsens)": "Send",
+    "Preterite (Präteritum)": "Können Sie uns bitte Informationen schicken?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schneiden",
+    "3rd Person Present (Präsens)": "Cutting",
+    "Preterite (Präteritum)": "Der Friseur hat ihr die Haare super geschnitten.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "servieren",
+    "3rd Person Present (Präsens)": "Serve",
+    "Preterite (Präteritum)": "Sie serviert ihren Gästen Kaffee und Kuchen.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "verkaufen",
+    "3rd Person Present (Präsens)": "Sell",
+    "Preterite (Präteritum)": "Er verkauft seinem kleinen Bruder seinen alten Laptop.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wünschen",
+    "3rd Person Present (Präsens)": "wish",
+    "Preterite (Präteritum)": "Ich wünsche dir viel Glück!",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "zeigen",
+    "3rd Person Present (Präsens)": "show",
+    "Preterite (Präteritum)": "Die Frau zeigt ihnen die Sehenswürdigkeiten in der Stadt.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "antworten",
+    "3rd Person Present (Präsens)": "Reply",
+    "Preterite (Präteritum)": "Er konnte ihr nicht sofort antworten.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "danken",
+    "3rd Person Present (Präsens)": "Thank you",
+    "Preterite (Präteritum)": "Ich danke Ihnen.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fehlen",
+    "3rd Person Present (Präsens)": "missing",
+    "Preterite (Präteritum)": "Was fehlt Ihnen?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gefallen",
+    "3rd Person Present (Präsens)": "Liked",
+    "Preterite (Präteritum)": "Der Hut gefällt mir gut.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gehen",
+    "3rd Person Present (Präsens)": "Go",
+    "Preterite (Präteritum)": "Wie geht es dir?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gehören",
+    "3rd Person Present (Präsens)": "include",
+    "Preterite (Präteritum)": "Wem gehört der Schlüssel?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "glauben",
+    "3rd Person Present (Präsens)": "Faith",
+    "Preterite (Präteritum)": "Ich glaube dir.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gratulieren",
+    "3rd Person Present (Präsens)": "Congratulations",
+    "Preterite (Präteritum)": "Sie gratulieren ihm zum Geburtstag.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "helfen",
+    "3rd Person Present (Präsens)": "Help",
+    "Preterite (Präteritum)": "Kann ich Ihnen helfen?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "leidtun",
+    "3rd Person Present (Präsens)": "Sorry",
+    "Preterite (Präteritum)": "Entschuldigung, das tut mir leid.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "passen",
+    "3rd Person Present (Präsens)": "Fit",
+    "Preterite (Präteritum)": "Die Hose passt mir leider nicht.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "schmecken",
+    "3rd Person Present (Präsens)": "Taste",
+    "Preterite (Präteritum)": "Die Torte schmeckt uns.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "stehen",
+    "3rd Person Present (Präsens)": "stand",
+    "Preterite (Präteritum)": "Das Kleid steht ihr gut.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "wehtun",
+    "3rd Person Present (Präsens)": "hurt",
+    "Preterite (Präteritum)": "Der Fuß tut mir weh.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "zuhören",
+    "3rd Person Present (Präsens)": "Listen",
+    "Preterite (Präteritum)": "Bitte hören Sie mir genau zu.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "achten auf",
+    "3rd Person Present (Präsens)": "Pay attention to",
+    "Preterite (Präteritum)": "Ich achte beim Fahrradfahren auf den Verkehr.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich anmelden für",
+    "3rd Person Present (Präsens)": "Sign up for",
+    "Preterite (Präteritum)": "Ich melde mich für den nächsten Kurs an.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "aufpassen auf",
+    "3rd Person Present (Präsens)": "Watch out for",
+    "Preterite (Präteritum)": "Wer passt morgen auf die Kinder auf?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich ärgern über",
+    "3rd Person Present (Präsens)": "to be annoyed about",
+    "Preterite (Präteritum)": "Ich ärgere mich über den Stau.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich beschweren über",
+    "3rd Person Present (Präsens)": "to complain about",
+    "Preterite (Präteritum)": "Ich beschringe mich über den Lärm.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich bewerben um/auf",
+    "3rd Person Present (Präsens)": "Apply to/on",
+    "Preterite (Präteritum)": "Ich bewerbe mich um die Stelle.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bitten um",
+    "3rd Person Present (Präsens)": "ask for",
+    "Preterite (Präteritum)": "Ich bitte um Entschuldigung.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "denken an",
+    "3rd Person Present (Präsens)": "Thinking of",
+    "Preterite (Präteritum)": "Er denkt an seine Familie.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "diskutieren über",
+    "3rd Person Present (Präsens)": "discuss about",
+    "Preterite (Präteritum)": "Wir diskutieren über Politik.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich engagieren für",
+    "3rd Person Present (Präsens)": "To get involved",
+    "Preterite (Präteritum)": "Sie engagieren sich für den Umweltschutz.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich entscheiden für",
+    "3rd Person Present (Präsens)": "opt for",
+    "Preterite (Präteritum)": "Sie entscheidet sich für den Job...",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich entschuldigen für",
+    "3rd Person Present (Präsens)": "apologize for",
+    "Preterite (Präteritum)": "Er entschuldigt sich für seine Verspätung.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich erinnern an",
+    "3rd Person Present (Präsens)": "Remembering",
+    "Preterite (Präteritum)": "Sie erinnern sich an ihre Kindheit.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich freuen auf",
+    "3rd Person Present (Präsens)": "look forward to",
+    "Preterite (Präteritum)": "Wir freuen uns auf das Fest.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich freuen über",
+    "3rd Person Present (Präsens)": "to be happy about",
+    "Preterite (Präteritum)": "Ich freue mich über das Geschenk.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich gewöhnen an",
+    "3rd Person Present (Präsens)": "get used to",
+    "Preterite (Präteritum)": "Er gewöhnt sich an das Leben in Deutschland.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich informieren über",
+    "3rd Person Present (Präsens)": "Find out more about",
+    "Preterite (Präteritum)": "Du informierst dich über die Preise.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich interessieren für",
+    "3rd Person Present (Präsens)": "are interested in",
+    "Preterite (Präteritum)": "Ich interessiere mich für Politik.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich kümmern um",
+    "3rd Person Present (Präsens)": "take care of",
+    "Preterite (Präteritum)": "Die Großeltern kümmern sich um die Kinder.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "lachen über",
+    "3rd Person Present (Präsens)": "laugh at",
+    "Preterite (Präteritum)": "Sie lachen über den Witz.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "nachdenken über",
+    "3rd Person Present (Präsens)": "think about",
+    "Preterite (Präteritum)": "Du musst über deine Zukunft nachdenken.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "reden über",
+    "3rd Person Present (Präsens)": "talk about",
+    "Preterite (Präteritum)": "Wir reden über den neuen Film.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sprechen über",
+    "3rd Person Present (Präsens)": "talk about",
+    "Preterite (Präteritum)": "Wir sprechen über unsere Nachbarn.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich streiten über",
+    "3rd Person Present (Präsens)": "arguing about",
+    "Preterite (Präteritum)": "Sie streiten sich über Geld.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich unterhalten über",
+    "3rd Person Present (Präsens)": "to talk about",
+    "Preterite (Präteritum)": "Wir unterhalten uns über Mode.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich verlassen auf",
+    "3rd Person Present (Präsens)": "rely on",
+    "Preterite (Präteritum)": "Ich verlasse mich auf dich.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich verlieben in",
+    "3rd Person Present (Präsens)": "to fall in love with",
+    "Preterite (Präteritum)": "Er hat sich in seine neue Kollegin verliebt.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich vorbereiten auf",
+    "3rd Person Present (Präsens)": "Prepare for",
+    "Preterite (Präteritum)": "Wir bereiten uns auf die Prüfung vor.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "warten auf",
+    "3rd Person Present (Präsens)": "waiting for",
+    "Preterite (Präteritum)": "Wir warten auf den Bus.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich beschäftigen mit",
+    "3rd Person Present (Präsens)": "deal with",
+    "Preterite (Präteritum)": "Er beschäftigt sich mit Geschichte.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "bestehen aus",
+    "3rd Person Present (Präsens)": "consist of",
+    "Preterite (Präteritum)": "Der Kuchen besteht aus Mehl...",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "diskutieren mit",
+    "3rd Person Present (Präsens)": "Join the discussion",
+    "Preterite (Präteritum)": "Ich diskutiere oft mit meinen Nachbarn.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "einladen zu",
+    "3rd Person Present (Präsens)": "invite to",
+    "Preterite (Präteritum)": "Ich lade dich zu meiner Hochzeitsfeier ein.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich entschuldigen bei",
+    "3rd Person Present (Präsens)": "apologize to",
+    "Preterite (Präteritum)": "Ich möchte mich bei dir entschuldigen.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "erzählen von",
+    "3rd Person Present (Präsens)": "Tell us about",
+    "Preterite (Präteritum)": "Erzähl mir von deinen Urlaub.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "fragen nach",
+    "3rd Person Present (Präsens)": "Ask for",
+    "Preterite (Präteritum)": "Sie fragt nach dem Weg zum Bahnhof.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gehören zu",
+    "3rd Person Present (Präsens)": "belong to",
+    "Preterite (Präteritum)": "Der Gürtel gehört zu diesem Kleid.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "gratulieren zu",
+    "3rd Person Present (Präsens)": "Congratulations on",
+    "Preterite (Präteritum)": "Wir gratulieren dir zum Geburtstag.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sprechen mit",
+    "3rd Person Present (Präsens)": "Talk to",
+    "Preterite (Präteritum)": "Ich spreche mit meiner Schwester.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "reden mit",
+    "3rd Person Present (Präsens)": "Talk to",
+    "Preterite (Präteritum)": "Sie redet nicht mit mir.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "teilnehmen an",
+    "3rd Person Present (Präsens)": "Participate in",
+    "Preterite (Präteritum)": "Nimmst du auch an den nächsten Kurs teil?",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "telefonieren mit",
+    "3rd Person Present (Präsens)": "make calls with",
+    "Preterite (Präteritum)": "Ich telefoniere täglich mit meinen Eltern.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "träumen von",
+    "3rd Person Present (Präsens)": "dreaming of",
+    "Preterite (Präteritum)": "Ich träume von einem Urlaub auf Kreta.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich treffen mit",
+    "3rd Person Present (Präsens)": "Meet with",
+    "Preterite (Präteritum)": "Er trifft sich oft mit seinen Freunden.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich trennen von",
+    "3rd Person Present (Präsens)": "to part with",
+    "Preterite (Präteritum)": "Sie hat sich von ihrem Mann getrennt.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich unterhalten mit",
+    "3rd Person Present (Präsens)": "to talk to",
+    "Preterite (Präteritum)": "Wir unterhalten uns gerne mit unseren Nachbarn.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
+    "Verb (Infinitiv)": "sich verabreden mit",
+    "3rd Person Present (Präsens)": "make an appointment with",
+    "Preterite (Präteritum)": "Er hat sich mit der neuen Kollegin verabredet.",
+    "Perfect Participle (Perfekt)": "-",
+    "sein/haben": "-",
+    "Theme": "Read them"
+  },
+  {
     "Article": "der",
     "German Word": "Krimi",
     "English Meaning": "crime thriller / detective story",
