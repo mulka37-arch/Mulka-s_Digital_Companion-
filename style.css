@@ -163,6 +163,19 @@ button:hover {
   border-radius: 10px;
   background: white;
   -webkit-overflow-scrolling: touch;
+  transition: all 0.25s ease-in-out;
+}
+
+/* 🔍 Zoom Styles: Seamless scaling without breaking touch targets */
+.table-wrapper.zoom-out th, 
+.table-wrapper.zoom-out td {
+  font-size: 10px !important;
+  padding: 4px 6px !important;
+  white-space: normal !important;
+}
+
+.table-wrapper.zoom-out table {
+  width: 100%;
 }
 
 table {
@@ -288,10 +301,7 @@ input[type="text"] {
   .options-grid { grid-template-columns: 1fr; gap: 8px; }
   .option-btn { font-size: 14px; padding: 12px; }
   
-  /* 🛠️ CHANGED THIS LINE: Forces side-by-side columns on mobile */
   .matching-container { grid-template-columns: 1fr 1fr !important; gap: 8px; }
-  
-  /* 🛠️ CHANGED THIS LINE: Tweaked padding so long German words fit cleanly */
   .match-column { min-height: unset; padding: 6px; }
   
   .filter-bar, .batch-bar, .controls-bar { justify-content: flex-start; }
@@ -305,15 +315,35 @@ input[type="text"] {
 #word-table th:hover { background: #152542 !important; }
 .sort-icon { font-size: 12px; margin-left: 5px; color: #a0aec0; }
 
-/* Voice UI Enhancements */
+/* 🎙️ Universal ASR Dynamic Waveform Ring */
 .voice-pulse-active {
   animation: voicePulse 1.2s infinite ease-in-out;
 }
+.voice-listening-ring {
+  border: 4px solid #10b981 !important;
+  animation: voicePulseSuccess 1.0s infinite ease-in-out;
+}
+.voice-error-ring {
+  border: 4px solid #ef4444 !important;
+  animation: shakeAction 0.4s ease-in-out;
+}
+
 @keyframes voicePulse {
   0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(231, 111, 81, 0.4); }
   70% { transform: scale(1.02); box-shadow: 0 0 0 10px rgba(231, 111, 81, 0); }
   100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(231, 111, 81, 0); }
 }
+@keyframes voicePulseSuccess {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.4); }
+  70% { transform: scale(1.02); box-shadow: 0 0 0 10px rgba(16, 185, 129, 0); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+}
+@keyframes shakeAction {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  75% { transform: translateX(6px); }
+}
+
 #theme-selection-area {
   display: flex;
   flex-direction: column;
@@ -392,7 +422,6 @@ input[type="text"] {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
 }
 
-/* Red pulsing visual queue engine for dynamic data exception markers */
 .exception-pulse {
   animation: mapExceptionPulse 1.2s infinite alternate ease-in-out;
 }
@@ -400,4 +429,105 @@ input[type="text"] {
 @keyframes mapExceptionPulse {
   0% { fill: #e11d48; filter: drop-shadow(0 0 4px #e11d48); }
   100% { fill: #f43f5e; filter: drop-shadow(0 0 14px #f43f5e); stroke-width: 3; }
+}
+/* =========================================================
+   🎓 COGNITIVE HARMONY PREMIUM FLASHCARD DECK UI
+========================================================= */
+#card-mode-container {
+  background: linear-gradient(145deg, #f8fafc, #f1f5f9) !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 20px !important;
+  padding: 24px !important;
+  box-shadow: 0 10px 30px -10px rgba(15, 23, 42, 0.08) !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Beautiful Flashcard Box layout */
+#flashcard-box {
+  min-height: 220px !important;
+  background: #faf9f5 !important; /* Premium Alabaster Warm Paper */
+  border: 2px solid #e2e8f0 !important;
+  border-radius: 18px !important;
+  padding: 28px !important;
+  position: relative !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  cursor: pointer !important;
+  box-shadow: 
+    0 4px 6px -1px rgba(0, 0, 0, 0.05), 
+    0 10px 15px -3px rgba(0, 0, 0, 0.03),
+    inset 0 2px 4px 0 rgba(255, 255, 255, 0.9) !important;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
+}
+
+/* Gentle physical hover feedback to encourage interaction */
+#flashcard-box:hover {
+  transform: translateY(-5px) scale(1.01) !important;
+  border-color: #cbd5e1 !important;
+  box-shadow: 
+    0 20px 25px -5px rgba(15, 23, 42, 0.08), 
+    0 10px 10px -5px rgba(15, 23, 42, 0.04) !important;
+}
+
+/* Slight spring-like compression feedback when pressed */
+#flashcard-box:active {
+  transform: translateY(-1px) scale(0.99) !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* The dopamine-reward styling applied instantly to the card back when revealed */
+#flashcard-box.flipped-reward {
+  background: #f0fdf4 !important; /* Calm Pastel Sage Mint */
+  border-color: #86efac !important; /* Soft spring green border */
+  box-shadow: 
+    0 10px 25px -5px rgba(16, 185, 129, 0.05),
+    inset 0 2px 4px 0 rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Exquisite status badges on the cards */
+.card-status-badge {
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.8px !important;
+  text-transform: uppercase !important;
+  padding: 4px 12px !important;
+  border-radius: 30px !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03) !important;
+  margin-bottom: 12px !important;
+  display: inline-block !important;
+}
+
+/* Beautiful custom fonts & typography styling for card components */
+.card-face-title {
+  font-size: 11px !important;
+  font-weight: 800 !important;
+  color: #64748b !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.5px !important;
+  margin-bottom: 14px !important;
+}
+
+.card-datapoint-label {
+  font-size: 10px !important;
+  font-weight: 800 !important;
+  color: #94a3b8 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  margin-bottom: 2px !important;
+}
+
+.card-datapoint-value-front {
+  font-size: 28px !important;
+  font-weight: 800 !important;
+  color: #1e293b !important; /* High contrast dark slate */
+  text-shadow: 0 1px 1px rgba(0,0,0,0.01) !important;
+}
+
+.card-datapoint-value-back {
+  font-size: 24px !important;
+  font-weight: 800 !important;
+  color: #065f46 !important; /* Satisfying emerald green */
+  text-shadow: 0 1px 1px rgba(0,0,0,0.01) !important;
 }

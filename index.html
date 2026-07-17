@@ -50,6 +50,20 @@
           <h3 id="theme-title">Selected Themes</h3>
           <div id="stats-box" class="stats-box"></div>
         </div>
+
+        <!-- 🔎 Live Search Panel with Umlauts -->
+        <div class="search-panel" style="background: #f1f5f9; padding: 12px; border-radius: 12px; margin-bottom: 12px; margin-top: 10px;">
+          <input type="text" id="matrix-search-input" onkeyup="performMatrixSearch()" placeholder="🔍 Quick search words/translations..." style="margin-bottom: 8px; width:100%; border:1px solid #cbd5e1; text-align:left; padding: 10px; border-radius: 8px;">
+          <div class="umlaut-buttons" style="justify-content: flex-start; gap: 4px; margin-top: 4px;">
+            <span style="font-size: 11px; font-weight: bold; align-self: center; color: #475569; margin-right: 5px;">Umlauts:</span>
+            <button type="button" onclick="insertUmlautToSearch('ä')" style="background: #6d597a; color: white; min-width: 34px; height: 34px; padding: 0; font-size:13px; line-height:34px;">ä</button>
+            <button type="button" onclick="insertUmlautToSearch('ö')" style="background: #6d597a; color: white; min-width: 34px; height: 34px; padding: 0; font-size:13px; line-height:34px;">ö</button>
+            <button type="button" onclick="insertUmlautToSearch('ü')" style="background: #6d597a; color: white; min-width: 34px; height: 34px; padding: 0; font-size:13px; line-height:34px;">ü</button>
+            <button type="button" onclick="insertUmlautToSearch('ß')" style="background: #6d597a; color: white; min-width: 34px; height: 34px; padding: 0; font-size:13px; line-height:34px;">ß</button>
+            <button type="button" onclick="clearMatrixSearch()" style="background: #cbd5e1; color: #1e293b; min-width: 44px; height: 34px; padding: 0; font-size:11px;">Clear</button>
+          </div>
+        </div>
+
         <div class="filter-bar">
           <button onclick="setFilter('all')">⚪ All</button>
           <button onclick="setFilter('hard')">🔴 Hard</button>
@@ -68,11 +82,39 @@
           <button class="stop-btn" onclick="stopAudio()">⏹ Stop</button>
           <button onclick="openSettingsModal()">⚙ Settings</button>
           <button onclick="downloadWordList()">📥 Export PDF</button>
+          
+          <!-- View and Scaling Modifiers -->
+          <button onclick="toggleZoom('out')" style="background: #475569;">🔍 Zoom Out</button>
+          <button onclick="toggleZoom('in')" style="background: #475569;">🔍 Zoom In</button>
+          <button onclick="toggleCardLayout('card')" style="background: #38bdf8; color: white;">🎴 Card View</button>
+          <button onclick="toggleCardLayout('table')" style="background: #1e293b; color: white;">📋 Table View</button>
+          
           <button class="primary-btn" onclick="backToThemes()">⬅ Back To Themes</button>
         </div>
+
+        <!-- 📋 Dynamic Table Wrapper -->
         <div class="table-wrapper">
           <table id="word-table"></table>
         </div>
+
+        <!-- 🎴 Flashcard Study Layout Panel -->
+        <div id="card-mode-container" style="display: none; background: #ffffff; padding: 20px; border-radius: 12px; border: 1px solid #cbd5e1; margin-top: 15px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+          <h4 style="color: #475569; margin-bottom: 12px;">🎴 Dynamic Flashcard Matrix Study</h4>
+          
+          <!-- Dynamic Flashcard Column Selection Panel -->
+          <div class="config-panel" style="background: #f8fafc; border: 1px dashed #cbd5e1; padding: 12px; border-radius: 8px; margin-bottom: 15px; text-align: left;">
+            <span style="font-size: 12px; font-weight: bold; color: #475569; display: block; margin-bottom: 8px;">🎛️ Select Display Columns:</span>
+            <div id="card-column-selectors" style="display: flex; flex-wrap: wrap; gap: 12px;"></div>
+          </div>
+
+          <div id="flashcard-box" style="min-height: 180px; display: flex; flex-direction: column; justify-content: center; align-items: center; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; cursor: pointer; margin-bottom: 15px;"></div>
+          <div style="display: flex; gap: 8px; justify-content: center;">
+            <button class="primary-btn" onclick="prevCard()">⬅️ Prev</button>
+            <button onclick="flipCard()" style="background: #6d597a; color: white;">🔄 Flip Card</button>
+            <button class="primary-btn" onclick="nextCard()">Next ➡️</button>
+          </div>
+        </div>
+
         <div class="bottom-actions" style="margin-top: 15px;">
           <button class="primary-btn" onclick="backToThemes()">⬅ Back To Themes</button>
         </div>
@@ -167,7 +209,16 @@
           <option value="1.2">1.2x</option>
           <option value="1.5">1.5x</option>
         </select>
-        <button onclick="saveSettings()" class="primary-btn">Save Settings</button>
+
+        <!-- 🗣️ Reader Accent/Voice Preference Switcher -->
+        <label for="voice-gender-preference" style="font-size: 13px; font-weight: bold; margin-top: 10px; display: block;">🗣️ Accent Tone Preference</label>
+        <select id="voice-gender-preference" style="width:100%; padding: 12px; border-radius: 8px; border: 1px solid #cbd5e1; background: white; font-size: 15px;">
+          <option value="auto">System Default (Natural)</option>
+          <option value="female">Prefer Native Female Voice</option>
+          <option value="male">Prefer Native Male Voice</option>
+        </select>
+
+        <button onclick="saveSettings()" class="primary-btn" style="margin-top:15px;">Save Settings</button>
       </div>
     </div>
   </div>

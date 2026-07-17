@@ -50,6 +50,12 @@ let activeCognitiveNodeIndex = null;
 let starData = JSON.parse(localStorage.getItem("germanStarData")) || {};
 const wordbankData = [];
 
+// 🎴 Flashcard Interface Parameters
+let currentCardIndex = 0;
+let isCardFlipped = false;
+let selectedFrontColumns = [];
+let selectedBackColumns = [];
+
 function shuffle(array) {
   let currentIndex = array.length, randomIndex;
   while (currentIndex !== 0) {
@@ -58,6 +64,15 @@ function shuffle(array) {
     [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
   }
   return array;
+}
+
+// Generates a unique, collision-proof compound key for tracking star status safely[cite: 2]
+function getWordUniqueKey(item) {
+  if (!item) return "unknown";
+  const fields = getDynamicColumns();
+  const contentKey = fields.map(f => String(item[f] || "").trim().replace(/'/g, "\\'").replace(/"/g, "")).join("||");
+  const theme = getItemTheme(item).replace(/'/g, "\\'").replace(/"/g, "");
+  return `${theme}||${contentKey}`;
 }
 
 function getStar(wordKey) {
@@ -73,12 +88,16 @@ function toggleStar(wordKey, event) {
   
   localStorage.setItem("germanStarData", JSON.stringify(starData));
   applyFilters();
+  
+  if (document.getElementById("card-mode-container").style.display === "block") {
+    renderCardContent();
+  }
 }
 
 function getDynamicColumns() {
   if (!filteredWords || filteredWords.length === 0) {
     if (wordbankData && wordbankData.length > 0) {
-      return Object.keys(wordbankData[0]).filter(key => !["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note", "MindMap", "Sub_Group", "sub_theme"].includes(key));
+      return Object.keys(wordbankData[0]).filter(key => !["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note", "MindMap", "Sub_Group", "sub_theme", "audio", "Audio"].includes(key));
     }
     return ["German", "Meaning"]; 
   }
@@ -86,7 +105,7 @@ function getDynamicColumns() {
   const allKeys = new Set();
   filteredWords.forEach(item => {
     Object.keys(item).forEach(key => {
-      if (!["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note", "MindMap", "Sub_Group", "sub_theme"].includes(key)) {
+      if (!["theme", "Theme", "star", "originalIndex", "Is_Exception", "is_exception", "Exception_Note", "exception_note", "MindMap", "Sub_Group", "sub_theme", "audio", "Audio"].includes(key)) {
         allKeys.add(key);
       }
     });
@@ -128,6 +147,10 @@ window.onload = () => {
   loadExternalVocabulary("data/vocabulary.json"); 
   setupButtons();
   updateStats();
+  
+  const genderPref = localStorage.getItem("preferred_voice_gender") || "auto";
+  const selectEl = document.getElementById("voice-gender-preference");
+  if (selectEl) selectEl.value = genderPref;
 };
 
 function initVoices() {
@@ -216,7 +239,6 @@ function buildSubThemeClusterMenus() {
 
   if (titleHeader) titleHeader.innerText = "Select an Eligible Theme Container:";
 
-  // Tier 1 Lookup: Isolate macro Mother Themes that contain entries with maps assigned
   const motherThemes = [...new Set(wordbankData
     .filter(word => {
       const sub = (word.MindMap || word.Sub_Group || word.sub_theme || "").trim();
@@ -256,7 +278,6 @@ function openMotherThemeSubMenu(motherThemeName) {
     titleHeader.innerHTML = `Course: <span style="color: #38bdf8;">${formatTheme(motherThemeName)}</span> ➡️ Select Lesson Map:`;
   }
 
-  // Tier 2 Lookup: Scan and collect sub-themes grouped under this specific parent folder context
   const trackingMap = {};
   wordbankData.forEach(word => {
     if (getItemTheme(word) === motherThemeName) {
@@ -269,7 +290,6 @@ function openMotherThemeSubMenu(motherThemeName) {
 
   const availableSubThemes = Object.keys(trackingMap);
 
-  // Structural Back Button Navigation Control Anchor
   const backBtn = document.createElement("button");
   backBtn.style.cssText = "background: #475569; color: #ffffff; padding: 14px; border-radius: 10px; font-weight: bold; grid-column: 1 / -1;";
   backBtn.innerText = "⬅️ Back to Main Course Themes";
@@ -550,20 +570,25 @@ function loadSelectedThemes(){
 function setFilter(type){ currentFilter = type; applyFilters(); }
 function setBatchSize(size){ currentBatchSize = size; applyFilters(); }
 
-function applyFilters(){
+function applyFilters() {
   filteredWords = [...currentWords];
 
   if(currentFilter === "easy"){
-    filteredWords = filteredWords.filter(w => getStar(getPrimaryKey(w)) === "easy");
+    filteredWords = filteredWords.filter(w => getStar(getWordUniqueKey(w)) === "easy");
   } else if(currentFilter === "hard"){
-    filteredWords = filteredWords.filter(w => getStar(getPrimaryKey(w)) === "hard");
+    filteredWords = filteredWords.filter(w => getStar(getWordUniqueKey(w)) === "hard");
   } else if(currentFilter === "neutral"){
-    filteredWords = filteredWords.filter(w => getStar(getPrimaryKey(w)) === "neutral");
+    filteredWords = filteredWords.filter(w => getStar(getWordUniqueKey(w)) === "neutral");
   }
 
   if(currentBatchSize > 0){ filteredWords = filteredWords.slice(0, currentBatchSize); }
   renderTable();
   updateStats();
+  
+  if (document.getElementById("card-mode-container").style.display === "block") {
+    currentCardIndex = 0;
+    renderCardContent();
+  }
 }
 
 // =========================================================
@@ -596,7 +621,7 @@ function renderTable(){
   tbody.id = "word-table-body";
 
   filteredWords.forEach((word, index) => {
-    const wordKey = getPrimaryKey(word);
+    const wordKey = getWordUniqueKey(word);
     let starClass = "star-neutral"; let starIcon = "⚪";
 
     if(getStar(wordKey) === "easy") { starClass = "star-easy"; starIcon = "🟢"; }
@@ -676,9 +701,9 @@ function sortMatrixByColumn(columnName) {
 
 function updateStats(){
   const total = currentWords.length;
-  const easy = currentWords.filter(w => getStar(getPrimaryKey(w)) === "easy").length;
-  const hard = currentWords.filter(w => getStar(getPrimaryKey(w)) === "hard").length;
-  const neutral = currentWords.filter(w => getStar(getPrimaryKey(w)) === "neutral").length;
+  const easy = currentWords.filter(w => getStar(getWordUniqueKey(w)) === "easy").length;
+  const hard = currentWords.filter(w => getStar(getWordUniqueKey(w)) === "hard").length;
+  const neutral = currentWords.filter(w => getStar(getWordUniqueKey(w)) === "neutral").length;
 
   const html = `<span>📚 Total: ${total}</span><span>🔴 Hard: ${hard}</span><span>🟢 Easy: ${easy}</span><span>⚪ Neutral: ${neutral}</span>`;
   const statsBox = document.getElementById("stats-box"); if(statsBox) statsBox.innerHTML = html;
@@ -696,17 +721,46 @@ function updateAudioLoopSettings() {
 }
 
 // =========================================================
-// RUNTIME PLAYBACK ENGINE
+// RUNTIME PLAYBACK ENGINE WITH DYNAMIC AUDIO FILE SUPPORT
 // =========================================================
-function safeSpeak(text, lang = "de-DE") {
+function safeSpeak(text, lang = "de-DE", customAudioFile = null) {
+  if (customAudioFile && customAudioFile !== "-" && customAudioFile.trim() !== "") {
+    try {
+      if (typeof speechSynthesis !== "undefined") speechSynthesis.cancel();
+      const audio = new Audio(customAudioFile);
+      audio.play();
+      return {
+        onend: null,
+        set onerror(cb) { audio.onerror = cb; },
+        set onend(cb) { audio.onended = cb; }
+      };
+    } catch (e) {
+      console.warn("MP3 Audio resource playback failed. Falling back to synthetic Speech Synthesis API:", e);
+    }
+  }
+
   if (typeof speechSynthesis === "undefined") return null;
   try {
     speechSynthesis.cancel();
     const utter = new SpeechSynthesisUtterance(text);
     utter.lang = lang; utter.rate = speechRate || 0.8;
 
+    const voicePreference = localStorage.getItem("preferred_voice_gender") || "auto";
+
     if (systemVoices.length > 0) {
-      let chosenVoice = systemVoices.find(v => v.lang.startsWith(lang) && v.localService === true) || systemVoices.find(v => v.lang.startsWith(lang));
+      let matchingVoices = systemVoices.filter(v => v.lang.startsWith(lang));
+      let chosenVoice = null;
+
+      if (voicePreference === "male") {
+        chosenVoice = matchingVoices.find(v => v.name.toLowerCase().includes("male") || v.name.toLowerCase().includes("microsoft stefan") || v.name.toLowerCase().includes("google deutsch male"));
+      } else if (voicePreference === "female") {
+        chosenVoice = matchingVoices.find(v => v.name.toLowerCase().includes("female") || v.name.toLowerCase().includes("microsoft heda") || v.name.toLowerCase().includes("google deutsch female"));
+      }
+
+      if (!chosenVoice) {
+        chosenVoice = matchingVoices.find(v => v.localService === true) || matchingVoices[0];
+      }
+
       if (chosenVoice) utter.voice = chosenVoice;
     }
     speechSynthesis.speak(utter);
@@ -802,7 +856,7 @@ function renderArticle() {
   document.getElementById("test-content").innerHTML = `
     <div class="question-box">
       <h2>Grammatical Article Gender Test</h2><div class="word-display">${q[displayField]}</div>
-      <div class="options-grid">${options.map(o => `<button class="option-btn" onclick="checkArticle(this,'${o}','String(q.Article).trim().toLowerCase()','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>`).join("")}</div>
+      <div class="options-grid">${options.map(o => `<button class="option-btn" onclick="checkArticle(this,'${o}','${String(q.Article).trim().toLowerCase()}','${getWordUniqueKey(q).replace(/'/g, "\\'")}')">${o}</button>`).join("")}</div>
       <div class="score-box">Score: ${score}/${currentQuestion}</div><div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
     </div>`;
 }
@@ -837,9 +891,21 @@ function selectEnglish(el){
   if (matchedPairs >= currentTestWords.length) { setTimeout(finishTest, 1000); }
 }
 
+// ============================================================================
+// 🎙️ INTERNATIONAL-STANDARD VOICE TEST IMPLEMENTATION
+// ============================================================================
 function startVoiceTest() {
-  if (!voiceRecognition) { alert("Web Speech recognition API is not supported in this browser format. Use Chrome or Edge."); return; }
-  currentTest = "voice"; score = 0; currentQuestion = 0; buildTestWords(); enterTestMode(); renderVoiceQuestion();
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SpeechRecognition) { 
+    alert("Web Speech recognition API is not supported in this browser. Please practice pronunciation in Chrome or Edge."); 
+    return; 
+  }
+  currentTest = "voice"; 
+  score = 0; 
+  currentQuestion = 0; 
+  buildTestWords(); 
+  enterTestMode(); 
+  renderVoiceQuestion();
 }
 
 function renderVoiceQuestion() {
@@ -847,54 +913,152 @@ function renderVoiceQuestion() {
   if (currentQuestion >= currentTestWords.length) { finishTest(); return; }
   stopListening();
 
-  const q = currentTestWords[currentQuestion]; const qField = document.getElementById("test-question-col").value; const aField = document.getElementById("test-answer-col").value;
-  let targetQuestionText = String(q[qField] || ""); let targetAnswerText = String(q[aField] || "");
-  let questionLang = autoDetectLanguage(qField); let answerLang = autoDetectLanguage(aField);
+  const q = currentTestWords[currentQuestion]; 
+  const qField = document.getElementById("test-question-col").value; 
+  const aField = document.getElementById("test-answer-col").value;
+  
+  let targetQuestionText = String(q[qField] || ""); 
+  let targetAnswerText = String(q[aField] || "");
+  let questionLang = autoDetectLanguage(qField); 
+  let answerLang = autoDetectLanguage(aField);
   let subModeTitle = `Translate Column [${qField}] ➡️ [${aField}]`;
 
   if (q.Article && ["der","die","das"].includes(String(q.Article).toLowerCase().trim()) && aField.toLowerCase().includes("article")) {
-    targetAnswerText = String(q.Article).trim().toLowerCase(); answerLang = "de-DE"; subModeTitle = `Speak Only the Matching Article for: [ ${q[qField]} ]`;
+    targetAnswerText = String(q.Article).trim().toLowerCase(); 
+    answerLang = "de-DE"; 
+    subModeTitle = `Speak Only the Matching Article for: [ ${q[qField]} ]`;
   }
 
   document.getElementById("test-content").innerHTML = `
-    <div class="question-box voice-pulse-active" style="border: 2px solid #2a9d8f; background: #f4faf8;">
-      <h2>🗣️ Voice Interaction Loop</h2><p style="font-weight:bold; color:#2a9d8f;">${subModeTitle}</p>
-      <div class="word-display" style="font-size:28px; color:#264653; background:#fff; padding:20px; border-radius:8px; margin:15px 0;">${targetQuestionText}</div>
-      <div id="voice-indicator-box" style="padding:12px; border-radius:8px; font-weight:bold; background:#e9c46a; color:#fff;">🔊 Generating Audio Prompt...</div>
-      <div id="voice-transcript-output" style="font-weight:600; font-size:18px; color:#2a9d8f; min-height:30px; margin:10px 0;"></div>
-      <div id="voice-feedback-output"></div>
+    <div id="voice-eval-card" class="question-box voice-pulse-active" style="border: 3px solid #3b82f6; background: #fafcff; transition: all 0.3s ease;">
+      <h2>🗣️ Pronunciation Validation Test</h2>
+      <p style="font-weight:bold; color:#2563eb; margin-bottom:10px;">${subModeTitle}</p>
+      
+      <div class="word-display" style="font-size:28px; color:#1e293b; background:#fff; padding:20px; border-radius:8px; margin:15px 0; border: 1px solid #e2e8f0;">
+        ${targetQuestionText}
+      </div>
+      
+      <!-- Visual Feedback Waveform Container -->
+      <div id="voice-indicator-box" style="padding:15px; border-radius:8px; font-weight:bold; background:#3b82f6; color:#fff; transition: background-color 0.3s;">
+        🔊 Generating Voice Prompt...
+      </div>
+      
+      <div id="voice-transcript-output" style="font-weight:600; font-size:18px; color:#475569; min-height:30px; margin:15px 0; padding:10px; background:#f1f5f9; border-radius:6px;">
+        Captured Answer: <span style="color:#2563eb;">"Waiting..."</span>
+      </div>
+      
+      <div id="voice-feedback-output" style="min-height:24px; margin-top:10px;"></div>
+      
       ${getUmlautKeyboardHTML()}
+      
       <div class="score-box" style="margin-top:15px;">Progress Session Score: ${score}/${currentQuestion}</div>
       <div class="test-controls" style="margin-top:15px; display:flex; gap:10px; justify-content:center;">
-        <button onclick="safeSpeak('${targetQuestionText.replace(/'/g, "\\'")}', '${questionLang}')" class="primary-btn" style="background:#4a90e2;">🔊 Repeat Question</button><button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button>
+        <button onclick="safeSpeak('${targetQuestionText.replace(/'/g, "\\'")}', '${questionLang}', '${q.audio || q.Audio || ""}')" class="primary-btn" style="background:#3b82f6;">🔊 Replay Prompt</button>
+        <button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button>
       </div>
     </div>`;
 
-  let utterText = targetQuestionText; if (q.Article && qField.toLowerCase().includes("noun")) { utterText = q.Article + " " + targetQuestionText; }
-  let utter = safeSpeak(utterText, questionLang);
-  if (utter) {
-    utter.onend = () => triggerMicrophoneListen(targetAnswerText, answerLang); utter.onerror = () => triggerMicrophoneListen(targetAnswerText, answerLang);
-  } else { triggerMicrophoneListen(targetAnswerText, answerLang); }
+  let utterText = targetQuestionText; 
+  if (q.Article && qField.toLowerCase().includes("noun")) { 
+    utterText = q.Article + " " + targetQuestionText; 
+  }
+  
+  let utter = safeSpeak(utterText, questionLang, q.audio || q.Audio || null);
+  if (utter && utter.onend !== undefined) {
+    utter.onend = () => triggerMicrophoneListen(targetAnswerText, answerLang); 
+    utter.onerror = () => triggerMicrophoneListen(targetAnswerText, answerLang);
+  } else { 
+    // Fallback delay if it is a native Audio file or speech generation starts immediately
+    setTimeout(() => triggerMicrophoneListen(targetAnswerText, answerLang), 1000); 
+  }
 }
 
 function triggerMicrophoneListen(expectedAnswer, targetLang) {
-  if (!voiceRecognition || currentTest !== "voice") return;
-  const indicator = document.getElementById("voice-indicator-box"); if (indicator) { indicator.style.background = "#e76f51"; indicator.innerHTML = "🎙️ Listening... SPEAK ANSWER NOW!"; }
+  if (currentTest !== "voice") return;
+  
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  voiceRecognition = new SpeechRecognition();
   voiceRecognition.lang = targetLang;
-  voiceRecognition.onresult = (event) => {
-    const transcript = event.results[0][0].transcript; const outputTranscript = document.getElementById("voice-transcript-output"); if (outputTranscript) outputTranscript.innerText = `Captured String: "${transcript}"`;
-    const normalizedUser = normalizeGerman(transcript); const normalizedTarget = normalizeGerman(expectedAnswer);
-    const wordKey = getPrimaryKey(currentTestWords[currentQuestion]); const fbBox = document.getElementById("voice-feedback-output");
+  voiceRecognition.continuous = false;
+  voiceRecognition.interimResults = false;
+  voiceRecognition.maxAlternatives = 1;
 
-    if (normalizedUser === normalizedTarget || normalizedUser.includes(normalizedTarget) || normalizedTarget.includes(normalizedUser)) {
-      score++; autoUpdateStar(wordKey, true); if (fbBox) fbBox.innerHTML = `<p class="correct" style="color:white; padding:8px; border-radius:6px;">✓ Correct! Matching Result</p>`;
-    } else {
-      autoUpdateStar(wordKey, false); if (fbBox) fbBox.innerHTML = `<p class="incorrect" style="color:white; padding:8px; border-radius:6px;">❌ Incorrect! Expected: ${expectedAnswer}</p>`;
+  const card = document.getElementById("voice-eval-card");
+  const indicator = document.getElementById("voice-indicator-box"); 
+  
+  if (indicator) { 
+    indicator.style.backgroundColor = "#10b981"; 
+    indicator.innerHTML = "🎙️ LISTENING NOW... Please Speak Clear Accent"; 
+  }
+  if (card) {
+    card.className = "question-box voice-listening-ring";
+  }
+
+  voiceRecognition.onresult = (event) => {
+    const transcript = event.results[0][0].transcript; 
+    const outputTranscript = document.getElementById("voice-transcript-output"); 
+    
+    if (outputTranscript) {
+      outputTranscript.innerHTML = `Captured Answer: <span style="color:#10b981; font-weight:bold;">"${transcript}"</span>`;
     }
-    voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 1000); 
+    
+    // Heuristic Normalization Matching Engine
+    const normalizeSpeech = (text) => {
+      return String(text)
+        .toLowerCase()
+        .replace(/ae/g,"ä")
+        .replace(/oe/g,"ö")
+        .replace(/ue/g,"ü")
+        .replace(/ss/g,"ß")
+        .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?]/g,"")
+        .trim();
+    };
+
+    const normalizedUser = normalizeSpeech(transcript); 
+    const normalizedTarget = normalizeSpeech(expectedAnswer);
+    const wordKey = getWordUniqueKey(currentTestWords[currentQuestion]); 
+    const fbBox = document.getElementById("voice-feedback-output");
+
+    const exactMatch = (normalizedUser === normalizedTarget);
+    const containsMatch = (normalizedUser.includes(normalizedTarget) || normalizedTarget.includes(normalizedUser));
+
+    if (exactMatch || containsMatch) {
+      score++; 
+      autoUpdateStar(wordKey, true); 
+      if (card) card.className = "question-box voice-listening-ring";
+      if (fbBox) fbBox.innerHTML = `<p class="correct" style="color:white; padding:8px; border-radius:6px; font-weight:bold;">✓ Correct Pronunciation Detected!</p>`;
+      if (indicator) {
+        indicator.style.backgroundColor = "#10b981";
+        indicator.innerHTML = "✓ Match Validated!";
+      }
+    } else {
+      autoUpdateStar(wordKey, false); 
+      if (card) card.className = "question-box voice-error-ring";
+      if (fbBox) fbBox.innerHTML = `<p class="incorrect" style="color:white; padding:8px; border-radius:6px; font-weight:bold;">❌ Pronunciation Discrepancy! Expected: "${expectedAnswer}"</p>`;
+      if (indicator) {
+        indicator.style.backgroundColor = "#ef4444";
+        indicator.innerHTML = "❌ Discrepancy Found";
+      }
+    }
+    voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 1800); 
   };
-  voiceRecognition.onerror = () => { voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 1000); };
-  try { voiceRecognition.start(); isListening = true; } catch(e) {}
+
+  voiceRecognition.onerror = (err) => { 
+    console.warn("ASR Error capture:", err);
+    if (indicator) {
+      indicator.style.backgroundColor = "#ef4444";
+      indicator.innerHTML = "⚠️ Listening Timed Out / Microphone Error";
+    }
+    if (card) card.className = "question-box voice-error-ring";
+    voiceNextTimeout = setTimeout(() => { currentQuestion++; renderVoiceQuestion(); }, 2000); 
+  };
+  
+  try { 
+    voiceRecognition.start(); 
+    isListening = true; 
+  } catch(e) {
+    console.error("Failed to start SpeechRecognition:", e);
+  }
 }
 
 function finishTest(){
@@ -903,7 +1067,17 @@ function finishTest(){
 }
 
 function openSettingsModal(){ document.getElementById("settings-modal").style.display = "block"; }
-function saveSettings(){ speechRate = parseFloat(document.getElementById("speech-rate").value); localStorage.setItem("germanSpeechRate", speechRate); closeAllModals(); }
+
+function saveSettings() {
+  speechRate = parseFloat(document.getElementById("speech-rate").value);
+  localStorage.setItem("germanSpeechRate", speechRate);
+  
+  const genderPref = document.getElementById("voice-gender-preference").value;
+  localStorage.setItem("preferred_voice_gender", genderPref);
+  
+  closeAllModals();
+}
+
 function backToThemes(){ document.getElementById("word-table-container").style.display = "none"; document.getElementById("theme-selection-area").style.display = "block"; }
 
 const generatePlaybackQueue = function(activeRowIndex) {
@@ -923,9 +1097,25 @@ const playAllAudio = function(startIndex = 0) {
   function executeQueueLoop(pos) {
     if (!isPlayingAll || pos >= playbackOrderQueue.length) { stopAudio(); return; }
     const actualWordIndex = playbackOrderQueue[pos];
+    currentQuestion = pos; 
+    
     document.querySelectorAll("#word-table-body tr").forEach(r => r.classList.remove("playing"));
     const row = document.querySelector(`tr[data-index="${actualWordIndex}"]`);
-    if (row) { row.classList.add("playing"); row.scrollIntoView({ behavior: "smooth", block: "nearest" }); }
+    if (row) { 
+      row.classList.add("playing"); 
+      
+      // 🎯 Automated Smooth-Scrolling Viewport Center Alignment Engine
+      const tableWrapper = document.querySelector(".table-wrapper");
+      if (tableWrapper) {
+        const wrapperRect = tableWrapper.getBoundingClientRect();
+        const rowRect = row.getBoundingClientRect();
+        
+        tableWrapper.scrollTo({
+          top: (row.offsetTop - tableWrapper.offsetTop) - (wrapperRect.height / 2) + (rowRect.height / 2),
+          behavior: "smooth"
+        });
+      }
+    }
 
     const currentItem = filteredWords[actualWordIndex]; const fields = getDynamicColumns();
     let itemsToSpeak = [];
@@ -935,7 +1125,11 @@ const playAllAudio = function(startIndex = 0) {
         let textVal = currentItem[f];
         if (textVal && String(textVal).trim() !== "") {
           if (f.toLowerCase().includes("noun") && currentItem.Article && ["der","die","das"].includes(String(currentItem.Article).toLowerCase().trim())) { textVal = currentItem.Article + " " + textVal; }
-          itemsToSpeak.push({ text: String(textVal), lang: autoDetectLanguage(f) });
+          itemsToSpeak.push({ 
+            text: String(textVal), 
+            lang: autoDetectLanguage(f),
+            audio: currentItem.audio || currentItem.Audio || null 
+          });
         }
       }
     });
@@ -947,7 +1141,8 @@ const playAllAudio = function(startIndex = 0) {
         else { rowRepeatCounterCurrent = 0; executeQueueLoop((pos + 1) % playbackOrderQueue.length); }
         return;
       }
-      const segment = itemsToSpeak[chainIdx]; let utter = safeSpeak(segment.text, segment.lang);
+      const segment = itemsToSpeak[chainIdx]; 
+      let utter = safeSpeak(segment.text, segment.lang, segment.audio);
       if (utter) { utter.onend = () => speakChainIndex(chainIdx + 1); utter.onerror = () => speakChainIndex(chainIdx + 1); }
       else { speakChainIndex(chainIdx + 1); }
     }
@@ -967,7 +1162,7 @@ const renderMeanings = function() {
     <div class="question-box">
       <h2>Evaluation Quiz: ${qField} ➡️ ${aField}</h2>
       <div class="word-display" style="font-size:28px; color:#1d3557; background:#f8fafc; padding:15px; border-radius:8px;">${q[qField] || "---"}</div>
-      <div class="options-grid">${options.map(o => `<button class="option-btn" onclick="checkMeaning(this,'${o.replace(/'/g, "\\'")}','${correct.replace(/'/g, "\\'")}','${getPrimaryKey(q).replace(/'/g, "\\'")}')">${o}</button>`).join("")}</div>
+      <div class="options-grid">${options.map(o => `<button class="option-btn" onclick="checkMeaning(this,'${o.replace(/'/g, "\\'")}','${correct.replace(/'/g, "\\'")}','${getWordUniqueKey(q).replace(/'/g, "\\'")}')">${o}</button>`).join("")}</div>
       <div class="score-box">Progress Score: ${score}/${currentQuestion}</div><div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Exit Test</button></div>
     </div>`;
   safeSpeak(String(q[qField]), autoDetectLanguage(qField));
@@ -989,7 +1184,7 @@ const renderDictation = function() {
     input.focus(); setTimeout(() => { safeSpeak(targetSpelling, activeLocale); }, 300);
     input.addEventListener("keydown", (e) => {
       if (e.key === "Enter") {
-        const val = normalizeGerman(input.value); const expected = normalizeGerman(targetSpelling); const wordKey = getPrimaryKey(q);
+        const val = normalizeGerman(input.value); const expected = normalizeGerman(targetSpelling); const wordKey = getWordUniqueKey(q);
         if (val === expected) { score++; autoUpdateStar(wordKey, true); document.getElementById("dict-feedback").innerHTML = `<p class="correct">Correct!</p>`; }
         else { autoUpdateStar(wordKey, false); document.getElementById("dict-feedback").innerHTML = `<p class="incorrect">Incorrect! Was: ${targetSpelling}</p>`; }
         setTimeout(() => { currentQuestion++; renderDictation(); }, 1400);
@@ -1006,8 +1201,8 @@ const renderMatching = function() {
     <div class="question-box">
       <h2>Matching Test Block (${qField} ⬌ ${aField})</h2>
       <div class="matching-container">
-        <div class="match-column"><h3>${qField}</h3>${german.map(w => `<div class="match-item german-item" data-id="${getPrimaryKey(w)}" onclick="selectGerman(this)">${w.Article ? w.Article + " " : ""}${w[qField] || "-"}</div>`).join("")}</div>
-        <div class="match-column"><h3>${aField}</h3>${english.map(w => `<div class="match-item english-item" data-id="${getPrimaryKey(w)}" onclick="selectEnglish(this)">${w[aField] || "-"}</div>`).join("")}</div>
+        <div class="match-column"><h3>${qField}</h3>${german.map(w => `<div class="match-item german-item" data-id="${getWordUniqueKey(w)}" onclick="selectGerman(this)">${w.Article ? w.Article + " " : ""}${w[qField] || "-"}</div>`).join("")}</div>
+        <div class="match-column"><h3>${aField}</h3>${english.map(w => `<div class="match-item english-item" data-id="${getWordUniqueKey(w)}" onclick="selectEnglish(this)">${w[aField] || "-"}</div>`).join("")}</div>
       </div>
       <div class="score-box">Score: ${score}/${currentTestWords.length}</div><div class="test-controls" style="margin-top:15px;"><button onclick="exitTestMode()" class="stop-btn">🏠 Stop Test</button></div>
     </div>`;
@@ -1024,6 +1219,259 @@ function autoUpdateStar(wordKey, isCorrect) {
   if (isCorrect) { starData[wordKey] = (starData[wordKey] === "hard") ? "neutral" : "easy"; } 
   else { starData[wordKey] = "hard"; }
   localStorage.setItem("germanStarData", JSON.stringify(starData));
+}
+
+// =========================================================
+// 🔍 DYNAMIC SEARCH & INTEGRATED UMLAUT INSERTION ENGINE
+// =========================================================
+function insertUmlautToSearch(char) {
+  const input = document.getElementById("matrix-search-input");
+  if (input) {
+    input.value += char;
+    input.focus();
+    performMatrixSearch();
+  }
+}
+
+function clearMatrixSearch() {
+  const input = document.getElementById("matrix-search-input");
+  if (input) {
+    input.value = "";
+    performMatrixSearch();
+  }
+}
+
+function performMatrixSearch() {
+  const searchVal = document.getElementById("matrix-search-input").value.toLowerCase().trim();
+  
+  const normalizeText = (text) => {
+    return String(text)
+      .toLowerCase()
+      .replace(/ä/g, "a")
+      .replace(/ö/g, "o")
+      .replace(/ü/g, "u")
+      .replace(/ß/g, "ss");
+  };
+
+  const normalizedQuery = normalizeText(searchVal);
+
+  if (normalizedQuery === "") {
+    applyFilters();
+    return;
+  }
+
+  const fields = getDynamicColumns();
+  filteredWords = currentWords.filter(word => {
+    return fields.some(f => {
+      const value = String(word[f] || "").trim();
+      return normalizeText(value).includes(normalizedQuery);
+    });
+  });
+
+  renderTable();
+}
+
+// =========================================================
+// 🔍 ZOOM MODE (INTERFACE SCALING & WRAPPING TOGGLES)
+// =========================================================
+function toggleZoom(mode) {
+  const wrapper = document.querySelector(".table-wrapper");
+  if (!wrapper) return;
+  if (mode === 'out') {
+    wrapper.classList.add("zoom-out");
+  } else {
+    wrapper.classList.remove("zoom-out");
+  }
+}
+
+// =========================================================
+// 🎴 CUSTOMISABLE FLASHCARD CORE SYSTEM WITH CHOOSE INTERFACE
+// =========================================================
+function buildCardColumnSelectionPanel() {
+  const panel = document.getElementById("card-column-selectors");
+  if (!panel) return;
+  panel.innerHTML = "";
+
+  const fields = getDynamicColumns();
+  
+  // Set default configurations if not defined
+  if (selectedFrontColumns.length === 0) {
+    selectedFrontColumns = [fields[0]]; // Primary column to front
+  }
+  if (selectedBackColumns.length === 0) {
+    selectedBackColumns = [fields[1] || fields[0]]; // Secondary translation to back
+  }
+
+  fields.forEach(f => {
+    const colGroup = document.createElement("div");
+    colGroup.style.cssText = "display: flex; align-items: center; gap: 4px; background: #fff; padding: 4px 8px; border-radius: 6px; border: 1px solid #e2e8f0; font-size: 11px;";
+    
+    const isFrontChecked = selectedFrontColumns.includes(f) ? "checked" : "";
+    const isBackChecked = selectedBackColumns.includes(f) ? "checked" : "";
+
+    colGroup.innerHTML = `
+      <span style="font-weight:bold; color:#1e293b; margin-right: 4px;">${f}:</span>
+      <label style="cursor:pointer; display:flex; align-items:center; gap:2px;">
+        <input type="checkbox" data-col="${f}" class="front-card-chk" ${isFrontChecked} onchange="updateCardColumnSelection()"> F
+      </label>
+      <label style="cursor:pointer; display:flex; align-items:center; gap:2px; margin-left:4px;">
+        <input type="checkbox" data-col="${f}" class="back-card-chk" ${isBackChecked} onchange="updateCardColumnSelection()"> B
+      </label>
+    `;
+    panel.appendChild(colGroup);
+  });
+}
+
+function updateCardColumnSelection() {
+  selectedFrontColumns = [...document.querySelectorAll(".front-card-chk:checked")].map(el => el.dataset.col);
+  selectedBackColumns = [...document.querySelectorAll(".back-card-chk:checked")].map(el => el.dataset.col);
+  
+  // Prevent zero checking fallback
+  if (selectedFrontColumns.length === 0) {
+    const firstField = getDynamicColumns()[0];
+    selectedFrontColumns = [firstField];
+    const chk = document.querySelector(`.front-card-chk[data-col="${firstField}"]`);
+    if (chk) chk.checked = true;
+  }
+  if (selectedBackColumns.length === 0) {
+    const fields = getDynamicColumns();
+    const secondField = fields[1] || fields[0];
+    selectedBackColumns = [secondField];
+    const chk = document.querySelector(`.back-card-chk[data-col="${secondField}"]`);
+    if (chk) chk.checked = true;
+  }
+  
+  renderCardContent();
+}
+
+function toggleCardLayout(view) {
+  const tableWrapper = document.querySelector(".table-wrapper");
+  const cardWrapper = document.getElementById("card-mode-container");
+  
+  if (!tableWrapper || !cardWrapper) return;
+  
+  if (view === "card") {
+    tableWrapper.style.display = "none";
+    cardWrapper.style.display = "block";
+    currentCardIndex = 0;
+    isCardFlipped = false;
+    
+    // Automatically configure selected column settings
+    buildCardColumnSelectionPanel();
+    renderCardContent();
+  } else {
+    tableWrapper.style.display = "block";
+    cardWrapper.style.display = "none";
+  }
+}
+
+// =========================================================
+// 🎴 COGNITIVE HARMONY FLASHCARD RENDER SYSTEM (JS CORE PATCH)[cite: 2]
+// =========================================================
+function renderCardContent() {
+  const box = document.getElementById("flashcard-box");
+  if (!box || filteredWords.length === 0) {
+    if (box) box.innerHTML = `<h3>Empty Matrix Vocabulary Deck</h3>`;
+    return;
+  }
+  
+  const word = filteredWords[currentCardIndex];
+  const wordKey = getWordUniqueKey(word); // Safe star key remains intact[cite: 2]
+  const status = getStar(wordKey); // Safe star system remains intact[cite: 2]
+  
+  // Set badge colors
+  let badgeBg = "#64748b";
+  if (status === "easy") badgeBg = "#10b981";
+  if (status === "hard") badgeBg = "#ef4444";
+
+  let displayDataPoints = [];
+  
+  if (!isCardFlipped) {
+    // 1. FRONT CARD: Deep contrast Slate on Creamy Alabaster[cite: 3]
+    box.classList.remove("flipped-reward");
+    
+    displayDataPoints = selectedFrontColumns.map(col => {
+      let val = word[col] || "-";
+      if (col.toLowerCase().includes("noun") && word.Article && word.Article !== "-") {
+        val = `${word.Article} ${val}`;
+      }
+      return `
+        <div style="margin-top: 6px;">
+          <div class="card-datapoint-label">${col}</div>
+          <div class="card-datapoint-value-front">${val}</div>
+        </div>`;
+    });
+
+    box.innerHTML = `
+      <span class="card-status-badge" style="background: ${badgeBg}; color: white;">${status}</span>
+      <div class="card-face-title" style="color: #3b82f6;">📖 Front View</div>
+      <div style="display:flex; flex-direction:column; gap:10px; width:100%;">${displayDataPoints.join("")}</div>
+      <p style="font-size: 11px; color: #94a3b8; margin-top: 24px; font-weight: 500; letter-spacing: 0.2px;">💡 Tap card space to flip & reveal</p>
+    `;
+  } else {
+    // 2. BACK CARD: Satisfying Emerald on Sage Mint[cite: 3]
+    box.classList.add("flipped-reward");
+    
+    displayDataPoints = selectedBackColumns.map(col => {
+      let val = word[col] || "-";
+      if (col.toLowerCase().includes("noun") && word.Article && word.Article !== "-") {
+        val = `${word.Article} ${val}`;
+      }
+      return `
+        <div style="margin-top: 6px;">
+          <div class="card-datapoint-label">${col}</div>
+          <div class="card-datapoint-value-back">${val}</div>
+        </div>`;
+    });
+
+    box.innerHTML = `
+      <span class="card-status-badge" style="background: ${badgeBg}; color: white;">${status}</span>
+      <div class="card-face-title" style="color: #10b981;">✅ Translation Revealed</div>
+      <div style="display:flex; flex-direction:column; gap:10px; width:100%;">${displayDataPoints.join("")}</div>
+      <p style="font-size: 11px; color: #059669; margin-top: 24px; font-weight: 600; letter-spacing: 0.2px;">🔄 Tap card space to flip back</p>
+    `;
+  }
+  
+  box.onclick = flipCard;
+}
+function flipCard() {
+  isCardFlipped = !isCardFlipped;
+  renderCardContent();
+  playActiveCardFaceAudio();
+}
+
+function playActiveCardFaceAudio() {
+  if (filteredWords.length === 0) return;
+  const word = filteredWords[currentCardIndex];
+  
+  // Decide which face columns to speak out loud
+  const columnsToSpeak = isCardFlipped ? selectedBackColumns : selectedFrontColumns;
+  
+  columnsToSpeak.forEach(col => {
+    let speakStr = word[col];
+    if (speakStr && String(speakStr).trim() !== "") {
+      if (col.toLowerCase().includes("noun") && word.Article && word.Article !== "-") {
+        speakStr = `${word.Article} ${speakStr}`;
+      }
+      safeSpeak(speakStr, autoDetectLanguage(col), word.audio || word.Audio || null);
+    }
+  });
+}
+
+function nextCard() {
+  if (filteredWords.length === 0) return;
+  currentCardIndex = (currentCardIndex + 1) % filteredWords.length;
+  isCardFlipped = false;
+  renderCardContent();
+  playActiveCardFaceAudio();
+}
+
+function prevCard() {
+  if (filteredWords.length === 0) return;
+  currentCardIndex = (currentCardIndex - 1 + filteredWords.length) % filteredWords.length;
+  isCardFlipped = false;
+  renderCardContent();
+  playActiveCardFaceAudio();
 }
 
 document.addEventListener("DOMContentLoaded", () => {
