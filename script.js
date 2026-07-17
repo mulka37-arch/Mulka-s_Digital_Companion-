@@ -774,6 +774,7 @@ function stopAudio(){
   document.querySelectorAll("tr").forEach(r => r.classList.remove("playing"));
 }
 
+// Ensures speech recognition monitors turn off cleanly when resetting
 function stopListening() { isListening = false; if (voiceRecognition) { try { voiceRecognition.stop(); } catch(e) {} } }
 
 function getUmlautKeyboardHTML() {
@@ -1104,14 +1105,15 @@ const playAllAudio = function(startIndex = 0) {
     if (row) { 
       row.classList.add("playing"); 
       
-      // 🎯 Automated Smooth-Scrolling Viewport Center Alignment Engine
+      // 🎯 Re-engineered Viewport Scrolling Engine (Ensures row sits centered on mobile)
       const tableWrapper = document.querySelector(".table-wrapper");
       if (tableWrapper) {
-        const wrapperRect = tableWrapper.getBoundingClientRect();
-        const rowRect = row.getBoundingClientRect();
+        const rowTop = row.offsetTop;
+        const rowHeight = row.offsetHeight;
+        const wrapperHeight = tableWrapper.clientHeight;
         
         tableWrapper.scrollTo({
-          top: (row.offsetTop - tableWrapper.offsetTop) - (wrapperRect.height / 2) + (rowRect.height / 2),
+          top: rowTop - (wrapperHeight / 2) + (rowHeight / 2),
           behavior: "smooth"
         });
       }
@@ -1434,6 +1436,7 @@ function renderCardContent() {
   
   box.onclick = flipCard;
 }
+
 function flipCard() {
   isCardFlipped = !isCardFlipped;
   renderCardContent();

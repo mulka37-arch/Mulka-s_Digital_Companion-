@@ -199,15 +199,25 @@ td {
   border-bottom: 1px solid #e2e8f0;
   white-space: nowrap;
   font-size: 13px;
+  transition: background-color 0.2s, color 0.2s;
 }
 
 tr:hover { background: #f8fafc; }
 .clickable-row { cursor: pointer; }
 
+/* 🌟 Premium High-Contrast Highlight for Currently Played Row */
 .playing {
-  background: #eff6ff !important;
-  color: #1d4ed8;
-  font-weight: 600;
+  background: linear-gradient(90deg, #1d4ed8, #2563eb) !important;
+  box-shadow: 0 4px 10px rgba(29, 78, 216, 0.25);
+  transform: scale(1.01);
+  z-index: 5;
+  position: relative;
+}
+
+.playing td {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  border-bottom-color: transparent !important;
 }
 
 .star-btn { font-size: 16px; cursor: pointer; user-select: none; padding: 2px; }
