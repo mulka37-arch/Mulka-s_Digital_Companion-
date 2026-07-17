@@ -1101,19 +1101,23 @@ const playAllAudio = function(startIndex = 0) {
     currentQuestion = pos; 
     
     document.querySelectorAll("#word-table-body tr").forEach(r => r.classList.remove("playing"));
-    const row = document.querySelector(`tr[data-index="${actualWordIndex}"]`);
+   const row = document.querySelector(`tr[data-index="${actualWordIndex}"]`);
     if (row) { 
       row.classList.add("playing"); 
       
-      // 🎯 Re-engineered Viewport Scrolling Engine (Ensures row sits centered on mobile)
+      // 🎯 Bulletproof Screen-Coordinate Center Alignment Engine
       const tableWrapper = document.querySelector(".table-wrapper");
       if (tableWrapper) {
-        const rowTop = row.offsetTop;
-        const rowHeight = row.offsetHeight;
-        const wrapperHeight = tableWrapper.clientHeight;
+        // Get physical bounding layout positions on the screen
+        const wrapperRect = tableWrapper.getBoundingClientRect();
+        const rowRect = row.getBoundingClientRect();
         
+        // Calculate the row's exact relative offset inside the wrapper independent of offsetParent bugs
+        const exactRowTopInsideWrapper = tableWrapper.scrollTop + (rowRect.top - wrapperRect.top);
+        
+        // Target scroll destination (centers the row vertically within the container)
         tableWrapper.scrollTo({
-          top: rowTop - (wrapperHeight / 2) + (rowHeight / 2),
+          top: exactRowTopInsideWrapper - (wrapperRect.height / 2) + (rowRect.height / 2),
           behavior: "smooth"
         });
       }

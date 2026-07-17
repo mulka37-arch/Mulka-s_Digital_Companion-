@@ -157,6 +157,7 @@ button:hover {
 
 .table-wrapper {
   overflow-x: auto;
+  overflow-y: auto !important; /* 🌟 FIX: Forces vertical scrolling context internally */
   margin-top: 15px;
   max-height: 55vh;
   border: 1px solid #e2e8f0;
@@ -165,7 +166,6 @@ button:hover {
   -webkit-overflow-scrolling: touch;
   transition: all 0.25s ease-in-out;
 }
-
 /* 🔍 Zoom Styles: Seamless scaling without breaking touch targets */
 .table-wrapper.zoom-out th, 
 .table-wrapper.zoom-out td {
