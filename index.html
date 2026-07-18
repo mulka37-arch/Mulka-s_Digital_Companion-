@@ -5,56 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <title>Agnostic Dynamic Vocabulary Matrix Learner Pro</title>
   
-  <link rel="stylesheet" href="style.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-</head>
-<body>
-
-  <header class="app-header">
-    <h1>🌍 Multilingual Vocabulary Matrix Pro</h1>
-  </header>
-
-  <section class="main-buttons" id="main-buttons">
-    <button id="wordbank-btn">📚 WORDBANK</button>
-    <button id="mindmaps-btn" style="background: #d97706; color: white;">🧠 MINDMAPS</button>
-    <button id="testbank-btn">🔬 TESTBANK</button>
-  </section>
-
-  <section id="active-test-area"></section>
-
-  <div id="wordbank-modal" class="modal">
-    <div class="modal-content large-modal">
-      <div class="top-bar">
-        <h2>📚 Wordbank Engine</h2>
-        <div class="top-actions">
-          <button id="close-wordbank" class="close-btn">✖</button>
-        </div>
-      </div>
-
-      <div id="theme-selection-area">
-        <h3>Select Categories / Themes</h3>
-        <div class="control-actions-wrapper">
-          <button id="show-words-btn" class="primary-btn">Show Selected Themes</button>
-          <div class="file-load-panel">
-            <label>📂 Load External Vocabulary Matrix:</label>
-            <input type="file" id="vocab-file-picker" accept=".json" />
-          </div>
-        </div>
-        <div class="theme-scroll-box">
-          <div id="theme-buttons" class="theme-grid"></div>
-        </div>
-      </div>
-
-      <div id="word-table-container" style="display:none;">
-        <div class="table-header">
-          <h3 id="theme-title">Selected Themes</h3>
-          <div id="stats-box" class="stats-box"></div>
-        </div>
-
-        <!-- 🔎 Live Search Panel with Umlauts -->
-        <div class="search-panel" style="background: #f1f5f9; padding: 12px; border-radius: 12px; margin-bottom: 12px; margin-top: 10px;">
-          <input type="text" id="matrix-search-input" onkeyup="performMatrixSearch()" placeholder="🔍 Quick search words/translations..." style="margin-bottom: 8px; width:100%; border:1px solid #cbd5e1; text-align:left; padding: 10px; border-radius: 8px;">
-          <div class="umlaut-buttons" style="justify-content: flex-start; gap: 4px; margin-top: 4px;">
             <span style="font-size: 11px; font-weight: bold; align-self: center; color: #475569; margin-right: 5px;">Umlauts:</span>
             <button type="button" onclick="insertUmlautToSearch('ä')" style="background: #6d597a; color: white; min-width: 34px; height: 34px; padding: 0; font-size:13px; line-height:34px;">ä</button>
             <button type="button" onclick="insertUmlautToSearch('ö')" style="background: #6d597a; color: white; min-width: 34px; height: 34px; padding: 0; font-size:13px; line-height:34px;">ö</button>
